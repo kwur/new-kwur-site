@@ -1,0 +1,22 @@
+---
+id: 108
+title: shame on you, spade cooley/tales from the sleazy underbelly of the golden age of western swing/country music in los angeles
+date: 2007-12-17T06:23:00+00:00
+author: Admin
+layout: post
+guid: http://kwur.com/?p=108
+permalink: /shame-on-you-spade-cooleytales-from-the-sleazy-underbelly-of-the-golden-age-of-western-swingcountry-music-in-los-angeles/
+blogger_blog:
+  - blog.kwur.com
+blogger_author:
+  - ZMhttp://www.blogger.com/profile/11564415522042144240noreply@blogger.com
+blogger_permalink:
+  - /2007/12/shame-on-you-spade-cooleytales-from.html
+categories:
+  - Uncategorized
+---
+<div class="pf-content">
+  <p>
+    <br />Spade Cooley would have been 97 today, had he not died some years ago of a heart attack, backstage during intermission of his famous (final) governor reagan approved, pre-prison parole concert. <br />A little, half-indian, classically-trained violinist from Oklahoma, Cooley was probably one of the most bizarre and megalomaniacal C&W stars ever, this during the era when the W in countrynwestern still meant something&#8211;he the self-proclaimed King of Western Swing (though the general consensus of history would later crown Bob Wills with that title).<br />Spade first entered the western bizniss as a Roy Rogers stand-in but gained fame (and notoriety) for his swing band &#8211; a hit of the then-hip Santa Monica Pier clubs. Far slicker than the hard, jazzy, honky tonk-influenced western swing of the esteemed Mr. Wills, Cooley&#8217;s true talents (along with his own top-notch fiddlin&#8217;) lay in his orchestration and arrangements, with a penchant for fairly eclectic takes on standards (or soon-to-be standards).<br />This somewhat bizarre clip (I wonder what it&#8217;s from, besides the obvious answer of TCM) I think somewhat illustrates that, showcasing a famous incarnation of his band(members rotated fairly often, given how quick Spade was to fire on a whim), with Tex Williams singing around the campfire and some really, really, really intense yodeling from a gal whose name I can&#8217;t recall (check the comments). The last number demonstrates his eclecticism expertly with an expanded band, replete with a cowboy harpist (not blues harp, hon, he got an orchestral harpist), two string basses, a jazz drummer with a fuller kit than Wills&#8217; Texas Playboy for sure and like a buttload of other stuff too. <br />Although it&#8217;s hip to equate classic country with a bare-bones approach these days, this is clearly not always the case, and Spade&#8217;s band exemplifies that fact. Too Hollywood for some, but I dig it. <br />Anyway, as Cooley&#8217;s arrangements got increasingly baroque and his alcoholism worsened, the Western Swing trend just happened to die down and Spade was not gonna go quietly. Bizarre comeback attempts like a new all-female group and a Western theme park (this just after Disneyland was a big success) drained his money and it became difficult for him to maintain his rockstar lifestyle (he kept a mansion to himself and his groupies and housed his wife and daughter in a secluded rural ranch, forbidding them to leave the property). <br />Becoming increasingly and more bizarrely jealous of his wife and convinced that she was involved in a sex cult along with his two business partners in the failed theme park bid&#8211;he spot their limp-wrists miles away, he claimed&#8211;Spade became violent, especially when he caught word that his wife had confessed to a galpal a decades-old, brief affair with old chum Roy Rogers (though Rogers was apparently confused to hear this and many suspect she invented it out of guilt, weary of Spade&#8217;s accusations).<br />So he beats the shit out of her and stomps her to death with his cowboy boots in front of their fourteen year old daughter. <br />His questionable and confusing behavior (he was clearly out of his mind) during the trial, I think, insured against a death sentence, and he almost got out of his life sentence after a couple decades on good behavior, instead dying of a heart attack at the pre-parole announcement concert the state had awarded him the opportunity of performing. The whole sordid affair aside, he played a mean fiddle and although the scandal tainted his legacy, no western swing fan could deny his place in the history of that tradition.<br />Happy Birthday, Spade!
+  </p>
+</div>
