@@ -1,17 +1,11 @@
 ---
 id: 609
-title: P0p0ut Stream
-date: 2015-10-08T13:34:14+00:00
+title: Stream
+date: 2015-10-08 13:34:14 +0000
 author: Hatmaster
 layout: page
 guid: http://kwur.com/
 ---
-<div class="pf-content">
-  <p>
-    <img src="/wp-content/uploads/2010/09/feels-good-man.jpg" alt="FeelsGOood" />
-  </p>
-  
-  <p>
-    <br /> <audio autoplay controls src="http://kwurmail.wustl.edu:8000/kwur.ogg"></audio>
-  </p>
-</div>
+<iframe src="[https://mixlr.com/users/4072220/embed](https://mixlr.com/users/4072220/embed "https://mixlr.com/users/4072220/embed")" scrolling="no" frameborder="no" marginheight="0" marginwidth="0"></iframe>
+
+\[Chat with our DJ's live on air!\](http://mixlr.com/kwur-903)
