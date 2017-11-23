@@ -54,8 +54,8 @@ cloudfront_wildcard_invalidation: true
 
 # concurrency_level: 5
 
-# redirects:
-#   index.php: /
+redirects:
+  admin: http://ethanjayn.es
 #   about.php: about.html
 #   music-files/promo.mp4: http://www.youtube.com/watch?v=dQw4w9WgXcQ
 
