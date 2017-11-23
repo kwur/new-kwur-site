@@ -1,7 +1,7 @@
 ---
 id: 2031
 title: Weekly Top Plays
-date: 2015-04-06T23:51:51+00:00
+date: 2015-04-06 23:51:51 +0000
 author: Hatmaster
 layout: page
 guid: http://kwur.com/?page_id=2031
