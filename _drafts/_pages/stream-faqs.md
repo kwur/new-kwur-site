@@ -1,7 +1,7 @@
 ---
 id: 572
 title: STREAM FAQS
-date: 2010-09-03T18:30:52+00:00
+date: 2010-09-03 18:30:52 +0000
 author: Admin
 layout: page
 guid: http://kwur.com/
