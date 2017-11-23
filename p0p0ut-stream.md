@@ -8,4 +8,4 @@ guid: http://kwur.com/
 ---
 <iframe src="https://mixlr.com/users/4072220/embed" scrolling="no" frameborder="no" marginheight="0" marginwidth="0"></iframe>
 
-[Chat with our DJ's live on air!\](http://mixlr.com/kwur-903)
+[Chat with our DJ's live on air!](http://mixlr.com/kwur-903)
