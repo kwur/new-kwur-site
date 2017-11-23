@@ -1,7 +1,7 @@
 ---
 id: 857
 title: Alumni Letter
-date: 2010-12-01T19:49:55+00:00
+date: 2010-12-01 19:49:55 +0000
 author: Moondog
 layout: page
 guid: http://kwur.com/
