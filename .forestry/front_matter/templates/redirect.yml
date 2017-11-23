@@ -1,4 +1,6 @@
 ---
+pages:
+- stack-sessions.md
 hide_body: false
 fields:
 - type: text

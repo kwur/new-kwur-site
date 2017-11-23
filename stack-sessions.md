@@ -1,10 +1,11 @@
 ---
 id: 633
 title: Stack Sessions
-date: 2010-09-24T19:00:47+00:00
+date: 2010-09-24 19:00:47 +0000
 author: Moondog
 layout: page
 guid: http://kwur.com/
+redirect_to: http://kwur.bandcamp.com/
 ---
 <div class="pf-content">
   <p>
