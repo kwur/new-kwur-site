@@ -1,7 +1,7 @@
 ---
 id: 2
 title: About
-date: 2010-09-02T16:59:12+00:00
+date: 2010-09-02 16:59:12 +0000
 author: Admin
 layout: page
 guid: http://kwur.com/?page_id=2
@@ -26,7 +26,10 @@ guid: http://kwur.com/?page_id=2
       </td>
       
       <p>
-        <!--<em>The Rolling Stone College Guide</em>, 2005</span>--></td> </tr> </tbody> 
-        
         <td width="42%">
-          <span style="font-family: Arial,Helvetica,sans-serif; font-size: small;"><!--<a href="../Images/about/rsreview.jpg">KWUR Review </a>--></p> </table> </div>
+        <em>The Rolling Stone College Guide</em>, 2005</br>
+        <span style="font-family: Arial,Helvetica,sans-serif; font-size: small;"><!--<a href="../Images/about/rsreview.jpg">KWUR Review </a>--></p> 
+        </td>
+       </tr
+      </table> 
+     </div>
