@@ -24,7 +24,7 @@ guid: http://kwur.com/?page_id=2
                 Best Radio Station of 2003</a><br>
                 <em>Riverfront Times</em>, 2003<br>
                 </font></td>
-              <td width="42%"><font size="2" face="Arial, Helvetica, sans-serif"><a href="Images/about/rsreview.jpg">KWUR 
+              <td width="42%"><font size="2" face="Arial, Helvetica, sans-serif"><a href="/assets/img/rsreview.jpg">KWUR 
                 Review </a><br>
                 <em>The Rolling Stone College Guide</em>, 2005</font></td>
             </tr>
