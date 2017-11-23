@@ -25,6 +25,8 @@ GEM
       sinatra-contrib (~> 1.4)
     jekyll-feed (0.9.2)
       jekyll (~> 3.3)
+    jekyll-redirect-from (0.12.1)
+      jekyll (~> 3.3)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
     jekyll-watch (1.5.0)
@@ -80,10 +82,14 @@ DEPENDENCIES
   jekyll (~> 3.6.2)
   jekyll-admin
   jekyll-feed (~> 0.6)
+  jekyll-redirect-from
   puma
   rack-jekyll
   rake
   tzinfo-data
+
+RUBY VERSION
+   ruby 2.4.2p198
 
 BUNDLED WITH
    1.16.0
