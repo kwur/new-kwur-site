@@ -1,7 +1,7 @@
 ---
 id: 1018
 title: KWUR Week 2015
-date: 2011-02-01T02:29:20+00:00
+date: 2011-02-01 02:29:20 +0000
 author: Admin
 layout: page
 guid: http://kwur.com/
