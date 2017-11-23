@@ -1,0 +1,9 @@
+---
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: text
+  name: redirect_to
+  label: redirect_to
