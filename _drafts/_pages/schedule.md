@@ -1,7 +1,7 @@
 ---
 id: 561
 title: Schedule
-date: 2015-09-24T19:33:46+00:00
+date: 2015-09-24 19:33:46 +0000
 author: Admin
 layout: page
 guid: http://kwur.com/
