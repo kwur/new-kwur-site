@@ -1,6 +1,7 @@
 ---
 pages:
 - stack-sessions.md
+- _posts/test-post-bro.md
 hide_body: false
 fields:
 - type: text
