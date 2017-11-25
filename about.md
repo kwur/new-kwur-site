@@ -4,6 +4,7 @@ title: About
 date: 2010-09-02 16:59:12 +0000
 author: Admin
 layout: page
+permalink: /about/
 guid: http://kwur.com/?page_id=2
 ---
 <div class="pf-content">

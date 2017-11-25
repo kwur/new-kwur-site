@@ -4,6 +4,7 @@ title: Contact
 date: 2010-10-08T18:58:23+00:00
 author: Admin
 layout: page
+permalink: /contact/
 guid: http://kwur.com/
 ---
 <div class="pf-content">

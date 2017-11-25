@@ -4,6 +4,7 @@ title: Get Involved
 date: 2010-09-02T22:18:25+00:00
 author: Admin
 layout: page
+permalink: /get-involved/
 guid: http://kwur.com/
 ---
 <div class="pf-content">

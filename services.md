@@ -4,6 +4,7 @@ title: Services
 date: 2010-09-02 22:38:47 +0000
 author: Admin
 layout: page
+permalink: /services/
 guid: http://kwur.com/
 ---
 <div class="pf-content">
