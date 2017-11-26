@@ -12,7 +12,7 @@
 
       <div class="header-img">
         <img src="/assets/img/header-photo.jpg" alt="kwur-station">
-        <a class="listen-in">Listen in.</a>
+        <a class="listen-in" href="/stream/">Listen in.</a>
       </div>
 
 
@@ -23,7 +23,7 @@
           <h1 class="page-heading">Blog</h1>
 
           <ul class="post-list">
-            {% for post in site.posts %}
+            {% for post in paginator.posts %}
               <li>
                 {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
                 <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -35,10 +35,8 @@
             {% endfor %}
           </ul>
 
-          <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-
             <!-- Pagination links -->
-        <!--   <div class="pagination">
+          <div class="pagination">
             {% if paginator.previous_page %}
               <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
             {% endif %}
@@ -46,7 +44,9 @@
             {% if paginator.next_page %}
               <a href="{{ paginator.next_page_path }}" class="next">Next</a>
             {% endif %}
-          </div> -->
+          </div>
+
+          <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 
         </div>
       </main>
