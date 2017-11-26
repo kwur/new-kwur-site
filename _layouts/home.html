@@ -1,37 +1,71 @@
----
-layout: default
----
 
-<div class="home"> 
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-  <h1 class="page-heading">Posts</h1>
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="home"> 
+
+
+      <div class="header-img">
+        <img src="/assets/img/header-photo.jpg" alt="kwur-station">
+      </div>
+      <div class="overlay-img"></div>
+      <a class="listen-in">Listen in.</a>
+
+
+
+      <main class="page-content home" aria-label="Content">
+        <div class="wrapper">
+
+          <h1 class="page-heading">Blog</h1>
+
+          <ul class="post-list">
+            {% for post in site.posts %}
+              <li>
+                {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+                <span class="post-meta">{{ post.date | date: date_format }}</span>
+
+                <h2>
+                  <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+                </h2>
+              </li>
+            {% endfor %}
+          </ul>
+
+          <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+
+            <!-- Pagination links -->
+        <!--   <div class="pagination">
+            {% if paginator.previous_page %}
+              <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+            {% endif %}
+            <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+            {% if paginator.next_page %}
+              <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+            {% endif %}
+          </div> -->
+
+        </div>
+      </main>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
+
   
-  {{ content }}
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+  
 
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 
-  <!--   Pagination links
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-    {% endif %}
-    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-    {% endif %}
-  </div> -->
+    
 
-</div>
+

@@ -178,6 +178,15 @@ pre {
     padding-left: $spacing-unit / 2;
   }
 }
+.header {
+  max-width: 100%;
+  @include media-query($on-laptop) {
+    max-width: 100%;
+    padding-right: $spacing-unit / 2;
+    padding-left: $spacing-unit / 2;
+  }
+  vertical-align: middle;
+}
 
 
 

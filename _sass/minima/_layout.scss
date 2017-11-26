@@ -2,32 +2,28 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $temp-background-color;
-  border-bottom: 1px solid $grey-color-light;
-  min-height: $spacing-unit * 1.865;
+  min-height: $header-unit;
+  min-width: 100%;
+  background-color: #000;
 
   // Positioning context for the mobile navigation icon
-  position: relative;
+  position: fixed;
+  z-index: 100;
+
+  img {
+    height: $spacing-unit;
+  }
 }
 
 .site-title {
-  @include relative-font-size(1.625);
-  font-weight: 300;
-  line-height: $base-line-height * $base-font-size * 2.25;
-  letter-spacing: -1px;
-  margin-bottom: 0;
   float: left;
-
-  &,
-  &:visited {
-    color: $grey-color-dark;
-  }
+  padding-top: ($header-unit - $spacing-unit) / 2;
 }
 
 .site-nav {
   display: block;
-  text-align: center;
-  line-height: $base-line-height * $base-font-size * 2.25;
+  float: right;
+  line-height: $header-unit;
 
   .nav-trigger {
       display: none;
@@ -38,7 +34,7 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: $header-text-color;
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
@@ -177,11 +173,16 @@
  * Page content
  */
 .page-content {
-  padding: $spacing-unit 0;
+  padding: $header-unit;
+  padding-top: $header-unit * 1.5;
+}
+.page-content.home {
+  padding-top: $header-unit * .5;
 }
 
 .page-heading {
-  @include relative-font-size(1.25);
+  @include relative-font-size(2.5);
+  font-weight: $base-font-heavy;
 }
 
 .post-list {
@@ -204,6 +205,46 @@
 }
 
 
+.header-img {
+  height: 600px;
+  width: auto;
+  overflow: hidden;
+  position: relative;
+}
+
+.header-img > img {
+  min-width: auto;
+  min-height: 100%;
+}
+
+.overlay-img {
+  top: 0;
+  height: 600px;
+  width: 100%;
+  position: absolute;
+  background-color: #000;
+  opacity: .5;
+}
+
+.listen-in {
+  @include relative-font-size(5.5);
+  font-weight: $base-font-heavy;
+  color: #fff;
+  text-decoration: none;
+
+  top: 50%;
+  position: absolute;
+  right: 50%;
+  transform: translateX(50%) translateY(-130%);
+
+  @include media-query($on-palm) {
+    @include relative-font-size(2.25);
+  }
+}
+.listen-in:hover { color: #fff; }
+.listen-in:visited { color: #fff; }
+.listen-in:active { color: #fff; }
+
 
 /**
  * Posts
@@ -213,7 +254,7 @@
 }
 
 .post-title {
-  @include relative-font-size(2.625);
+  @include relative-font-size(2);
   letter-spacing: -1px;
   line-height: 1;
 
