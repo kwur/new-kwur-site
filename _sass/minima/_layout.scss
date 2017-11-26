@@ -15,6 +15,12 @@
   }
 }
 
+.buffer {
+  min-height: $header-unit;
+  min-width: 100%;
+  position: relative;
+}
+
 .site-title {
   float: left;
   padding-top: ($header-unit - $spacing-unit) / 2;
@@ -34,7 +40,7 @@
   }
 
   .page-link {
-    color: $header-text-color;
+    color: #fff;
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
@@ -71,7 +77,7 @@
       text-align: center;
 
       > svg path {
-        fill: $grey-color-dark;
+        fill: #000;
       }
     }
 
@@ -88,6 +94,7 @@
     .page-link {
       display: block;
       padding: 5px 10px;
+      color: #000;
 
       &:not(:last-child) {
         margin-right: 0;
@@ -173,7 +180,7 @@
  * Page content
  */
 .page-content {
-  padding: $header-unit;
+  padding: $header-unit * .5;
   padding-top: $header-unit * 1.5;
 }
 .page-content.home {
@@ -206,28 +213,20 @@
 
 
 .header-img {
-  height: 600px;
+  height: 60vh;
   width: auto;
   overflow: hidden;
   position: relative;
 }
 
 .header-img > img {
-  min-width: auto;
-  min-height: 100%;
-}
-
-.overlay-img {
-  top: 0;
-  height: 600px;
-  width: 100%;
-  position: absolute;
-  background-color: #000;
-  opacity: .5;
+  min-width: $on-laptop;
+  filter: brightness(50%);
+  min-height: 50vh;
 }
 
 .listen-in {
-  @include relative-font-size(5.5);
+  @include relative-font-size(4.9);
   font-weight: $base-font-heavy;
   color: #fff;
   text-decoration: none;
@@ -235,7 +234,7 @@
   top: 50%;
   position: absolute;
   right: 50%;
-  transform: translateX(50%) translateY(-130%);
+  transform: translateX(50%) translateY(-50%);
 
   @include media-query($on-palm) {
     @include relative-font-size(2.25);
