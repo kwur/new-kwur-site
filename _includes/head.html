@@ -3,8 +3,18 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <meta name="author" content="Ethan Jaynes">
+  <meta name="keywords" content="kwur 90.3fm college radio st louis missouri music local">
+  <link rel="icon" href="/assets/img/logo-circle.png">
+
+  <meta property="og:title" content="{{ site.title | escape }}" />
+  <!-- <meta property="og:url" content="http://PUNKFORPOWER.COM" /> -->
+  <!-- OPTIONAL description. 2-4 sentences. -->
+  <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}" />
+  <!-- Image for article. Facebook suggests at least 1200 x 630. -->
+  <meta property="og:image" content="/assets/img/logo-circle.png" />
 
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
