@@ -3,3 +3,5 @@ _site
 .jekyll-metadata
 _config.yml
 s3_website.yml
+firebase/functions/config.js
+posts_backup
