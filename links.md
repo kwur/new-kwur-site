@@ -36,7 +36,7 @@ guid: http://kwur.com/
     &nbsp;
   </p>
   
-  <table>
+  <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <td>
         Mail a check to:&nbsp;
