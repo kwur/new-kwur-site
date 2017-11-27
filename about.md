@@ -13,15 +13,15 @@ guid: http://kwur.com/?page_id=2
   </p>
   
   <p>
-    <img alt="" height="73" src="../Images/about/KWUR.jpg" width="550" />
+    <img alt="" height="73" src="/assets/img/station.jpg" width="550" />
   </p>
   
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
             <tr> 
-              <td width="23%"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><a href="http://www.studlife.com/media/paper337/news/2003/09/29/News/Kwur-Best.In.City-506651.shtml" target="_blank">KWUR 
+              <td width="23%"><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://www.studlife.com/archives/News/2003/09/29/KWURbestincity/" target="_blank">KWUR 
                 Best In City</a><br>
                 <em>Student Life</em>, 2003</font></td>
-              <td width="35%"><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://www.riverfronttimes.com/bestof/award.php?award=31233" target="_blank">RFT 
+              <td width="35%"><font size="2" face="Arial, Helvetica, sans-serif"><a href="https://www.riverfronttimes.com/bestof/2003/award/best-radio-station-31233/" target="_blank">RFT 
                 Best Radio Station of 2003</a><br>
                 <em>Riverfront Times</em>, 2003<br>
                 </font></td>
