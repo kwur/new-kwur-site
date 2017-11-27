@@ -1,10 +1,10 @@
 ---
 id: 551
 title: Get Involved
-date: 2010-09-02T22:18:25+00:00
+date: 2010-09-02 22:18:25 +0000
 author: Admin
 layout: page
-permalink: /get-involved/
+permalink: "/get-involved/"
 guid: http://kwur.com/
 ---
 <div class="pf-content">
@@ -36,7 +36,7 @@ guid: http://kwur.com/
     &nbsp;
   </p>
   
-  <table border="1" cellpadding="1" cellspacing="1">
+  <table>
     <tr>
       <td>
         Mail a check to:&nbsp;
