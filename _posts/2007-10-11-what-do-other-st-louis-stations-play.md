@@ -17,6 +17,6 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    KWUR&#8217;S #1 record this week (Mum &#8211; Go Go Smear the Poison Ivy): did not chart at KDHX, #10 at KSLU<br />KDHX&#8217;s #1 (Sharon Jones and the Dap-Kings &#8211; 100 Days, 100 Nights): #17 at KWUR, did not chart at KSLU<br />KSLU&#8217;s #1 (Jens Lekman &#8211; Night Falls Over Kortedala): #5 at KWUR, #9 at KDHX
+    KWUR’S #1 record this week (Mum – Go Go Smear the Poison Ivy): did not chart at KDHX, #10 at KSLU<br />KDHX’s #1 (Sharon Jones and the Dap-Kings – 100 Days, 100 Nights): #17 at KWUR, did not chart at KSLU<br />KSLU’s #1 (Jens Lekman – Night Falls Over Kortedala): #5 at KWUR, #9 at KDHX
   </p>
 </div>

@@ -1,6 +1,6 @@
 ---
 id: 215
-title: 'Subversive Cinema: Scott Bartlett&#8217;s OffOn'
+title: 'Subversive Cinema: Scott Bartlett’s OffOn'
 date: 2008-05-31T15:57:00+00:00
 author: Klax
 layout: post
@@ -24,11 +24,11 @@ categories:
   </p>
   
   <p>
-    &#8220;OFFON is so striking a work, so obviously a landmark, that it has been acquired by virtually every major film art collection in America, from the Museum of Modern Art to the Smithsonian Institute.&#8221; &#8211; Sheldon Renan, Curator, Pacific Film Archive
+    “OFFON is so striking a work, so obviously a landmark, that it has been acquired by virtually every major film art collection in America, from the Museum of Modern Art to the Smithsonian Institute.” – Sheldon Renan, Curator, Pacific Film Archive
   </p>
   
   <p>
-    Unfortunatley, YouTube&#8217;s low-quality compression destroys much of the brilliance of the film. A nice DVD version can be found on <span class="heading">&#8220;<a href="http://www.amazon.com/exec/obidos/ASIN/B0007WFXYO/nationalfilmpr04">Treasures From American Film Archives <i>Encore Edition</i></a></span>&#8220;.
+    Unfortunatley, YouTube’s low-quality compression destroys much of the brilliance of the film. A nice DVD version can be found on <span class="heading">“<a href="http://www.amazon.com/exec/obidos/ASIN/B0007WFXYO/nationalfilmpr04">Treasures From American Film Archives <i>Encore Edition</i></a></span>“.
   </p>
   
   <p>

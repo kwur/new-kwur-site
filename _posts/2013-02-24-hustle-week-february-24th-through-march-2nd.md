@@ -1,6 +1,6 @@
 ---
 id: 1724
-title: 'Hustle Week &#8211; February 24th through March 2nd!'
+title: 'Hustle Week – February 24th through March 2nd!'
 date: 2013-02-24T02:45:27+00:00
 author: TheGreatFoist
 layout: post
@@ -15,15 +15,15 @@ categories:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
-    We have some important opportunities in the near future that will be made possible by your donations, including the improvement of our current radio signal and a big push towards a new opportunity to increase our station's wattage. More details about our current situation, of particular interest&nbsp; to KWUR alumni, can be found here: <a href="http://kwur.com/alumni-letter/">http://kwur.com/alumni-letter/</a>
+    We have some important opportunities in the near future that will be made possible by your donations, including the improvement of our current radio signal and a big push towards a new opportunity to increase our station's wattage. More details about our current situation, of particular interest  to KWUR alumni, can be found here: <a href="http://kwur.com/alumni-letter/">http://kwur.com/alumni-letter/</a>
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
@@ -31,7 +31,7 @@ categories:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
@@ -39,7 +39,7 @@ categories:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
@@ -47,19 +47,19 @@ categories:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
-    $10 &ndash; KWUR picture postcard with special KWUR k?ans (also included in<br /> donations over $25)<br /> $25 &ndash; Limited edition, high quality silk-screened KWUR t-shirt<br /> $50 &ndash; A custom station I.D., thanking you for your donation (and<br /> including any other requested tidbits) that we will air live<br /> $100 &ndash; Name a part of the station after you or someone of your choice.
+    $10 – KWUR picture postcard with special KWUR k?ans (also included in<br /> donations over $25)<br /> $25 – Limited edition, high quality silk-screened KWUR t-shirt<br /> $50 – A custom station I.D., thanking you for your donation (and<br /> including any other requested tidbits) that we will air live<br /> $100 – Name a part of the station after you or someone of your choice.
   </p>
   
   <p>
-    $200 &ndash; Get a song written about you in the style of your choice, and recorded in KWUR's very own recording studio.
+    $200 – Get a song written about you in the style of your choice, and recorded in KWUR's very own recording studio.
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
@@ -67,7 +67,7 @@ categories:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
@@ -75,6 +75,6 @@ categories:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
 </div>

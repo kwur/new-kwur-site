@@ -20,18 +20,18 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    oh wait&#8230; no it won&#8217;t.
+    oh wait… no it won’t.
   </p>
   
   <p>
-    Ruckus, the free DRM&#8217;d music service on campus will be <a href="http://www.engadget.com/2009/02/07/ruckus-music-service-calls-it-quits/">shut down</a>.
+    Ruckus, the free DRM’d music service on campus will be <a href="http://www.engadget.com/2009/02/07/ruckus-music-service-calls-it-quits/">shut down</a>.
   </p>
   
   <p>
-    &#8220;Ruckus &#8230; was brought to the University last Fall after a committee made of students from Student Union (SU) and Congress of the South 40 chose it over four other services.&#8221; (<a href="http://studlife.com/2.3477/1.96604-1.96604">Ruckus brings mixed success after one year</a><a href="http://studlife.com/2.3477/1.96604-1.96604" target="_blank"></a>) Hmm!!! Looks like the university thought it was a good idea to shovel a bunch of money in a hole&#8230; DRM was flawed from the beginning, so avoiding investing in it has always been a no brainer. I campaigned against dumping money towards a useless service (Dear ResTech &#8211; people are going to file share regardless of how you cripple your own network with port blockages and bandwidth throttles), but Wash U invested anyway.
+    “Ruckus … was brought to the University last Fall after a committee made of students from Student Union (SU) and Congress of the South 40 chose it over four other services.” (<a href="http://studlife.com/2.3477/1.96604-1.96604">Ruckus brings mixed success after one year</a><a href="http://studlife.com/2.3477/1.96604-1.96604" target="_blank"></a>) Hmm!!! Looks like the university thought it was a good idea to shovel a bunch of money in a hole… DRM was flawed from the beginning, so avoiding investing in it has always been a no brainer. I campaigned against dumping money towards a useless service (Dear ResTech – people are going to file share regardless of how you cripple your own network with port blockages and bandwidth throttles), but Wash U invested anyway.
   </p>
   
   <p>
-    It&#8217;s not like people <a href="http://answers.yahoo.com/question/index?qid=20071130175438AAIxK4W">couldn&#8217;t strip the DRM from the music they downloaded in the first place</a>.
+    It’s not like people <a href="http://answers.yahoo.com/question/index?qid=20071130175438AAIxK4W">couldn’t strip the DRM from the music they downloaded in the first place</a>.
   </p>
 </div>

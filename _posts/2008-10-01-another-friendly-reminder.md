@@ -1,6 +1,6 @@
 ---
 id: 254
-title: 'Another Friendly Reminder&#8230;'
+title: 'Another Friendly Reminder…'
 date: 2008-10-01T16:02:00+00:00
 author: Klax
 layout: post
@@ -17,11 +17,11 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/homeless1-778160.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://www.kwur.com/blog/uploaded_images/homeless1-778158.jpg" alt="" border="0" /></a>(you&#8217;ve probably been bombarded with this but&#8230;)
+    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/homeless1-778160.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://www.kwur.com/blog/uploaded_images/homeless1-778158.jpg" alt="" border="0" /></a>(you’ve probably been bombarded with this but…)
   </p>
   
   <p>
-    Please register to vote right NOW, deadlines are rapidly approaching in all states&#8230;
+    Please register to vote right NOW, deadlines are rapidly approaching in all states…
   </p>
   
   <p>
@@ -29,6 +29,6 @@ categories:
   </p>
   
   <p>
-    Fix this broken state&#8230;
+    Fix this broken state…
   </p>
 </div>

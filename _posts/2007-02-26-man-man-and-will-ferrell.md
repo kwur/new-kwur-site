@@ -17,6 +17,6 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    My first reaction to Man Man&#8217;s show last night was that it was like Will Ferrell playing the cowbell on Saturday Night Live times a million. It was just an exuberant, balls-to-the-walls performance which was out of this world. Bunnygrunt was great too. KWUR Week never disappoints.
+    My first reaction to Man Man’s show last night was that it was like Will Ferrell playing the cowbell on Saturday Night Live times a million. It was just an exuberant, balls-to-the-walls performance which was out of this world. Bunnygrunt was great too. KWUR Week never disappoints.
   </p>
 </div>

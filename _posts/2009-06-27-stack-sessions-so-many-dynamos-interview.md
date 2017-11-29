@@ -27,7 +27,7 @@ categories:
   </div>
   
   <p>
-    <a href="http://www.myspace.com/somanydynamos">So Many Dynamos</a> are playing a CD release show/party for their new album &#8220;<a href="http://www.vagrant.com/release/details/274">The Loud Wars</a>&#8221; at <a href="http://www.firebirdstl.com/">The Firebird</a> tomorrow (more info <a href="http://dynamosrecording.blogspot.com/2009/06/come-see-us-for-free.html">here</a>), and to getchaself ready, you can download and listen to an interview we did with them this past Wednesday. We spoke about the process of making the album, the St. Louis music scene, and what happens when Dave Matthews Band records are sent to the station.
+    <a href="http://www.myspace.com/somanydynamos">So Many Dynamos</a> are playing a CD release show/party for their new album “<a href="http://www.vagrant.com/release/details/274">The Loud Wars</a>” at <a href="http://www.firebirdstl.com/">The Firebird</a> tomorrow (more info <a href="http://dynamosrecording.blogspot.com/2009/06/come-see-us-for-free.html">here</a>), and to getchaself ready, you can download and listen to an interview we did with them this past Wednesday. We spoke about the process of making the album, the St. Louis music scene, and what happens when Dave Matthews Band records are sent to the station.
   </p>
   
   <p>

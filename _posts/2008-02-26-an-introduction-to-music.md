@@ -17,7 +17,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    From a BBC &#8220;mockumentary&#8221; series that pays homage to 70s educational films.
+    From a BBC “mockumentary” series that pays homage to 70s educational films.
   </p>
   
   <p>

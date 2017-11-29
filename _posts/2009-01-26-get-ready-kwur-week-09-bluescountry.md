@@ -1,6 +1,6 @@
 ---
 id: 311
-title: 'GET READY &#8211; KWUR WEEK 09: BLUES/COUNTRY'
+title: 'GET READY – KWUR WEEK 09: BLUES/COUNTRY'
 date: 2009-01-26T19:21:00+00:00
 author: Admin
 layout: post
@@ -25,6 +25,6 @@ categories:
   </p>
   
   <p>
-    James Arthur &#8220;Boo&#8221; Hanks is an acoustic blues guitarist with roots in the Piedmont string band and blues traditions who began 75 years ago. He saved money for his first guitar by selling packets of garden seeds, picking out the same old-time songs he heard his father playing after long days in the tobacco field. As a young man in the 1940s, Hanks earned pocket change playing guitar at barn dances with his cousins accompanying him on mandolin and spoons. His rich musical repertoire reflects his multiethnic heritage (his ancestors were white, African American, Ocinneechee Indian and <span style="font-weight:bold;">family folklore believes they are descendants of Abraham Lincoln&#8217;s mother Mary Hanks</span>.) Today, Boo Hanks lives in Virgilina, Virginia, just over the North Carolina border a stone throw from the rolling hills where he was born. Drawing from the deep musical well of his region, Boo Hanks showcases his virtuosity in the driving time and delicate finger-style guitar of the classic Piedmont Blues made famous by Blind Boy Fuller.<br /><a href="http://myspace.com/boohanks">hear some traxx</a>
+    James Arthur “Boo” Hanks is an acoustic blues guitarist with roots in the Piedmont string band and blues traditions who began 75 years ago. He saved money for his first guitar by selling packets of garden seeds, picking out the same old-time songs he heard his father playing after long days in the tobacco field. As a young man in the 1940s, Hanks earned pocket change playing guitar at barn dances with his cousins accompanying him on mandolin and spoons. His rich musical repertoire reflects his multiethnic heritage (his ancestors were white, African American, Ocinneechee Indian and <span style="font-weight:bold;">family folklore believes they are descendants of Abraham Lincoln’s mother Mary Hanks</span>.) Today, Boo Hanks lives in Virgilina, Virginia, just over the North Carolina border a stone throw from the rolling hills where he was born. Drawing from the deep musical well of his region, Boo Hanks showcases his virtuosity in the driving time and delicate finger-style guitar of the classic Piedmont Blues made famous by Blind Boy Fuller.<br /><a href="http://myspace.com/boohanks">hear some traxx</a>
   </p>
 </div>

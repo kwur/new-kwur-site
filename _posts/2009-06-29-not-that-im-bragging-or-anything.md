@@ -1,6 +1,6 @@
 ---
 id: 379
-title: 'Not that I&#8217;m bragging or anything&#8230;'
+title: 'Not that I’m bragging or anything…'
 date: 2009-06-29T04:46:00+00:00
 author: The Intern
 layout: post
@@ -17,10 +17,10 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    &#8230;but I am very proud of owning this:<br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/IMG_1395-790602.JPG"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 320px; height: 240px;" src="http://www.kwur.com/blog/uploaded_images/IMG_1395-790076.JPG" border="0" alt="" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/IMG_1397-725954.JPG"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 320px; height: 240px;" src="http://www.kwur.com/blog/uploaded_images/IMG_1397-725412.JPG" border="0" alt="" /></a>
+    …but I am very proud of owning this:<br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/IMG_1395-790602.JPG"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 320px; height: 240px;" src="http://www.kwur.com/blog/uploaded_images/IMG_1395-790076.JPG" border="0" alt="" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/IMG_1397-725954.JPG"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 320px; height: 240px;" src="http://www.kwur.com/blog/uploaded_images/IMG_1397-725412.JPG" border="0" alt="" /></a>
   </p>
   
   <p>
-    Prince, &#8220;When Doves Cry&#8221; 7&#8243;. On purple wax, for chrissakes!
+    Prince, “When Doves Cry” 7″. On purple wax, for chrissakes!
   </p>
 </div>

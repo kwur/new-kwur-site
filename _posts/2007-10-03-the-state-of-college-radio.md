@@ -17,14 +17,14 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    This is from CMJ&#8217;s chart recap, posted today:
+    This is from CMJ’s chart recap, posted today:
   </p>
   
   <p>
-    &#8220;Adds saw a few surprises, as <strong>Stars</strong> went most added at both Radio 200 and Triple A, beating out <strong>Jens Lekman</strong> (No. 2), the <strong>Foo Fighters</strong> (No. 4) and Motion City Soundtrack (No. 5).&#8221;
+    “Adds saw a few surprises, as <strong>Stars</strong> went most added at both Radio 200 and Triple A, beating out <strong>Jens Lekman</strong> (No. 2), the <strong>Foo Fighters</strong> (No. 4) and Motion City Soundtrack (No. 5).”
   </p>
   
   <p>
-    Isn&#8217;t the point of college radio to play things that aren&#8217;t heard elsewhere? The surprise isn&#8217;t that Stars, a pretty major indie-rock band, beat out the Foo Fighters and Motion City Soundtrack, it&#8217;s that self-respecting college radio stations actually added the Foo Fighters and Motion City Soundtrack. All I can say is laaaaaaaaaaame.
+    Isn’t the point of college radio to play things that aren’t heard elsewhere? The surprise isn’t that Stars, a pretty major indie-rock band, beat out the Foo Fighters and Motion City Soundtrack, it’s that self-respecting college radio stations actually added the Foo Fighters and Motion City Soundtrack. All I can say is laaaaaaaaaaame.
   </p>
 </div>

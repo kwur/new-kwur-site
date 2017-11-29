@@ -18,7 +18,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    Aaaand we&#8217;re back. <a href="http://www.myspace.com/langhorneslim">Langhorne Slim</a> played a sold-out show with Josh Ritter at Off Broadway this week, but before he took the stage he dropped by our humble station to lay down a few tracks. They&#8217;re all cuts from his new album <a href="http://www.kemado.com/artists.php?req=show&artist=21">&#8220;Be Set Free&#8221;</a> &#8211; out September 29th on Kemado &#8211; and they&#8217;re acoustic. This, in itself, is pretty cool; Mr. Slim has filled out his sound with more instrumentation throughout the past few releases, and when you hear these songs on the album, they won&#8217;t sound quite like this (as is, they sound great). So whether you&#8217;re a fan of the newer stuff or the older stuff, you&#8217;ll probably dig these. Thanks again to Langhorne and crew for hanging out!
+    Aaaand we’re back. <a href="http://www.myspace.com/langhorneslim">Langhorne Slim</a> played a sold-out show with Josh Ritter at Off Broadway this week, but before he took the stage he dropped by our humble station to lay down a few tracks. They’re all cuts from his new album <a href="http://www.kemado.com/artists.php?req=show&artist=21">“Be Set Free”</a> – out September 29th on Kemado – and they’re acoustic. This, in itself, is pretty cool; Mr. Slim has filled out his sound with more instrumentation throughout the past few releases, and when you hear these songs on the album, they won’t sound quite like this (as is, they sound great). So whether you’re a fan of the newer stuff or the older stuff, you’ll probably dig these. Thanks again to Langhorne and crew for hanging out!
   </p>
   
   <p>

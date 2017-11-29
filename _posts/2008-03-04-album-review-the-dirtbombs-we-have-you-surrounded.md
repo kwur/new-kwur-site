@@ -1,6 +1,6 @@
 ---
 id: 172
-title: 'Album Review: The Dirtbombs, &quot;We Have You Surrounded&quot;'
+title: 'Album Review: The Dirtbombs, "We Have You Surrounded"'
 date: 2008-03-04T06:01:00+00:00
 author: The Intern
 layout: post
@@ -17,7 +17,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/dirtbombs2-796335.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://www.kwur.com/blog/uploaded_images/dirtbombs2-796320.jpg" alt="" border="0" /></a>It occurs to me that I like the band The Dirtbombs could be more than I&#8217;ve ever liked the actual band. When The Dirtbombs are at their best, they are a sublime combination of dirty, downright sordid Detroit garage rock grit and a wonderfully grotesque parody of R and B conventions. But that&#8217;s only on a few tracks here; the rest is that bland, vapid shit you forgot about in &#8217;03. DB, you might like this more than me, the rest of you, stick to recommended tracks.
+    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/dirtbombs2-796335.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://www.kwur.com/blog/uploaded_images/dirtbombs2-796320.jpg" alt="" border="0" /></a>It occurs to me that I like the band The Dirtbombs could be more than I’ve ever liked the actual band. When The Dirtbombs are at their best, they are a sublime combination of dirty, downright sordid Detroit garage rock grit and a wonderfully grotesque parody of R and B conventions. But that’s only on a few tracks here; the rest is that bland, vapid shit you forgot about in ’03. DB, you might like this more than me, the rest of you, stick to recommended tracks.
   </p>
   
   <p>

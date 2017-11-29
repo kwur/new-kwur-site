@@ -1,6 +1,6 @@
 ---
 id: 321
-title: 'I &lt;3 sixties folk/blues revival&#8230; feat. barbara dane'
+title: 'I <3 sixties folk/blues revival… feat. barbara dane'
 date: 2009-02-10T16:51:00+00:00
 author: Admin
 layout: post

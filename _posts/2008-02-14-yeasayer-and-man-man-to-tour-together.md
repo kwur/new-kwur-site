@@ -17,6 +17,6 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    &#8230;but will not be coming to St. Louis. Anyone want to start a petition to get them to come here instead of Denver on April 20?
+    …but will not be coming to St. Louis. Anyone want to start a petition to get them to come here instead of Denver on April 20?
   </p>
 </div>

@@ -18,7 +18,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    UK rockers <a href="http://www.myspace.com/bandofskulls">Band Of Skulls</a> dropped by the station to play a couple of acoustic tunes on Monday. If you&#8217;ve heard their new album, Baby Darling Doll Face Honey, then you&#8217;re in for a surprise &#8211; their set was a far cry from its stompin&#8217; rock n&#8217; roll (ala early Yeah Yeah Yeahs or White Stripes). Grab the lushly arranged &#8220;Impossible&#8221; and &#8220;Fires&#8221; below, as well as my favorite, &#8220;Honest.&#8221; As always, many thanks to the band for stopping by!
+    UK rockers <a href="http://www.myspace.com/bandofskulls">Band Of Skulls</a> dropped by the station to play a couple of acoustic tunes on Monday. If you’ve heard their new album, Baby Darling Doll Face Honey, then you’re in for a surprise – their set was a far cry from its stompin’ rock n’ roll (ala early Yeah Yeah Yeahs or White Stripes). Grab the lushly arranged “Impossible” and “Fires” below, as well as my favorite, “Honest.” As always, many thanks to the band for stopping by!
   </p>
   
   <p>
@@ -50,6 +50,6 @@ categories:
   </p>
   
   <p>
-    Lots of bands have/are being confirmed for more Stack Sessions &#8211; check the twitter/blog in the coming days for more info!
+    Lots of bands have/are being confirmed for more Stack Sessions – check the twitter/blog in the coming days for more info!
   </p>
 </div>

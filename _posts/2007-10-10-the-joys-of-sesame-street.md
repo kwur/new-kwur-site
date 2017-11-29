@@ -21,7 +21,7 @@ categories:
   </p>
   
   <p>
-    While Dolly Parton never actually appeared on Sesame Street, her Muppet spoof, Polly Darton, is dead on with a platinum blonde wig and huge bazoombas. Here she is with Benny Rabbit singing &#8220;14-Carrot Love.&#8221;
+    While Dolly Parton never actually appeared on Sesame Street, her Muppet spoof, Polly Darton, is dead on with a platinum blonde wig and huge bazoombas. Here she is with Benny Rabbit singing “14-Carrot Love.”
   </p>
   
   <p>

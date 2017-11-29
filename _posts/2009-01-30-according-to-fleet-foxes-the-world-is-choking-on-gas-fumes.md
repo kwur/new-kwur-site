@@ -17,10 +17,10 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    Addressing rumors that Fleet Foxes had signed to Virgin Records, Robin Pecknold softly explained, &#8220;Fleet Foxes will never, ever, under no circumstances, from now until the world chokes on gas fumes, sign to a major label. This includes all subsidiaries or permutations thereunder. Till we die.&#8221; Fleet Foxes are signed to Sub Pop Records. Warner has owned 49% of Sub Pop since 1995. Warner is a major label.
+    Addressing rumors that Fleet Foxes had signed to Virgin Records, Robin Pecknold softly explained, “Fleet Foxes will never, ever, under no circumstances, from now until the world chokes on gas fumes, sign to a major label. This includes all subsidiaries or permutations thereunder. Till we die.” Fleet Foxes are signed to Sub Pop Records. Warner has owned 49% of Sub Pop since 1995. Warner is a major label.
   </p>
   
   <p>
-    Well&#8230;fuck.
+    Well…fuck.
   </p>
 </div>

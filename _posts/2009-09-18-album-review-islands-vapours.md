@@ -1,6 +1,6 @@
 ---
 id: 427
-title: 'Album Review: Islands, &quot;Vapours&quot;'
+title: 'Album Review: Islands, "Vapours"'
 date: 2009-09-18T19:43:00+00:00
 author: The Intern
 layout: post
@@ -17,7 +17,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/231-Little-Orphan-Island-455x500-739647.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 291px; height: 320px;" src="http://www.kwur.com/blog/uploaded_images/231-Little-Orphan-Island-455x500-739644.jpg" alt="" border="0" /></a><br />Montreal based Islands (ex-Unicorns) releases another album of sleek, synth and drum machine indie pop, this time heavily informed by glam pop. Honestly, kinda disappointing, some stand out tracks, but ultimately doesn&#8217;t go anywhere.
+    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/231-Little-Orphan-Island-455x500-739647.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 291px; height: 320px;" src="http://www.kwur.com/blog/uploaded_images/231-Little-Orphan-Island-455x500-739644.jpg" alt="" border="0" /></a><br />Montreal based Islands (ex-Unicorns) releases another album of sleek, synth and drum machine indie pop, this time heavily informed by glam pop. Honestly, kinda disappointing, some stand out tracks, but ultimately doesn’t go anywhere.
   </p>
   
   <p>

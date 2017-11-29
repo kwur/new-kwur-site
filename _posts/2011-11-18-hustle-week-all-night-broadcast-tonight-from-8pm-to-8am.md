@@ -13,7 +13,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    If you haven't heard already, this week is KWUR's Hustle Week&#8211;and tonight from 8pm to 8am&nbsp;we're bringing you some very special programming for the Annual<strong>&nbsp;All Night Broadcast</strong>. Tune in to KWUR 90.3 and take part in a beloved KWUR tradition. Better yet, call in and share a favorite KWUR memory! Even better than that, call 314-935-5952 and make a donation to the station so we can keep freeform radio alive for Washington University and the surrounding community.
+    If you haven't heard already, this week is KWUR's Hustle Week–and tonight from 8pm to 8am we're bringing you some very special programming for the Annual<strong> All Night Broadcast</strong>. Tune in to KWUR 90.3 and take part in a beloved KWUR tradition. Better yet, call in and share a favorite KWUR memory! Even better than that, call 314-935-5952 and make a donation to the station so we can keep freeform radio alive for Washington University and the surrounding community.
   </p>
   
   <div>
@@ -25,7 +25,7 @@ categories:
   </div>
   
   <div>
-    <strong>9-10pm</strong>: Trainee Hour&nbsp;(Hear from our newest DJs.)
+    <strong>9-10pm</strong>: Trainee Hour (Hear from our newest DJs.)
   </div>
   
   <div>
@@ -57,19 +57,19 @@ categories:
   </div>
   
   <div>
-    <strong>7-8am</strong>: Traffic, weather, mo(u)rning (Don't let this clever pun deceive you&#8211;we will be in high spirits indeed.)
+    <strong>7-8am</strong>: Traffic, weather, mo(u)rning (Don't let this clever pun deceive you–we will be in high spirits indeed.)
   </div>
   
   <div>
-    &nbsp;
+     
   </div>
   
   <div>
-    Stream at kwur.com, on&nbsp;iTunes (under eclectic), or on&nbsp;our KWUR radio app for iPhone or Android. Or! Park in the lot behind the station and tune into the terrestrial radio waves.
+    Stream at kwur.com, on iTunes (under eclectic), or on our KWUR radio app for iPhone or Android. Or! Park in the lot behind the station and tune into the terrestrial radio waves.
   </div>
   
   <div>
-    &nbsp;
+     
   </div>
   
   <div>

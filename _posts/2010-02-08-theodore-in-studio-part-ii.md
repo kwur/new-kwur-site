@@ -21,7 +21,7 @@ categories:
   </p>
   
   <p>
-    <span style="font-weight:bold;">Startin momentarily &#8211; listen up folks! KWUR.COM / 90.3 FM</span>
+    <span style="font-weight:bold;">Startin momentarily – listen up folks! KWUR.COM / 90.3 FM</span>
   </p>
   
   <p>

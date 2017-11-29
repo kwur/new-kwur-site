@@ -21,6 +21,6 @@ categories:
   </p>
   
   <p>
-    Here&#8217;s to you&#8230;<br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/obama2-719364.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 167px; height: 200px;" src="http://www.kwur.com/blog/uploaded_images/obama2-719330.jpg" alt="" border="0" /></a>
+    Here’s to you…<br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/obama2-719364.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 167px; height: 200px;" src="http://www.kwur.com/blog/uploaded_images/obama2-719330.jpg" alt="" border="0" /></a>
   </p>
 </div>

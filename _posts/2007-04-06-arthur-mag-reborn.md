@@ -21,10 +21,10 @@ categories:
   </p>
   
   <p>
-    <span class="regular">&#8220;Stay tuned for news about <i>Arthur Vol. II</i>, debuting as soon as we can get it happening. We&#8217;ve been through a (completely unnecessary) wringer over the last few months, so it might be a minute or two before we&#8217;re totally up and running.&#8221;</p> 
+    <span class="regular">“Stay tuned for news about <i>Arthur Vol. II</i>, debuting as soon as we can get it happening. We’ve been through a (completely unnecessary) wringer over the last few months, so it might be a minute or two before we’re totally up and running.”</p> 
     
     <p>
-      This is great news. I can&#8217;t wait.
+      This is great news. I can’t wait.
     </p>
     
     <p>

@@ -45,30 +45,30 @@ tags:
   </p>
   
   <p>
-    <strong>Tight Pants Syndrome &#8211; Fully Attractive</strong>
+    <strong>Tight Pants Syndrome – Fully Attractive</strong>
   </p>
   
   <p>
-    I recommend this band if you love the great power pop bands of the 1980&#8217;s like Cheap Trick and the Cars. <a href="http://www.myspace.com/tightpantssyndrome">Tight Pants Syndrome</a> fills this disc with nothing but pop hooks and handclaps. TPS features both male and female lead vocals, not to mention their fair share of &#8220;oohs&#8221; and &#8220;ahhs&#8221; from the backing singers.
+    I recommend this band if you love the great power pop bands of the 1980’s like Cheap Trick and the Cars. <a href="http://www.myspace.com/tightpantssyndrome">Tight Pants Syndrome</a> fills this disc with nothing but pop hooks and handclaps. TPS features both male and female lead vocals, not to mention their fair share of “oohs” and “ahhs” from the backing singers.
   </p>
   
   <p>
-    Favorite track: the pure bubblegum of &#8220;I Shop For Sugar&#8221;
+    Favorite track: the pure bubblegum of “I Shop For Sugar”
   </p>
   
   <div style="height: 1.4em; visibility: hidden;">
   </div>
   
   <p>
-    <strong>The Fantasy Four &#8211; Getting Fantastic With&#8230;</strong>
+    <strong>The Fantasy Four – Getting Fantastic With…</strong>
   </p>
   
   <p>
-    Nevermind that <a href="http://www.piratecatradio.com/music-news/album-reviews/fantasy-four-getting-fantastic-with-cd">the Fantasy Four</a> are actually a trio; They play a delightful combination of 60&#8217;s girl pop and jangly punk rock. Messy vocals + loud guitars = lots of fun.
+    Nevermind that <a href="http://www.piratecatradio.com/music-news/album-reviews/fantasy-four-getting-fantastic-with-cd">the Fantasy Four</a> are actually a trio; They play a delightful combination of 60’s girl pop and jangly punk rock. Messy vocals + loud guitars = lots of fun.
   </p>
   
   <p>
-    Favorite track: sing-a-long fun on &#8220;Wig-Wam Bam&#8221;
+    Favorite track: sing-a-long fun on “Wig-Wam Bam”
   </p>
   
   <div style="height: 1.4em; visibility: hidden;">

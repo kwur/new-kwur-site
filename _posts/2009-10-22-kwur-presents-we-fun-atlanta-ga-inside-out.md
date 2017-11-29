@@ -1,6 +1,6 @@
 ---
 id: 442
-title: 'KWUR Presents &#8211; We Fun: Atlanta, GA Inside Out'
+title: 'KWUR Presents – We Fun: Atlanta, GA Inside Out'
 date: 2009-10-22T18:22:00+00:00
 author: Admin
 layout: post
@@ -17,7 +17,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    <span style="font-weight:bold;">THIS FRIDAY &#8211; OCTOBER 23RD &#8211; WASHINGTON UNIVERSITY: BROWN 100</span>
+    <span style="font-weight:bold;">THIS FRIDAY – OCTOBER 23RD – WASHINGTON UNIVERSITY: BROWN 100</span>
   </p>
   
   <p>

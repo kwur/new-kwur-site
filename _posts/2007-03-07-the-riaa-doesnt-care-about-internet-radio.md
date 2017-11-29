@@ -1,6 +1,6 @@
 ---
 id: 30
-title: 'The RIAA Doesn&#8217;t Care About Internet Radio'
+title: 'The RIAA Doesn’t Care About Internet Radio'
 date: 2007-03-07T04:17:00+00:00
 author: Klax
 layout: post
@@ -22,7 +22,7 @@ categories:
   
   <div class="entry">
     <p>
-      Under this royalty structure, an Internet radio station with an average listenership of 1000 people would owe $134,000 in royalties during 2007 &#8211; <em>plus</em> $98,000 in back payments for 2006. In 2008 they would owe $171,000, and $220,000 in 2009.
+      Under this royalty structure, an Internet radio station with an average listenership of 1000 people would owe $134,000 in royalties during 2007 – <em>plus</em> $98,000 in back payments for 2006. In 2008 they would owe $171,000, and $220,000 in 2009.
     </p>
     
     <p>

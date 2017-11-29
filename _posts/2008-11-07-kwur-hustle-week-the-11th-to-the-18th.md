@@ -21,18 +21,18 @@ categories:
   </p>
   
   <p>
-    From November 11<sup>th</sup> to the 18<sup>th</sup>, KWUR is conducting its fundraising drive, Hustle Week. KWUR is run on a shoestring budget that has been dramatically cut twice by Student Union in the past two years, and there is no guarantee that the budget will not be cut again in the future. In the past, fundraising dollars have been spent on essentials like shelves for the 45s and promotional schedule posters. If enough money is raised, it can be used to help pay for an improved KWUR Week, a website redesign, or even music acquisitions. If you care about KWUR and appreciate the quality alternative programming KWUR provides every day and you&#8217;ve got five or ten dollars to spare, we&#8217;d really appreciate any help you can give us.
+    From November 11<sup>th</sup> to the 18<sup>th</sup>, KWUR is conducting its fundraising drive, Hustle Week. KWUR is run on a shoestring budget that has been dramatically cut twice by Student Union in the past two years, and there is no guarantee that the budget will not be cut again in the future. In the past, fundraising dollars have been spent on essentials like shelves for the 45s and promotional schedule posters. If enough money is raised, it can be used to help pay for an improved KWUR Week, a website redesign, or even music acquisitions. If you care about KWUR and appreciate the quality alternative programming KWUR provides every day and you’ve got five or ten dollars to spare, we’d really appreciate any help you can give us.
   </p>
   
   <p style="margin-bottom: 0in;">
   </p>
   
   <p style="margin-bottom: 0in;">
-    If you&#8217;d like to donate, you can:
+    If you’d like to donate, you can:
   </p>
   
   <p style="margin-bottom: 0in;">
-    1) Stop by the station whenever there&#8217;s a show and donate directly to a DJ
+    1) Stop by the station whenever there’s a show and donate directly to a DJ
   </p>
   
   <p style="margin-bottom: 0in;">
@@ -62,27 +62,27 @@ categories:
   </p>
   
   <p style="margin-bottom: 0in;">
-    For a ten dollar donation, you can get five random CDs, lovingly wrapped and decorated by KWUR D.J.s. For a twenty dollar donation, you can get a t-shirt, while supplies last. For a thirty dollar donation, you can get a KWUR totebag. For a hundred dollars, you can get part of the station (any part you&#8217;d like, while supplies last) named after you for a year. For two hundred dollars, you can get your own sycophantic this-is-your-life tribute show. All gifts are tax-deductible.
+    For a ten dollar donation, you can get five random CDs, lovingly wrapped and decorated by KWUR D.J.s. For a twenty dollar donation, you can get a t-shirt, while supplies last. For a thirty dollar donation, you can get a KWUR totebag. For a hundred dollars, you can get part of the station (any part you’d like, while supplies last) named after you for a year. For two hundred dollars, you can get your own sycophantic this-is-your-life tribute show. All gifts are tax-deductible.
   </p>
   
   <p style="margin-bottom: 0in;">
-    For those of you in the St. Louis area, we&#8217;re having a couple of special events:
+    For those of you in the St. Louis area, we’re having a couple of special events:
   </p>
   
   <p style="margin-bottom: 0in;">
-    Wednesday the 12th, 12pm &#8211; 6pm: Live broadcast from the Danforth University Center!
+    Wednesday the 12th, 12pm – 6pm: Live broadcast from the Danforth University Center!
   </p>
   
   <p>
-    Thursday the 13th, 12pm &#8211; 3pm: Merch/bake sale at the Danforth University Center!
+    Thursday the 13th, 12pm – 3pm: Merch/bake sale at the Danforth University Center!
   </p>
   
   <p style="margin-bottom: 0in;">
-    Friday the 14th, 5pm: KWUR DOES KLASSICAL! Meet at the station to head over to Powell Symphony Hall and hear the St. Louis Symphony Orchestra perform Stravinsky&#8217;s Rite Of Spring!
+    Friday the 14th, 5pm: KWUR DOES KLASSICAL! Meet at the station to head over to Powell Symphony Hall and hear the St. Louis Symphony Orchestra perform Stravinsky’s Rite Of Spring!
   </p>
   
   <p style="margin-bottom: 0in;">
-    Saturday the 15th (really Friday night), 12am &#8211; 6am: All night marathon broadcast! We&#8217;ll be playing some weird and wacky shit, KWUR&#8217;s greatest hits. Stop by the station and say hey, and heck, maybe we&#8217;ll put you on the air!
+    Saturday the 15th (really Friday night), 12am – 6am: All night marathon broadcast! We’ll be playing some weird and wacky shit, KWUR’s greatest hits. Stop by the station and say hey, and heck, maybe we’ll put you on the air!
   </p>
   
   <p style="margin-bottom: 0in;">

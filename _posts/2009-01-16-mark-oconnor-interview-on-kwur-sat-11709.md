@@ -1,6 +1,6 @@
 ---
 id: 306
-title: 'Mark O&#8217;Connor interview on KWUR, Sat. 1/17/09'
+title: 'Mark O’Connor interview on KWUR, Sat. 1/17/09'
 date: 2009-01-16T04:50:00+00:00
 author: George Y.
 layout: post
@@ -17,6 +17,6 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    For fans of the great folk/bluegrass/swing/jazz violinist <a href="http://markoconnor.com/index.php?page=homepage">Mark O&#8217;Connor</a>, I will be conducting a live interview with him this Saturday, 1/17, around 1 PM. We&#8217;ll be talking about his <a href="http://markoconnor.com/index.php?page=cds&display=37">new CD</a> and hopefully lots more. Feel free to listen in on the radio at 90.3 FM, or on the web from the <a href="http://kwur.com/">KWUR website</a>. I might even pass along your questions to him if you want to IM them in 🙂 .
+    For fans of the great folk/bluegrass/swing/jazz violinist <a href="http://markoconnor.com/index.php?page=homepage">Mark O’Connor</a>, I will be conducting a live interview with him this Saturday, 1/17, around 1 PM. We’ll be talking about his <a href="http://markoconnor.com/index.php?page=cds&display=37">new CD</a> and hopefully lots more. Feel free to listen in on the radio at 90.3 FM, or on the web from the <a href="http://kwur.com/">KWUR website</a>. I might even pass along your questions to him if you want to IM them in 🙂 .
   </p>
 </div>

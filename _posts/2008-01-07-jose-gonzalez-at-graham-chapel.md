@@ -17,6 +17,6 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    I was looking at <a href="http://www.jose-gonzalez.com/">José González&#8217;s</a> recently announced tour dates, and apparently, he&#8217;s playing Graham Chapel at Washington University of March 19th. Does anyone know what the story is with this? <a href="http://www.thegargoylestl.com/">The Gargoyle</a> website has nothing to say about it, and I&#8217;ve never really heard of a musician like this playing in Graham Chapel. Any info would be greatly appreciated.
+    I was looking at <a href="http://www.jose-gonzalez.com/">José González’s</a> recently announced tour dates, and apparently, he’s playing Graham Chapel at Washington University of March 19th. Does anyone know what the story is with this? <a href="http://www.thegargoylestl.com/">The Gargoyle</a> website has nothing to say about it, and I’ve never really heard of a musician like this playing in Graham Chapel. Any info would be greatly appreciated.
   </p>
 </div>

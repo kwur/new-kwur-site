@@ -1,6 +1,6 @@
 ---
 id: 511
-title: 'Album Review: Cassie Morgan and the Lonely Pine, &quot;Weathered Hands, Weary Eyes&quot;'
+title: 'Album Review: Cassie Morgan and the Lonely Pine, "Weathered Hands, Weary Eyes"'
 date: 2010-05-04T21:34:00+00:00
 author: speiser
 layout: post

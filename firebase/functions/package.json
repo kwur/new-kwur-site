@@ -9,9 +9,13 @@
     "logs": "firebase functions:log"
   },
   "dependencies": {
+    "config": "^1.28.1",
+    "cors": "^2.8.4",
     "firebase-admin": "~5.4.2",
     "firebase-functions": "^0.7.1",
-    "cors": "^2.8.4"
+    "moment": "^2.19.2",
+    "moment-timezone": "^0.5.14",
+    "request": "^2.83.0"
   },
   "private": true
 }

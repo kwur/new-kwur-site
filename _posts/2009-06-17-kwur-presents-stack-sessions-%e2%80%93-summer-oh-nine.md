@@ -67,10 +67,10 @@ categories:
   </p>
   
   <p>
-    <a href="http://www.megaupload.com/?d=26WOTKDT">Interview</a> (the first few minutes are missing but it is a fascinating listen nonetheless &#8211; don&#8217;t worry about context, trust me)
+    <a href="http://www.megaupload.com/?d=26WOTKDT">Interview</a> (the first few minutes are missing but it is a fascinating listen nonetheless – don’t worry about context, trust me)
   </p>
   
   <p>
-    That&#8217;s it for now, but there&#8217;s much more to come so stay tuned&#8230;&#8230;
+    That’s it for now, but there’s much more to come so stay tuned……
   </p>
 </div>

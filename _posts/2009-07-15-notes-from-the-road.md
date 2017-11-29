@@ -17,18 +17,18 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    reporting from minneapolis&#8211; the deep blues festival is gonna start in about an hour..
+    reporting from minneapolis– the deep blues festival is gonna start in about an hour..
   </p>
   
   <p>
-    en route I listened to the grand ole opry on wsm nashville 540 am, and got stuck in an &#8220;extreme storm&#8221; &#8211; as the radio announcers phrased in
+    en route I listened to the grand ole opry on wsm nashville 540 am, and got stuck in an “extreme storm” – as the radio announcers phrased in
   </p>
   
   <p>
-    since my arrival I&#8217;ve gotten in a car accident (not my fault), eaten some bad falafel, bought some comic books and saw the awesome george grosz hand-colored lithos at the weisman art museum.
+    since my arrival I’ve gotten in a car accident (not my fault), eaten some bad falafel, bought some comic books and saw the awesome george grosz hand-colored lithos at the weisman art museum.
   </p>
   
   <p>
-    stay tuned for exciting updates &#8211; first band of the night is finland&#8217;s own <a href="http://www.myspace.com/blackriverbluesman">Black River Bluesman and The Croaking Lizard</a>, followed by australian <a href="http://www.myspace.com/kirkspecial">kirk special one man band</a>. needless to say, excited.
+    stay tuned for exciting updates – first band of the night is finland’s own <a href="http://www.myspace.com/blackriverbluesman">Black River Bluesman and The Croaking Lizard</a>, followed by australian <a href="http://www.myspace.com/kirkspecial">kirk special one man band</a>. needless to say, excited.
   </p>
 </div>

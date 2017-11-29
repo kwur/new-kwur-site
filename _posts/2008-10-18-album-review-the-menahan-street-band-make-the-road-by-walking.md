@@ -1,6 +1,6 @@
 ---
 id: 266
-title: 'Album Review: The Menahan Street Band, &quot;Make The Road By Walking&quot;'
+title: 'Album Review: The Menahan Street Band, "Make The Road By Walking"'
 date: 2008-10-18T21:59:00+00:00
 author: The Intern
 layout: post
@@ -17,10 +17,10 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/MenahanFence-723081.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://www.kwur.com/blog/uploaded_images/MenahanFence-723062.jpg" alt="" border="0" /></a><br />Alternatively sounding like walking down a Brooklyn street on a warm Saturday afternoon, the best Booker T album never made, and a lost blaxploitation soundtrack, another gem from Daptone. Vibrant, upbeat, classy, late 60s sounding soul instrumentals, tighter than tight instrumentation. Sounds like RJD2, Budos Band&#8230;groove on it, mad atmospheric.
+    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/MenahanFence-723081.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://www.kwur.com/blog/uploaded_images/MenahanFence-723062.jpg" alt="" border="0" /></a><br />Alternatively sounding like walking down a Brooklyn street on a warm Saturday afternoon, the best Booker T album never made, and a lost blaxploitation soundtrack, another gem from Daptone. Vibrant, upbeat, classy, late 60s sounding soul instrumentals, tighter than tight instrumentation. Sounds like RJD2, Budos Band…groove on it, mad atmospheric.
   </p>
   
   <p>
-    Play all, but esp: 1+++(sampled in Jay-Z&#8217;s &#8220;Roc Boys&#8221;), 3++(heppy), 4, 6+++(This should be on the best soundtrack ever), 7++, 8+, 10+++(See 6)
+    Play all, but esp: 1+++(sampled in Jay-Z’s “Roc Boys”), 3++(heppy), 4, 6+++(This should be on the best soundtrack ever), 7++, 8+, 10+++(See 6)
   </p>
 </div>

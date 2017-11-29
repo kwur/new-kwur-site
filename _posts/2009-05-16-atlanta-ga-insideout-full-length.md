@@ -17,7 +17,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    From Augusta, Georgia via Los Angeles, California:<br />I posted the trailer for the Atlanta (but mostly Black Lips for better or worse) music documentary, &#8220;We Fun,&#8221; a little while back.
+    From Augusta, Georgia via Los Angeles, California:<br />I posted the trailer for the Atlanta (but mostly Black Lips for better or worse) music documentary, “We Fun,” a little while back.
   </p>
   
   <p>
@@ -25,13 +25,13 @@ categories:
   </p>
   
   <p>
-    And if you haven&#8217;t seen it, you should check out the superior 1980s sister documentary, &#8220;Athens, GA: Inside/Out.&#8221; Here&#8217;s a sizable chunk:
+    And if you haven’t seen it, you should check out the superior 1980s sister documentary, “Athens, GA: Inside/Out.” Here’s a sizable chunk:
   </p>
   
   <p>
   </p>
   
   <p>
-    At one point, KWUR had the soundtrack to this movie on vinyl. I tried to find it so I could dub it to cassette. I really wanted to obtain some of the BBQ Killers music. No dice. I don&#8217;t think I&#8217;ll ever find any&#8230;
+    At one point, KWUR had the soundtrack to this movie on vinyl. I tried to find it so I could dub it to cassette. I really wanted to obtain some of the BBQ Killers music. No dice. I don’t think I’ll ever find any…
   </p>
 </div>

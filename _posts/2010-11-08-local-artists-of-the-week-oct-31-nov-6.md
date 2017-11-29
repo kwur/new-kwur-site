@@ -44,15 +44,15 @@ tags:
   </p>
   
   <p>
-    <strong>Via Dove &#8211; El Mundo Latino</strong>
+    <strong>Via Dove – El Mundo Latino</strong>
   </p>
   
   <p>
-    <a href="http://www.viadove.com/">Via Dove</a> creates a solid album with a very good rocking mix of songs that are all good enough for radio play. The album starts off very quick tempoed, with a good &#8220;party&#8221; feel and progresses to a slower tempo as it continues. These are <span style="text-decoration: underline;">all</span> very solid songs.
+    <a href="http://www.viadove.com/">Via Dove</a> creates a solid album with a very good rocking mix of songs that are all good enough for radio play. The album starts off very quick tempoed, with a good “party” feel and progresses to a slower tempo as it continues. These are <span style="text-decoration: underline;">all</span> very solid songs.
   </p>
   
   <p>
-    Favorite Track: &#8220;Fast Times&#8221;
+    Favorite Track: “Fast Times”
   </p>
   
   <div style="height: 1.4em; visibility: hidden;">
@@ -60,15 +60,15 @@ tags:
   </div>
   
   <p>
-    <strong> Spelling Bee &#8211; Sweet Dreams, Strange Animal</strong>
+    <strong> Spelling Bee – Sweet Dreams, Strange Animal</strong>
   </p>
   
   <p>
-    This weird noisy rock duo permeates energy whether it comes in the form of spastic rhythms or a wall of sound bowling you over at their live shows. <a href="http://www.myspace.com/beespellingbee">Spelling Bee</a>&#8216;s drummer Joseph Hess once described their band to me as &#8220;stupid loud,&#8221; and I cannot disagree with his assessment. Along with singer and guitarist Mabel Suan, they create fast, aggressive songs that frequently change rhythms. Their debut &#8220;Sweet Dreams, Strange Animal&#8221; on APOP Records captures their live energy well, with the added bonus that you can control the volume on your home stereo.
+    This weird noisy rock duo permeates energy whether it comes in the form of spastic rhythms or a wall of sound bowling you over at their live shows. <a href="http://www.myspace.com/beespellingbee">Spelling Bee</a>‘s drummer Joseph Hess once described their band to me as “stupid loud,” and I cannot disagree with his assessment. Along with singer and guitarist Mabel Suan, they create fast, aggressive songs that frequently change rhythms. Their debut “Sweet Dreams, Strange Animal” on APOP Records captures their live energy well, with the added bonus that you can control the volume on your home stereo.
   </p>
   
   <p>
-    Favorite Track: &#8220;Omelettes&#8221;
+    Favorite Track: “Omelettes”
   </p>
   
   <div style="height: 1.4em; visibility: hidden;">

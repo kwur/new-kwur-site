@@ -17,6 +17,6 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    Head over to http://www.ampcamp.com/mp3_of_the_day.php to download the new Modest Mouse song. I&#8217;m a fan.
+    Head over to http://www.ampcamp.com/mp3_of_the_day.php to download the new Modest Mouse song. I’m a fan.
   </p>
 </div>

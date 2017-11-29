@@ -23,15 +23,15 @@ categories:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
-    1. Queensryche &#8211; Suite Sister Mary: http://www.youtube.com/watch?v=K74tMC1oZG8<br /> 2. The Smashing Pumpkins &#8211; I Am One: http://www.youtube.com/watch?v=Pi6RJmUNBbw<br /> 3. Alanis Morissette &#8211; You Oughta Know: http://www.youtube.com/watch?v=NPcyTyilmYY<br /> 4. Die Antwoord &#8211; Fatty Boom Boom: http://www.youtube.com/watch?v=AIXUgtNC4Kc<br /> 5. Abner Jay &#8211; I'm So Depressed: http://www.youtube.com/watch?v=2Xcq0R7Uckg
+    1. Queensryche – Suite Sister Mary: http://www.youtube.com/watch?v=K74tMC1oZG8<br /> 2. The Smashing Pumpkins – I Am One: http://www.youtube.com/watch?v=Pi6RJmUNBbw<br /> 3. Alanis Morissette – You Oughta Know: http://www.youtube.com/watch?v=NPcyTyilmYY<br /> 4. Die Antwoord – Fatty Boom Boom: http://www.youtube.com/watch?v=AIXUgtNC4Kc<br /> 5. Abner Jay – I'm So Depressed: http://www.youtube.com/watch?v=2Xcq0R7Uckg
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
@@ -39,27 +39,27 @@ categories:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
-    1. Wipers &#8211; Doom Town: http://www.youtube.com/watch?v=h0CCH3QekEw<br /> 2. Dido &#8211; Sand In My Shoes: http://www.youtube.com/watch?v=_lrVymj9xHY<br /> 3. Icy Demons &#8211; Trial By Lasers: http://www.youtube.com/watch?v=RZfeuPSrAk8<br /> 4. Etta James &#8211; All I Could Do Was Cry: http://www.youtube.com/watch?v=UdD-zac4mx8<br /> 5. The Beta Band &#8211; Dry The Rain
+    1. Wipers – Doom Town: http://www.youtube.com/watch?v=h0CCH3QekEw<br /> 2. Dido – Sand In My Shoes: http://www.youtube.com/watch?v=_lrVymj9xHY<br /> 3. Icy Demons – Trial By Lasers: http://www.youtube.com/watch?v=RZfeuPSrAk8<br /> 4. Etta James – All I Could Do Was Cry: http://www.youtube.com/watch?v=UdD-zac4mx8<br /> 5. The Beta Band – Dry The Rain
   </p>
   
   <p>
-    Honorable mention: The Osmonds &#8211; Crazy Horses: http://www.youtube.com/watch?v=CS8ZfVTE4SM
+    Honorable mention: The Osmonds – Crazy Horses: http://www.youtube.com/watch?v=CS8ZfVTE4SM
   </p>
   
   <p>
-    ("It sounds like the Osmonds covering Zeppelin, man!" &#8211; Rorik)
+    ("It sounds like the Osmonds covering Zeppelin, man!" – Rorik)
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>

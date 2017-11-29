@@ -1,6 +1,6 @@
 ---
 id: 8
-title: 'Touch and Go&#8217;s 25th&#8230;'
+title: 'Touch and Go’s 25th…'
 date: 2006-08-16T01:30:00+00:00
 author: Klax
 layout: post
@@ -21,7 +21,7 @@ categories:
   </p>
   
   <p>
-    To celebrate their age and liveliness they are having a 2.5 day music festival in Chicago from <span style="font-weight: bold;">September 8th-10th</span>. This isn&#8217;t just any music festival however: a bunch of awesome kick-ass bands from the past have agreed to reunite on this one-time special occasion. Bands that have long gone on &#8220;indefinite hiatus&#8221; (such as <span style="font-weight: bold;">Big Black</span>, <span style="font-weight: bold;">Man or Astro-Man?</span>, <span style="font-weight: bold;">Scratch Acid</span>, and, <span style="font-weight: bold;">Girls Against Boys</span>) will be at the event giving us all one last chance to check them out. I&#8217;m particularly excited about <span style="font-weight: bold;">Man or Astro-Man?</span> since a personal friend of the band once told me they would never play together again. This may be your last chance&#8230;make the short trip to Chicago in September.
+    To celebrate their age and liveliness they are having a 2.5 day music festival in Chicago from <span style="font-weight: bold;">September 8th-10th</span>. This isn’t just any music festival however: a bunch of awesome kick-ass bands from the past have agreed to reunite on this one-time special occasion. Bands that have long gone on “indefinite hiatus” (such as <span style="font-weight: bold;">Big Black</span>, <span style="font-weight: bold;">Man or Astro-Man?</span>, <span style="font-weight: bold;">Scratch Acid</span>, and, <span style="font-weight: bold;">Girls Against Boys</span>) will be at the event giving us all one last chance to check them out. I’m particularly excited about <span style="font-weight: bold;">Man or Astro-Man?</span> since a personal friend of the band once told me they would never play together again. This may be your last chance…make the short trip to Chicago in September.
   </p>
   
   <p>
@@ -29,7 +29,7 @@ categories:
   </p>
   
   <p>
-    <a href="http://www.tgrec.com/links/tg25/lineup/lineup_frameset.html">Check out the lineup&#8230;</a>
+    <a href="http://www.tgrec.com/links/tg25/lineup/lineup_frameset.html">Check out the lineup…</a>
   </p>
   
   <p>

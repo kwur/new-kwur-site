@@ -39,7 +39,7 @@ tags:
   </ol>
   
   <p>
-    <strong>Local New Releases<br /> US English &#8211; What Frontier EP</strong>
+    <strong>Local New Releases<br /> US English – What Frontier EP</strong>
   </p>
   
   <p>
@@ -47,7 +47,7 @@ tags:
   </p>
   
   <p>
-    Favorite Track: &#8220;News!&#8221;
+    Favorite Track: “News!”
   </p>
   
   <div style="height: 1.4em; visibility: hidden;">

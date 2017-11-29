@@ -17,7 +17,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    &#8220;Finding Your Animal Totem
+    “Finding Your Animal Totem
   </p>
   
   <p>
@@ -25,7 +25,7 @@ categories:
   </p>
   
   <p>
-    There are many, however, who live in the city and do not have ready<br />access to the great outdoors. Don&#8217;t worry about it; this exercise can<br />easily be practiced indoors as well. All you really need is some room to<br />move and a place to sit.
+    There are many, however, who live in the city and do not have ready<br />access to the great outdoors. Don’t worry about it; this exercise can<br />easily be practiced indoors as well. All you really need is some room to<br />move and a place to sit.
   </p>
   
   <p>
@@ -37,7 +37,7 @@ categories:
   </p>
   
   <p>
-    If you are working outdoors at night, you may wish to focus your gaze<br />upon the North Star. If you live in the city and are working indoors,<br />you can simply visualize the North Star shining above your head. The<br />easiest way to find the North Star is to look for the Big Dipper. You<br />probably know where it is already, for it is one of the best-known and<br />most easily identifiable constellations in the heavens. Now focus on the<br />Dipper&#8217;s bowl. Note the end of the bowl farthest from the handle, and<br />follow its line to the top or rim of the bowl. Then keep following the<br />same line with your eyes until you reach the next star. This is Polaris,<br />the North Star. You will know you&#8217;ve located it correctly if the star<br />you&#8217;re gazing at forms the top of the handle of yet another dipper&#8211;the<br />Little Dipper.
+    If you are working outdoors at night, you may wish to focus your gaze<br />upon the North Star. If you live in the city and are working indoors,<br />you can simply visualize the North Star shining above your head. The<br />easiest way to find the North Star is to look for the Big Dipper. You<br />probably know where it is already, for it is one of the best-known and<br />most easily identifiable constellations in the heavens. Now focus on the<br />Dipper’s bowl. Note the end of the bowl farthest from the handle, and<br />follow its line to the top or rim of the bowl. Then keep following the<br />same line with your eyes until you reach the next star. This is Polaris,<br />the North Star. You will know you’ve located it correctly if the star<br />you’re gazing at forms the top of the handle of yet another dipper–the<br />Little Dipper.
   </p>
   
   <p>
@@ -53,7 +53,7 @@ categories:
   </p>
   
   <p>
-    If you are working alone, you may need to get the hang of holding and<br />beating your drum while moving around. Moving and drumming all at once<br />may seem awkward at first, but Native American shamans do it all time.<br />Of course, if you are working with a partner, you won&#8217;t have this<br />problem; and when you stand up you will be signaling your partner than<br />you are ready to dance, and that the pace of the drumming should<br />increase.
+    If you are working alone, you may need to get the hang of holding and<br />beating your drum while moving around. Moving and drumming all at once<br />may seem awkward at first, but Native American shamans do it all time.<br />Of course, if you are working with a partner, you won’t have this<br />problem; and when you stand up you will be signaling your partner than<br />you are ready to dance, and that the pace of the drumming should<br />increase.
   </p>
   
   <p>
@@ -65,11 +65,11 @@ categories:
   </p>
   
   <p>
-    As you dance, mentally call upon all the world&#8217;s creatures to be with<br />you in your circle. Send forth a voice from your mind, and see the sound<br />waves traveling out through the universe. You will soon begin to sense<br />the presence of the animal powers, to feel wings brush against your<br />body, to hear the birdsong and the howling of wolves or coyotes, the<br />neighing of horses, the scream of the jaguar&#8211;all the sounds and<br />sensations of the animal kingdom.
+    As you dance, mentally call upon all the world’s creatures to be with<br />you in your circle. Send forth a voice from your mind, and see the sound<br />waves traveling out through the universe. You will soon begin to sense<br />the presence of the animal powers, to feel wings brush against your<br />body, to hear the birdsong and the howling of wolves or coyotes, the<br />neighing of horses, the scream of the jaguar–all the sounds and<br />sensations of the animal kingdom.
   </p>
   
   <p>
-    5. As you dance in a circle, surrounded by the animal powers, be aware<br />of how your footwork changes, and be aware of your hands and arms, if<br />you&#8217;re using them. You will take on a particular gait, a particular<br />stance, a particular set of motions. These movements are characteristic<br />of your animal, whose presence you will now begin to feel.
+    5. As you dance in a circle, surrounded by the animal powers, be aware<br />of how your footwork changes, and be aware of your hands and arms, if<br />you’re using them. You will take on a particular gait, a particular<br />stance, a particular set of motions. These movements are characteristic<br />of your animal, whose presence you will now begin to feel.
   </p>
   
   <p>
@@ -77,10 +77,10 @@ categories:
   </p>
   
   <p>
-    Be open minded as to what animal you receive, albeit the biggest or<br />cutest or trendiest critter, isn&#8217;t necessarily the most powerful animal<br />for you. In European lore, the little mouse was the spirit traveler par<br />excellence, and hence an animal of great power. Don&#8217;t try to bend the<br />powers of the animal kingdom to your will, just let your animal come to<br />you. Your animal totem may change over time, anyway, or you may find<br />yourself hosting more than one.
+    Be open minded as to what animal you receive, albeit the biggest or<br />cutest or trendiest critter, isn’t necessarily the most powerful animal<br />for you. In European lore, the little mouse was the spirit traveler par<br />excellence, and hence an animal of great power. Don’t try to bend the<br />powers of the animal kingdom to your will, just let your animal come to<br />you. Your animal totem may change over time, anyway, or you may find<br />yourself hosting more than one.
   </p>
   
   <p>
-    Don&#8217;t intellectualize about the qualities attributed to different<br />animals-by doing so, you will only end up choosing an animal image of<br />how you want to be, rather than finding the totem you really need. You<br />can go read about you animal totem after you&#8217;ve found it. You may still<br />wish to examine some of the relevant Native American animal lore, simply<br />to acquire a fuller perspective. &#8220;
+    Don’t intellectualize about the qualities attributed to different<br />animals-by doing so, you will only end up choosing an animal image of<br />how you want to be, rather than finding the totem you really need. You<br />can go read about you animal totem after you’ve found it. You may still<br />wish to examine some of the relevant Native American animal lore, simply<br />to acquire a fuller perspective. “
   </p>
 </div>

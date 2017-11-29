@@ -1,6 +1,6 @@
 ---
 id: 516
-title: 'Album Review: Theodore&#8217;s &quot;Hold You Like A Lover&quot;'
+title: 'Album Review: Theodore’s "Hold You Like A Lover"'
 date: 2010-05-20T19:10:00+00:00
 author: speiser
 layout: post
@@ -23,7 +23,7 @@ categories:
   </p>
   
   <p>
-    Their new album <span style="font-style:italic;">Hold You Like A Lover</span> is cohesive in it&#8217;s intimacy. Opener &#8220;I Won&#8217;t be a Stranger&#8221; is the kind of song that builds into a perfect crescendo with lyrics that hit you in the heart. The middle of the album stretches out augmented by trumpet, tuba, banjo, harmonica, and more. &#8220;Half Pint&#8221; uses all these in a beautifully dynamic song that soars between screaming highs and intimate lows. &#8220;Send My Love&#8221; finishes off the album with a soft love song and leaves the listener with the reverberations of the slide lead still in his head.
+    Their new album <span style="font-style:italic;">Hold You Like A Lover</span> is cohesive in it’s intimacy. Opener “I Won’t be a Stranger” is the kind of song that builds into a perfect crescendo with lyrics that hit you in the heart. The middle of the album stretches out augmented by trumpet, tuba, banjo, harmonica, and more. “Half Pint” uses all these in a beautifully dynamic song that soars between screaming highs and intimate lows. “Send My Love” finishes off the album with a soft love song and leaves the listener with the reverberations of the slide lead still in his head.
   </p>
   
   <p>

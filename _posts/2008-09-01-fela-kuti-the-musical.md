@@ -17,6 +17,6 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    &#8230;no, <a href="http://www.nypost.com/seven/08292008/entertainment/theater/bway_buzzes_about_fela__126548.htm">seriously</a>. I have a feeling it could hang around a while.
+    …no, <a href="http://www.nypost.com/seven/08292008/entertainment/theater/bway_buzzes_about_fela__126548.htm">seriously</a>. I have a feeling it could hang around a while.
   </p>
 </div>

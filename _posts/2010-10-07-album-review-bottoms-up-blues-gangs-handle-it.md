@@ -1,6 +1,6 @@
 ---
 id: 676
-title: 'Album Review: Bottoms Up Blues Gang&#8217;s &#8220;Handle It&#8221;'
+title: 'Album Review: Bottoms Up Blues Gang’s “Handle It”'
 date: 2010-10-07T05:30:16+00:00
 author: speiser
 layout: post
@@ -23,7 +23,7 @@ tags:
   </div>
   
   <p>
-    WC Handy may have written a song named the &#8220;St. Louis Blues&#8221;, but it&#8217;s not really about St. Louis, is it? It&#8217;s really about a bad woman from St. Louis. I&#8217;ve met a few bad STL women myself, but does the song really command it&#8217;s title? On their newest album Handle It, the <a href="http://www.myspace.com/thebubg">Bottoms Up Blues Gang</a> have penned a song that would suit the name quite nicely. It&#8217;s called the &#8220;South Broadway Blues&#8221; and it kicks off the disc with a pitch perfect tune about hopping between blues venues on S. Broadway.
+    WC Handy may have written a song named the “St. Louis Blues”, but it’s not really about St. Louis, is it? It’s really about a bad woman from St. Louis. I’ve met a few bad STL women myself, but does the song really command it’s title? On their newest album Handle It, the <a href="http://www.myspace.com/thebubg">Bottoms Up Blues Gang</a> have penned a song that would suit the name quite nicely. It’s called the “South Broadway Blues” and it kicks off the disc with a pitch perfect tune about hopping between blues venues on S. Broadway.
   </p>
   
   <div style="height:1.4em;visibility:hidden;">
@@ -31,7 +31,7 @@ tags:
   </div>
   
   <p>
-    St. Louis&#8217; very own BUBG has just produced this phenomenal new album that combines the beautiful, soulful vocals of Kari Liston with really tight instrumentation from guitarist Jeremy Segel-Moss along with a host of appearances from the rest of the Gang. This album hits many different styles from the New Orleans feel of &#8220;First Of May&#8221; to the sweet, wrenching intimacy of &#8220;If Only.&#8221; Although it may sound inappropriate, the Gang manages to squeeze in several upbeat blues songs, to keep the album going at a good pace. This album commands repeated listens, so go check it out.
+    St. Louis’ very own BUBG has just produced this phenomenal new album that combines the beautiful, soulful vocals of Kari Liston with really tight instrumentation from guitarist Jeremy Segel-Moss along with a host of appearances from the rest of the Gang. This album hits many different styles from the New Orleans feel of “First Of May” to the sweet, wrenching intimacy of “If Only.” Although it may sound inappropriate, the Gang manages to squeeze in several upbeat blues songs, to keep the album going at a good pace. This album commands repeated listens, so go check it out.
   </p>
   
   <div style="height:1.4em;visibility:hidden;">

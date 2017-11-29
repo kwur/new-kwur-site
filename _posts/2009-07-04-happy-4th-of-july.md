@@ -17,7 +17,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    Best government-sponsored film ever&#8230;
+    Best government-sponsored film ever…
   </p>
   
   <p>

@@ -1,6 +1,6 @@
 ---
 id: 257
-title: 'Spin Alley Livebloggin&#8217; 1'
+title: 'Spin Alley Livebloggin’ 1'
 date: 2008-10-03T00:57:00+00:00
 author: The Intern
 layout: post
@@ -21,27 +21,27 @@ categories:
   </p>
   
   <p>
-    8:02: &#8220;Can I call you Joe?&#8221; Eugggh&#8230;
+    8:02: “Can I call you Joe?” Eugggh…
   </p>
   
   <p>
-    8:03, Bailout question, Biden: Man can shape a good word, let&#8217;s see how he does on the reply. Also, he neglects to mentioned that he backed the bankruptcy bill that helped create some of these problems&#8230;
+    8:03, Bailout question, Biden: Man can shape a good word, let’s see how he does on the reply. Also, he neglects to mentioned that he backed the bankruptcy bill that helped create some of these problems…
   </p>
   
   <p>
-    8:05, Bailout question, Palin: &#8220;Betcha&#8221;? Maybe it&#8217;s just cuz I&#8217;m an east coast elite, but this have-a-beer-with-me shit grates&#8230;Oh, he&#8217;s a real martyr, suspending the campaign so you can capitalize on it politically.
+    8:05, Bailout question, Palin: “Betcha”? Maybe it’s just cuz I’m an east coast elite, but this have-a-beer-with-me shit grates…Oh, he’s a real martyr, suspending the campaign so you can capitalize on it politically.
   </p>
   
   <p>
-    8:07, Bailout question, Biden: &#8220;On the sidelines&#8221;, he takes her words and he twists them without sounding nasty. HATCHAAA!
+    8:07, Bailout question, Biden: “On the sidelines”, he takes her words and he twists them without sounding nasty. HATCHAAA!
   </p>
   
   <p>
-    8:09, Bailout, Palin: The change thing just hits me as totally incoherent, still. A change would be a change from you guys, if Biden has bad experience, so does McCain&#8230;Joe Sixpack is gonna solve the bailout by calling his congressman? Doesn&#8217;t fly, sister.
+    8:09, Bailout, Palin: The change thing just hits me as totally incoherent, still. A change would be a change from you guys, if Biden has bad experience, so does McCain…Joe Sixpack is gonna solve the bailout by calling his congressman? Doesn’t fly, sister.
   </p>
   
   <p>
-    8:11, Bailout, Biden: It almost seems like he&#8217;s not even debating her. Might be a good tactic&#8230;as someone who bleeds blue, I love to hear this assault on deregulation&#8230;that anecdote really worked.
+    8:11, Bailout, Biden: It almost seems like he’s not even debating her. Might be a good tactic…as someone who bleeds blue, I love to hear this assault on deregulation…that anecdote really worked.
   </p>
   
   <p>
@@ -53,6 +53,6 @@ categories:
   </p>
   
   <p>
-    8:14, Bailout, Palin: I wish I could not turn in a paper and say, &#8220;That&#8217;s what the American people want.&#8221; Fuckin&#8217; weak.
+    8:14, Bailout, Palin: I wish I could not turn in a paper and say, “That’s what the American people want.” Fuckin’ weak.
   </p>
 </div>

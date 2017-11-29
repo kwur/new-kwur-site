@@ -26,7 +26,7 @@ categories:
   </p>
   
   <p>
-    <br /><br />&#8220;of course, the trunk of this car is full of money&#8230;&#8221;
+    <br /><br />“of course, the trunk of this car is full of money…”
   </p>
   
   <p>

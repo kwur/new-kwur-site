@@ -15,11 +15,11 @@ tags:
 ---
 <div class="pf-content">
   <p>
-    <strong>UPDATE: The app is now live in the Android store! &nbsp;Get it here:&nbsp;<a href="https://market.android.com/details?id=gencomp.kwur.mobile">https://market.android.com/details?id=gencomp.kwur.mobile</a></strong>
+    <strong>UPDATE: The app is now live in the Android store!  Get it here: <a href="https://market.android.com/details?id=gencomp.kwur.mobile">https://market.android.com/details?id=gencomp.kwur.mobile</a></strong>
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
@@ -27,11 +27,11 @@ tags:
   </p>
   
   <p>
-    Good news everyone!&nbsp; Starting tonight, you, dear listener, can download the KWUR App for Android phones for FREE.&nbsp; It's relatively basic: it allows you to listen in to our high quality online stream and displays song information (artist, album, song) as well as album artwork.&nbsp; You can also see what's been played recently.
+    Good news everyone!  Starting tonight, you, dear listener, can download the KWUR App for Android phones for FREE.  It's relatively basic: it allows you to listen in to our high quality online stream and displays song information (artist, album, song) as well as album artwork.  You can also see what's been played recently.
   </p>
   
   <p>
-    Here are some screenshots to tide you over, and we'll be back with a link to the app itself when it goes live.&nbsp; Also, we'll have a free version available for the iPhone as soon as Mr. Jobs deems us worthy.
+    Here are some screenshots to tide you over, and we'll be back with a link to the app itself when it goes live.  Also, we'll have a free version available for the iPhone as soon as Mr. Jobs deems us worthy.
   </p>
   
   <p>
@@ -55,10 +55,10 @@ tags:
   </p>
   
   <p style="text-align: center;">
-    &nbsp;
+     
   </p>
   
   <p style="text-align: center;">
-    &nbsp;
+     
   </p>
 </div>

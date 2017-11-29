@@ -33,27 +33,27 @@ categories:
   </p>
   
   <p>
-    A sample of the things we moved to the tune of the sun-baked solo album from Animal Collective&#8217;s Panda Bear: a complete drum kit, numerous cases overstuffed with noisemakers and things to bang on, guitars, overnight bags, pillows, blankets, keyboard coffins, a milk crate for me to sit on, Christmas lights for ambience, and, finally, Kattner&#8217;s massive, might-as-well-be-a-grand-piano synthesizer, which elicited the comment, &#8220;This is why I always ask myself why I haven&#8217;t gone digital.&#8221;
+    A sample of the things we moved to the tune of the sun-baked solo album from Animal Collective’s Panda Bear: a complete drum kit, numerous cases overstuffed with noisemakers and things to bang on, guitars, overnight bags, pillows, blankets, keyboard coffins, a milk crate for me to sit on, Christmas lights for ambience, and, finally, Kattner’s massive, might-as-well-be-a-grand-piano synthesizer, which elicited the comment, “This is why I always ask myself why I haven’t gone digital.”
   </p>
   
   <p>
-    All of it Ã¢â‚¬â€ the loss of breath, the profuse sweating despite it being 20 degrees outside, the &#8220;I-swear-I-didn&#8217;t-drop-that-synthesizer!&#8221; Ã¢â‚¬â€ was worth it. It always is, at least when it leads to a great show amid terrible sound and a sexless crowd. Which is exactly how tonight&#8217;s Washington University gig went despite the degree of smashing, shrieking, leaping and convulsing that went into fan favorites like &#8220;Zebra,&#8221; &#8220;English Bwudd&#8221; and &#8220;Push the Eagle&#8217;s Stomach&#8221; and such still-developing new songs as &#8220;Spooky Jookie,&#8221; &#8220;Top Drawer&#8221; and &#8220;Hurly Burly.&#8221; (The only new jam that fell flat was a bizarre, live drum and bass interlude called &#8220;El Azteca.&#8221; And that&#8217;s only because the thing sounds inhuman on record.)
+    All of it Ã¢â‚¬â€ the loss of breath, the profuse sweating despite it being 20 degrees outside, the “I-swear-I-didn’t-drop-that-synthesizer!” Ã¢â‚¬â€ was worth it. It always is, at least when it leads to a great show amid terrible sound and a sexless crowd. Which is exactly how tonight’s Washington University gig went despite the degree of smashing, shrieking, leaping and convulsing that went into fan favorites like “Zebra,” “English Bwudd” and “Push the Eagle’s Stomach” and such still-developing new songs as “Spooky Jookie,” “Top Drawer” and “Hurly Burly.” (The only new jam that fell flat was a bizarre, live drum and bass interlude called “El Azteca.” And that’s only because the thing sounds inhuman on record.)
   </p>
   
   <p>
-    There&#8217;s a so-horrible-it&#8217;s-awesome frat row scene unfolding before us now. Not one to avoid their (hundred or so) adoring fans, Kattner, Dufala, fellow multi-instrumentalist Russell Higbee (aka Alejandro &#8220;Cougar&#8221; Bord) and Kattner&#8217;s dad have decided to follow the flier handed to them by a few nervous college radio kids to an off-campus kegger.
+    There’s a so-horrible-it’s-awesome frat row scene unfolding before us now. Not one to avoid their (hundred or so) adoring fans, Kattner, Dufala, fellow multi-instrumentalist Russell Higbee (aka Alejandro “Cougar” Bord) and Kattner’s dad have decided to follow the flier handed to them by a few nervous college radio kids to an off-campus kegger.
   </p>
   
   <p>
-    In one corner: a stack of premium day-old bagels and a hookah pumping out sweet-smelling tobacco. (Apparently no one here felt like springing for pot; oh, wait, no, that&#8217;s happening in the back room, where &#8220;the trees are at,&#8221; according to one future Volkswagen driver.) In another: a giddy DJ spinning dated dance music on turntables and a laptop. Did I mention he&#8217;s also controlling a friggin&#8217;fog machine?
+    In one corner: a stack of premium day-old bagels and a hookah pumping out sweet-smelling tobacco. (Apparently no one here felt like springing for pot; oh, wait, no, that’s happening in the back room, where “the trees are at,” according to one future Volkswagen driver.) In another: a giddy DJ spinning dated dance music on turntables and a laptop. Did I mention he’s also controlling a friggin’fog machine?
   </p>
   
   <p>
-    &#8220;This brings me back,&#8221; says Gary Kattner Ã¢â‚¬â€ think a slimmer, taller version of Ryan with a slight Texas drawl Ã¢â‚¬â€ as we raise plastic cups of nondescript beer. I smile and suck down foam but can&#8217;t help feeling like Bluto in Animal House.
+    “This brings me back,” says Gary Kattner Ã¢â‚¬â€ think a slimmer, taller version of Ryan with a slight Texas drawl Ã¢â‚¬â€ as we raise plastic cups of nondescript beer. I smile and suck down foam but can’t help feeling like Bluto in Animal House.
   </p>
   
   <p>
-    Excerpted from: <a href="http://http://www.citypaper.net/articles/2007/04/19/stillborn-again">Stillborn Again: What to do when you&#8217;re stranded in Chicago for a week with Man Man</a>
+    Excerpted from: <a href="http://http://www.citypaper.net/articles/2007/04/19/stillborn-again">Stillborn Again: What to do when you’re stranded in Chicago for a week with Man Man</a>
   </p>
   
   <p>

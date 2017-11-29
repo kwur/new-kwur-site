@@ -11,23 +11,23 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    Hey everyone, quick update on Hustle Week 2010.&nbsp; The gift price list is here:
+    Hey everyone, quick update on Hustle Week 2010.  The gift price list is here:
   </p>
   
   <p>
-    $10 &#8211; a Stack Sessions Sampler with hand-made packaging
+    $10 – a Stack Sessions Sampler with hand-made packaging
   </p>
   
   <p>
-    $25 &#8211; a hand-made KWUR t-shirt, see info below!
+    $25 – a hand-made KWUR t-shirt, see info below!
   </p>
   
   <p>
-    $50 &#8211; EITHER a custom made station ID, airing forever, that will thank you personally OR a custom t-shirt, made for you by a KWUR DJ
+    $50 – EITHER a custom made station ID, airing forever, that will thank you personally OR a custom t-shirt, made for you by a KWUR DJ
   </p>
   
   <p>
-    $100 &#8211; we will name a part of the station after you, you get to choose which part.
+    $100 – we will name a part of the station after you, you get to choose which part.
   </p>
   
   <p>
@@ -35,7 +35,7 @@ categories:
   </p>
   
   <p>
-    Sa-weet.&nbsp; Now, here are the shirts:
+    Sa-weet.  Now, here are the shirts:
   </p>
   
   <p>
@@ -47,6 +47,6 @@ categories:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
 </div>

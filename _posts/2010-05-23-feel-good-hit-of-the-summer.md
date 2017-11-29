@@ -21,6 +21,6 @@ categories:
   </p>
   
   <p>
-    <a href="http://soundonthesound.com/soundmusic/misunshine.mp3">Ty Segall &#8211; &#8220;My Sunshine&#8221; </a><br />(off of <span style="font-style: italic;">My Sunshine </span>7&#8243; on Trouble in Mind + his new LP <span style="font-style: italic;">Melted</span> on Goner Records)
+    <a href="http://soundonthesound.com/soundmusic/misunshine.mp3">Ty Segall – “My Sunshine” </a><br />(off of <span style="font-style: italic;">My Sunshine </span>7″ on Trouble in Mind + his new LP <span style="font-style: italic;">Melted</span> on Goner Records)
   </p>
 </div>

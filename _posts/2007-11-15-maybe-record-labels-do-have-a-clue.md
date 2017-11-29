@@ -20,6 +20,6 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    <a href="http://rcrdlbl.com/">RCRD LBL</a> may be unfortunately named, but it&#8217;s a fucking awesome idea. It&#8217;s essentially an MP3 blog, but it&#8217;s a partnership of a bunch of cool labels, such as Downtown, Warp, and Dim Mak. All the MP3s are free, and the artists actually get paid. There are already some cool exclusive Bloc Party and JUSTICE MP3s up there, so check it out. I&#8217;m officially excited.
+    <a href="http://rcrdlbl.com/">RCRD LBL</a> may be unfortunately named, but it’s a fucking awesome idea. It’s essentially an MP3 blog, but it’s a partnership of a bunch of cool labels, such as Downtown, Warp, and Dim Mak. All the MP3s are free, and the artists actually get paid. There are already some cool exclusive Bloc Party and JUSTICE MP3s up there, so check it out. I’m officially excited.
   </p>
 </div>

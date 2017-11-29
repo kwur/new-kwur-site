@@ -14,15 +14,15 @@ tags:
 ---
 <div class="pf-content">
   <p>
-    For this month&#8217;s recent classical CD arrivals at KWUR, the quotient of contemporary music is higher than usual, as most classical CDs tend to feature composers long departed.  The first two listed of this month&#8217;s selections, however, buck that feature:
+    For this month’s recent classical CD arrivals at KWUR, the quotient of contemporary music is higher than usual, as most classical CDs tend to feature composers long departed.  The first two listed of this month’s selections, however, buck that feature:
   </p>
   
   <p>
-    * Marc-André Hamelin (composer and pianist): <em>12 Études in all the minor keys</em>; <em>Little Nocturne</em>; Selections from <em>Con intimissimo sentimento</em>; <em>Theme and Variations</em> (&#8216;Cathy&#8217;s Variations&#8217;) (<a title="Hyperion CDA67789" href="http://www.hyperion-records.co.uk/al.asp?al=CDA67789" target="_blank">Hyperion CDA67789)</a>
+    * Marc-André Hamelin (composer and pianist): <em>12 Études in all the minor keys</em>; <em>Little Nocturne</em>; Selections from <em>Con intimissimo sentimento</em>; <em>Theme and Variations</em> (‘Cathy’s Variations’) (<a title="Hyperion CDA67789" href="http://www.hyperion-records.co.uk/al.asp?al=CDA67789" target="_blank">Hyperion CDA67789)</a>
   </p>
   
   <p>
-    * Arvo Pärt: (a) Symphony No. 4 (&#8220;Los Angeles&#8221;) and (b) &#8220;Fragments from <em>Kanon Pokajanen</em>&#8220;, with (a) Los Angeles Philharmonic; Esa-Pekka Salonen, conductor; and (b) Estonian Philharmonic Chamber Choir; Tõnu Kaljuste, conductor (<a title="ECM New Series 2160" href="http://www.ecmrecords.com/Catalogue/New_Series/2100/2160.php" target="_blank">ECM New Series 2160)</a>
+    * Arvo Pärt: (a) Symphony No. 4 (“Los Angeles”) and (b) “Fragments from <em>Kanon Pokajanen</em>“, with (a) Los Angeles Philharmonic; Esa-Pekka Salonen, conductor; and (b) Estonian Philharmonic Chamber Choir; Tõnu Kaljuste, conductor (<a title="ECM New Series 2160" href="http://www.ecmrecords.com/Catalogue/New_Series/2100/2160.php" target="_blank">ECM New Series 2160)</a>
   </p>
   
   <p>
@@ -42,7 +42,7 @@ tags:
   </p>
   
   <p>
-    * stile antico: <em>Puer Natus Est</em>, including Thomas Tallis&#8217; <em>Missa Puer natus est</em> and selections by John Taverner, William Byrd, Robert White and John Sheppard (<a title="harmonia mundi 807157" href="http://www.harmoniamundi.com/#/albums?id=1561" target="_blank">harmonia mundi HMU 807517</a>)
+    * stile antico: <em>Puer Natus Est</em>, including Thomas Tallis’ <em>Missa Puer natus est</em> and selections by John Taverner, William Byrd, Robert White and John Sheppard (<a title="harmonia mundi 807157" href="http://www.harmoniamundi.com/#/albums?id=1561" target="_blank">harmonia mundi HMU 807517</a>)
   </p>
   
   <p>

@@ -1,6 +1,6 @@
 ---
 id: 189
-title: 'WFMU Calls &quot;St. Louis Whirl&quot; the &quot;Greatest Newspaper Ever Printed&quot;'
+title: 'WFMU Calls "St. Louis Whirl" the "Greatest Newspaper Ever Printed"'
 date: 2008-04-13T21:40:00+00:00
 author: Klax
 layout: post
@@ -17,7 +17,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    One of our favorite blogs, WFMU&#8217;s <a href="http://blog.wfmu.org/">Beware of the Blog</a> from <a href="http://www.wfmu.org/">WMFU</a> 91.1 FM Jersey City, NJ, just featured a lengthy post about St. Louis&#8217; own crime fighting newspaper, the &#8220;Evening Whirl&#8221;&#8230;
+    One of our favorite blogs, WFMU’s <a href="http://blog.wfmu.org/">Beware of the Blog</a> from <a href="http://www.wfmu.org/">WMFU</a> 91.1 FM Jersey City, NJ, just featured a lengthy post about St. Louis’ own crime fighting newspaper, the “Evening Whirl”…
   </p>
   
   <p>

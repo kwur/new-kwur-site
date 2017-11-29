@@ -33,6 +33,6 @@ categories:
   </ol>
   
   <p>
-    And while I'm doling out well-earned props, I'd like to call attention to acclaimed blues trio Rum Drum Ramblers, who are playing a record release show at Off Broadway on Thursday, February 24 with Carbondale's own punkgrass outfit Whistle Pigs. Fans of Pokey LaFarge will be especially interested in checking out the show&#8211;Rum Drum and the South City Three share harmonica and bass talent. You should go!
+    And while I'm doling out well-earned props, I'd like to call attention to acclaimed blues trio Rum Drum Ramblers, who are playing a record release show at Off Broadway on Thursday, February 24 with Carbondale's own punkgrass outfit Whistle Pigs. Fans of Pokey LaFarge will be especially interested in checking out the show–Rum Drum and the South City Three share harmonica and bass talent. You should go!
   </p>
 </div>

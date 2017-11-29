@@ -1,6 +1,6 @@
 ---
 id: 505
-title: 'Album Review: Kings Go Forth, &quot;The Outsiders Are Back&quot;'
+title: 'Album Review: Kings Go Forth, "The Outsiders Are Back"'
 date: 2010-04-13T06:32:00+00:00
 author: The Intern
 layout: post
@@ -17,7 +17,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/442px-Johnny_Gruelle_illustration_-_Rapunzel_-_Project_Gutenberg_etext_11027-774133.jpg"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 236px; height: 320px;" src="http://www.kwur.com/blog/uploaded_images/442px-Johnny_Gruelle_illustration_-_Rapunzel_-_Project_Gutenberg_etext_11027-774129.jpg" border="0" alt="" /></a><br />Vintage soul sounds from Milwaukee, but don&#8217;t think Daptone. These guys have a lush early 70s Chicago Curtis Mayfield sound, occasionally venturing into a mid 70s Harold Melvin float or even freaky &#8220;Here My Dear&#8221;/Shuggie Otis experimentation. This percussion section is the best I&#8217;ve heard in a long time. Definitely give this a listen.
+    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/442px-Johnny_Gruelle_illustration_-_Rapunzel_-_Project_Gutenberg_etext_11027-774133.jpg"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 236px; height: 320px;" src="http://www.kwur.com/blog/uploaded_images/442px-Johnny_Gruelle_illustration_-_Rapunzel_-_Project_Gutenberg_etext_11027-774129.jpg" border="0" alt="" /></a><br />Vintage soul sounds from Milwaukee, but don’t think Daptone. These guys have a lush early 70s Chicago Curtis Mayfield sound, occasionally venturing into a mid 70s Harold Melvin float or even freaky “Here My Dear”/Shuggie Otis experimentation. This percussion section is the best I’ve heard in a long time. Definitely give this a listen.
   </p>
   
   <p>

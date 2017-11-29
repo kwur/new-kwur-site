@@ -1,6 +1,6 @@
 ---
 id: 318
-title: 'GET READY, CONTD&#8211; BLUES/FOLK @ KWURWEEK'
+title: 'GET READY, CONTD– BLUES/FOLK @ KWURWEEK'
 date: 2009-02-05T16:50:00+00:00
 author: Admin
 layout: post
@@ -17,7 +17,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    <span style="font-weight:bold;">PHILLIP ROEBUCK &#8211; ONE MAN BAND</span>
+    <span style="font-weight:bold;">PHILLIP ROEBUCK – ONE MAN BAND</span>
   </p>
   
   <p>

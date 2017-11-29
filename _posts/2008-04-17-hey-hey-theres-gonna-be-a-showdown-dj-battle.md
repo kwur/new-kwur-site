@@ -1,6 +1,6 @@
 ---
 id: 191
-title: 'HEY, HEY, THERE&#8217;S GONNA BE A SHOWDOWN!: DJ BATTLE'
+title: 'HEY, HEY, THERE’S GONNA BE A SHOWDOWN!: DJ BATTLE'
 date: 2008-04-17T05:28:00+00:00
 author: The Intern
 layout: post
@@ -17,6 +17,6 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    Tune in to KWUR this Saturday from 10 to 12 to hear an electroclash of the titans, between DJ Ion and DJ Drew &#8220;On The&#8221; Mark, the Honorable DJ Tara Pham presiding. Two highly skilled dance DJs doing it up at your very own underground radio station. Even if y&#8217;all are at a party, turn us on and groove!
+    Tune in to KWUR this Saturday from 10 to 12 to hear an electroclash of the titans, between DJ Ion and DJ Drew “On The” Mark, the Honorable DJ Tara Pham presiding. Two highly skilled dance DJs doing it up at your very own underground radio station. Even if y’all are at a party, turn us on and groove!
   </p>
 </div>

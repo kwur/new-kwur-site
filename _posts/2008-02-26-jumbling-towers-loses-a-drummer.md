@@ -18,7 +18,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    It looks like Scott Ingram, drummer for Jumbling Towers, will be leaving the band. He will, however, be playing with the band on Thursday&#8217;s KWUR Week show. Yet another reason to come to the show&#8230;
+    It looks like Scott Ingram, drummer for Jumbling Towers, will be leaving the band. He will, however, be playing with the band on Thursday’s KWUR Week show. Yet another reason to come to the show…
   </p>
   
   <p>

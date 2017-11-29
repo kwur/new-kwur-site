@@ -1,6 +1,6 @@
 ---
 id: 98
-title: 'Charts &#8211; 11/26 (Caring about the old folks)'
+title: 'Charts – 11/26 (Caring about the old folks)'
 date: 2007-11-27T00:02:00+00:00
 author: djtanner
 layout: post
@@ -27,7 +27,7 @@ categories:
       </td>
       
       <td>
-        I&#8217;m Not There
+        I’m Not There
       </td>
       
       <td>
@@ -90,7 +90,7 @@ categories:
       </td>
       
       <td>
-        Shotter&#8217;s Nation
+        Shotter’s Nation
       </td>
       
       <td>
@@ -237,7 +237,7 @@ categories:
       </td>
       
       <td>
-        &#8217;07
+        ’07
       </td>
       
       <td>
@@ -384,7 +384,7 @@ categories:
       </td>
       
       <td>
-        Grass Geysers&#8230; Carbon Clouds
+        Grass Geysers… Carbon Clouds
       </td>
       
       <td>

@@ -1,6 +1,6 @@
 ---
 id: 482
-title: 'Album Review: Hot Chip, &quot;One Life Stand&quot;'
+title: 'Album Review: Hot Chip, "One Life Stand"'
 date: 2010-02-09T05:28:00+00:00
 author: Chase
 layout: post
@@ -26,7 +26,7 @@ categories:
   </div>
   
   <div>
-    <span class="Apple-style-span" style="font-size: small;">Though a lot of the songs are obviously electronics based, their composition and presentation seems more in line with rock music. A lot of their preparation for the album came from extended time in the studio, not something you necessarily expect from an &#8220;electronic&#8221; band.</span>
+    <span class="Apple-style-span" style="font-size: small;">Though a lot of the songs are obviously electronics based, their composition and presentation seems more in line with rock music. A lot of their preparation for the album came from extended time in the studio, not something you necessarily expect from an “electronic” band.</span>
   </div>
   
   <div>

@@ -11,15 +11,15 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    Tommy Kruise is an OG Canadian beat maker.&nbsp;Hailing from outside of Montreal, he's a master of the chopped and screwed and channels Southern rap like it's nobody's bussiness.&nbsp;<span style="font-size: 13px; line-height: 20.7999992370605px;">He's going on tour with RL Grime and Branchez and will be in St. Louis</span><span style="font-size: 13px; line-height: 20.7999992370605px;">&nbsp;November 15th at the Old Rock House. I figured now would be a great time to ask him</span>&nbsp;if he could tell us&nbsp;5 songs he's been banging recently and boy did he deliver. All but the last one have music videos too!&nbsp;Check out his new EP&nbsp;<a href="https://soundcloud.com/tommykruise/sets/f-te-foreign-free-dl-link-in">F&Ecirc;TE FOREIGN</a>&nbsp;(free DL) and his 5 songs below.&nbsp;
+    Tommy Kruise is an OG Canadian beat maker. Hailing from outside of Montreal, he's a master of the chopped and screwed and channels Southern rap like it's nobody's bussiness. <span style="font-size: 13px; line-height: 20.7999992370605px;">He's going on tour with RL Grime and Branchez and will be in St. Louis</span><span style="font-size: 13px; line-height: 20.7999992370605px;"> November 15th at the Old Rock House. I figured now would be a great time to ask him</span> if he could tell us 5 songs he's been banging recently and boy did he deliver. All but the last one have music videos too! Check out his new EP <a href="https://soundcloud.com/tommykruise/sets/f-te-foreign-free-dl-link-in">FÊTE FOREIGN</a> (free DL) and his 5 songs below. 
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
-    <span style="color: rgb(51, 51, 51); font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; font-size: 11px; background-color: rgb(255, 255, 255);">1. VINCE STAPLES &#8211; BLUE SUEDE</span>
+    <span style="color: rgb(51, 51, 51); font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; font-size: 11px; background-color: rgb(255, 255, 255);">1. VINCE STAPLES – BLUE SUEDE</span>
   </p>
   
   <p>
@@ -30,15 +30,15 @@ categories:
   </div>
   
   <div style="color: rgb(51, 51, 51); font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; font-size: 11px; background-color: rgb(255, 255, 255);">
-    &nbsp;
+     
   </div>
   
   <div style="color: rgb(51, 51, 51); font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; font-size: 11px; background-color: rgb(255, 255, 255);">
-    &nbsp;
+     
   </div>
   
   <div style="color: rgb(51, 51, 51); font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; font-size: 11px; background-color: rgb(255, 255, 255);">
-    2. &nbsp;YUNG GLEESH &#8211; SINCE WHEN&nbsp;
+    2.  YUNG GLEESH – SINCE WHEN 
   </div>
   
   <p>
@@ -49,15 +49,15 @@ categories:
   </div>
   
   <div style="color: rgb(51, 51, 51); font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; font-size: 11px; background-color: rgb(255, 255, 255);">
-    &nbsp;
+     
   </div>
   
   <div style="color: rgb(51, 51, 51); font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; font-size: 11px; background-color: rgb(255, 255, 255);">
-    &nbsp;
+     
   </div>
   
   <div style="color: rgb(51, 51, 51); font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; font-size: 11px; background-color: rgb(255, 255, 255);">
-    3. BOLDY JAMES &#8211; CRUNCHIN'
+    3. BOLDY JAMES – CRUNCHIN'
   </div>
   
   <p>
@@ -68,15 +68,15 @@ categories:
   </div>
   
   <div style="color: rgb(51, 51, 51); font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; font-size: 11px; background-color: rgb(255, 255, 255);">
-    &nbsp;
+     
   </div>
   
   <div style="color: rgb(51, 51, 51); font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; font-size: 11px; background-color: rgb(255, 255, 255);">
-    &nbsp;
+     
   </div>
   
   <div style="color: rgb(51, 51, 51); font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; font-size: 11px; background-color: rgb(255, 255, 255);">
-    4. MBE &#8211; HAVE A PARTY
+    4. MBE – HAVE A PARTY
   </div>
   
   <p>
@@ -87,15 +87,15 @@ categories:
   </div>
   
   <div style="color: rgb(51, 51, 51); font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; font-size: 11px; background-color: rgb(255, 255, 255);">
-    &nbsp;
+     
   </div>
   
   <div style="color: rgb(51, 51, 51); font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; font-size: 11px; background-color: rgb(255, 255, 255);">
-    &nbsp;
+     
   </div>
   
   <div style="color: rgb(51, 51, 51); font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; font-size: 11px; background-color: rgb(255, 255, 255);">
-    5. GUCCI MANE &#8211; SO HOODY
+    5. GUCCI MANE – SO HOODY
   </div>
   
   <p>
@@ -106,7 +106,7 @@ categories:
   </div>
   
   <div style="color: rgb(51, 51, 51); font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; font-size: 11px; background-color: rgb(255, 255, 255);">
-    &nbsp;
+     
   </div>
   
   <p style="color: rgb(51, 51, 51); font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; font-size: 11px; background-color: rgb(255, 255, 255);">
@@ -114,10 +114,10 @@ categories:
   </p>
   
   <p style="color: rgb(51, 51, 51); font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; font-size: 11px; background-color: rgb(255, 255, 255);">
-    Big ups to Tommy Kruise for his time and recs. Don't miss him in November.&nbsp;
+    Big ups to Tommy Kruise for his time and recs. Don't miss him in November. 
   </p>
   
   <p style="color: rgb(51, 51, 51); font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; font-size: 11px; background-color: rgb(255, 255, 255);">
-    &#8211; Nathan&nbsp;
+    – Nathan 
   </p>
 </div>

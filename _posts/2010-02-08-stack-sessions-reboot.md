@@ -17,11 +17,11 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    Hey all &#8212;
+    Hey all —
   </p>
   
   <p>
-    stack sessions is back and out of beta! we have a couple of new staff members workin&#8217; real hard to bring all sorts of live music to the masses via the KWUR studios. Here&#8217;s what&#8217;s set up so far:
+    stack sessions is back and out of beta! we have a couple of new staff members workin’ real hard to bring all sorts of live music to the masses via the KWUR studios. Here’s what’s set up so far:
   </p>
   
   <p>
@@ -29,10 +29,10 @@ categories:
   </p>
   
   <p>
-    and there&#8217;s more to come&#8230;.
+    and there’s more to come….
   </p>
   
   <p>
-    OH YEAH DON&#8217;T FORGET KWUR Week is coming, too. Check below for the details, okay.
+    OH YEAH DON’T FORGET KWUR Week is coming, too. Check below for the details, okay.
   </p>
 </div>

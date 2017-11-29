@@ -1,6 +1,6 @@
 ---
 id: 436
-title: 'Album Review: The Almighty Defenders, &quot;The Almighty Defenders&quot;'
+title: 'Album Review: The Almighty Defenders, "The Almighty Defenders"'
 date: 2009-10-09T03:59:00+00:00
 author: The Intern
 layout: post
@@ -21,7 +21,7 @@ categories:
   </p>
   
   <p>
-    WOAH!! Best thing I&#8217;ve heard all year. The Almighty Defenders is a supergroup of King Khan, The Black Lips and Mark Sultan (as if they all didn&#8217;t play together anyway). In ten days, they recorded this jangly, lo-fi, whiskey soaked garage soul record. Remin. of Screamin&#8217; Jay Hawkins and Northern Soul stompers. This takes the King Khan/Black Lips project to the next level. What No Wave did to funk, this does to soul.
+    WOAH!! Best thing I’ve heard all year. The Almighty Defenders is a supergroup of King Khan, The Black Lips and Mark Sultan (as if they all didn’t play together anyway). In ten days, they recorded this jangly, lo-fi, whiskey soaked garage soul record. Remin. of Screamin’ Jay Hawkins and Northern Soul stompers. This takes the King Khan/Black Lips project to the next level. What No Wave did to funk, this does to soul.
   </p>
   
   <p>

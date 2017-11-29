@@ -18,7 +18,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    Nashville&#8217;s <a href="http://www.myspace.com/jakeandjamin">JEFF The Brotherhood</a> dominated Open Lot last Tuesday, alongside St. Louis&#8217; very own <a href="http://www.myspace.com/beespellingbee">Spelling Bee</a> and <a href="http://www.myspace.com/radicalsons">Radical Sons</a>. It was one of the best shows I&#8217;ve seen all summer, and I&#8217;m hoping they roll through town again soon (seriously, check out their myspace &#8211; I can&#8217;t quite place their sound but I&#8217;m pretty sure my co-MD would dig it. Thoughts, Dan?) Anyway, I sat down with bros Jake and Jamin after their set for a very entertaining, fairly drunken conversation about the Nashville scene, running a record label, and things we love and hate.
+    Nashville’s <a href="http://www.myspace.com/jakeandjamin">JEFF The Brotherhood</a> dominated Open Lot last Tuesday, alongside St. Louis’ very own <a href="http://www.myspace.com/beespellingbee">Spelling Bee</a> and <a href="http://www.myspace.com/radicalsons">Radical Sons</a>. It was one of the best shows I’ve seen all summer, and I’m hoping they roll through town again soon (seriously, check out their myspace – I can’t quite place their sound but I’m pretty sure my co-MD would dig it. Thoughts, Dan?) Anyway, I sat down with bros Jake and Jamin after their set for a very entertaining, fairly drunken conversation about the Nashville scene, running a record label, and things we love and hate.
   </p>
   
   <p>

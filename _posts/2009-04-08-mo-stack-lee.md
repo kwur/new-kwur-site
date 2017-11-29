@@ -29,38 +29,38 @@ categories:
   </p>
   
   <p>
-    called the bartender to give me a bite to eat<br />he gave me a muddy glass and a tough piece of meat<br />I say &#8220;say sonuvabitch don&#8217;t you know who I am?&#8221;<br />he said &#8220;frankly mister I don&#8217;t give a damn&#8221;
+    called the bartender to give me a bite to eat<br />he gave me a muddy glass and a tough piece of meat<br />I say “say sonuvabitch don’t you know who I am?”<br />he said “frankly mister I don’t give a damn”
   </p>
   
   <p>
-    he said &#8220;I&#8217;ve heard of you down the way<br />I meet you raggedyass bastards damn near every day&#8221;<br />well the motherfucked never said much more<br />for one of my bullets laid the bastard dead on the floor
+    he said “I’ve heard of you down the way<br />I meet you raggedyass bastards damn near every day”<br />well the motherfucked never said much more<br />for one of my bullets laid the bastard dead on the floor
   </p>
   
   <p>
-    a lady walked in said &#8220;oh god please&#8221;<br />I said &#8220;speak softly ma&#8217;am his mind is at ease&#8221;<br />she said &#8220;please don&#8217;t tell me my son is dead&#8221;<br />I said &#8220;if you don&#8217;t believe me cunt look at the hole in his head&#8221;
+    a lady walked in said “oh god please”<br />I said “speak softly ma’am his mind is at ease”<br />she said “please don’t tell me my son is dead”<br />I said “if you don’t believe me cunt look at the hole in his head”
   </p>
   
   <p>
-    she said &#8220;I&#8217;ve heard of you you bastard your name is STACK<br />but you better not be here when billy lion get back&#8221;<br />&#8220;I&#8217;ll be here when the time comes and pass<br />and fuck your billy lion right dead in his ass&#8221;
+    she said “I’ve heard of you you bastard your name is STACK<br />but you better not be here when billy lion get back”<br />“I’ll be here when the time comes and pass<br />and fuck your billy lion right dead in his ass”
   </p>
   
   <p>
-    [&#8230;]
+    […]
   </p>
   
   <p>
-    judge said, &#8220;well now stack you&#8217;ve led a simple life<br />fucked your sister and killed your wife<br />there&#8217;s only one thing left for me to that&#8217;s give you twenty years time&#8221;<br />I said, &#8220;well fuck judge that&#8217;s nothin my mother&#8217;s doin&#8217; twentynine&#8221;
+    judge said, “well now stack you’ve led a simple life<br />fucked your sister and killed your wife<br />there’s only one thing left for me to that’s give you twenty years time”<br />I said, “well fuck judge that’s nothin my mother’s doin’ twentynine”
   </p>
   
   <p>
-    <a href="http://books.google.com/books?id=kM3jL1KUeYoC&#038;printsec=frontcover&#038;source=gbs_summary_r&#038;cad=0"><br />MORE HERE</a>
+    <a href="http://books.google.com/books?id=kM3jL1KUeYoC&printsec=frontcover&source=gbs_summary_r&cad=0"><br />MORE HERE</a>
   </p>
   
   <p>
-    I had a planned to write a real response/continuation to brent&#8217;s stack lee post<br />but it just got away from me you know
+    I had a planned to write a real response/continuation to brent’s stack lee post<br />but it just got away from me you know
   </p>
   
   <p>
-    and then <a href="http://oldweirdamerica.wordpress.com/category/19-stackalee-by-frank-hutchison/">HERE HERE HERE</a> there&#8217;s this great free zip comp of some of the best versions<br />so I suggest you head over there and check those out
+    and then <a href="http://oldweirdamerica.wordpress.com/category/19-stackalee-by-frank-hutchison/">HERE HERE HERE</a> there’s this great free zip comp of some of the best versions<br />so I suggest you head over there and check those out
   </p>
 </div>

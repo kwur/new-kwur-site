@@ -1,6 +1,6 @@
 ---
 id: 488
-title: 'Album Review: A Faulty Chromosome, &quot;Craving To Be Coddled&#8230;&quot;'
+title: 'Album Review: A Faulty Chromosome, "Craving To Be Coddled…"'
 date: 2010-03-03T07:58:00+00:00
 author: The Intern
 layout: post
@@ -17,7 +17,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/21_trisomy_-_Down_syndrome-735816.png"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 320px; height: 198px;" src="http://www.kwur.com/blog/uploaded_images/21_trisomy_-_Down_syndrome-735811.png" border="0" alt="" /></a><br />Pretty much textbook chillwave (Neon Indian, Memory Tapes). Alternatively, a lo-fi, sometimes atonal Architecture in Helsinki. Some deej will love this. Parts are good, but overall didn&#8217;t really hold my attention. I just don&#8217;t care that much about your middle class childhood.
+    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/21_trisomy_-_Down_syndrome-735816.png"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 320px; height: 198px;" src="http://www.kwur.com/blog/uploaded_images/21_trisomy_-_Down_syndrome-735811.png" border="0" alt="" /></a><br />Pretty much textbook chillwave (Neon Indian, Memory Tapes). Alternatively, a lo-fi, sometimes atonal Architecture in Helsinki. Some deej will love this. Parts are good, but overall didn’t really hold my attention. I just don’t care that much about your middle class childhood.
   </p>
   
   <p>

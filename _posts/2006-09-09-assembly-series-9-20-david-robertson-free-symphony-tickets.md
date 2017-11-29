@@ -29,15 +29,15 @@ categories:
   </p>
   
   <p>
-    In addition, Wash U has some tickets to give away for the &#8220;Sound Check Preview&#8221; concert of the SLSO&#8217;s opening weekend, on Thursday, Sept. 21:
+    In addition, Wash U has some tickets to give away for the “Sound Check Preview” concert of the SLSO’s opening weekend, on Thursday, Sept. 21:
   </p>
   
   <p>
-    &#8220;WU students: Free Saint Louis Symphony Orchestra tickets are available for a September 21, 2006 performance. Call 935-5994 for additional information.&#8221;
+    “WU students: Free Saint Louis Symphony Orchestra tickets are available for a September 21, 2006 performance. Call 935-5994 for additional information.”
   </p>
   
   <p>
-    If you can&#8217;t get these free tickets, all tickets for that Thursday 9/21 concert are $10, every seat in the house. If you&#8217;ve never been to the Symphony, this is a great intro to them. This is the music on the program:
+    If you can’t get these free tickets, all tickets for that Thursday 9/21 concert are $10, every seat in the house. If you’ve never been to the Symphony, this is a great intro to them. This is the music on the program:
   </p>
   
   <p>

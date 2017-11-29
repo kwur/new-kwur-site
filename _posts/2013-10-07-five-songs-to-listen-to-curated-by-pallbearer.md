@@ -11,11 +11,11 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    Pallbearer just kicked off a big tour with American doom metal legends St. Vitus. In the second installment of Five Songs To LIsten To, we met up with Pallbearer bassist Joe Rowland and guitarist Devin Holt, who gave us an awesome list of songs that they think everyone should hear, ranging from fatalistic country to crushing sludge metal.&nbsp;
+    Pallbearer just kicked off a big tour with American doom metal legends St. Vitus. In the second installment of Five Songs To LIsten To, we met up with Pallbearer bassist Joe Rowland and guitarist Devin Holt, who gave us an awesome list of songs that they think everyone should hear, ranging from fatalistic country to crushing sludge metal. 
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
@@ -23,50 +23,50 @@ categories:
   </p>
   
   <p>
-    1. <a href="http://grooveshark.com/#!/album/Poet+A+Tribute+To+Townes+Van+Zandt+2009+Reissue/4588206">Lucinda Williams &#8211; Nothin' (Townes Van Zandt cover)</a>&nbsp;
+    1. <a href="http://grooveshark.com/#!/album/Poet+A+Tribute+To+Townes+Van+Zandt+2009+Reissue/4588206">Lucinda Williams – Nothin' (Townes Van Zandt cover)</a> 
   </p>
   
   <p>
-    "This is by far, the saddest song I've ever heard in my entire life. I never knew music could sound this hopeless and bleak." &#8211; Joe
+    "This is by far, the saddest song I've ever heard in my entire life. I never knew music could sound this hopeless and bleak." – Joe
   </p>
   
   <p>
-    2. <a href="http://www.youtube.com/watch?v=AF-XTP6VZ9E">George Jones &#8211; If Drinking Dont Kill Me</a>
+    2. <a href="http://www.youtube.com/watch?v=AF-XTP6VZ9E">George Jones – If Drinking Dont Kill Me</a>
   </p>
   
   <p>
-    "There's a lot of parallell between early doom metal and old-school country. Living in a car, moving from town to town, hoping that some promoter somewhere had a spot open for a show." &#8211; Devin
+    "There's a lot of parallell between early doom metal and old-school country. Living in a car, moving from town to town, hoping that some promoter somewhere had a spot open for a show." – Devin
   </p>
   
   <p>
-    3. <a href="http://www.youtube.com/watch?v=yH5yH03Tlp4">Floor &#8211; Scimitar</a>
+    3. <a href="http://www.youtube.com/watch?v=yH5yH03Tlp4">Floor – Scimitar</a>
   </p>
   
   <p>
-    "This was the first song that really got me into heavy music." &#8211; Joe
+    "This was the first song that really got me into heavy music." – Joe
   </p>
   
   <p>
-    4. <a href="http://www.youtube.com/watch?v=U9kGpx88MoE">Ulver &#8211; Eos</a>
+    4. <a href="http://www.youtube.com/watch?v=U9kGpx88MoE">Ulver – Eos</a>
   </p>
   
   <p>
-    "Ulver never compromised their sound, and I respect them for that. They always did whatever they felt like doing, and we strive to do the same thing." &#8211; Devin
+    "Ulver never compromised their sound, and I respect them for that. They always did whatever they felt like doing, and we strive to do the same thing." – Devin
   </p>
   
   <p>
-    5. <a href="http://www.youtube.com/watch?v=wxph3ow9gs0">Klaus Schultze &#8211; Floating</a>
+    5. <a href="http://www.youtube.com/watch?v=wxph3ow9gs0">Klaus Schultze – Floating</a>
   </p>
   
   <p>
-    "This song speaks to me, even though it's just analog synth and drums. It exemplifiies a state of being that I want to achieve." &#8211; Joe
+    "This song speaks to me, even though it's just analog synth and drums. It exemplifiies a state of being that I want to achieve." – Joe
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
-    Huge thanks to Joe and Devin for their time. Listen to Thought Forge Sundae this Thursday at 10 pm to hear the full interview, and stay tuned for the next installment of FIVE SONGS TO LISTEN TO.&nbsp;
+    Huge thanks to Joe and Devin for their time. Listen to Thought Forge Sundae this Thursday at 10 pm to hear the full interview, and stay tuned for the next installment of FIVE SONGS TO LISTEN TO. 
   </p>
 </div>

@@ -21,7 +21,7 @@ categories:
   </p>
   
   <p>
-    I promised a little poll thing last week, but life got in the way and I didn&#8217;t get around to making it until this weekend. Thus, without further ado&#8230;
+    I promised a little poll thing last week, but life got in the way and I didn’t get around to making it until this weekend. Thus, without further ado…
   </p>
   
   <p>
@@ -33,11 +33,11 @@ categories:
   </p>
   
   <p>
-    Okay, a few things. First up, yeah, it looks like the Pitchfork poll but that&#8217;s because the survey generator they used is super easy to work with. All of the music listed in the best album/etc. was played on KWUR this past year (with a single exception, which should be pretty easy to pick out). So, yeah, the list may not be comprehensive, but it&#8217;s what we&#8217;re playing. It&#8217;s a great opportunity to see what you like/hate, and also what we&#8217;re missing or you&#8217;d like to see us play more of.
+    Okay, a few things. First up, yeah, it looks like the Pitchfork poll but that’s because the survey generator they used is super easy to work with. All of the music listed in the best album/etc. was played on KWUR this past year (with a single exception, which should be pretty easy to pick out). So, yeah, the list may not be comprehensive, but it’s what we’re playing. It’s a great opportunity to see what you like/hate, and also what we’re missing or you’d like to see us play more of.
   </p>
   
   <p>
-    Most importantly, if you take the survey and give us your email at the end, you will be entered to win an Of Montreal schwag-pack &#8211; including the new album, Skeletal Lamping, on vinyl, CD, a poster, and pins. Take the survey before someone steals it! (oh yeah, we&#8217;re not gonna do anything with the email addresses after that, just need a way to tell you that you&#8217;ve won)
+    Most importantly, if you take the survey and give us your email at the end, you will be entered to win an Of Montreal schwag-pack – including the new album, Skeletal Lamping, on vinyl, CD, a poster, and pins. Take the survey before someone steals it! (oh yeah, we’re not gonna do anything with the email addresses after that, just need a way to tell you that you’ve won)
   </p>
   
   <p>

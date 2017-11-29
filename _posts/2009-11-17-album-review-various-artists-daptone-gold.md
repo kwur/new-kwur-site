@@ -1,6 +1,6 @@
 ---
 id: 454
-title: 'Album Review &#8211; Various Artists, &quot;Daptone Gold&quot;'
+title: 'Album Review – Various Artists, "Daptone Gold"'
 date: 2009-11-17T19:02:00+00:00
 author: The Intern
 layout: post
@@ -17,7 +17,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/GoldNuggetUSGOV-777314.jpg"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 320px; height: 216px;" src="http://www.kwur.com/blog/uploaded_images/GoldNuggetUSGOV-777312.jpg" border="0" alt="" /></a><br />The rawest, funkiest, most soulful label since Stax went under &#8211; Brooklyn-based Daptone Records &#8211; releases a best of collection that really earns the title. It&#8217;s all good: jaw-dropping instrumental and vocal talent, tight arrangements, sterling recording; I&#8217;ll just point out the previously vinyl-only/unreleased/rarities here.
+    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/GoldNuggetUSGOV-777314.jpg"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 320px; height: 216px;" src="http://www.kwur.com/blog/uploaded_images/GoldNuggetUSGOV-777312.jpg" border="0" alt="" /></a><br />The rawest, funkiest, most soulful label since Stax went under – Brooklyn-based Daptone Records – releases a best of collection that really earns the title. It’s all good: jaw-dropping instrumental and vocal talent, tight arrangements, sterling recording; I’ll just point out the previously vinyl-only/unreleased/rarities here.
   </p>
   
   <p>

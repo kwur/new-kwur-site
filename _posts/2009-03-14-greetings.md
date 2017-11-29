@@ -21,6 +21,6 @@ categories:
   </p>
   
   <p>
-    From the People&#8217;s Republic of China.
+    From the People’s Republic of China.
   </p>
 </div>

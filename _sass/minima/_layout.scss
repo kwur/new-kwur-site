@@ -222,20 +222,38 @@
 }
 
 .listen-in {
-  @include relative-font-size(4.9);
   font-weight: $base-font-heavy;
-  color: #fff;
   text-decoration: none;
+  text-align: center;
 
   top: 50%;
   position: absolute;
   right: 50%;
   transform: translateX(50%) translateY(-50%);
+}
+
+.listen-in > a {
+  @include relative-font-size(4.8);
+    color: #fff;
 
   @include media-query($on-palm) {
     @include relative-font-size(2.25);
   }
 }
+
+.listen-in-show {
+  @include relative-font-size(2.2);
+    color: #fff;
+
+  @include media-query($on-laptop) {
+    @include relative-font-size(1.7);
+  }
+
+  @include media-query($on-palm) {
+    @include relative-font-size(1.2);
+  }
+}
+
 .listen-in:hover { color: #fff; }
 .listen-in:visited { color: #fff; }
 .listen-in:active { color: #fff; }

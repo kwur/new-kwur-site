@@ -39,62 +39,62 @@ categories:
     
     <div>
       <p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Lucida Grande">
-        Tits & Clits &#8211; Fist of Steel
+        Tits & Clits – Fist of Steel
       </p>
       
       <p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Lucida Grande">
         <p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Lucida Grande">
-          Snob Scrilla &#8211; Heartbreak Scorsese (&#8217;96 Bulls Remix)
+          Snob Scrilla – Heartbreak Scorsese (’96 Bulls Remix)
         </p>
         
         <p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Lucida Grande">
           <p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Lucida Grande">
-            Chromeo &#8211; Tenderoni (MSTRKRFT Remix)
+            Chromeo – Tenderoni (MSTRKRFT Remix)
           </p>
           
           <p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Lucida Grande">
             <p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Lucida Grande">
-              Guns &#8216;n&#8217; Bombs &#8211; Riddle of Steel (Classixx Version)
+              Guns ‘n’ Bombs – Riddle of Steel (Classixx Version)
             </p>
             
             <p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Lucida Grande">
               <p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Lucida Grande">
-                The Count & Sinden &#8211; African Chant
+                The Count & Sinden – African Chant
               </p>
               
               <p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Lucida Grande">
                 <p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Lucida Grande">
-                  Zombie Disco Squad &#8211; Eurovision (Mowgli Remix)
+                  Zombie Disco Squad – Eurovision (Mowgli Remix)
                 </p>
                 
                 <p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Lucida Grande">
                   <p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Lucida Grande">
-                    Oh Snap &#8211; Everyone&#8217;s a DJ
+                    Oh Snap – Everyone’s a DJ
                   </p>
                   
                   <p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Lucida Grande">
                     <p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Lucida Grande">
-                      Don Diablo &#8211; Black Heat
+                      Don Diablo – Black Heat
                     </p>
                     
                     <p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Lucida Grande">
                       <p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Lucida Grande">
-                        Tonka &#8211; Website (Malente Re-Edit)
+                        Tonka – Website (Malente Re-Edit)
                       </p>
                       
                       <p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Lucida Grande">
                         <p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Lucida Grande">
-                          Fantastadon &#8211; Anesthesiologist
+                          Fantastadon – Anesthesiologist
                         </p>
                         
                         <p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Lucida Grande">
                           <p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Lucida Grande">
-                            Brian Cox &#8211; Let&#8217;s Go to Work (Clockwork Remix)
+                            Brian Cox – Let’s Go to Work (Clockwork Remix)
                           </p>
                           
                           <p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Lucida Grande">
                             <p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Lucida Grande">
-                              The Shoes &#8211; Knockout
+                              The Shoes – Knockout
                             </p>
                           </p>
                         </p>

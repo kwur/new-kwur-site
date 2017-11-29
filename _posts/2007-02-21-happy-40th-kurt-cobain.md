@@ -25,6 +25,6 @@ categories:
   </p>
   
   <p>
-    Damn. 40. Talk about &#8220;bored and old&#8221;&#8230;
+    Damn. 40. Talk about “bored and old”…
   </p>
 </div>

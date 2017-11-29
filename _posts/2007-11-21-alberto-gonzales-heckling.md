@@ -32,6 +32,6 @@ categories:
   </p>
   
   <p>
-    <span style="font-size:130%;"><span style="font-weight: bold;">I can only hope that similar protest action is taken at Gonzales&#8217; </span><a style="font-weight: bold;" href="http://media.www.studlife.com/media/storage/paper337/news/2007/11/16/News/Alberto.Gonzales.To.Speak.On.Campus-3106747.shtml">appearance</a><span style="font-weight: bold;"> at Wash U. February 11th 2008 in 560 Music Center<br /></span><span style="font-size:100%;"><br /><span style="font-size:85%;">-Klax</span><br /></span></span>
+    <span style="font-size:130%;"><span style="font-weight: bold;">I can only hope that similar protest action is taken at Gonzales’ </span><a style="font-weight: bold;" href="http://media.www.studlife.com/media/storage/paper337/news/2007/11/16/News/Alberto.Gonzales.To.Speak.On.Campus-3106747.shtml">appearance</a><span style="font-weight: bold;"> at Wash U. February 11th 2008 in 560 Music Center<br /></span><span style="font-size:100%;"><br /><span style="font-size:85%;">-Klax</span><br /></span></span>
   </p>
 </div>

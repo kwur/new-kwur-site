@@ -21,84 +21,84 @@ categories:
   </div>
   
   <p>
-    So we&#8217;re a little past mid-2010 by now. I just hastily put together this list of some of my favorite releases so far. Without a doubt, I&#8217;ve forgotten some good ones. Hopefully, I&#8217;ll fix this with a more detailed list in about six months. Anyway if you&#8217;ve read <a href="http://blog.kwur.com/2009/12/2009-favorites.html">my lists</a> in the past, there shouldn&#8217;t be too many surprises here&#8230;
+    So we’re a little past mid-2010 by now. I just hastily put together this list of some of my favorite releases so far. Without a doubt, I’ve forgotten some good ones. Hopefully, I’ll fix this with a more detailed list in about six months. Anyway if you’ve read <a href="http://blog.kwur.com/2009/12/2009-favorites.html">my lists</a> in the past, there shouldn’t be too many surprises here…
   </p>
   
   <p>
-    <span style="font-weight: bold;">Thee Oh Sees &#8211; Quadrospazzed &#8217;09 (Castle Face)</span><br /><span style="font-weight: bold;">Thee Oh Sees &#8211; Warm Slime (In The Red)</span><br />Since I last checked in, a 45rpm 12&#8243; single and another full-band psychedelic summer LP.
+    <span style="font-weight: bold;">Thee Oh Sees – Quadrospazzed ’09 (Castle Face)</span><br /><span style="font-weight: bold;">Thee Oh Sees – Warm Slime (In The Red)</span><br />Since I last checked in, a 45rpm 12″ single and another full-band psychedelic summer LP.
   </p>
   
   <p>
-    <span style="font-weight: bold;">Ty Segall &#8211; Melted (Goner)</span><br />Maybe his best yet&#8230;
+    <span style="font-weight: bold;">Ty Segall – Melted (Goner)</span><br />Maybe his best yet…
   </p>
   
   <p>
-    <span style="font-weight: bold;">Moonhearts &#8211; Moonhearts (Tic Tac Totally)</span><br />After collecting a half dozen solid 7 inches, a slight name change (prior: Charlie & The Moonhearts) and a full length debut LP
+    <span style="font-weight: bold;">Moonhearts – Moonhearts (Tic Tac Totally)</span><br />After collecting a half dozen solid 7 inches, a slight name change (prior: Charlie & The Moonhearts) and a full length debut LP
   </p>
   
   <p>
-    <span style="font-weight: bold;">David Cross &#8211; Bigger and Blackerer (Sub Pop)</span><br />A little less pissed then his previous two LPs, this one still bites
+    <span style="font-weight: bold;">David Cross – Bigger and Blackerer (Sub Pop)</span><br />A little less pissed then his previous two LPs, this one still bites
   </p>
   
   <p>
-    <span style="font-weight: bold;">Mark Sultan &#8211; $ (Last Gang)</span><br />1/2 King Khan & BBQ (better half?) plus a little noise&#8230;
+    <span style="font-weight: bold;">Mark Sultan – $ (Last Gang)</span><br />1/2 King Khan & BBQ (better half?) plus a little noise…
   </p>
   
   <p>
-    <span style="font-weight: bold;">A Lost People &#8211; Big Booty Bitches (self-released)</span><br />I hate to say it, but I think I like the clean version better (find it on iTunes)
+    <span style="font-weight: bold;">A Lost People – Big Booty Bitches (self-released)</span><br />I hate to say it, but I think I like the clean version better (find it on iTunes)
   </p>
   
   <p>
-    <span style="font-weight: bold;">Pocahaunted &#8211; Make It Real (Not Not Fun)</span><br />Yes, Best Coast is good, but it&#8217;s kind of a Pocahaunted side project (well&#8230;probably not anymore). This is better.
+    <span style="font-weight: bold;">Pocahaunted – Make It Real (Not Not Fun)</span><br />Yes, Best Coast is good, but it’s kind of a Pocahaunted side project (well…probably not anymore). This is better.
   </p>
   
   <p>
-    <span style="font-weight: bold;">Golden Triangle &#8211; Double Jointer (Hardly Art)</span><br />If you like Thee Oh Sees, you&#8217;ll like this
+    <span style="font-weight: bold;">Golden Triangle – Double Jointer (Hardly Art)</span><br />If you like Thee Oh Sees, you’ll like this
   </p>
   
   <p>
-    <span style="font-weight: bold;">Paul Cary &#8211; Ghost of a Man (Stankhouse)</span><br />Great, great bluesy debut solo album by lead man of The Horrors (the good ones, not the shitty English ones).
+    <span style="font-weight: bold;">Paul Cary – Ghost of a Man (Stankhouse)</span><br />Great, great bluesy debut solo album by lead man of The Horrors (the good ones, not the shitty English ones).
   </p>
   
   <p>
-    <span style="font-weight: bold;">International Hello &#8211; International Hello (Holy Mountain)</span><br />Monoshock is back, albeit a little slowed down&#8230;
+    <span style="font-weight: bold;">International Hello – International Hello (Holy Mountain)</span><br />Monoshock is back, albeit a little slowed down…
   </p>
   
   <p>
-    <span style="font-weight: bold;">Abner Jay &#8211; Folk Song Stylist (Mississippi)</span><br />Keep these coming.
+    <span style="font-weight: bold;">Abner Jay – Folk Song Stylist (Mississippi)</span><br />Keep these coming.
   </p>
   
   <p>
-    <span style="font-weight: bold;">Acid Eater &#8211; Black Fuzz on Wheels (Time Bomb)</span><br />Given just the band/album name, this sounds exactly like what you would expect. Except Japanese.<br /><span style="font-weight: bold;"></span><br /><span style="font-weight: bold;">AFCGT &#8211; AFCGT (Sub Pop)</span><br />Is this really on Sub Pop?
+    <span style="font-weight: bold;">Acid Eater – Black Fuzz on Wheels (Time Bomb)</span><br />Given just the band/album name, this sounds exactly like what you would expect. Except Japanese.<br /><span style="font-weight: bold;"></span><br /><span style="font-weight: bold;">AFCGT – AFCGT (Sub Pop)</span><br />Is this really on Sub Pop?
   </p>
   
   <p>
-    <span style="font-weight: bold;">The Fall &#8211; Your Future, Our Clutter (Domino)</span><br />Obviously
+    <span style="font-weight: bold;">The Fall – Your Future, Our Clutter (Domino)</span><br />Obviously
   </p>
   
   <p>
-    <span style="font-weight: bold;">Baby Dinosaurs vs. The Soft Spots 7 inch (Die Slaughterhaus)</span><br />Been waiting a while for this one on everyone&#8217;s favorite ATL label&#8230;
+    <span style="font-weight: bold;">Baby Dinosaurs vs. The Soft Spots 7 inch (Die Slaughterhaus)</span><br />Been waiting a while for this one on everyone’s favorite ATL label…
   </p>
   
   <p>
-    <span style="font-weight: bold;">Drop Z &#8211; &#8220;Tha King a Pop&#8221;</span><br />Catchiest <a href="http://www.youtube.com/watch?v=YkyGf7Ot5aE">Michael Jackson tribute song</a> of the year (ever?)&#8230;<br />(thanks <a href="http://blog.wfmu.org/freeform/2010/07/dropz-drops-dropz11-tha-king-a-pop-june-25th.html">WFMU Blog</a>)
+    <span style="font-weight: bold;">Drop Z – “Tha King a Pop”</span><br />Catchiest <a href="http://www.youtube.com/watch?v=YkyGf7Ot5aE">Michael Jackson tribute song</a> of the year (ever?)…<br />(thanks <a href="http://blog.wfmu.org/freeform/2010/07/dropz-drops-dropz11-tha-king-a-pop-june-25th.html">WFMU Blog</a>)
   </p>
   
   <p>
-    <span style="font-weight: bold;" class="gI">Water Bears &#8211; Misogymnastics (ZAP)</span><br />I know this is a little self serving, so I almost didn&#8217;t put it on the list. But fuck it, this album is great. I know you guys love &#8217;em too&#8230;
+    <span style="font-weight: bold;" class="gI">Water Bears – Misogymnastics (ZAP)</span><br />I know this is a little self serving, so I almost didn’t put it on the list. But fuck it, this album is great. I know you guys love ’em too…
   </p>
   
   <p>
-    <span style="font-weight: bold;">Spacemen 3 vinyl re-issues (Fire & Taang)</span><br />Still waiting for the &#8220;Dreamweapon: An Evening of Contemporary Sitar Music&#8221; LP though&#8230;<span style="font-weight: bold;"><span style="font-weight: bold;"></p> 
+    <span style="font-weight: bold;">Spacemen 3 vinyl re-issues (Fire & Taang)</span><br />Still waiting for the “Dreamweapon: An Evening of Contemporary Sitar Music” LP though…<span style="font-weight: bold;"><span style="font-weight: bold;"></p> 
     
     <p>
       </span>Mazzy Star discography vinyl re-issues (Plain)</span><br />Fucking finally!
     </p>
     
     <p>
-      <span style="font-weight: bold;">The Mummies &#8211; The Mummies Play Their Own Records vinyl re-issue (Estrus) </span><br />The only garage band Billy Childish name-checks. Need I say more? This is essential. On vinyl.
+      <span style="font-weight: bold;">The Mummies – The Mummies Play Their Own Records vinyl re-issue (Estrus) </span><br />The only garage band Billy Childish name-checks. Need I say more? This is essential. On vinyl.
     </p>
     
     <p>
-      <span style="font-weight: bold;">Lou Reed &#8211; Metal Machine Music vinyl re-issue (Sister Ray)</span><br />&#8220;If you ever thought feedback was the best thing that happened to the guitar, well, Lou just got rid of the guitars&#8221; &#8211; Lester Bangs
+      <span style="font-weight: bold;">Lou Reed – Metal Machine Music vinyl re-issue (Sister Ray)</span><br />“If you ever thought feedback was the best thing that happened to the guitar, well, Lou just got rid of the guitars” – Lester Bangs
     </p></div>

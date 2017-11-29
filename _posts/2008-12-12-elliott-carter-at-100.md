@@ -17,7 +17,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    Just barely in time for the end of the day, KWUR today marks the 100th birthday of Elliott Carter, America&#8217;s leading modernist composer, born December 11, 1908 in NYC, and, believe it or not, still composing and very much with us. Some recent articles about him in the last week, just before his birthday:
+    Just barely in time for the end of the day, KWUR today marks the 100th birthday of Elliott Carter, America’s leading modernist composer, born December 11, 1908 in NYC, and, believe it or not, still composing and very much with us. Some recent articles about him in the last week, just before his birthday:
   </p>
   
   <p>

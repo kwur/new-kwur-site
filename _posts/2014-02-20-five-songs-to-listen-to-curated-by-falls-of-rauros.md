@@ -19,50 +19,50 @@ categories:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
-    <span style="font-size:14px;"><span style="font-family:times new roman,times,serif;"><span style="color: rgb(62, 69, 76); line-height: 14.079999923706055px; white-space: pre-wrap; background-color: rgb(247, 247, 247);">Arab Strap &#8211; "Fucking Little Bastards" These guys are, to me, unrivaled in their outward projection of self-loathing and a sort of arrogance laced with beauty and dark humor. This song in particular is deafening. </span></span></span>
-  </p>
-  
-  <p>
-  </p>
-  
-  <p>
-    <span style="font-size:14px;"><span style="font-family:times new roman,times,serif;"><span style="color: rgb(62, 69, 76); line-height: 14.079999923706055px; white-space: pre-wrap; background-color: rgb(247, 247, 247);">Six Organs of Admittance &#8211; "S/Word and Leviathan" Incredibly tense without letting up. Twelve minutes of immense droning "folk." Even better in sequence with the rest of this album. </span></span></span>
+    <span style="font-size:14px;"><span style="font-family:times new roman,times,serif;"><span style="color: rgb(62, 69, 76); line-height: 14.079999923706055px; white-space: pre-wrap; background-color: rgb(247, 247, 247);">Arab Strap – "Fucking Little Bastards" These guys are, to me, unrivaled in their outward projection of self-loathing and a sort of arrogance laced with beauty and dark humor. This song in particular is deafening. </span></span></span>
   </p>
   
   <p>
   </p>
   
   <p>
-    <span style="font-size:14px;"><span style="font-family:times new roman,times,serif;"><span style="color: rgb(62, 69, 76); line-height: 14.079999923706055px; white-space: pre-wrap; background-color: rgb(247, 247, 247);">Silver Jews &#8211; "Death of An Heir of Sorrows" David Berman is a long-time master of wry alt-country songcraft. This one is very, very sad. </span></span></span>
+    <span style="font-size:14px;"><span style="font-family:times new roman,times,serif;"><span style="color: rgb(62, 69, 76); line-height: 14.079999923706055px; white-space: pre-wrap; background-color: rgb(247, 247, 247);">Six Organs of Admittance – "S/Word and Leviathan" Incredibly tense without letting up. Twelve minutes of immense droning "folk." Even better in sequence with the rest of this album. </span></span></span>
   </p>
   
   <p>
   </p>
   
   <p>
-    <span style="font-size:14px;"><span style="font-family:times new roman,times,serif;"><span style="color: rgb(62, 69, 76); line-height: 14.079999923706055px; white-space: pre-wrap; background-color: rgb(247, 247, 247);">Julianna Barwick &#8211; "One Half" Beautiful. Multi-layered vocal parts woven with strings, synthesizer and guitar. A really gorgeous result. </span></span></span>
+    <span style="font-size:14px;"><span style="font-family:times new roman,times,serif;"><span style="color: rgb(62, 69, 76); line-height: 14.079999923706055px; white-space: pre-wrap; background-color: rgb(247, 247, 247);">Silver Jews – "Death of An Heir of Sorrows" David Berman is a long-time master of wry alt-country songcraft. This one is very, very sad. </span></span></span>
   </p>
   
   <p>
   </p>
   
   <p>
-    <span style="font-size:14px;"><span style="font-family:times new roman,times,serif;"><span style="color: rgb(62, 69, 76); line-height: 14.079999923706055px; white-space: pre-wrap; background-color: rgb(247, 247, 247);">Magnolia Electric Co. &#8211; "Take One Thing Along" I'd imagine this song could bring a stillness or silence to any crowd that heard it. Jason passed away about a year ago and is missed wildly.</span></span></span>
+    <span style="font-size:14px;"><span style="font-family:times new roman,times,serif;"><span style="color: rgb(62, 69, 76); line-height: 14.079999923706055px; white-space: pre-wrap; background-color: rgb(247, 247, 247);">Julianna Barwick – "One Half" Beautiful. Multi-layered vocal parts woven with strings, synthesizer and guitar. A really gorgeous result. </span></span></span>
   </p>
   
   <p>
   </p>
   
   <p>
-    &nbsp;
+    <span style="font-size:14px;"><span style="font-family:times new roman,times,serif;"><span style="color: rgb(62, 69, 76); line-height: 14.079999923706055px; white-space: pre-wrap; background-color: rgb(247, 247, 247);">Magnolia Electric Co. – "Take One Thing Along" I'd imagine this song could bring a stillness or silence to any crowd that heard it. Jason passed away about a year ago and is missed wildly.</span></span></span>
   </p>
   
   <p>
-    Huge thanks to Falls of Rauros for their time. Be sure to check out their upcoming split with black metal stalwarts Panopticon (<a href="http://eihwazrecordings.com/distro/">here</a>), and download their incredible 2011 full-length, "The Light That Dwells in Rotten Wood", available via their bandcamp. Tune in to THOUGHT FORGE SUNDAE, Mondays at 10 pm CST to hear bands that are featured in&nbsp;FIVE SONGS TO LISTEN TO.
+  </p>
+  
+  <p>
+     
+  </p>
+  
+  <p>
+    Huge thanks to Falls of Rauros for their time. Be sure to check out their upcoming split with black metal stalwarts Panopticon (<a href="http://eihwazrecordings.com/distro/">here</a>), and download their incredible 2011 full-length, "The Light That Dwells in Rotten Wood", available via their bandcamp. Tune in to THOUGHT FORGE SUNDAE, Mondays at 10 pm CST to hear bands that are featured in FIVE SONGS TO LISTEN TO.
   </p>
   
   <p>

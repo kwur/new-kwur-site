@@ -11,15 +11,15 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    For this installment of "Five Songs to Listen To" we have some timeless and generally&nbsp;spacey (mostly) electronic music from rising producer William Thurman, also known as Royer. While he's currently residing in Chicago and putting out sexy deep house tunes on Tasteful Nudes and Material Image, he has roots in Paris, FR and Copenhagen, DK, where I had the pleasure of&nbsp;running into him late one night. He's made a trip over to play in Berlin recently and has been doing the rounds in the US. Without further ado, here are his five songs:
+    For this installment of "Five Songs to Listen To" we have some timeless and generally spacey (mostly) electronic music from rising producer William Thurman, also known as Royer. While he's currently residing in Chicago and putting out sexy deep house tunes on Tasteful Nudes and Material Image, he has roots in Paris, FR and Copenhagen, DK, where I had the pleasure of running into him late one night. He's made a trip over to play in Berlin recently and has been doing the rounds in the US. Without further ado, here are his five songs:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
-    <span style="color:#000000;">1) Newworldaquarium &#8211; Avon Sparkle</span>
+    <span style="color:#000000;">1) Newworldaquarium – Avon Sparkle</span>
   </p>
   
   <p>
@@ -31,11 +31,11 @@ categories:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
-    <span style="color:#000000;">2) Gigi Galaxy &#8211; The Dream</span>
+    <span style="color:#000000;">2) Gigi Galaxy – The Dream</span>
   </p>
   
   <p>
@@ -47,11 +47,11 @@ categories:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
-    <span style="color:#000000;">3) The Railway Raver &#8211; Yes I Can Feel I<span style="line-height: 1.6em;">t</span></span>
+    <span style="color:#000000;">3) The Railway Raver – Yes I Can Feel I<span style="line-height: 1.6em;">t</span></span>
   </p>
   
   <p>
@@ -63,11 +63,11 @@ categories:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
-    <span style="color:#000000;"><span style="line-height: 1.6em;">4) X men &#8211; Retour aux pyramides</span></span>
+    <span style="color:#000000;"><span style="line-height: 1.6em;">4) X men – Retour aux pyramides</span></span>
   </p>
   
   <p>
@@ -79,11 +79,11 @@ categories:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
-    <span style="color:#000000;"><span style="line-height: 1.6em;">5) AFX &#8211; Mangle 11</span></span>
+    <span style="color:#000000;"><span style="line-height: 1.6em;">5) AFX – Mangle 11</span></span>
   </p>
   
   <p>
@@ -95,10 +95,10 @@ categories:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
-    Be on the lookout for more of WIlliam Thurman's music &#8211; follow his <a href="https://soundcloud.com/williamthurman">soundcloud</a>, scope his <a href="http://www.discogs.com/artist/3686464-Royer-3">discogs</a>, and check out some of his <a href="www.williamjamesthurman.com">artwork</a> as well.&nbsp;
+    Be on the lookout for more of WIlliam Thurman's music – follow his <a href="https://soundcloud.com/williamthurman">soundcloud</a>, scope his <a href="http://www.discogs.com/artist/3686464-Royer-3">discogs</a>, and check out some of his <a href="www.williamjamesthurman.com">artwork</a> as well. 
   </p>
 </div>

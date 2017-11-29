@@ -17,7 +17,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    From 12 AM to 6 AM, yours truly will be working the board, with special guests EVERYONE. If you&#8217;re in the city, come by and give us cash and I will put you on the radio probably. If you&#8217;re not, listen in, for I will play hilarious oddities from our stacks and it will be a party in the pants. Also, call in a pledge at (314) 935-5952, then send a check made out to KWUR to:
+    From 12 AM to 6 AM, yours truly will be working the board, with special guests EVERYONE. If you’re in the city, come by and give us cash and I will put you on the radio probably. If you’re not, listen in, for I will play hilarious oddities from our stacks and it will be a party in the pants. Also, call in a pledge at (314) 935-5952, then send a check made out to KWUR to:
   </p>
   
   <p>

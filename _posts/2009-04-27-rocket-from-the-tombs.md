@@ -21,7 +21,7 @@ categories:
   </p>
   
   <p>
-    <a href="http://www.merryswankster.com/mp3/Rocket_From_the_Tombs_30_Seconds_Over_Tokyo.mp3">&#8220;30 Seconds&#8230;&#8221;</a> is about the famed Doolittle Raid, as portrayed in the film Pearl Harbor (or the film 30 Seconds Over Tokyo). In case you can&#8217;t guess from the song, the Doolittle Raid was essentially a suicide mission to bomb Tokyo. This song is so completely rocking and amazing that I can&#8217;t describe it. GUITARS ARE BOMBS! DRUMS ARE BOMBS! YOUR BRAIN IS SHATTERED BY THE AWESOME POWER OF GUITAR-BOMBS AND EXPLODING DRUM-FLAK AS YOU BRUTALLY BOMB A CITY FROM 40,000 FEET!
+    <a href="http://www.merryswankster.com/mp3/Rocket_From_the_Tombs_30_Seconds_Over_Tokyo.mp3">“30 Seconds…”</a> is about the famed Doolittle Raid, as portrayed in the film Pearl Harbor (or the film 30 Seconds Over Tokyo). In case you can’t guess from the song, the Doolittle Raid was essentially a suicide mission to bomb Tokyo. This song is so completely rocking and amazing that I can’t describe it. GUITARS ARE BOMBS! DRUMS ARE BOMBS! YOUR BRAIN IS SHATTERED BY THE AWESOME POWER OF GUITAR-BOMBS AND EXPLODING DRUM-FLAK AS YOU BRUTALLY BOMB A CITY FROM 40,000 FEET!
   </p>
   
   <p>

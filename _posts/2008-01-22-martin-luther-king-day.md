@@ -17,6 +17,6 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    This is probably my favorite speech of his:<br /><br />Hope you enjoyed your holiday. But don&#8217;t forget the reason for the season.
+    This is probably my favorite speech of his:<br /><br />Hope you enjoyed your holiday. But don’t forget the reason for the season.
   </p>
 </div>

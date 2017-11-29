@@ -21,7 +21,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    Ben and Bobby of the NYC outfit <a href="http://www.myspace.com/benyaro">Benyaro</a> hung out at the station last Wednesday, played some tunes and shot the shit about their new album, making music in New York City, and why I wasn&#8217;t wearing pants during the interview (I think I was, but Bobby might disagree). The interview was excellent, and they also played a few rad new songs, which you can grab below!
+    Ben and Bobby of the NYC outfit <a href="http://www.myspace.com/benyaro">Benyaro</a> hung out at the station last Wednesday, played some tunes and shot the shit about their new album, making music in New York City, and why I wasn’t wearing pants during the interview (I think I was, but Bobby might disagree). The interview was excellent, and they also played a few rad new songs, which you can grab below!
   </p>
   
   <p>

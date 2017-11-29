@@ -1,6 +1,6 @@
 ---
 id: 171
-title: 'STeeL DJ&#8217;s Vol. 1 &#8211; Pilot Episode &#8211; Live DJ BATTLEZ!!!!1111oneoneone!'
+title: 'STeeL DJ’s Vol. 1 – Pilot Episode – Live DJ BATTLEZ!!!!1111oneoneone!'
 date: 2008-03-02T17:23:00+00:00
 author: Admin
 layout: post
@@ -29,7 +29,7 @@ categories:
   </p>
   
   <p>
-    http://homepage.mac.com/brianmita/.Public/01%20STeeL%20DJ&#8217;s%20Pilot.mp3
+    http://homepage.mac.com/brianmita/.Public/01%20STeeL%20DJ’s%20Pilot.mp3
   </p>
   
   <p>

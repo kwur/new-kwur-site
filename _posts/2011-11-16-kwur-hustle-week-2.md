@@ -13,7 +13,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    It's the most magical time of the year! That's right folks, it's KWUR HUSTLE WEEK! Hustle Week is a beautiful time where you, our favorite listeners, get to show your favorite radio station a little love and affection. Radio isn't cheap, and we need your support to keep bringing you the great alternative music you love. As one of the last completely free-form stations in the country, KWUR needs your help to keep rocking as W<span class="text_exposed_hide">&#8230;</span><span class="text_exposed_show">ashington University's best radio station. Anything you give will be a huge help in our quest to keep radio in St. Louis free.</p> 
+    It's the most magical time of the year! That's right folks, it's KWUR HUSTLE WEEK! Hustle Week is a beautiful time where you, our favorite listeners, get to show your favorite radio station a little love and affection. Radio isn't cheap, and we need your support to keep bringing you the great alternative music you love. As one of the last completely free-form stations in the country, KWUR needs your help to keep rocking as W<span class="text_exposed_hide">…</span><span class="text_exposed_show">ashington University's best radio station. Anything you give will be a huge help in our quest to keep radio in St. Louis free.</p> 
     
     <p>
       We're hosting some fun and unique events, so be sure to tune in, stop by, and show your support! </span>
@@ -30,7 +30,7 @@ categories:
         <span class="text_exposed_show">Thursday, November 17th<br /> All-Night Broadcast!<br /> Be sure to tune in to 90.3 FM or <a href="http://www.kwur.com/" rel="nofollow nofollow" target="_blank">www.kwur.com</a> to listen to one of the greatest KWUR traditions, the All-Night Broadcast. Your favorite DJ's will be spinning the best of KWUR and staying on the air all night for your entertainment! Call in to donate and receive some excellent gifts!</p> 
         
         <p>
-          Don&rsquo;t forget to check out the KWUR-themed meals, provided by Bon Appetit, which will be served in the DUC this week! Rock n&rsquo; roll ribs, Fleetwood Mac n&rsquo; Cheese&hellip; you can even show KWUR your love while you eat.
+          Don’t forget to check out the KWUR-themed meals, provided by Bon Appetit, which will be served in the DUC this week! Rock n’ roll ribs, Fleetwood Mac n’ Cheese… you can even show KWUR your love while you eat.
         </p>
         
         <p>

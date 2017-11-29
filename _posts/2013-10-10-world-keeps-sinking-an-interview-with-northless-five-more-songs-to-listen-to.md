@@ -11,7 +11,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    Milwaukee's best sludge purveyors NORTHLESS just released a terrific new record, entitled "World Keeps Sinking". It's 60 minutes of pummeling, uncompromising metal, and we were fortunate enough to be able to ask guitarist/vocalist Erik Steinglein a few questions, as well as wrangle a segment of FIVE SONGS TO LISTEN TO out of him.&nbsp;
+    Milwaukee's best sludge purveyors NORTHLESS just released a terrific new record, entitled "World Keeps Sinking". It's 60 minutes of pummeling, uncompromising metal, and we were fortunate enough to be able to ask guitarist/vocalist Erik Steinglein a few questions, as well as wrangle a segment of FIVE SONGS TO LISTEN TO out of him. 
   </p>
   
   <p>
@@ -23,11 +23,11 @@ categories:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
-    <strong>KWUR: On this new record, your sound is tighter, and a little bit sludgier than your previous split with Light Bearer. How do you think your sound has changed, if at all? &nbsp;</strong>
+    <strong>KWUR: On this new record, your sound is tighter, and a little bit sludgier than your previous split with Light Bearer. How do you think your sound has changed, if at all?  </strong>
   </p>
   
   <p>
@@ -35,7 +35,7 @@ categories:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
@@ -47,7 +47,7 @@ categories:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
@@ -63,7 +63,7 @@ categories:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
@@ -71,11 +71,11 @@ categories:
   </p>
   
   <p>
-    <strong style="line-height: 1.6em">ES: </strong><span style="line-height: 1.6em">Yes. We're working on a covers record. It will be either really awesome or really shitty&#8230;but it's happening so fuck you! We're also planning to release splits with a couple of bands in late 2014/early 2015&#8230;Don't want to announce those until things are confirmed. We'll be doing a small bit of touring this year&#8230;8 days on the East Coast in March, and about a week doing middle America places, not really the Midwest. More on those soon&#8230;</span>
+    <strong style="line-height: 1.6em">ES: </strong><span style="line-height: 1.6em">Yes. We're working on a covers record. It will be either really awesome or really shitty…but it's happening so fuck you! We're also planning to release splits with a couple of bands in late 2014/early 2015…Don't want to announce those until things are confirmed. We'll be doing a small bit of touring this year…8 days on the East Coast in March, and about a week doing middle America places, not really the Midwest. More on those soon…</span>
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
@@ -83,42 +83,42 @@ categories:
   </p>
   
   <p>
-    <strong style="line-height: 1.6em"><a href="http://www.youtube.com/watch?v=mLq84I9WCvI">Swans- &ldquo;Coward&rdquo;</a>: </strong><span style="line-height: 1.6em">What else can I say? Easily one of the biggest influences on me personally as a musician. Heavy in a completely non-metal way. Totally minimalist and dark. Genre-less. Grim. If you're not familiar, you need to get familiar yesterday. The future happened almost 30 years ago, and we're barely catching up now.</span>
+    <strong style="line-height: 1.6em"><a href="http://www.youtube.com/watch?v=mLq84I9WCvI">Swans- “Coward”</a>: </strong><span style="line-height: 1.6em">What else can I say? Easily one of the biggest influences on me personally as a musician. Heavy in a completely non-metal way. Totally minimalist and dark. Genre-less. Grim. If you're not familiar, you need to get familiar yesterday. The future happened almost 30 years ago, and we're barely catching up now.</span>
   </p>
   
   <p>
-    <a href="http://www.youtube.com/watch?v=e16M1-4383M"><strong style="line-height: 1.6em">Discordance Axis- &ldquo;End Of Rebirth&rdquo;: </strong></a><span style="line-height: 1.6em">Not many people can singularly point to their favorite band, but I can, and it's Discordance Axis, specifically &ldquo;The Inalienable Dreamless&rdquo; record. It's the most intense record I've ever heard, from any genre. It's bizarre and blazing fast and punishing. This song is one of the most intense pieces of music I've ever heard. I also just plain love blast beats, and Dave Witte's are the best ever. I wish he'd play more of them nowadays&#8230;</span>
+    <a href="http://www.youtube.com/watch?v=e16M1-4383M"><strong style="line-height: 1.6em">Discordance Axis- “End Of Rebirth”: </strong></a><span style="line-height: 1.6em">Not many people can singularly point to their favorite band, but I can, and it's Discordance Axis, specifically “The Inalienable Dreamless” record. It's the most intense record I've ever heard, from any genre. It's bizarre and blazing fast and punishing. This song is one of the most intense pieces of music I've ever heard. I also just plain love blast beats, and Dave Witte's are the best ever. I wish he'd play more of them nowadays…</span>
   </p>
   
   <p>
-    <strong style="line-height: 1.6em"><a href="http://www.youtube.com/watch?v=yDeP9hmOxh4">Portal- &ldquo;Omnipotent Crawling Chaos&rdquo;</a>: </strong><span style="line-height: 1.6em">Metal music as an artform is arguably entering it's 43</span><sup style="line-height: 1.6em">rd</sup><span style="line-height: 1.6em"> year, if you consider that Black Sabbath essentially formed in 1970. I've been listening to metal for 24 of those years, and I really thought until recently that I had heard everything there was to hear, and that metal music had pretty much reached its apex of silliness and creativity&#8230;And then I heard Portal. Out of nowhere they came, completely atonal, devoid of melody, with terrifying timbres recalling the darkest nethers of R'lyeh, or like choking to death slowly on a distant planetary moon devoid of life. This song has always stuck out of their catalog to me for some reason. It's crushing, in every possible way.</span>
+    <strong style="line-height: 1.6em"><a href="http://www.youtube.com/watch?v=yDeP9hmOxh4">Portal- “Omnipotent Crawling Chaos”</a>: </strong><span style="line-height: 1.6em">Metal music as an artform is arguably entering it's 43</span><sup style="line-height: 1.6em">rd</sup><span style="line-height: 1.6em"> year, if you consider that Black Sabbath essentially formed in 1970. I've been listening to metal for 24 of those years, and I really thought until recently that I had heard everything there was to hear, and that metal music had pretty much reached its apex of silliness and creativity…And then I heard Portal. Out of nowhere they came, completely atonal, devoid of melody, with terrifying timbres recalling the darkest nethers of R'lyeh, or like choking to death slowly on a distant planetary moon devoid of life. This song has always stuck out of their catalog to me for some reason. It's crushing, in every possible way.</span>
   </p>
   
   <p>
-    <strong style="line-height: 1.6em"><a href="http://www.youtube.com/watch?v=LFBijDU8PpE">Phillip Glass- &ldquo;Koyaanisqatsi&rdquo;</a>: </strong><span style="line-height: 1.6em">So in college I took a lot of Philosophy courses. One of my most memorable classes was an Environmental Ethics class, which in many ways opened to my eyes to so much bullshit in this world. Our professor had us watch the film, and most people fucking hated it, even if they got it. I was simply blown away by the musical compositions in the film, and this was my first exposure to modern, avant garde classical music. I can't choose one section of the piece to suggest, so I'm just suggesting the whole thing since I view it as one solid composition anyway. A must see and listen.</span>
+    <strong style="line-height: 1.6em"><a href="http://www.youtube.com/watch?v=LFBijDU8PpE">Phillip Glass- “Koyaanisqatsi”</a>: </strong><span style="line-height: 1.6em">So in college I took a lot of Philosophy courses. One of my most memorable classes was an Environmental Ethics class, which in many ways opened to my eyes to so much bullshit in this world. Our professor had us watch the film, and most people fucking hated it, even if they got it. I was simply blown away by the musical compositions in the film, and this was my first exposure to modern, avant garde classical music. I can't choose one section of the piece to suggest, so I'm just suggesting the whole thing since I view it as one solid composition anyway. A must see and listen.</span>
   </p>
   
   <p>
-    <strong style="line-height: 1.6em"><a href="http://www.youtube.com/watch?v=n0L8mC_T7m8">Tom Waits- &ldquo;I Don't Wanna Grow Up&rdquo;</a>: </strong><span style="line-height: 1.6em">Tom Waits is a genius, plain and simple. The man can pen a tune like no one's business. His &ldquo;Storytellers&rdquo; record is fucking essential, and this song is about as honest as it gets. The lyrics hit me hard, every time&#8230;I guess I'm one of those regretful grown-ups that never wanted to be, but here I am. The melody and guitar tone are so simple and yet beautiful. Tom Waits writes some of the heaviest music ever.</span>
+    <strong style="line-height: 1.6em"><a href="http://www.youtube.com/watch?v=n0L8mC_T7m8">Tom Waits- “I Don't Wanna Grow Up”</a>: </strong><span style="line-height: 1.6em">Tom Waits is a genius, plain and simple. The man can pen a tune like no one's business. His “Storytellers” record is fucking essential, and this song is about as honest as it gets. The lyrics hit me hard, every time…I guess I'm one of those regretful grown-ups that never wanted to be, but here I am. The melody and guitar tone are so simple and yet beautiful. Tom Waits writes some of the heaviest music ever.</span>
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
-    Big thanks to Erik for his time. "World Keeps Sinking" is available via Gilead Media, Halo of Flies records, or digitally at northless.bandcamp.com.&nbsp;
+    Big thanks to Erik for his time. "World Keeps Sinking" is available via Gilead Media, Halo of Flies records, or digitally at northless.bandcamp.com. 
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
 </div>

@@ -17,10 +17,10 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.sfmsfolk.org/concerts/T_Wiyos.jpg"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 300px; height: 248px;" src="http://www.sfmsfolk.org/concerts/T_Wiyos.jpg" border="0" alt="" /></a><br /><span style="font-weight:bold;">THE WIYOS &#8211; ANY MINUTE NOW</span>
+    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.sfmsfolk.org/concerts/T_Wiyos.jpg"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 300px; height: 248px;" src="http://www.sfmsfolk.org/concerts/T_Wiyos.jpg" border="0" alt="" /></a><br /><span style="font-weight:bold;">THE WIYOS – ANY MINUTE NOW</span>
   </p>
   
   <p>
-    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://farm4.static.flickr.com/3228/3039589782_53d50ec0f0.jpg?v=0"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 500px; height: 332px;" src="http://farm4.static.flickr.com/3228/3039589782_53d50ec0f0.jpg?v=0" border="0" alt="" /></a><br /><span style="font-weight:bold;">SPLITLIP RAYFIELD &#8211; 2:00pm<br />only on KWUR 90.3 FM</span>
+    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://farm4.static.flickr.com/3228/3039589782_53d50ec0f0.jpg?v=0"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 500px; height: 332px;" src="http://farm4.static.flickr.com/3228/3039589782_53d50ec0f0.jpg?v=0" border="0" alt="" /></a><br /><span style="font-weight:bold;">SPLITLIP RAYFIELD – 2:00pm<br />only on KWUR 90.3 FM</span>
   </p>
 </div>

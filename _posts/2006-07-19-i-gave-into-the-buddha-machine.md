@@ -21,11 +21,11 @@ categories:
   </p>
   
   <p>
-    If you haven&#8217;t heard yet the Buddha Machine is a hardware loop machine.
+    If you haven’t heard yet the Buddha Machine is a hardware loop machine.
   </p>
   
   <p>
-    Basically <span style="font-weight: bold;">FM3</span>, an electronic group from China, programmed 9 of thier loops into a little handheld radio looking device (colors shipped randomly&#8211;awesome). You can select one of the 9 loops and play it through the attached lo-fi speaker or through the headphone jack. The droning loop will play continously until you turn the device off.
+    Basically <span style="font-weight: bold;">FM3</span>, an electronic group from China, programmed 9 of thier loops into a little handheld radio looking device (colors shipped randomly–awesome). You can select one of the 9 loops and play it through the attached lo-fi speaker or through the headphone jack. The droning loop will play continously until you turn the device off.
   </p>
   
   <p>
@@ -33,14 +33,14 @@ categories:
   </p>
   
   <p>
-    Apparently <span class="desc">&#8220;<span style="font-weight: bold;">Alan Bishop</span> bought twenty-four of these on sight and <span style="font-weight: bold;">Brian Eno</span> bought eight&#8221;. Add Klax to the list. It sounded like an interesting venture into mass produced experimental music. Plus there is nothing like having a take anywhere droning loop machine.</p> 
+    Apparently <span class="desc">“<span style="font-weight: bold;">Alan Bishop</span> bought twenty-four of these on sight and <span style="font-weight: bold;">Brian Eno</span> bought eight”. Add Klax to the list. It sounded like an interesting venture into mass produced experimental music. Plus there is nothing like having a take anywhere droning loop machine.</p> 
     
     <p>
-      Full review to come when it arrives on Friday. Can&#8217;t wait to see what color I get.
+      Full review to come when it arrives on Friday. Can’t wait to see what color I get.
     </p>
     
     <p>
-      A new KWUR backup (droning) auto-rotation possible&#8230;
+      A new KWUR backup (droning) auto-rotation possible…
     </p>
     
     <p>

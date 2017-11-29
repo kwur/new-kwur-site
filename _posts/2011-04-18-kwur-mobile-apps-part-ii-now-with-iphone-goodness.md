@@ -17,7 +17,7 @@ tags:
 ---
 <div class="pf-content">
   <p>
-    Hey y'all, looks like Mr. Jobs approved our app, and it's now available in iTunes.&nbsp; It is identical to the Android app in layout and function, but runs on your fancy iPhone instead.&nbsp; 21st century, it's nice to meet you.&nbsp;
+    Hey y'all, looks like Mr. Jobs approved our app, and it's now available in iTunes.  It is identical to the Android app in layout and function, but runs on your fancy iPhone instead.  21st century, it's nice to meet you. 
   </p>
   
   <p>
@@ -41,7 +41,7 @@ tags:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
@@ -52,6 +52,6 @@ tags:
   </p>
   
   <p style="margin-bottom: 0in">
-    &nbsp;
+     
   </p>
 </div>

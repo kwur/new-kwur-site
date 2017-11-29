@@ -17,18 +17,18 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    Summer is drawing to a close, and it&#8217;s been a busy one around here&#8230; BUT NO REST FOR THE WICKED. Without further ado, the Fall (September, basically) line-up:
+    Summer is drawing to a close, and it’s been a busy one around here… BUT NO REST FOR THE WICKED. Without further ado, the Fall (September, basically) line-up:
   </p>
   
   <p>
-    8/24 &#8211; <a href="http://www.bandofskulls.com/">Band Of Skulls</a><br />8/26 &#8211; <a href="http://www.myspace.com/hermitthrushes">Hermit Thrushes</a><br />9/1 &#8211; <a href="http://www.myspace.com/thenewfamiliars">The New Familiars</a><br />9/5 &#8211; <a href="http://www.myspace.com/cftpa">Casiotone For The Painfully Alone</a> <span style="font-size:85%;">(guest DJ set)</span><br />9/6 &#8211; <a href="http://www.myspace.com/heycapybara">Capybara</a><br />9/15 &#8211; <a href="http://www.myspace.com/dearandtheheadlights">Dear And The Headlights</a><br />9/17 &#8211; <a href="http://www.myspace.com/pomegranatesart">Pomegranates</a><br />9/23 &#8211; <a href="http://www.myspace.com/miniaturetigers">Miniature Tigers</a><br />10/16 &#8211; <a href="http://www.myspace.com/russelltom">Tom Russell</a>
+    8/24 – <a href="http://www.bandofskulls.com/">Band Of Skulls</a><br />8/26 – <a href="http://www.myspace.com/hermitthrushes">Hermit Thrushes</a><br />9/1 – <a href="http://www.myspace.com/thenewfamiliars">The New Familiars</a><br />9/5 – <a href="http://www.myspace.com/cftpa">Casiotone For The Painfully Alone</a> <span style="font-size:85%;">(guest DJ set)</span><br />9/6 – <a href="http://www.myspace.com/heycapybara">Capybara</a><br />9/15 – <a href="http://www.myspace.com/dearandtheheadlights">Dear And The Headlights</a><br />9/17 – <a href="http://www.myspace.com/pomegranatesart">Pomegranates</a><br />9/23 – <a href="http://www.myspace.com/miniaturetigers">Miniature Tigers</a><br />10/16 – <a href="http://www.myspace.com/russelltom">Tom Russell</a>
   </p>
   
   <p>
-    As always, there&#8217;s more to come; October and November will be fleshed out as time goes on. And who knows, there might be some last minute, exciting announcements too. Exact times will be announced as the dates draw closer &#8211; check our twitter (www.twitter.com/KWUR) for more info.
+    As always, there’s more to come; October and November will be fleshed out as time goes on. And who knows, there might be some last minute, exciting announcements too. Exact times will be announced as the dates draw closer – check our twitter (www.twitter.com/KWUR) for more info.
   </p>
   
   <p>
-    OKAY LET&#8217;S DO THIS
+    OKAY LET’S DO THIS
   </p>
 </div>

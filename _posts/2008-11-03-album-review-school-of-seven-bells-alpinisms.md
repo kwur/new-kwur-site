@@ -1,6 +1,6 @@
 ---
 id: 278
-title: 'Album Review: School Of Seven Bells, &quot;Alpinisms&quot;'
+title: 'Album Review: School Of Seven Bells, "Alpinisms"'
 date: 2008-11-03T08:27:00+00:00
 author: The Intern
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 494
-title: 'Album Review: Free Energy, &quot;Stuck On Nothing&quot;'
+title: 'Album Review: Free Energy, "Stuck On Nothing"'
 date: 2010-03-31T20:45:00+00:00
 author: Chase
 layout: post
@@ -27,11 +27,11 @@ categories:
   </div>
   
   <div>
-    <span class="Apple-style-span"  style="font-size:small;">This record is just <i>good</i>. Big sound, bigger emotions. It&#8217;s the kind of stuff you want to roll all of your windows down and drive real fast to. I&#8217;ve never been old but I think this is the kind of music that encapsulates what it is to be young; nostalgia pop, maybe.</span>
+    <span class="Apple-style-span"  style="font-size:small;">This record is just <i>good</i>. Big sound, bigger emotions. It’s the kind of stuff you want to roll all of your windows down and drive real fast to. I’ve never been old but I think this is the kind of music that encapsulates what it is to be young; nostalgia pop, maybe.</span>
   </div>
   
   <div>
-    <span class="Apple-style-span"  style="font-size:small;"><br />James Murphy (of LCD Soundsystem) produced this record, continuing his infatuation with updating everything that was great about music in the &#8217;70s for today. Maybe the title is a little off, then, because, if anything, this album is stuck on the past. But I&#8217;ll be darned if that&#8217;s a bad thing.</span>
+    <span class="Apple-style-span"  style="font-size:small;"><br />James Murphy (of LCD Soundsystem) produced this record, continuing his infatuation with updating everything that was great about music in the ’70s for today. Maybe the title is a little off, then, because, if anything, this album is stuck on the past. But I’ll be darned if that’s a bad thing.</span>
   </div>
   
   <div>
@@ -39,6 +39,6 @@ categories:
   </div>
   
   <div>
-    <span class="Apple-style-span"  style="font-size:small;">PLAY ALL!! I&#8217;ll let you figure out what you want to play. But please do play this record. It&#8217;s that good.</span>
+    <span class="Apple-style-span"  style="font-size:small;">PLAY ALL!! I’ll let you figure out what you want to play. But please do play this record. It’s that good.</span>
   </div>
 </div>

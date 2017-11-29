@@ -25,5 +25,5 @@ categories:
     </p>
     
     <div style="text-align: left;">
-      <span style="font-size:100%;">Earlier this week, Thomas chatted with Nick and Paul of <a href="http://www.myspace.com/thebooksmusicpage">The Books</a>, who will be playing the <a href="http://theluminaryarts.com/">Luminary Center for the Arts</a> on September 20th (that&#8217;s this Sunday, y&#8217;all). They discussed how and where the two find their samples, the impact of geography and hypnotherapy on their music, and hell, THE NATURE OF MUSIC ITSELF. An interesting and enlightening interview, which you can download <a href="http://www.box.net/shared/zqmni7f08k">RIGHT HERE</a>.<br /></span>
+      <span style="font-size:100%;">Earlier this week, Thomas chatted with Nick and Paul of <a href="http://www.myspace.com/thebooksmusicpage">The Books</a>, who will be playing the <a href="http://theluminaryarts.com/">Luminary Center for the Arts</a> on September 20th (that’s this Sunday, y’all). They discussed how and where the two find their samples, the impact of geography and hypnotherapy on their music, and hell, THE NATURE OF MUSIC ITSELF. An interesting and enlightening interview, which you can download <a href="http://www.box.net/shared/zqmni7f08k">RIGHT HERE</a>.<br /></span>
     </div></div> </div>

@@ -21,6 +21,6 @@ categories:
   </p>
   
   <p>
-    We are live as I write this, folks. The schedule is packed &#8211; most nights go until 4 or 5 AM &#8211; so if you happen to make an early morning commute along Forest Park Parkway, tune in for 15 minutes. Also I can say, completely without bias, that this is one of the best semesters of programming we&#8217;ve lined up since I&#8217;ve been involved at KWUR. PLEASE LISTEN (<a href="http://www.kwur.com/icecast/kwur128.m3u">here</a>)!
+    We are live as I write this, folks. The schedule is packed – most nights go until 4 or 5 AM – so if you happen to make an early morning commute along Forest Park Parkway, tune in for 15 minutes. Also I can say, completely without bias, that this is one of the best semesters of programming we’ve lined up since I’ve been involved at KWUR. PLEASE LISTEN (<a href="http://www.kwur.com/icecast/kwur128.m3u">here</a>)!
   </p>
 </div>

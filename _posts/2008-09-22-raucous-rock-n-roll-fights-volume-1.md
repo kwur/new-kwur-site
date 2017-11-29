@@ -1,6 +1,6 @@
 ---
 id: 251
-title: 'Raucous Rock &#8216;n&#8217; Roll Fights, Volume 1'
+title: 'Raucous Rock ‘n’ Roll Fights, Volume 1'
 date: 2008-09-22T03:51:00+00:00
 author: Klax
 layout: post

@@ -18,10 +18,10 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    Because I find this hilarious. Greg Ginn tries to give a KWUR station ID back in &#8217;86 (I think). Almost, dude. <span style="font-style: italic;"></span>Audio is <a href="http://www.box.net/shared/30j4gv3cpl">here</a>.
+    Because I find this hilarious. Greg Ginn tries to give a KWUR station ID back in ’86 (I think). Almost, dude. <span style="font-style: italic;"></span>Audio is <a href="http://www.box.net/shared/30j4gv3cpl">here</a>.
   </p>
   
   <p>
-    PS: this was tacked on to the end of a larger interview, which was just finally edited and transcribed, to be made available SOON. We&#8217;re such teases.
+    PS: this was tacked on to the end of a larger interview, which was just finally edited and transcribed, to be made available SOON. We’re such teases.
   </p>
 </div>

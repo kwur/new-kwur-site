@@ -1,6 +1,6 @@
 ---
 id: 514
-title: 'Steady Bloggin&#8217;'
+title: 'Steady Bloggin’'
 date: 2010-05-07T20:51:00+00:00
 author: Admin
 layout: post
@@ -19,7 +19,7 @@ categories:
 ---
 <div class="pf-content">
   <div style="text-align: center;">
-    <span class="Apple-style-span" style="font-weight: bold; ">THE PRETTY THINGS &#8211; PARACHUTE (1970)</span>
+    <span class="Apple-style-span" style="font-weight: bold; ">THE PRETTY THINGS – PARACHUTE (1970)</span>
   </div>
   
   <p>
@@ -27,7 +27,7 @@ categories:
   </p>
   
   <div style="text-align: left;">
-    What do you get when you combine the Beatles, Rolling Stones, Kinks, and Pink Floyd? Why, the Pretty Things! Okay! According to wikipedia (you know, the Truth), this British Invasion band &#8220;made it&#8221; in the UK, but sadly never in the Land of the Double-Down. Until now!
+    What do you get when you combine the Beatles, Rolling Stones, Kinks, and Pink Floyd? Why, the Pretty Things! Okay! According to wikipedia (you know, the Truth), this British Invasion band “made it” in the UK, but sadly never in the Land of the Double-Down. Until now!
   </div>
   
   <div style="text-align: left;">
@@ -41,7 +41,7 @@ categories:
   </div>
   
   <div style="text-align: left;">
-    The medley at the beginning: (&#8220;Good Mr. Square&#8221; at 1.49 is the shit.)
+    The medley at the beginning: (“Good Mr. Square” at 1.49 is the shit.)
   </div>
   
   <div style="text-align: left;">

@@ -28,11 +28,11 @@ categories:
   </p>
   
   <p>
-    * Beethoven: Piano Trios, with the Gryphon Trio (Analekta AN 2 9858)<br />* Beethoven: Piano Concertos Nos. 4 & 5, with Till Fellner, Kent Nagano and the Montreal Symphony (ECM New Series 2114)<br />* Marco Dall&#8217;Aquila: &#8220;Pieces for Lute&#8221; (harmonia mundi HMU 907548)<br />* Ernst Krenek: &#8220;Six Motets After Texts of Franz Kafka&#8221; and other choral works (harmonia mundi HMC 902049)<br />* André Mathieu, Felix Mendelssoh, Dmitri Shostakovich: Concertos and Concertino, with pianist Alain Lefèvre (Analekta AN 2 9283)<br />* Frank Martin: <i>Golgotha</i> (harmonia mundi HMC 902056)<br />* Astor Piazzola & Luis Bacalov: &#8220;The Soul of Tango&#8221; (Delos DE 3345)<br />* &#8220;Telemann and the Baroque Gypsies&#8221;, with the Ensemble Caprice (Analekta AN 2 9919)<br />* Matthias Weckmann: &#8220;Sacred Motets&#8221; (harmonia mundi HMC 902034)<br />* Oswald von Wolkenstein: &#8220;Songs of Myself&#8221; (harmonia mundi HMC 902051)
+    * Beethoven: Piano Trios, with the Gryphon Trio (Analekta AN 2 9858)<br />* Beethoven: Piano Concertos Nos. 4 & 5, with Till Fellner, Kent Nagano and the Montreal Symphony (ECM New Series 2114)<br />* Marco Dall’Aquila: “Pieces for Lute” (harmonia mundi HMU 907548)<br />* Ernst Krenek: “Six Motets After Texts of Franz Kafka” and other choral works (harmonia mundi HMC 902049)<br />* André Mathieu, Felix Mendelssoh, Dmitri Shostakovich: Concertos and Concertino, with pianist Alain Lefèvre (Analekta AN 2 9283)<br />* Frank Martin: <i>Golgotha</i> (harmonia mundi HMC 902056)<br />* Astor Piazzola & Luis Bacalov: “The Soul of Tango” (Delos DE 3345)<br />* “Telemann and the Baroque Gypsies”, with the Ensemble Caprice (Analekta AN 2 9919)<br />* Matthias Weckmann: “Sacred Motets” (harmonia mundi HMC 902034)<br />* Oswald von Wolkenstein: “Songs of Myself” (harmonia mundi HMC 902051)
   </p>
   
   <p>
-    I&#8217;ll continue to post lists of new classical recordings at KWUR as often as warranted. Feel free to comment or drop a line to classical@kwur.com. Thanks for reading.
+    I’ll continue to post lists of new classical recordings at KWUR as often as warranted. Feel free to comment or drop a line to classical@kwur.com. Thanks for reading.
   </p>
   
   <p>

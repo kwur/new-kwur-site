@@ -19,7 +19,7 @@ categories:
 ---
 <div class="pf-content">
   <div style="text-align: center;">
-    THE PRUNES &#8211; TRACKS FROM THE DARKSIDE (1996)
+    THE PRUNES – TRACKS FROM THE DARKSIDE (1996)
   </div>
   
   <p>
@@ -37,7 +37,7 @@ categories:
     
     <div>
       <div style="text-align: center;">
-        EL MICHELS AFFAIR &#8211; ENTER THE 37TH CHAMBER (2009)
+        EL MICHELS AFFAIR – ENTER THE 37TH CHAMBER (2009)
       </div>
       
       <div>

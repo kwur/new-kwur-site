@@ -17,7 +17,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    The new <a href="http://www.steveearle.com/">Steve Earle</a> record, <a href="http://www.amazon.com/Washington-Square-Serenade-Steve-Earle/dp/B000UC1Q9C">Washington Square Serenade</a>, came out yesterday. The album reflects Earle&#8217;s recent move to New York City and marriage to <a href="http://www.allisonmoorer.com/">Allison Moorer</a>, who sings harmony on several tracks. It moves away from the outright anger of his last two albums, <a href="http://www.amazon.com/Revolution-Starts-Now-Steve-Earle/dp/B0002IQHV6/ref=pd_bbs_sr_1/102-6626378-7878566?ie=UTF8&s=music&qid=1190901647&sr=1-1">The Revolution Starts Now</a> and <a href="http://www.amazon.com/Jerusalem-Steve-Earle/dp/B00006GEX6/ref=m_art_li_7/102-6626378-7878566">Jerusalem</a>, towards more restrained protest music, in the vein of Woody Guthrie and Pete Seeger.
+    The new <a href="http://www.steveearle.com/">Steve Earle</a> record, <a href="http://www.amazon.com/Washington-Square-Serenade-Steve-Earle/dp/B000UC1Q9C">Washington Square Serenade</a>, came out yesterday. The album reflects Earle’s recent move to New York City and marriage to <a href="http://www.allisonmoorer.com/">Allison Moorer</a>, who sings harmony on several tracks. It moves away from the outright anger of his last two albums, <a href="http://www.amazon.com/Revolution-Starts-Now-Steve-Earle/dp/B0002IQHV6/ref=pd_bbs_sr_1/102-6626378-7878566?ie=UTF8&s=music&qid=1190901647&sr=1-1">The Revolution Starts Now</a> and <a href="http://www.amazon.com/Jerusalem-Steve-Earle/dp/B00006GEX6/ref=m_art_li_7/102-6626378-7878566">Jerusalem</a>, towards more restrained protest music, in the vein of Woody Guthrie and Pete Seeger.
   </p>
   
   <p>
@@ -25,6 +25,6 @@ categories:
   </p>
   
   <p>
-    Check out this awesome video of a very young Steve Earle performing &#8220;Hillbilly Highway&#8221; on Austin City Limits:<br />
+    Check out this awesome video of a very young Steve Earle performing “Hillbilly Highway” on Austin City Limits:<br />
   </p>
 </div>

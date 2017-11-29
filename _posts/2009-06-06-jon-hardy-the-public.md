@@ -1,6 +1,6 @@
 ---
 id: 364
-title: 'Jon Hardy &amp; The Public'
+title: 'Jon Hardy & The Public'
 date: 2009-06-06T21:32:00+00:00
 author: Moondog
 layout: post
@@ -18,7 +18,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    So we&#8217;ll be going live with JH&TP pretty soon (6PM CST), and in the process of getting ready for the interview, I stumbled upon this:
+    So we’ll be going live with JH&TP pretty soon (6PM CST), and in the process of getting ready for the interview, I stumbled upon this:
   </p>
   
   <p>
@@ -29,6 +29,6 @@ categories:
   </p>
   
   <p>
-    The song is a cover of Randy Newman&#8217;s Little Criminals, and the video is one of the most visually arresting things I have seen in quite some time. Be sure we&#8217;ll be talking about that, among other things. So&#8230;.. tune in!
+    The song is a cover of Randy Newman’s Little Criminals, and the video is one of the most visually arresting things I have seen in quite some time. Be sure we’ll be talking about that, among other things. So….. tune in!
   </p>
 </div>

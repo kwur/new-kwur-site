@@ -21,7 +21,7 @@ categories:
     </p>
     
     <p>
-      Here&#8217;s a video someone posted at YouTube from the Girl Talk show post-shut down, presumably pre-tasering.
+      Here’s a video someone posted at YouTube from the Girl Talk show post-shut down, presumably pre-tasering.
     </p>
   </div>
 </div>

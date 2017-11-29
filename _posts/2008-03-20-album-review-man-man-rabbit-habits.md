@@ -1,6 +1,6 @@
 ---
 id: 180
-title: 'Album Review: Man Man, &quot;Rabbit Habits&quot;'
+title: 'Album Review: Man Man, "Rabbit Habits"'
 date: 2008-03-20T06:20:00+00:00
 author: The Intern
 layout: post
@@ -17,7 +17,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/IMG_0048-718883.JPG"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://www.kwur.com/blog/uploaded_images/IMG_0048-718168.JPG" alt="" border="0" /></a>If you heard Man Man at KWUR week last year, you know what to expect: an energetic blend of R and B, vaudevillian shout blues and tribal indie madness that sounds like the musical equivalent of anarcho-syndicalism. Additionally, many of these tracks have been in their live repertoire for a while now. This album is somewhat less bombastic and more contemplative than &#8220;Six Demon Bag&#8221;, but that&#8217;s a good thing. The longer production time (and better production overall) has allowed Man Man to create a delirious, virtuosic phantasmagoria tempered with a deeply moving, tragic romanticism. In short, nothing less than a modern opus.
+    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/IMG_0048-718883.JPG"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://www.kwur.com/blog/uploaded_images/IMG_0048-718168.JPG" alt="" border="0" /></a>If you heard Man Man at KWUR week last year, you know what to expect: an energetic blend of R and B, vaudevillian shout blues and tribal indie madness that sounds like the musical equivalent of anarcho-syndicalism. Additionally, many of these tracks have been in their live repertoire for a while now. This album is somewhat less bombastic and more contemplative than “Six Demon Bag”, but that’s a good thing. The longer production time (and better production overall) has allowed Man Man to create a delirious, virtuosic phantasmagoria tempered with a deeply moving, tragic romanticism. In short, nothing less than a modern opus.
   </p>
   
   <p>

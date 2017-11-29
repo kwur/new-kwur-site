@@ -15,7 +15,7 @@ categories:
   </p>
   
   <p>
-    <em>OK folks &#8211; a (very) few have been asking, so it's time again for my annual end of year record list&#8230; </em>
+    <em>OK folks – a (very) few have been asking, so it's time again for my annual end of year record list… </em>
   </p>
   
   <p>
@@ -23,7 +23,7 @@ categories:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
@@ -31,23 +31,23 @@ categories:
   </p>
   
   <p>
-    <strong>The (Royal) Baths &#8211; Litanies LP [Woodist]</strong>
+    <strong>The (Royal) Baths – Litanies LP [Woodist]</strong>
   </p>
   
   <p>
-    This is dark, brooding, sexy, psychedelica at its best. Debut album featuring Jigmae Baer (ex-Oh Sees, The Perverts) and Jeremy Cox both of the under-rated Tea Elles. There are far too many San Francisco bands on this list, so please start with this one&#8230;
+    This is dark, brooding, sexy, psychedelica at its best. Debut album featuring Jigmae Baer (ex-Oh Sees, The Perverts) and Jeremy Cox both of the under-rated Tea Elles. There are far too many San Francisco bands on this list, so please start with this one…
   </p>
   
   <p>
-    <strong>Big Blood &#8211; Dead Songs LP [Time Lag]</strong>
+    <strong>Big Blood – Dead Songs LP [Time Lag]</strong>
   </p>
   
   <p>
-    Excellent husband/wife folk psych duo from Maine. Plus, they give away a ton (all?) of their music on the <a href="http://freemusicarchive.org/music/Big_Blood/">Free Music Archive</a>, so you really have no reason not to check them out. If you're into the more drone-y side of things see "Dark Country Magic," which just came out&#8230;
+    Excellent husband/wife folk psych duo from Maine. Plus, they give away a ton (all?) of their music on the <a href="http://freemusicarchive.org/music/Big_Blood/">Free Music Archive</a>, so you really have no reason not to check them out. If you're into the more drone-y side of things see "Dark Country Magic," which just came out…
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
@@ -55,7 +55,7 @@ categories:
   </p>
   
   <p>
-    <strong>(Charlie & The) Moonhearts &#8211; Moonhearts [Tic Tac Totally]</strong>
+    <strong>(Charlie & The) Moonhearts – Moonhearts [Tic Tac Totally]</strong>
   </p>
   
   <p>
@@ -63,15 +63,15 @@ categories:
   </p>
   
   <p>
-    <strong>White Fence &#8211; White Fence LP [Make A Mess]</strong>
+    <strong>White Fence – White Fence LP [Make A Mess]</strong>
   </p>
   
   <p>
-    I spun this one quite a bit in '10 as well. More classic lysergic pop from San Fran, this sounds like it was recorded in 1969 (minus the drum machines)&#8230;
+    I spun this one quite a bit in '10 as well. More classic lysergic pop from San Fran, this sounds like it was recorded in 1969 (minus the drum machines)…
   </p>
   
   <p>
-    <strong>Ty Segall &#8211; Melted LP [Goner] </strong>&<strong> San Francisco Rock Compilation or Food or Weird Beer From Microsoft CS [God?]</strong>
+    <strong>Ty Segall – Melted LP [Goner] </strong>&<strong> San Francisco Rock Compilation or Food or Weird Beer From Microsoft CS [God?]</strong>
   </p>
   
   <p>
@@ -79,11 +79,11 @@ categories:
   </p>
   
   <p>
-    <strong>Thee Oh Sees &#8211; Warm Slime LP [In The Red] </strong>&<strong> Quadrospazzed '09 12" [Castle Face]</strong>
+    <strong>Thee Oh Sees – Warm Slime LP [In The Red] </strong>&<strong> Quadrospazzed '09 12" [Castle Face]</strong>
   </p>
   
   <p>
-    What would a list be without Thee Oh Sees? I liked "Warm Slime," especially the 10+ minute Side A, which quickly became my summer jam. But to me, it was just not as strong as the back-to-back greatness of "The Master's Bedroom&#8230;" and "Help" LPs. But I'll take any Oh Sees I can get and luckily these guys and girl work fast&nbsp; &#8212; there is a new album slated for a spring release on In The Red records.
+    What would a list be without Thee Oh Sees? I liked "Warm Slime," especially the 10+ minute Side A, which quickly became my summer jam. But to me, it was just not as strong as the back-to-back greatness of "The Master's Bedroom…" and "Help" LPs. But I'll take any Oh Sees I can get and luckily these guys and girl work fast  — there is a new album slated for a spring release on In The Red records.
   </p>
   
   <p>
@@ -91,15 +91,15 @@ categories:
   </p>
   
   <p>
-    <strong>Sword & Sandals &#8211; Good and Plenty LP [Empty Cellar]</strong>
+    <strong>Sword & Sandals – Good and Plenty LP [Empty Cellar]</strong>
   </p>
   
   <p>
-    Yes, I know, more John Dwyer. But this free-jazz project of his turned out much better than I expected. Worth a mention at least&#8230;
+    Yes, I know, more John Dwyer. But this free-jazz project of his turned out much better than I expected. Worth a mention at least…
   </p>
   
   <p>
-    <strong>Patrick Mullins &#8211; Don't Go To Sleep LP [Yik Yak]</strong>
+    <strong>Patrick Mullins – Don't Go To Sleep LP [Yik Yak]</strong>
   </p>
   
   <p>
@@ -107,15 +107,15 @@ categories:
   </p>
   
   <p>
-    <strong>Various Artists &#8211; In A Cloud: New Sounds From San Francisco LP [Secret Seven]</strong>
+    <strong>Various Artists – In A Cloud: New Sounds From San Francisco LP [Secret Seven]</strong>
   </p>
   
   <p>
-    A little compilation which pretty much sums up why the SF scene is awesome: Sonny & The Sunsets, Fresh & Onlys, Thee Oh Sees, Grass Window, Ty Segall, Kelly Stoltz, Donovan Quinn. Check these mostly mediocre cuts, then go seek out further (better) cuts&#8230;
+    A little compilation which pretty much sums up why the SF scene is awesome: Sonny & The Sunsets, Fresh & Onlys, Thee Oh Sees, Grass Window, Ty Segall, Kelly Stoltz, Donovan Quinn. Check these mostly mediocre cuts, then go seek out further (better) cuts…
   </p>
   
   <p>
-    <strong>Dan Melchior und das Menace &#8211; Visionary Pangs LP</strong>
+    <strong>Dan Melchior und das Menace – Visionary Pangs LP</strong>
   </p>
   
   <p>
@@ -123,7 +123,7 @@ categories:
   </p>
   
   <p>
-    <strong>Sun City Girls &#8211; Funeral Mariachi LP [Abduction]</strong>
+    <strong>Sun City Girls – Funeral Mariachi LP [Abduction]</strong>
   </p>
   
   <p>
@@ -131,7 +131,7 @@ categories:
   </p>
   
   <p>
-    <strong>David Cross &#8211; Bigger and Blackerer LP [Sub Pop]</strong>
+    <strong>David Cross – Bigger and Blackerer LP [Sub Pop]</strong>
   </p>
   
   <p>
@@ -139,7 +139,7 @@ categories:
   </p>
   
   <p>
-    <strong>Mark Sultan &#8211; $ LP [Last Gang]</strong>
+    <strong>Mark Sultan – $ LP [Last Gang]</strong>
   </p>
   
   <p>
@@ -147,23 +147,23 @@ categories:
   </p>
   
   <p>
-    <strong>The Fall &#8211; Your Future, Our Clutter LP [Domino]</strong>
+    <strong>The Fall – Your Future, Our Clutter LP [Domino]</strong>
   </p>
   
   <p>
-    This guy is still doing it and doing it well&#8230;
+    This guy is still doing it and doing it well…
   </p>
   
   <p>
-    <strong>Pocahaunted &#8211; Make It Real LP [Not Not Fun]</strong>
+    <strong>Pocahaunted – Make It Real LP [Not Not Fun]</strong>
   </p>
   
   <p>
-    Pocahaunted no more. When Best Coast took off, I pretty much <a href="http://kwur.com/some-quick-2010-favorites/">called</a> this one&#8230;
+    Pocahaunted no more. When Best Coast took off, I pretty much <a href="http://kwur.com/some-quick-2010-favorites/">called</a> this one…
   </p>
   
   <p>
-    <strong>Paul Cary &#8211; Ghost of a Man LP [Stankhouse]</strong>
+    <strong>Paul Cary – Ghost of a Man LP [Stankhouse]</strong>
   </p>
   
   <p>
@@ -171,7 +171,7 @@ categories:
   </p>
   
   <p>
-    <strong>Golden Triangle &#8211; Double Jointer LP [Hardly Art]</strong>
+    <strong>Golden Triangle – Double Jointer LP [Hardly Art]</strong>
   </p>
   
   <p>
@@ -179,7 +179,7 @@ categories:
   </p>
   
   <p>
-    <strong>Various Artists &#8211; Ecstatic Music of the Jemma El Fna LP [Sublime Frequencies]</strong>
+    <strong>Various Artists – Ecstatic Music of the Jemma El Fna LP [Sublime Frequencies]</strong>
   </p>
   
   <p>
@@ -187,7 +187,7 @@ categories:
   </p>
   
   <p>
-    <strong>TV Buddha &#8211; The Golden Period [Trost]</strong>
+    <strong>TV Buddha – The Golden Period [Trost]</strong>
   </p>
   
   <p>
@@ -195,7 +195,7 @@ categories:
   </p>
   
   <p>
-    <strong>Tyvek &#8211; Nothing Fits [In The Red]</strong>
+    <strong>Tyvek – Nothing Fits [In The Red]</strong>
   </p>
   
   <p>
@@ -203,7 +203,7 @@ categories:
   </p>
   
   <p>
-    <strong>Sex Church &#8211; Six Songs By Sex Church [Convulsive]</strong>
+    <strong>Sex Church – Six Songs By Sex Church [Convulsive]</strong>
   </p>
   
   <p>
@@ -211,7 +211,7 @@ categories:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
@@ -219,7 +219,7 @@ categories:
   </p>
   
   <p>
-    <strong>Night Beats &#8211; H Bomb 7" [Trouble In Mind]</strong>
+    <strong>Night Beats – H Bomb 7" [Trouble In Mind]</strong>
   </p>
   
   <p>
@@ -227,19 +227,19 @@ categories:
   </p>
   
   <p>
-    <strong>Various Artists &#8211; Their Hispanic Majesties Request 2&#215;7" [Norton]</strong>
+    <strong>Various Artists – Their Hispanic Majesties Request 2×7" [Norton]</strong>
   </p>
   
   <p>
-    <strong>A Lost People &#8211; Big Booty Bitches digital single [self released]</strong>
+    <strong>A Lost People – Big Booty Bitches digital single [self released]</strong>
   </p>
   
   <p>
-    <strong>Drop Z &#8211; Tha King of Pop [no label]</strong>
+    <strong>Drop Z – Tha King of Pop [no label]</strong>
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
@@ -247,31 +247,31 @@ categories:
   </p>
   
   <p>
-    <strong>Earth &#8211; A Bureaucratic Desire For Extra Capsular Extraction 2xLP [Southern Lord]</strong>
+    <strong>Earth – A Bureaucratic Desire For Extra Capsular Extraction 2xLP [Southern Lord]</strong>
   </p>
   
   <p>
-    This one wins the packaging award this year. Beautiful gatefold with full color printed inner-sleeves, full liner notes, and THICK vinyl (some on clear, even). This early doom drone metal is so good I'm embarrassed I didn't know it before. Kurt Cobain's signature vocal-screams don't hurt on the last track either&#8230;
+    This one wins the packaging award this year. Beautiful gatefold with full color printed inner-sleeves, full liner notes, and THICK vinyl (some on clear, even). This early doom drone metal is so good I'm embarrassed I didn't know it before. Kurt Cobain's signature vocal-screams don't hurt on the last track either…
   </p>
   
   <p>
-    <strong>Amon Duul II &#8211; Tanz Der Lemmerage 2xLP</strong>
+    <strong>Amon Duul II – Tanz Der Lemmerage 2xLP</strong>
   </p>
   
   <p>
-    Krautrock shred masterpiece. Previously a hard one to track down&#8230;
+    Krautrock shred masterpiece. Previously a hard one to track down…
   </p>
   
   <p>
-    <strong>Les Rallizes Denudes &#8211; Heavier Than A Death In The Family 2xLP [Phoenix]</strong>
+    <strong>Les Rallizes Denudes – Heavier Than A Death In The Family 2xLP [Phoenix]</strong>
   </p>
   
   <p>
-    Since all this stuff is so blown out I'm not so sure how crucial a vinyl release is, but it's fun to finally have my favorite Japanese band finally on vinyl&#8230;
+    Since all this stuff is so blown out I'm not so sure how crucial a vinyl release is, but it's fun to finally have my favorite Japanese band finally on vinyl…
   </p>
   
   <p>
-    <strong>Various Artists &#8211; Alan Lomax Southern Journey 5xLP [Mississippi]</strong>
+    <strong>Various Artists – Alan Lomax Southern Journey 5xLP [Mississippi]</strong>
   </p>
   
   <p>
@@ -279,7 +279,7 @@ categories:
   </p>
   
   <p>
-    <strong>Henry Jacobs &#8211; Around The World With Henry Jacobs CD [Important]</strong>
+    <strong>Henry Jacobs – Around The World With Henry Jacobs CD [Important]</strong>
   </p>
   
   <p>
@@ -287,27 +287,27 @@ categories:
   </p>
   
   <p>
-    <strong>The Fall &#8211; This Nation's Saving Grace LP </strong>
+    <strong>The Fall – This Nation's Saving Grace LP </strong>
   </p>
   
   <p>
-    Wins the award for cheapest vinyl reissue &#8211; I didn't know it was possible to make vinyl so thin. On the other hand, I'm glad to have this without having to pay $30.
+    Wins the award for cheapest vinyl reissue – I didn't know it was possible to make vinyl so thin. On the other hand, I'm glad to have this without having to pay $30.
   </p>
   
   <p>
-    <strong>The Mummies &#8211; The Mummies Play Their Own Records LP [Estrus]</strong>
+    <strong>The Mummies – The Mummies Play Their Own Records LP [Estrus]</strong>
   </p>
   
   <p>
-    <strong>Man or Astro-Man? &#8211; Is it Man or&#8230;Astro-Man? LP [Estrus]</strong>
+    <strong>Man or Astro-Man? – Is it Man or…Astro-Man? LP [Estrus]</strong>
   </p>
   
   <p>
-    Since Estrus isn't putting anything out anymore, at least they've started repressing the good stuff&#8230;
+    Since Estrus isn't putting anything out anymore, at least they've started repressing the good stuff…
   </p>
   
   <p>
-    <strong>Lou Reed &#8211; Metal Machine Music 2xLP [Sister Ray]</strong>
+    <strong>Lou Reed – Metal Machine Music 2xLP [Sister Ray]</strong>
   </p>
   
   <p>
@@ -315,15 +315,15 @@ categories:
   </p>
   
   <p>
-    <strong>Velvet Underground &#8211; The Quine Tapes 6xLP box [Sundazed]</strong>
+    <strong>Velvet Underground – The Quine Tapes 6xLP box [Sundazed]</strong>
   </p>
   
   <p>
-    Featuring a whole side of Sister Ray recorded at Wash U&#8230;
+    Featuring a whole side of Sister Ray recorded at Wash U…
   </p>
   
   <p>
-    <strong>Spacemen 3 &#8211; Perfect Prescription LP & Sound of Confusion LP & Performance LP & Playing With Fire 2&#215;10" & Taking Drugs to Make Music To Take Drugs To 2xLP [Fire & Taang]</strong>
+    <strong>Spacemen 3 – Perfect Prescription LP & Sound of Confusion LP & Performance LP & Playing With Fire 2×10" & Taking Drugs to Make Music To Take Drugs To 2xLP [Fire & Taang]</strong>
   </p>
   
   <p>
@@ -331,7 +331,7 @@ categories:
   </p>
   
   <p>
-    <strong>Mazzy Star &#8211; She Hangs Brightly LP & So Tonight That I May See LP & Among My Swan LP [Plain]</strong>
+    <strong>Mazzy Star – She Hangs Brightly LP & So Tonight That I May See LP & Among My Swan LP [Plain]</strong>
   </p>
   
   <p>
@@ -339,7 +339,7 @@ categories:
   </p>
   
   <p>
-    <strong>Sonic Youth &#8211; Sister LP</strong>
+    <strong>Sonic Youth – Sister LP</strong>
   </p>
   
   <p>
@@ -347,7 +347,7 @@ categories:
   </p>
   
   <p>
-    <strong>Parson Sound &#8211; Parson Sound 3xLP Box [Subliminal Sounds]</strong>
+    <strong>Parson Sound – Parson Sound 3xLP Box [Subliminal Sounds]</strong>
   </p>
   
   <p>
@@ -355,7 +355,7 @@ categories:
   </p>
   
   <p>
-    <strong>C.C. Hennix &#8211; The Electric Harpsichord CD [Die Schachtel]</strong>
+    <strong>C.C. Hennix – The Electric Harpsichord CD [Die Schachtel]</strong>
   </p>
   
   <p>
@@ -363,7 +363,7 @@ categories:
   </p>
   
   <p>
-    <strong>Various Artists &#8211; Excavated Shellac: Strings [Parlortone]</strong>
+    <strong>Various Artists – Excavated Shellac: Strings [Parlortone]</strong>
   </p>
   
   <p>
@@ -371,11 +371,11 @@ categories:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
-    2011 &#8211; Everything's going to be alright,
+    2011 – Everything's going to be alright,
   </p>
   
   <p>

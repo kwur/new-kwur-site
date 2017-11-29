@@ -31,10 +31,10 @@ tags:
   </p>
   
   <p>
-    (4) Erkki-Sven T&uuml;&uuml;r: "Strata" &#8211; Symphony No. 6 ("Strata", 2007), <em><a class="schwarzgrau" href="http://www.ecmrecords.com/Catalogue/titlelist.php?tiaas=1&cat=&lv_redir=&we_search=%2BNo%26%23275%3Bsis">No?sis</a></em> (Concerto for clarinet, violin and orchestra; 2005), with <a class="schwarzgrau" href="http://www.ecmrecords.com/Catalogue/titlelist.php?acat=Artists%2FWidmann+J%F6rg+%23%23J%F6rg+Widmann">J&ouml;rg Widmann</a> (clarinet), <a class="schwarzgrau" href="http://www.ecmrecords.com/Catalogue/titlelist.php?acat=Artists%2FWidmann+Carolin%23%23Carolin+Widmann">Carolin Widmann</a> (violin), and the <a class="schwarzgrau" href="http://www.ecmrecords.com/Catalogue/titlelist.php?acat=Artists%2FNordic+Symphony+Orchestra+%23%23Nordic+Symphony+Orchestra">Nordic Symphony Orchestra</a>; <a class="schwarzgrau" href="http://www.ecmrecords.com/Catalogue/titlelist.php?acat=Artists%2FTali+Anu+%23%23Anu+Tali">Anu Tali,</a> conductor (<a href="http://www.ecmrecords.com/Catalogue/New_Series/2000/2040.php?cat=&we_start=16&lvredir=3092">ECM New Series 2040</a>)
+    (4) Erkki-Sven Tüür: "Strata" – Symphony No. 6 ("Strata", 2007), <em><a class="schwarzgrau" href="http://www.ecmrecords.com/Catalogue/titlelist.php?tiaas=1&cat=&lv_redir=&we_search=%2BNo%26%23275%3Bsis">No?sis</a></em> (Concerto for clarinet, violin and orchestra; 2005), with <a class="schwarzgrau" href="http://www.ecmrecords.com/Catalogue/titlelist.php?acat=Artists%2FWidmann+J%F6rg+%23%23J%F6rg+Widmann">Jörg Widmann</a> (clarinet), <a class="schwarzgrau" href="http://www.ecmrecords.com/Catalogue/titlelist.php?acat=Artists%2FWidmann+Carolin%23%23Carolin+Widmann">Carolin Widmann</a> (violin), and the <a class="schwarzgrau" href="http://www.ecmrecords.com/Catalogue/titlelist.php?acat=Artists%2FNordic+Symphony+Orchestra+%23%23Nordic+Symphony+Orchestra">Nordic Symphony Orchestra</a>; <a class="schwarzgrau" href="http://www.ecmrecords.com/Catalogue/titlelist.php?acat=Artists%2FTali+Anu+%23%23Anu+Tali">Anu Tali,</a> conductor (<a href="http://www.ecmrecords.com/Catalogue/New_Series/2000/2040.php?cat=&we_start=16&lvredir=3092">ECM New Series 2040</a>)
   </p>
   
   <p>
-    As always, thanks for reading.<br /> &nbsp;
+    As always, thanks for reading.<br />  
   </p>
 </div>

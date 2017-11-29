@@ -21,7 +21,7 @@ categories:
   </p>
   
   <div>
-    <span style="font-family: arial,sans,sans-serif; font-size: 13px; white-space: pre-wrap;"><span style="font-size: medium;">Last night some devoted DJs stayed up all night, broadcasting continuously from 8 pm to 6 am. For the final 3 hours, we counted down with a song from each year since KWUR&#8217;s founding in 1976, right up to 2009. Decisions were made by committee so don&#8217;t blame me if you don&#8217;t like the selections.</span></span>
+    <span style="font-family: arial,sans,sans-serif; font-size: 13px; white-space: pre-wrap;"><span style="font-size: medium;">Last night some devoted DJs stayed up all night, broadcasting continuously from 8 pm to 6 am. For the final 3 hours, we counted down with a song from each year since KWUR’s founding in 1976, right up to 2009. Decisions were made by committee so don’t blame me if you don’t like the selections.</span></span>
   </div>
   
   <p>
@@ -200,7 +200,7 @@ categories:
       </td>
       
       <td>
-        This Ain&#8217;t No Picnic
+        This Ain’t No Picnic
       </td>
       
       <td>
@@ -344,11 +344,11 @@ categories:
       </td>
       
       <td>
-        Don&#8217;t Sweat the Technique
+        Don’t Sweat the Technique
       </td>
       
       <td>
-        Don&#8217;t Sweat the Technique
+        Don’t Sweat the Technique
       </td>
     </tr>
     
@@ -362,7 +362,7 @@ categories:
       </td>
       
       <td>
-        Wu-Tang Clan Ain&#8217;t Nuthing ta F&#8217; Wit
+        Wu-Tang Clan Ain’t Nuthing ta F’ Wit
       </td>
       
       <td>
@@ -564,7 +564,7 @@ categories:
       </td>
       
       <td>
-        You&#8217;re a Woman, I&#8217;m a Machine
+        You’re a Woman, I’m a Machine
       </td>
     </tr>
     

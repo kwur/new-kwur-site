@@ -25,7 +25,7 @@ categories:
   </p>
   
   <p>
-    You are encouraged to download it (in several formats) <a href="http://thepiratebay.org/user/stealthisfilm">here<span style="font-weight: bold;"></span></a><br />or visit the film&#8217;s website at <a href="http://stealthisfilm.com/Part2/">http://stealthisfilm.com/Part2/</a>
+    You are encouraged to download it (in several formats) <a href="http://thepiratebay.org/user/stealthisfilm">here<span style="font-weight: bold;"></span></a><br />or visit the film’s website at <a href="http://stealthisfilm.com/Part2/">http://stealthisfilm.com/Part2/</a>
   </p>
   
   <p>

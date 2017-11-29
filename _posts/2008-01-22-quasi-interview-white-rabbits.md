@@ -17,7 +17,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    Before last night&#8217;s show with White Denim and the Walkmen, I had a chance to talk with Alex Even, guitarist for the White Rabbits. While I didn&#8217;t have the chance to prepare for a more comprehensive interview, Alex was gracious enough to give me these little nuggets:
+    Before last night’s show with White Denim and the Walkmen, I had a chance to talk with Alex Even, guitarist for the White Rabbits. While I didn’t have the chance to prepare for a more comprehensive interview, Alex was gracious enough to give me these little nuggets:
   </p>
   
   <p>
@@ -25,7 +25,7 @@ categories:
   </p>
   
   <p>
-    On Wash U: He&#8217;s heard of it! Fond memories.
+    On Wash U: He’s heard of it! Fond memories.
   </p>
   
   <p>
@@ -33,6 +33,6 @@ categories:
   </p>
   
   <p>
-    On the Walkmen: &#8220;Inspiring&#8221;
+    On the Walkmen: “Inspiring”
   </p>
 </div>

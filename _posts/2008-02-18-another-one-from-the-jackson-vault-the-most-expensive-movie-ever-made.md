@@ -18,7 +18,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    So it&#8217;s not really the most expensive movie ever made. At the time that it came out, though, it was the most expensive film per minute, ever. The 17 minute 3D feature made for Disney Themeparks cost between 18 and 30 million dollars. What the hell am I talking about? Captain EO. It was produced by George Lucas, directed by Francis For Coppola and stars, that&#8217;s right, Michael Jackson. The thing is a special effects circle jerk. Using lasers, laser impacts, smoke effects and starfields that filled the theater, it basically felt like being inside Star Wars. That is if Star Wars starred Michael Jackson and Alfie.
+    So it’s not really the most expensive movie ever made. At the time that it came out, though, it was the most expensive film per minute, ever. The 17 minute 3D feature made for Disney Themeparks cost between 18 and 30 million dollars. What the hell am I talking about? Captain EO. It was produced by George Lucas, directed by Francis For Coppola and stars, that’s right, Michael Jackson. The thing is a special effects circle jerk. Using lasers, laser impacts, smoke effects and starfields that filled the theater, it basically felt like being inside Star Wars. That is if Star Wars starred Michael Jackson and Alfie.
   </p>
   
   <p>
@@ -26,7 +26,7 @@ categories:
   </p>
   
   <p>
-    When the team meets the Supreme Leader they win her over with a funky song and dance number and end up converting her into a beautiful princess and her planet into a paradise. Its what you would get if Michael Jackson wrote a movie (although he didn&#8217;t actually write this one, you know he loved it). The film played for about 12 years in various parks before being discontinued in 1997. It is currently unavailable on DVD or VHS, and certainly cannot be viewed in all of its 3D glory.
+    When the team meets the Supreme Leader they win her over with a funky song and dance number and end up converting her into a beautiful princess and her planet into a paradise. Its what you would get if Michael Jackson wrote a movie (although he didn’t actually write this one, you know he loved it). The film played for about 12 years in various parks before being discontinued in 1997. It is currently unavailable on DVD or VHS, and certainly cannot be viewed in all of its 3D glory.
   </p>
   
   <p>

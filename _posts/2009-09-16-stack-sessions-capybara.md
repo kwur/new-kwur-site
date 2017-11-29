@@ -18,7 +18,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    Kansas City&#8217;s <a href="http://www.myspace.com/heycapybara">Capybara</a> opened for <a href="http://www.cftpa.org/">Casiotone For The Painfully Alone</a> at <a href="http://offbroadwaystl.com/">Off Broadway</a> a few weekends ago, but before they took the stage, they played a few tunes in KWUR&#8217;s studio. Rock n roll music and an entertaining conversation followed, both of which we present to you here. Bonus points if you can guess which movie the samples in the song came from.
+    Kansas City’s <a href="http://www.myspace.com/heycapybara">Capybara</a> opened for <a href="http://www.cftpa.org/">Casiotone For The Painfully Alone</a> at <a href="http://offbroadwaystl.com/">Off Broadway</a> a few weekends ago, but before they took the stage, they played a few tunes in KWUR’s studio. Rock n roll music and an entertaining conversation followed, both of which we present to you here. Bonus points if you can guess which movie the samples in the song came from.
   </p>
   
   <div style="text-align: center;">
@@ -32,5 +32,5 @@ categories:
       </p>
       
       <p>
-        Also, check out some post-interview questions we did with Mushpot, Capybara&#8217;s label, <a href="http://mushpotrecords.com/">here</a>.
+        Also, check out some post-interview questions we did with Mushpot, Capybara’s label, <a href="http://mushpotrecords.com/">here</a>.
       </p></div>

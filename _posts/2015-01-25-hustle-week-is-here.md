@@ -11,7 +11,7 @@ categories:
 ---
 <div class="pf-content">
   <p style="text-align: center;">
-    <a href="https://gifts.wustl.edu/giftform.aspx"><span style="font-size: 24px;"><b>CLICK HERE&nbsp;TO DONATE!</b></span></a>
+    <a href="https://gifts.wustl.edu/giftform.aspx"><span style="font-size: 24px;"><b>CLICK HERE TO DONATE!</b></span></a>
   </p>
   
   <p style="text-align: center;">
@@ -19,27 +19,27 @@ categories:
   </p>
   
   <p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt;">
-    <span id="docs-internal-guid-410149de-23ef-9ed8-52ba-09b6123f073b"><span style="font-size: 13px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">This week (Monday 1/26 through Saturday 1/31) is Hustle Week, KWUR&rsquo;s annual fundraising drive! </span></span>
+    <span id="docs-internal-guid-410149de-23ef-9ed8-52ba-09b6123f073b"><span style="font-size: 13px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">This week (Monday 1/26 through Saturday 1/31) is Hustle Week, KWUR’s annual fundraising drive! </span></span>
   </p>
   
   <p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt;">
-    &nbsp;
+     
   </p>
   
   <p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt;">
-    <span id="docs-internal-guid-410149de-23ef-9ed8-52ba-09b6123f073b"><span style="font-size: 13px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">Radio isn&rsquo;t cheap so we&rsquo;re asking you, our listeners, to please donate so we can continue providing the quality programming you enjoy every day. KWUR is one of the last remaining independent and fully student managed stations in the country. Our freeform format allows students to Boldy Go Where No Station Has Gone Before. If you care about KWUR and enjoy the programming we provide everyday, please consider donating! </span></span>
+    <span id="docs-internal-guid-410149de-23ef-9ed8-52ba-09b6123f073b"><span style="font-size: 13px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">Radio isn’t cheap so we’re asking you, our listeners, to please donate so we can continue providing the quality programming you enjoy every day. KWUR is one of the last remaining independent and fully student managed stations in the country. Our freeform format allows students to Boldy Go Where No Station Has Gone Before. If you care about KWUR and enjoy the programming we provide everyday, please consider donating! </span></span>
   </p>
   
   <p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt;">
-    &nbsp;
+     
   </p>
   
   <p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt;">
-    <span id="docs-internal-guid-410149de-23ef-9ed8-52ba-09b6123f073b"><span style="font-size: 13px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">To donate any amount to the station, you can call the station to pledge at (314) 935-5952. DJs will be manning the phones most hours from 9:00 AM to midnight through Saturday January 31st to take your pledges.You can also <a href="https://gifts.wustl.edu/giftform.aspx">donate online</a> easily and securely simply clicking the link above and specifying "KWUR" under "Designation Options" &#8212; email me at <a href="http://communityrelations@kwur.com">communityrelations@kwur.com</a> to make your pledge and specify the gift you'd like in return!</span></span>
+    <span id="docs-internal-guid-410149de-23ef-9ed8-52ba-09b6123f073b"><span style="font-size: 13px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">To donate any amount to the station, you can call the station to pledge at (314) 935-5952. DJs will be manning the phones most hours from 9:00 AM to midnight through Saturday January 31st to take your pledges.You can also <a href="https://gifts.wustl.edu/giftform.aspx">donate online</a> easily and securely simply clicking the link above and specifying "KWUR" under "Designation Options" — email me at <a href="http://communityrelations@kwur.com">communityrelations@kwur.com</a> to make your pledge and specify the gift you'd like in return!</span></span>
   </p>
   
   <p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt;">
-    &nbsp;
+     
   </p>
   
   <p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt;">
@@ -67,7 +67,7 @@ categories:
   </p>
   
   <p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt;">
-    <span id="docs-internal-guid-410149de-23ef-9ed8-52ba-09b6123f073b"><span style="font-size: 13px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">$300: We will dedicate an entire day of programming of to you (you pick the date &#8211; your birthday??)</span></span>
+    <span id="docs-internal-guid-410149de-23ef-9ed8-52ba-09b6123f073b"><span style="font-size: 13px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">$300: We will dedicate an entire day of programming of to you (you pick the date – your birthday??)</span></span>
   </p>
   
   <p>

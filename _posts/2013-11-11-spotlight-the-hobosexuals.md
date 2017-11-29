@@ -21,11 +21,11 @@ tags:
 ---
 <div class="pf-content">
   <p>
-    Check out this awesome backwoods local folk band! The Hobosexuals are St. Louis natives and recorded their 2012 debut album in Columbia, MO. The album, &#8220;No Bull Honky, Just Honky Tonky,&#8221; reminds us of just why we love Missouri. Listening to this album is like a relaxing drive through the farmlands of the Midwest to a barn-raising hoedown! Banjos, washboards, and loose folk harmonies, all recorded in a homey, casual style, will leave you feeling right at home as you listen. Meanwhile, the lyrics of these songs tell stories of anarchy, of love, and of day to day struggles. Join these outlaws and bar flies and, if you like them, catch them performing live at venues around St. Louis frequently!
+    Check out this awesome backwoods local folk band! The Hobosexuals are St. Louis natives and recorded their 2012 debut album in Columbia, MO. The album, “No Bull Honky, Just Honky Tonky,” reminds us of just why we love Missouri. Listening to this album is like a relaxing drive through the farmlands of the Midwest to a barn-raising hoedown! Banjos, washboards, and loose folk harmonies, all recorded in a homey, casual style, will leave you feeling right at home as you listen. Meanwhile, the lyrics of these songs tell stories of anarchy, of love, and of day to day struggles. Join these outlaws and bar flies and, if you like them, catch them performing live at venues around St. Louis frequently!
   </p>
   
   <p>
-    Recommended Tracks:<br /> &#8220;Pigs,&#8221; &#8220;I Ain&#8217;t Takin&#8217; You Home Tonight,&#8221; &#8220;Mean Jean,&#8221; &#8220;Gettin&#8217; Robbed (a true story&#8221;
+    Recommended Tracks:<br /> “Pigs,” “I Ain’t Takin’ You Home Tonight,” “Mean Jean,” “Gettin’ Robbed (a true story”
   </p>
   
   <p>

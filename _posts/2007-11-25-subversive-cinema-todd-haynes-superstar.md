@@ -1,6 +1,6 @@
 ---
 id: 94
-title: 'Subversive Cinema: Todd Haynes&#8217; &quot;Superstar&quot;'
+title: 'Subversive Cinema: Todd Haynes’ "Superstar"'
 date: 2007-11-25T00:46:00+00:00
 author: Klax
 layout: post
@@ -17,18 +17,18 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/119048896_9af632d66b_o-733470.jpg"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer;" src="http://www.kwur.com/blog/uploaded_images/119048896_9af632d66b_o-733468.jpg" alt="" border="0" /></a><a href="http://en.wikipedia.org/wiki/I%27m_Not_There"><span style="font-style: italic;">I&#8217;m Not There</span> </a>(out now!) wasn&#8217;t director Todd Haynes&#8217; first biopic. In 1987, he created a short 43 minute Karen Carpenter biopic using Barbie dolls.
+    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/119048896_9af632d66b_o-733470.jpg"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer;" src="http://www.kwur.com/blog/uploaded_images/119048896_9af632d66b_o-733468.jpg" alt="" border="0" /></a><a href="http://en.wikipedia.org/wiki/I%27m_Not_There"><span style="font-style: italic;">I’m Not There</span> </a>(out now!) wasn’t director Todd Haynes’ first biopic. In 1987, he created a short 43 minute Karen Carpenter biopic using Barbie dolls.
   </p>
   
   <p>
-    The film has become a piece of &#8220;illegal art&#8221; unable to be properly released because of current zealous copyright laws.
+    The film has become a piece of “illegal art” unable to be properly released because of current zealous copyright laws.
   </p>
   
   <p>
-    Stay Free! magazine&#8217;s <a href="http://www.illegal-art.org/">illegal art exhibit</a> explains it:<br />&#8220;<span class="main">With Barbie dolls as the principal actors, <i>Superstar</i> portrays the life of Karen Carpenter and her battle with anorexia. Haynes never secured the rights to the Carpenters&#8217; music he used in the movie, and Richard Carpenter filed an injunction that kept <i>Superstar</i> from public release. Even without Carpenter&#8217;s court order, the film would probably have been stopped by the notoriously litigious Mattel, the makers of Barbie.&#8221;</p> 
+    Stay Free! magazine’s <a href="http://www.illegal-art.org/">illegal art exhibit</a> explains it:<br />“<span class="main">With Barbie dolls as the principal actors, <i>Superstar</i> portrays the life of Karen Carpenter and her battle with anorexia. Haynes never secured the rights to the Carpenters’ music he used in the movie, and Richard Carpenter filed an injunction that kept <i>Superstar</i> from public release. Even without Carpenter’s court order, the film would probably have been stopped by the notoriously litigious Mattel, the makers of Barbie.”</p> 
     
     <p>
-      While most film prints were immediately recalled and destroyed, the Museum of Modern Art film archive holds a copy (although they&#8217;ve agreed to never show it).
+      While most film prints were immediately recalled and destroyed, the Museum of Modern Art film archive holds a copy (although they’ve agreed to never show it).
     </p>
     
     <p>

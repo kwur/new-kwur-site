@@ -1,6 +1,6 @@
 ---
 id: 475
-title: 'Album Review: Owen Pallett, &quot;Heartland&quot;'
+title: 'Album Review: Owen Pallett, "Heartland"'
 date: 2010-02-02T07:18:00+00:00
 author: Chase
 layout: post
@@ -26,7 +26,7 @@ categories:
   </div>
   
   <div>
-    <span class="Apple-style-span"  style="font-size:small;">The man formerly known by the moniker Final Fantasy finally releases something under his own name. It&#8217;s definitely the same kind of sound he&#8217;s had for a while, but it&#8217;s sonically much more adventurous.</span>
+    <span class="Apple-style-span"  style="font-size:small;">The man formerly known by the moniker Final Fantasy finally releases something under his own name. It’s definitely the same kind of sound he’s had for a while, but it’s sonically much more adventurous.</span>
   </div>
   
   <div>
@@ -42,7 +42,7 @@ categories:
   </div>
   
   <div>
-    <span class="Apple-style-span"  style="font-size:small;">In addition, this whole thing is a </span><b><span class="Apple-style-span"  style="font-size:small;">concept album</span></b><span class="Apple-style-span"  style="font-size:small;"> that forms a narrative about a farmer named Lewis who lives in a world called &#8220;Spectrum.&#8221; Each song is from Lewis&#8217;s P.O.V. in conversation with his creator (aka Owen Pallett). </span><b><span class="Apple-style-span"  style="font-size:small;">YES!</span></b>
+    <span class="Apple-style-span"  style="font-size:small;">In addition, this whole thing is a </span><b><span class="Apple-style-span"  style="font-size:small;">concept album</span></b><span class="Apple-style-span"  style="font-size:small;"> that forms a narrative about a farmer named Lewis who lives in a world called “Spectrum.” Each song is from Lewis’s P.O.V. in conversation with his creator (aka Owen Pallett). </span><b><span class="Apple-style-span"  style="font-size:small;">YES!</span></b>
   </div>
   
   <div>
@@ -50,6 +50,6 @@ categories:
   </div>
   
   <div>
-    <span class="Apple-style-span"  style="font-size:small;"><span class="Apple-style-span"  style="font-size:medium;"><span class="Apple-style-span"  style="font-size:small;"><b></b>Try: 8+++ (great combo of electric and organic, use of &#8220;parallax&#8221; in the lyrics, joyful build), 1++, 5++ (Be My Baby drums), 6, 4, 11+, 7</span><span class="Apple-style-span"  style="font-size:130%;"><span class="Apple-style-span"  style="font-size:16px;"><br /></span></span></span></span>
+    <span class="Apple-style-span"  style="font-size:small;"><span class="Apple-style-span"  style="font-size:medium;"><span class="Apple-style-span"  style="font-size:small;"><b></b>Try: 8+++ (great combo of electric and organic, use of “parallax” in the lyrics, joyful build), 1++, 5++ (Be My Baby drums), 6, 4, 11+, 7</span><span class="Apple-style-span"  style="font-size:130%;"><span class="Apple-style-span"  style="font-size:16px;"><br /></span></span></span></span>
   </div>
 </div>

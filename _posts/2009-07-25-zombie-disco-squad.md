@@ -19,7 +19,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    <span class="Apple-style-span"  style="font-family:arial;"><span class="Apple-style-span"  style="font-size:medium;">If you&#8217;re into dance music, you&#8217;re aware that the sounds of disco and electro are starting to get over-saturated with too many artists and remixers all treading over the same ground, and that rhythmic traditions like Dubstep and Kuduro are taking over a share of the dance floor real estate (big acts like Major Lazer and Buraka Som Sistema for example.)</span></span>
+    <span class="Apple-style-span"  style="font-family:arial;"><span class="Apple-style-span"  style="font-size:medium;">If you’re into dance music, you’re aware that the sounds of disco and electro are starting to get over-saturated with too many artists and remixers all treading over the same ground, and that rhythmic traditions like Dubstep and Kuduro are taking over a share of the dance floor real estate (big acts like Major Lazer and Buraka Som Sistema for example.)</span></span>
   </p>
   
   <div>
@@ -28,7 +28,7 @@ categories:
   
   <div>
     <div>
-      <span class="Apple-style-span"  style="font-family:arial;"><span class="Apple-style-span"  style="font-size:medium;">Enter Zombie Disco Squad, two London DJs breaking out of the mold with a fresh sound that just has to b</span></span><span class="Apple-style-span"  style="font-family:arial;"><span class="Apple-style-span"  style="font-size:medium;">e heard to appreciate &#8211; house, african rhythms, and haunting melodies combine to create something I can&#8217;t</span></span><span class="Apple-style-span"  style="font-family:arial;"><span class="Apple-style-span"  style="font-size:medium;"> quite put my finger on. At first glance, these guys would appear to be a couple of electro hipsters with big neon sunglasses, a funny band name, and who cite</span></span><span class="Apple-style-span"  style="font-family:arial;"><span class="Apple-style-span"  style="font-size:medium;"> &#8220;</span></span><span class="Apple-style-span" style="-webkit-border-horizontal-spacing: 3px; -webkit-border-vertical-spacing: 3px; "><span class="Apple-style-span"  style="font-family:arial;"><span class="Apple-style-span"  style="font-size:medium;">808 kickdrums and disco hand claps&#8221; as influences on their myspace page. But on the same page, they say they&#8217;re not into people jumping onto the disco &#8220;bandwagon&#8221; and say they are against the bloghouse and new-rave phenomena associated with the world of electro/disco. Let&#8217;s have a listen, shall we?</span></span></span>
+      <span class="Apple-style-span"  style="font-family:arial;"><span class="Apple-style-span"  style="font-size:medium;">Enter Zombie Disco Squad, two London DJs breaking out of the mold with a fresh sound that just has to b</span></span><span class="Apple-style-span"  style="font-family:arial;"><span class="Apple-style-span"  style="font-size:medium;">e heard to appreciate – house, african rhythms, and haunting melodies combine to create something I can’t</span></span><span class="Apple-style-span"  style="font-family:arial;"><span class="Apple-style-span"  style="font-size:medium;"> quite put my finger on. At first glance, these guys would appear to be a couple of electro hipsters with big neon sunglasses, a funny band name, and who cite</span></span><span class="Apple-style-span"  style="font-family:arial;"><span class="Apple-style-span"  style="font-size:medium;"> “</span></span><span class="Apple-style-span" style="-webkit-border-horizontal-spacing: 3px; -webkit-border-vertical-spacing: 3px; "><span class="Apple-style-span"  style="font-family:arial;"><span class="Apple-style-span"  style="font-size:medium;">808 kickdrums and disco hand claps” as influences on their myspace page. But on the same page, they say they’re not into people jumping onto the disco “bandwagon” and say they are against the bloghouse and new-rave phenomena associated with the world of electro/disco. Let’s have a listen, shall we?</span></span></span>
     </div>
     
     <div>
@@ -36,7 +36,7 @@ categories:
     </div>
     
     <div>
-      <span class="Apple-style-span" style=" -webkit-border-horizontal-spacing: 3px; -webkit-border-vertical-spacing: 3px;"><span class="Apple-style-span"  style="font-family:arial;"><span class="Apple-style-span"  style="font-size:medium;">Here&#8217;s their track Straight Boy, and make sure to wait until the synth horns come in halfway through. This is some tribal King Arthur house music shit right here.</span></span></span>
+      <span class="Apple-style-span" style=" -webkit-border-horizontal-spacing: 3px; -webkit-border-vertical-spacing: 3px;"><span class="Apple-style-span"  style="font-family:arial;"><span class="Apple-style-span"  style="font-size:medium;">Here’s their track Straight Boy, and make sure to wait until the synth horns come in halfway through. This is some tribal King Arthur house music shit right here.</span></span></span>
     </div>
     
     <div>
@@ -64,7 +64,7 @@ categories:
     </div>
     
     <div>
-      <span class="Apple-style-span" style=" white-space: pre;"><span class="Apple-style-span"  style="font-family:arial;"><span class="Apple-style-span"  style="font-size:medium;">It&#8217;s immensely mix-able, and shows up in this set by the Sick</span></span></span>
+      <span class="Apple-style-span" style=" white-space: pre;"><span class="Apple-style-span"  style="font-family:arial;"><span class="Apple-style-span"  style="font-size:medium;">It’s immensely mix-able, and shows up in this set by the Sick</span></span></span>
     </div>
     
     <div>

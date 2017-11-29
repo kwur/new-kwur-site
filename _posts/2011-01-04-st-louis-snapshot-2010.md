@@ -14,15 +14,15 @@ tags:
 ---
 <div class="pf-content">
   <p style="text-align: left; ">
-    KWUR played a lot of music from St. Louis this year, and we learned a lot about St. Louis itself while we were at it. As findings from our rigorous research, here are 20 of our favorite local artists. These are some of the most talented, engaging, creative, and friendly people around, so don't forget to look close to home. Music is all around you!&nbsp;
+    KWUR played a lot of music from St. Louis this year, and we learned a lot about St. Louis itself while we were at it. As findings from our rigorous research, here are 20 of our favorite local artists. These are some of the most talented, engaging, creative, and friendly people around, so don't forget to look close to home. Music is all around you! 
   </p>
   
   <div style="text-align: center; ">
-    <a href="http://kwur.com/st-louis-snapshot-2010/artmajorsbasementbw/" rel="attachment wp-att-937"><img alt="" class="aligncenter size-thumbnail wp-image-937" height="150" src="http://kwur.com/wp-content/uploads/2011/01/ArtMajorsBasementBW-150x150.jpg" title="ArtMajorsBasementBW" width="150" /></a>&nbsp;Art Majors&nbsp;<a href="http://kwur.com/st-louis-snapshot-2010/beth_bombara/" rel="attachment wp-att-938"><img alt="" class="aligncenter size-thumbnail wp-image-938" height="150" src="http://kwur.com/wp-content/uploads/2011/01/beth_bombara-150x150.jpg" title="beth_bombara" width="150" srcset="http://kwur.com/wp-content/uploads/2011/01/beth_bombara-150x150.jpg 150w, http://kwur.com/wp-content/uploads/2011/01/beth_bombara.jpg 300w" sizes="(max-width: 150px) 100vw, 150px" /></a>&nbsp;Beth Bombara&nbsp;<a href="http://kwur.com/st-louis-snapshot-2010/bubg_cd_handleit-278x300-2/" rel="attachment wp-att-953"><img alt="" class="aligncenter size-thumbnail wp-image-953" src="http://kwur.com/wp-content/uploads/2011/01/BUBG_CD_handleit-278x3001-150x150.jpg" style="width: 150px; height: 150px; " title="BUBG_CD_handleit-278x300" /></a>&nbsp;Bottoms Up Blues Gang&nbsp;<a href="http://kwur.com/st-louis-snapshot-2010/bunnygrunt-delights-cd-art/" rel="attachment wp-att-945"><img alt="" class="aligncenter size-thumbnail wp-image-945" height="150" src="http://kwur.com/wp-content/uploads/2011/01/Bunnygrunt-Delights-CD-Art-150x150.jpg" title="Bunnygrunt-Delights-CD-Art" width="150" /></a>&nbsp;Bunnygrunt
+    <a href="http://kwur.com/st-louis-snapshot-2010/artmajorsbasementbw/" rel="attachment wp-att-937"><img alt="" class="aligncenter size-thumbnail wp-image-937" height="150" src="http://kwur.com/wp-content/uploads/2011/01/ArtMajorsBasementBW-150x150.jpg" title="ArtMajorsBasementBW" width="150" /></a> Art Majors <a href="http://kwur.com/st-louis-snapshot-2010/beth_bombara/" rel="attachment wp-att-938"><img alt="" class="aligncenter size-thumbnail wp-image-938" height="150" src="http://kwur.com/wp-content/uploads/2011/01/beth_bombara-150x150.jpg" title="beth_bombara" width="150" srcset="http://kwur.com/wp-content/uploads/2011/01/beth_bombara-150x150.jpg 150w, http://kwur.com/wp-content/uploads/2011/01/beth_bombara.jpg 300w" sizes="(max-width: 150px) 100vw, 150px" /></a> Beth Bombara <a href="http://kwur.com/st-louis-snapshot-2010/bubg_cd_handleit-278x300-2/" rel="attachment wp-att-953"><img alt="" class="aligncenter size-thumbnail wp-image-953" src="http://kwur.com/wp-content/uploads/2011/01/BUBG_CD_handleit-278x3001-150x150.jpg" style="width: 150px; height: 150px; " title="BUBG_CD_handleit-278x300" /></a> Bottoms Up Blues Gang <a href="http://kwur.com/st-louis-snapshot-2010/bunnygrunt-delights-cd-art/" rel="attachment wp-att-945"><img alt="" class="aligncenter size-thumbnail wp-image-945" height="150" src="http://kwur.com/wp-content/uploads/2011/01/Bunnygrunt-Delights-CD-Art-150x150.jpg" title="Bunnygrunt-Delights-CD-Art" width="150" /></a> Bunnygrunt
   </div>
   
   <div style="text-align: center; ">
-    <a href="http://kwur.com/st-louis-snapshot-2010/cassiepine/" rel="attachment wp-att-946"><img alt="" class="aligncenter size-thumbnail wp-image-946" height="150" src="http://kwur.com/wp-content/uploads/2011/01/cassiepine-150x150.jpg" title="cassiepine" width="150" /></a>&nbsp;Cassie Morgan & the Lonely Pine
+    <a href="http://kwur.com/st-louis-snapshot-2010/cassiepine/" rel="attachment wp-att-946"><img alt="" class="aligncenter size-thumbnail wp-image-946" height="150" src="http://kwur.com/wp-content/uploads/2011/01/cassiepine-150x150.jpg" title="cassiepine" width="150" /></a> Cassie Morgan & the Lonely Pine
   </div>
   
   <div style="text-align: center; ">
@@ -34,7 +34,7 @@ tags:
   </div>
   
   <div style="text-align: center; ">
-    &nbsp;
+     
   </div>
   
   <div style="text-align: center; ">
@@ -90,11 +90,11 @@ tags:
   </div>
   
   <div style="text-align: center; ">
-    &#8212;
+    —
   </div>
   
   <div style="text-align: center; ">
-    &nbsp;
+     
   </div>
   
   <div style="text-align: left; ">

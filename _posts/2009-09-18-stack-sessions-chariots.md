@@ -18,7 +18,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    KWUR&#8217;s very own Julie and Max, under the moniker of Chariots, played in the studio last Saturday. This is their first recording as a band, and I think they were dead on when they cited Dodos as an influence. Enjoy!
+    KWUR’s very own Julie and Max, under the moniker of Chariots, played in the studio last Saturday. This is their first recording as a band, and I think they were dead on when they cited Dodos as an influence. Enjoy!
   </p>
   
   <p>

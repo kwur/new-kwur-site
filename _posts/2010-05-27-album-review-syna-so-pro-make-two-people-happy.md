@@ -1,6 +1,6 @@
 ---
 id: 518
-title: 'Album Review: Syna So Pro, &quot;Make Two People Happy&quot;'
+title: 'Album Review: Syna So Pro, "Make Two People Happy"'
 date: 2010-05-27T04:05:00+00:00
 author: speiser
 layout: post
@@ -24,7 +24,7 @@ categories:
   </p>
   
   <p>
-    St. Louis local <a href="http://www.myspace.com/synasoloproject">Syna So Pro</a>, a.k.a. Syrhea Conaway, is a self proclaimed &#8220;one woman musical enigma.&#8221; She lives up to the title by making experimental symphonic pop by looping vocals, synths, guitar, bass, violin, and beats into a soaring, ethereal landscape. Her newest album <span style="font-style:italic;">Make Two People Happy</span> works best when played VERY LOUD and in it&#8217;s entirety, but here are a few highlights for radio play. Check out a bouncy little number, &#8220;<a href="http://www.youtube.com/watch?v=alPeTiR0BjQ">Santhem</a>&#8220;, and a nice rocker with swirling vocal, &#8220;If You Really Want It&#8221;. Finally, &#8220;All The Time&#8221; is a bit of a firework show to cap off the album with all her best tricks.
+    St. Louis local <a href="http://www.myspace.com/synasoloproject">Syna So Pro</a>, a.k.a. Syrhea Conaway, is a self proclaimed “one woman musical enigma.” She lives up to the title by making experimental symphonic pop by looping vocals, synths, guitar, bass, violin, and beats into a soaring, ethereal landscape. Her newest album <span style="font-style:italic;">Make Two People Happy</span> works best when played VERY LOUD and in it’s entirety, but here are a few highlights for radio play. Check out a bouncy little number, “<a href="http://www.youtube.com/watch?v=alPeTiR0BjQ">Santhem</a>“, and a nice rocker with swirling vocal, “If You Really Want It”. Finally, “All The Time” is a bit of a firework show to cap off the album with all her best tricks.
   </p>
   
   <p>

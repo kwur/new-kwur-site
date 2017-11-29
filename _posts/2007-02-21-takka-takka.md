@@ -17,6 +17,6 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    I was looking at the great elbo.ws blog aggregator, and saw, much to my surprise, that Takka Takka is listed as one of the &#8220;hot&#8221; bands. Takka Takka is a great band out of Brooklyn (represent, yo) who, much like another band, is currently sans label. They recently released a 3 song EP, <span style="font-style: italic;">Talk Faster</span>, which is available for download on their website. It&#8217;s pretty simple, lo-fi indie music which lies somewhere between Bishop Allen and that other unsigned band out of Brooklyn. After hearing Perry Went Home, Sex Robots, and So Many Dynamos rock your socks and locks (of hair) off, I&#8217;d recommend heading over to http://takkatakkamusic.com/talkfaster/ and checking it out.
+    I was looking at the great elbo.ws blog aggregator, and saw, much to my surprise, that Takka Takka is listed as one of the “hot” bands. Takka Takka is a great band out of Brooklyn (represent, yo) who, much like another band, is currently sans label. They recently released a 3 song EP, <span style="font-style: italic;">Talk Faster</span>, which is available for download on their website. It’s pretty simple, lo-fi indie music which lies somewhere between Bishop Allen and that other unsigned band out of Brooklyn. After hearing Perry Went Home, Sex Robots, and So Many Dynamos rock your socks and locks (of hair) off, I’d recommend heading over to http://takkatakkamusic.com/talkfaster/ and checking it out.
   </p>
 </div>

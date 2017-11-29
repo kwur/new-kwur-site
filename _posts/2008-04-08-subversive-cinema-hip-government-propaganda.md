@@ -17,11 +17,11 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    <a href="http://www.myspace.com/vince_collins">Vincent Collin</a><a href="http://www.myspace.com/vince_collins">s</a>&#8216; <span style="font-weight: bold;">200</span>
+    <a href="http://www.myspace.com/vince_collins">Vincent Collin</a><a href="http://www.myspace.com/vince_collins">s</a>‘ <span style="font-weight: bold;">200</span>
   </p>
   
   <p>
-    &#8220;This trippy tribute to our country&#8217;s 200th birthday was funded by a Bicentennial Project Grant and animated by Vincent Collins who made other psychedelic cartoons. This film was produced by the United States Information Agency&#8211;the government&#8217;s propaganda agency.&#8221;
+    “This trippy tribute to our country’s 200th birthday was funded by a Bicentennial Project Grant and animated by Vincent Collins who made other psychedelic cartoons. This film was produced by the United States Information Agency–the government’s propaganda agency.”
   </p>
   
   <p>

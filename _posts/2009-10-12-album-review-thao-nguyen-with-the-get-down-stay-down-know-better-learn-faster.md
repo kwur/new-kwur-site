@@ -1,6 +1,6 @@
 ---
 id: 439
-title: 'Album Review: Thao Nguyen with The Get Down Stay Down, &quot;Know Better Learn Faster&quot;'
+title: 'Album Review: Thao Nguyen with The Get Down Stay Down, "Know Better Learn Faster"'
 date: 2009-10-12T07:53:00+00:00
 author: The Intern
 layout: post
@@ -17,7 +17,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/1-719064.jpg"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 295px; height: 320px;" src="http://www.kwur.com/blog/uploaded_images/1-717878.jpg" border="0" alt="" /></a><br />Photo by Tarina Westlund<br />Lilith Fair inspired acoustic pop fronted by Ms. N&#8217;s breathy, distinctive voice. RIYL: Sufjan Stevens, or a folky Cat Power. She mixes in some Rilo Kiley-type pop hooks here, not sure if it&#8217;s effective. Positively warm, intimate, vulnerable, sexy even.
+    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/1-719064.jpg"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 295px; height: 320px;" src="http://www.kwur.com/blog/uploaded_images/1-717878.jpg" border="0" alt="" /></a><br />Photo by Tarina Westlund<br />Lilith Fair inspired acoustic pop fronted by Ms. N’s breathy, distinctive voice. RIYL: Sufjan Stevens, or a folky Cat Power. She mixes in some Rilo Kiley-type pop hooks here, not sure if it’s effective. Positively warm, intimate, vulnerable, sexy even.
   </p>
   
   <p>

@@ -18,14 +18,14 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    <span id="bodytext" class="georgia md">&#8220;Bruce Conner, a San Francisco artist renowned for working fluently across media, died at his home of natural causes on Monday. He was 74&#8230;</p> 
+    <span id="bodytext" class="georgia md">“Bruce Conner, a San Francisco artist renowned for working fluently across media, died at his home of natural causes on Monday. He was 74…</p> 
     
     <p>
-      &#8230;</span><span id="bodytext" class="georgia md">Mr. Conner first got noticed for the short films he assembled from scavenged documentary and B-movie footage. Several of his films, including &#8220;A Movie&#8221; (1958), a sort of paean to human failure, and &#8220;Crossroads&#8221; (1977), are regarded as classics of independent filmmaking, even though Mr. Conner shot no original footage for them&#8230;</span>
+      …</span><span id="bodytext" class="georgia md">Mr. Conner first got noticed for the short films he assembled from scavenged documentary and B-movie footage. Several of his films, including “A Movie” (1958), a sort of paean to human failure, and “Crossroads” (1977), are regarded as classics of independent filmmaking, even though Mr. Conner shot no original footage for them…</span>
     </p>
     
     <p>
-      &#8230;<span id="bodytext" class="georgia md">Mr. Conner announced his own death erroneously on two occasions, once sending an obituary to a national art magazine, and later writing a self-description for the biographical encyclopedia Who Was Who in America.&#8221;</p> 
+      …<span id="bodytext" class="georgia md">Mr. Conner announced his own death erroneously on two occasions, once sending an obituary to a national art magazine, and later writing a self-description for the biographical encyclopedia Who Was Who in America.”</p> 
       
       <p>
         </span><br /><span style="font-style: italic;">Breakaway</span>, 1966
@@ -36,7 +36,7 @@ categories:
       </p>
       
       <p>
-        See this <a href="http://www.kwur.com/blog/2008/01/subversive-cinema-devos-mongoloid-film.html">post</a> from January about Conner&#8217;s music video for Devo&#8217;s Mongoloid
+        See this <a href="http://www.kwur.com/blog/2008/01/subversive-cinema-devos-mongoloid-film.html">post</a> from January about Conner’s music video for Devo’s Mongoloid
       </p>
       
       <p>

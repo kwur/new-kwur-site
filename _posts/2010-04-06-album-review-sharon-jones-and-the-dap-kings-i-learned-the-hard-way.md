@@ -1,6 +1,6 @@
 ---
 id: 498
-title: 'Album Review: Sharon Jones and The Dap-Kings, &quot;I Learned The Hard Way&quot;'
+title: 'Album Review: Sharon Jones and The Dap-Kings, "I Learned The Hard Way"'
 date: 2010-04-06T19:21:00+00:00
 author: The Intern
 layout: post
@@ -17,10 +17,10 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    With this fourth album from this legendary Brooklyn soul revival group, Sharon Jones&#8217; Muscle Shoals style gutbusting vocals are a given. The real stars here are the Dap-Kings, whose ability to perfectly capture the sounds of 60s/70s soul blur the line between soul revival and a long lost dusty Atco record. No other band in the world can do what they do, play all!
+    With this fourth album from this legendary Brooklyn soul revival group, Sharon Jones’ Muscle Shoals style gutbusting vocals are a given. The real stars here are the Dap-Kings, whose ability to perfectly capture the sounds of 60s/70s soul blur the line between soul revival and a long lost dusty Atco record. No other band in the world can do what they do, play all!
   </p>
   
   <p>
-    But esp: 1+++(perfectly smooth Philly fanfare), 2+++(hottest shit ever), 3++(nice &#8216;n&#8217; laid back), 4++, 6 (instr.), 7+++(just great), 12+++(Sharon Jones is the star here)
+    But esp: 1+++(perfectly smooth Philly fanfare), 2+++(hottest shit ever), 3++(nice ‘n’ laid back), 4++, 6 (instr.), 7+++(just great), 12+++(Sharon Jones is the star here)
   </p>
 </div>

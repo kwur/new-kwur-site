@@ -20,11 +20,11 @@ categories:
     <span class="Apple-style-span" style="font-family: 'lucida grande'; font-size: 11px; ">Hey guys, KWUR is giving away two three-day passes to the 2009 Pitchfork Music Festival! </p> 
     
     <p>
-      For your chance to win, listen in during either DJ Invisible Cola Versus the Pop Rock Conspiracy on Friday, May 1st from 9pm -11pm or &#8220;The Judgement Hour&#8221; on Sunday, May 3rd, from 10pm -12am.
+      For your chance to win, listen in during either DJ Invisible Cola Versus the Pop Rock Conspiracy on Friday, May 1st from 9pm -11pm or “The Judgement Hour” on Sunday, May 3rd, from 10pm -12am.
     </p>
     
     <p>
-      All you have to do is be the 10th caller when you hear &#8220;The Yeah Yeah Yeah Song&#8221; by The Flaming Lips (one of the acts playing the festival). 
+      All you have to do is be the 10th caller when you hear “The Yeah Yeah Yeah Song” by The Flaming Lips (one of the acts playing the festival). 
     </p>
     
     <p>
@@ -36,11 +36,11 @@ categories:
     </p>
     
     <p>
-      2009 Pitchfork Music Festival. Chicago&#8217;s Union Park. July 17-19
+      2009 Pitchfork Music Festival. Chicago’s Union Park. July 17-19
     </p>
     
     <p>
-      Friday, July 17<br />&#8220;Write the Night: Set Lists by Request&#8221;<br />Built to Spill<br />The Jesus Lizard<br />Yo La Tengo<br />Tortoise<br />Saturday, July 18
+      Friday, July 17<br />“Write the Night: Set Lists by Request”<br />Built to Spill<br />The Jesus Lizard<br />Yo La Tengo<br />Tortoise<br />Saturday, July 18
     </p>
     
     <p>

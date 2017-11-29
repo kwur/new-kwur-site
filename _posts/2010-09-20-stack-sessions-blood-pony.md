@@ -18,7 +18,7 @@ tags:
 ---
 <div class="pf-content">
   <p>
-    On September 11, 2010 St. Louis band <a href="http://www.myspace.com/thebloodpony">Blood Pony</a> joined us in the studio for a live performance in our Stack Session series. Check out this video of their song &#8220;We Are Lost.&#8221; Listen to the whole session <a href="http://kwur.bandcamp.com/album/blood-pony-stack-session">here.</a>
+    On September 11, 2010 St. Louis band <a href="http://www.myspace.com/thebloodpony">Blood Pony</a> joined us in the studio for a live performance in our Stack Session series. Check out this video of their song “We Are Lost.” Listen to the whole session <a href="http://kwur.bandcamp.com/album/blood-pony-stack-session">here.</a>
   </p>
   
   <p>

@@ -1,6 +1,6 @@
 ---
 id: 525
-title: 'Album Review: Bunnygrunt&#8217;s &quot;Matt Harnish and Other Delights&quot;'
+title: 'Album Review: Bunnygrunt’s "Matt Harnish and Other Delights"'
 date: 2010-07-08T19:09:00+00:00
 author: speiser
 layout: post
@@ -24,10 +24,10 @@ categories:
   </p>
   
   <p>
-    On <span style="font-style:italic;">Matt Harnish and Other Delights</span> these veterans of St. Louis rock music are still pumping out their jangle pop twee punk hits. Maybe &#8220;hits&#8221; isn&#8217;t the right word to use, but their songs are so damn catchy that they should be. The male and female twin attack vocals lead the way in every song and are backed expertly by loud guitars and catchy power chords. The title and album reference the classic Herb Alpert LP, but the music stands on it&#8217;s own. It is fast, fun, and catchy as hell. Standout tunes include &#8220;S. Kingshighway Bubblegum Factory&#8221; and &#8220;1000% Not Creepy.&#8221; Check out the album on Happy Happy Birthday To Me Records.
+    On <span style="font-style:italic;">Matt Harnish and Other Delights</span> these veterans of St. Louis rock music are still pumping out their jangle pop twee punk hits. Maybe “hits” isn’t the right word to use, but their songs are so damn catchy that they should be. The male and female twin attack vocals lead the way in every song and are backed expertly by loud guitars and catchy power chords. The title and album reference the classic Herb Alpert LP, but the music stands on it’s own. It is fast, fun, and catchy as hell. Standout tunes include “S. Kingshighway Bubblegum Factory” and “1000% Not Creepy.” Check out the album on Happy Happy Birthday To Me Records.
   </p>
   
   <p>
-    And don&#8217;t miss their alter ego, Blondiegrunt, who plays only Blondie covers!
+    And don’t miss their alter ego, Blondiegrunt, who plays only Blondie covers!
   </p>
 </div>

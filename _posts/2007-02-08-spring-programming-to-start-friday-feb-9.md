@@ -21,6 +21,6 @@ categories:
   </p>
   
   <p>
-    Stay tuned for more detailed information on KWUR Week (Feb 19th &#8211; Feb 24th)&#8230;.
+    Stay tuned for more detailed information on KWUR Week (Feb 19th – Feb 24th)….
   </p>
 </div>

@@ -46,7 +46,7 @@ tags:
   </p>
   
   <div>
-    <strong>Jon Hardy & the Public &#8211; <em>A Hard Year</em></strong>
+    <strong>Jon Hardy & the Public – <em>A Hard Year</em></strong>
   </div>
   
   <div>
@@ -58,16 +58,16 @@ tags:
   </div>
   
   <div>
-    &nbsp;
+     
   </div>
   
   <div>
     <div>
-      <strong>Beth Bombara &#8211; Wish I Were You</strong>
+      <strong>Beth Bombara – Wish I Were You</strong>
     </div>
     
     <div>
-      <a href="http://www.bethbombara.com/Beth_Bombara/Music.html">Beth Bombara</a> has made some great strides forward since her last EP a year ago. Her new album "Wish I Were You" is a mature effort that highlights her honest voice, earnest songwriting, and intimate performance. This full-length shows Beth to be an extemely versatile artist who can ably handle blues, country, rock, and folk songs. She weaves all these different genres into one disc that flows seamlessly from one track to the next. Tracks are expertly embellished by slide steel guitar, fiddle, keys, and banjo.&nbsp;
+      <a href="http://www.bethbombara.com/Beth_Bombara/Music.html">Beth Bombara</a> has made some great strides forward since her last EP a year ago. Her new album "Wish I Were You" is a mature effort that highlights her honest voice, earnest songwriting, and intimate performance. This full-length shows Beth to be an extemely versatile artist who can ably handle blues, country, rock, and folk songs. She weaves all these different genres into one disc that flows seamlessly from one track to the next. Tracks are expertly embellished by slide steel guitar, fiddle, keys, and banjo. 
     </div>
     
     <div>
@@ -75,33 +75,33 @@ tags:
     </div>
     
     <div>
-      &nbsp;
+       
     </div>
     
     <div>
       <div>
-        <strong>Britches &#8211; Britches Demo</strong>
+        <strong>Britches – Britches Demo</strong>
       </div>
       
       <div>
-        <a href="http://britchesbritches.bandcamp.com/album/demo">Britches</a> plays downtempo, dissonent rock tunes featuring distant vocals and reverb soaked guitars. Although they are clearly indebted to Animal Collective, these guys are not scared to bare their teeth, scream a lot, and tear the shit out of their guitars and vocal chords. Fans of droney and noisy experimental music will dig this band.&nbsp;
+        <a href="http://britchesbritches.bandcamp.com/album/demo">Britches</a> plays downtempo, dissonent rock tunes featuring distant vocals and reverb soaked guitars. Although they are clearly indebted to Animal Collective, these guys are not scared to bare their teeth, scream a lot, and tear the shit out of their guitars and vocal chords. Fans of droney and noisy experimental music will dig this band. 
       </div>
       
       <div>
-        Favorite Track: "White Noise" where they may or may not be screaming about Evil Dead II.&nbsp;
+        Favorite Track: "White Noise" where they may or may not be screaming about Evil Dead II. 
       </div>
       
       <div>
-        &nbsp;
+         
       </div>
       
       <div>
         <div>
-          <strong>The Disapeared &#8211; Nothing Someone Something</strong>
+          <strong>The Disapeared – Nothing Someone Something</strong>
         </div>
         
         <div>
-          I would not want to get in <a href="http://www.myspace.com/thedisappearedarecoming">the Disappeared</a>'s way. They sound like a tractor trailer coming down the highway playing fast, furious, and heavy rock n roll. Punks and metal dudes will probably appreciate this album. The band could benefit from grittier production and a warmer sound.&nbsp;
+          I would not want to get in <a href="http://www.myspace.com/thedisappearedarecoming">the Disappeared</a>'s way. They sound like a tractor trailer coming down the highway playing fast, furious, and heavy rock n roll. Punks and metal dudes will probably appreciate this album. The band could benefit from grittier production and a warmer sound. 
         </div>
         
         <div>
@@ -109,11 +109,11 @@ tags:
         </div>
         
         <div>
-          &nbsp;
+           
         </div>
         
         <p>
-          &nbsp;
+           
         </p></p>
       </div>
       

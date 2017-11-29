@@ -1,6 +1,6 @@
 ---
 id: 145
-title: 'Subversive Cinema: The Most Amazing Movie That Was Never Made&#8230;'
+title: 'Subversive Cinema: The Most Amazing Movie That Was Never Made…'
 date: 2008-02-08T21:54:00+00:00
 author: Klax
 layout: post
@@ -20,7 +20,7 @@ categories:
     <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/dune-756033.gif"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 367px; height: 211px;" src="http://www.kwur.com/blog/uploaded_images/dune-756019.gif" alt="" border="0" /></a><span style="font-weight: bold;"></p> 
     
     <p>
-      Alejandro Jodorowsky&#8217;s <span style="font-style: italic;">Dune</span></span>
+      Alejandro Jodorowsky’s <span style="font-style: italic;">Dune</span></span>
     </p>
     
     <p>
@@ -32,11 +32,11 @@ categories:
     </p>
     
     <p>
-      The <a href="http://www.pimpadelicwonderland.com/lost.html">Wierd World of 70&#8217;s Cinema</a> sums up this lost project best:<br />&#8220;In development from 1974 to 1977, the film was to have featured Orson Welles, David Carradine (hot off the Kung Fu series), Gloria Swanson, Amanda Lear and Salvador Dali as a mad emperor who sits upon a toilet throne. With art design by H.R. Giger and special effects by Dark Star&#8217;s Dan O&#8217;Bannon who both soon after worked together on <span style="font-style: italic;">Alien</span>. Music was to be by Pink Floyd, Tangerine Dream and French prog rockers Magma.&#8221;
+      The <a href="http://www.pimpadelicwonderland.com/lost.html">Wierd World of 70’s Cinema</a> sums up this lost project best:<br />“In development from 1974 to 1977, the film was to have featured Orson Welles, David Carradine (hot off the Kung Fu series), Gloria Swanson, Amanda Lear and Salvador Dali as a mad emperor who sits upon a toilet throne. With art design by H.R. Giger and special effects by Dark Star’s Dan O’Bannon who both soon after worked together on <span style="font-style: italic;">Alien</span>. Music was to be by Pink Floyd, Tangerine Dream and French prog rockers Magma.”
     </p>
     
     <p>
-      According to Jodorowsky:<br />&#8220;The project was sabotaged in Hollywood. It was French and not American. Their message was &#8216;not Hollywood enough&#8217;. There was intrigue, plunder. The storyboard was circulated among all the big studios. Later, the visual aspect of <span style="font-style: italic;">Star Wars</span> strangely resembled our style. To make <span style="font-style: italic;">Alien</span>, they called Moebius [Giraud], Foss, Giger, O&#8217;Bannon, etc. The project signaled to Americans the possibility of making a big show of science-fiction films, outside of the scientific rigor of <span style="font-style: italic;">2001: A Space Odyssey</span>. The project of Dune changed our lives.&#8221;
+      According to Jodorowsky:<br />“The project was sabotaged in Hollywood. It was French and not American. Their message was ‘not Hollywood enough’. There was intrigue, plunder. The storyboard was circulated among all the big studios. Later, the visual aspect of <span style="font-style: italic;">Star Wars</span> strangely resembled our style. To make <span style="font-style: italic;">Alien</span>, they called Moebius [Giraud], Foss, Giger, O’Bannon, etc. The project signaled to Americans the possibility of making a big show of science-fiction films, outside of the scientific rigor of <span style="font-style: italic;">2001: A Space Odyssey</span>. The project of Dune changed our lives.”
     </p>
     
     <p>
@@ -44,7 +44,7 @@ categories:
     </p>
     
     <p>
-      For more information and concept sketches on this sadly uncompleted project see the following:<br /><a href="http://www.duneinfo.com/unseen/jodorowsky.asp">&#8220;The Film You Will Never See&#8221;</a> at Dune Info<br /><a href="http://blog.wfmu.org/freeform/2005/08/jodorowsky_on_h.html">&#8220;Jodorowsky On His Unmade Dune&#8221;</a> at WFMU Blog
+      For more information and concept sketches on this sadly uncompleted project see the following:<br /><a href="http://www.duneinfo.com/unseen/jodorowsky.asp">“The Film You Will Never See”</a> at Dune Info<br /><a href="http://blog.wfmu.org/freeform/2005/08/jodorowsky_on_h.html">“Jodorowsky On His Unmade Dune”</a> at WFMU Blog
     </p>
     
     <p>

@@ -24,11 +24,11 @@ categories:
   </p>
   
   <p>
-    Impressive how far (and how not far) we&#8217;ve come in the last 8 years.
+    Impressive how far (and how not far) we’ve come in the last 8 years.
   </p>
   
   <p>
-    Also, I want to point out that this video was directed by Michael Moore. Back in 2000, he was an ardent support of Ralph Nader. He has since &#8220;flip-flopped&#8221; coming out passionately against Nader, spinning such staunch pre-2004 statements to the point of denial.
+    Also, I want to point out that this video was directed by Michael Moore. Back in 2000, he was an ardent support of Ralph Nader. He has since “flip-flopped” coming out passionately against Nader, spinning such staunch pre-2004 statements to the point of denial.
   </p>
   
   <p>

@@ -11,7 +11,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    In anticipation of the Friday, 3/22/13 appearance of the downtown New York string quartet ETHEL with flutist Robert Mirabal at the 560 Building, KWUR will be doing an interview with ETHEL violinist Kip Jones this coming Saturday during my classical show, around 11 AM (barring technical glitches).&nbsp; You can watch some of the artistry of ETHEL and Robert Mirabal from these video links:
+    In anticipation of the Friday, 3/22/13 appearance of the downtown New York string quartet ETHEL with flutist Robert Mirabal at the 560 Building, KWUR will be doing an interview with ETHEL violinist Kip Jones this coming Saturday during my classical show, around 11 AM (barring technical glitches).  You can watch some of the artistry of ETHEL and Robert Mirabal from these video links:
   </p>
   
   <p>

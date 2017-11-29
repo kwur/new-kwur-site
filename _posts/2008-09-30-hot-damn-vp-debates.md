@@ -21,10 +21,10 @@ categories:
   </p>
   
   <p>
-    Tune in for KWUR&#8217;s homemade debate coverage. We&#8217;ve got a panel of Washington University Political Review folks and special guests, and KWUR madmen broadcasting live from the madhouse of Spin Alley. Pre-debate stuff starts around 7, post-debate stuff starts when, you know, the debate ends (Flyer says 10, but think more 9:30).
+    Tune in for KWUR’s homemade debate coverage. We’ve got a panel of Washington University Political Review folks and special guests, and KWUR madmen broadcasting live from the madhouse of Spin Alley. Pre-debate stuff starts around 7, post-debate stuff starts when, you know, the debate ends (Flyer says 10, but think more 9:30).
   </p>
   
   <p>
-    Fact: Unlike Fox News, KWUR&#8217;s debate team has no convicted felons.
+    Fact: Unlike Fox News, KWUR’s debate team has no convicted felons.
   </p>
 </div>

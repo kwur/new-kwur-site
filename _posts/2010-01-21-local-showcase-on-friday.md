@@ -17,7 +17,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    Don&#8217;t forget! Local bands! Proceeds to Doctors Without Borders Haiti Emergency Fund!
+    Don’t forget! Local bands! Proceeds to Doctors Without Borders Haiti Emergency Fund!
   </p>
   
   <p>
@@ -29,13 +29,13 @@ categories:
   </p>
   
   <p>
-    And possibly&#8230;ABBA?
+    And possibly…ABBA?
   </p>
   
   <p>
   </p>
   
   <p>
-    YOU&#8217;LL HAVE TO BE THERE TO FIND OUT&#8230;
+    YOU’LL HAVE TO BE THERE TO FIND OUT…
   </p>
 </div>

@@ -21,7 +21,7 @@ categories:
   </p>
   
   <p>
-    So it looks like I&#8217;m going to go on ahead and make the 8 hour drive (from Georgia) to catch the festival which runs from Thursday night through Saturday (or Sunday if you can hang around for some extra wind-down DJ festivities).
+    So it looks like I’m going to go on ahead and make the 8 hour drive (from Georgia) to catch the festival which runs from Thursday night through Saturday (or Sunday if you can hang around for some extra wind-down DJ festivities).
   </p>
   
   <p>
@@ -29,15 +29,15 @@ categories:
   </p>
   
   <p>
-    It&#8217;s a pretty great lineup this year, especially for me. Some highlights:
+    It’s a pretty great lineup this year, especially for me. Some highlights:
   </p>
   
   <p>
-    <span style="font-weight: bold;">Ty Segall</span> (San Francisco, CA)<br /><span style="font-weight: bold;">Reatards</span> (Memphis, TN)<br /><span style="font-weight: bold;">Intelligence</span> (Seattle, WA)<br /><span style="font-weight: bold;">Davila 666</span> (San Juan, Puerto Rico)<br /><span style="font-weight: bold;">Sonic Chicken 4</span> (Perpignan, France)<br /><span style="font-weight: bold;">Fresh & Onlys</span> (San Francisco, CA)<br /><span style="font-weight: bold;">Mantles</span> (Oakland, CA)<br /><span style="font-weight: bold;">Compulsive Gamblers</span> (Memphis, TN)<br /><span style="font-weight: bold;">Yusuf Jerusalem</span> (France)<br /><span style="font-weight: bold;">Gentleman Jesse & His Men</span> (Atlanta, GA)<br />and my personal favorites, <span style="font-weight: bold;">Thee Oh Sees</span> (San Francisco, CA)&#8230;<br />(full lineup <a href="http://www.goner-records.com/gonerfest/gf6-schedule.php">here</a>)
+    <span style="font-weight: bold;">Ty Segall</span> (San Francisco, CA)<br /><span style="font-weight: bold;">Reatards</span> (Memphis, TN)<br /><span style="font-weight: bold;">Intelligence</span> (Seattle, WA)<br /><span style="font-weight: bold;">Davila 666</span> (San Juan, Puerto Rico)<br /><span style="font-weight: bold;">Sonic Chicken 4</span> (Perpignan, France)<br /><span style="font-weight: bold;">Fresh & Onlys</span> (San Francisco, CA)<br /><span style="font-weight: bold;">Mantles</span> (Oakland, CA)<br /><span style="font-weight: bold;">Compulsive Gamblers</span> (Memphis, TN)<br /><span style="font-weight: bold;">Yusuf Jerusalem</span> (France)<br /><span style="font-weight: bold;">Gentleman Jesse & His Men</span> (Atlanta, GA)<br />and my personal favorites, <span style="font-weight: bold;">Thee Oh Sees</span> (San Francisco, CA)…<br />(full lineup <a href="http://www.goner-records.com/gonerfest/gf6-schedule.php">here</a>)
   </p>
   
   <p>
-    And speaking of Thee Oh Sees, remember when I <a href="http://www.kwur.com/blog/2009/06/some-2009-favorites-thus-far.html">said</a> we could hope for another LP by the end of the year? Well the wish was granted (and earlier then expected). Their new LP, <span style="font-weight: bold; font-style: italic;">Dog Poison</span>, is out now on Brooklyn based <a href="http://capturedtracks.com/releases.php">Captured Tracks</a>. Do these guys (and girl) ever stick with the same label? Anyway, I know what I&#8217;ll be picking up this weekend&#8230;<br />[EDIT: <span style="font-style: italic;">Dog Poison</span> is, in fact, a 45 rpm 12&#8243; EP: 10 songs, 23 minutes. Full review coming&#8230;]
+    And speaking of Thee Oh Sees, remember when I <a href="http://www.kwur.com/blog/2009/06/some-2009-favorites-thus-far.html">said</a> we could hope for another LP by the end of the year? Well the wish was granted (and earlier then expected). Their new LP, <span style="font-weight: bold; font-style: italic;">Dog Poison</span>, is out now on Brooklyn based <a href="http://capturedtracks.com/releases.php">Captured Tracks</a>. Do these guys (and girl) ever stick with the same label? Anyway, I know what I’ll be picking up this weekend…<br />[EDIT: <span style="font-style: italic;">Dog Poison</span> is, in fact, a 45 rpm 12″ EP: 10 songs, 23 minutes. Full review coming…]
   </p>
   
   <p>
@@ -45,6 +45,6 @@ categories:
   </p>
   
   <p>
-    Recap and pictures to come&#8230;
+    Recap and pictures to come…
   </p>
 </div>

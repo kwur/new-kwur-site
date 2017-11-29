@@ -17,7 +17,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    Hello KWUR, from Hawaii. Thats right, my dark blood still courses through KWUR, and after hearing the robot play one too many buzzkill tracks while sitting in my office in Honolulu, I wrote a request feature. Right now, its only scheduled during safe harbour hours on the weekends (it will still remember your requests, but it will not play them except during these times, this could be easily changed.) Here&#8217;s how it works!
+    Hello KWUR, from Hawaii. Thats right, my dark blood still courses through KWUR, and after hearing the robot play one too many buzzkill tracks while sitting in my office in Honolulu, I wrote a request feature. Right now, its only scheduled during safe harbour hours on the weekends (it will still remember your requests, but it will not play them except during these times, this could be easily changed.) Here’s how it works!
   </p>
   
   <p>

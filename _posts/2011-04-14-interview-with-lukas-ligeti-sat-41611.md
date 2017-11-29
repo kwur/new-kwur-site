@@ -14,7 +14,7 @@ tags:
 ---
 <div class="pf-content">
   <p>
-    This Saturday, 4/16/11, at around 11:30 AM, I'll be conducting a live interview with <a href="http://www.lukasligeti.com/">Lukas Ligeti</a>, avant-garde composer and percussionist and, yes, the son of Gyorgy Ligeti.&nbsp; This is in anticipation of Ligeti traveling to St. Louis for a solo performance on Friday, 4/29/11, under the auspices of the HEARding Cats artists' collective.&nbsp; The details are at <a href="http://heardingcatscollective.org/?p=510">this link&nbsp;</a>:
+    This Saturday, 4/16/11, at around 11:30 AM, I'll be conducting a live interview with <a href="http://www.lukasligeti.com/">Lukas Ligeti</a>, avant-garde composer and percussionist and, yes, the son of Gyorgy Ligeti.  This is in anticipation of Ligeti traveling to St. Louis for a solo performance on Friday, 4/29/11, under the auspices of the HEARding Cats artists' collective.  The details are at <a href="http://heardingcatscollective.org/?p=510">this link </a>:
   </p>
   
   <p>
@@ -22,7 +22,7 @@ tags:
   </p>
   
   <p>
-    There'll be discussion of his&nbsp;recent album <em>Pattern Time</em>, as well as his music and artistic influences.&nbsp; If you want to sample some of his work, have a look & listen:
+    There'll be discussion of his recent album <em>Pattern Time</em>, as well as his music and artistic influences.  If you want to sample some of his work, have a look & listen:
   </p>
   
   <p>

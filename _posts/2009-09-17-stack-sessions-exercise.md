@@ -19,7 +19,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    Local experimentalists <a href="http://www.myspace.com/exerciseaudio">Exercise</a> recently stopped by the station to drop off some tracks from their new album, &#8220;Grandma&#8217;s House.&#8221; They actually played five songs, but everything was sequenced together so beautifully that we decided to keep them intact as two separate tracks (with the interview in between). Check out pictures from the in-studio and the intricately spaced-out tunes below.
+    Local experimentalists <a href="http://www.myspace.com/exerciseaudio">Exercise</a> recently stopped by the station to drop off some tracks from their new album, “Grandma’s House.” They actually played five songs, but everything was sequenced together so beautifully that we decided to keep them intact as two separate tracks (with the interview in between). Check out pictures from the in-studio and the intricately spaced-out tunes below.
   </p>
   
   <p>

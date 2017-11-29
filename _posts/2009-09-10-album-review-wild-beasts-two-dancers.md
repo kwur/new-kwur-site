@@ -1,6 +1,6 @@
 ---
 id: 417
-title: 'Album Review: Wild Beasts, &quot;Two Dancers&quot;'
+title: 'Album Review: Wild Beasts, "Two Dancers"'
 date: 2009-09-10T00:22:00+00:00
 author: The Intern
 layout: post

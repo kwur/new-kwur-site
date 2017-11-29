@@ -1,6 +1,6 @@
 ---
 id: 133
-title: 'Album Review: Dengue Fever, &quot;Venus On Earth&quot;'
+title: 'Album Review: Dengue Fever, "Venus On Earth"'
 date: 2008-01-22T07:13:00+00:00
 author: The Intern
 layout: post
@@ -17,10 +17,10 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    You will certainly not hear anything like this all year, an eclectic mix of Ethiopian jazz and Cambodian rock. Unfortunately, for all its novelty, this album just lacks energy and is hampered by terrible lyrics (&#8220;It&#8217;s 4 AM, I check my email&#8221;). Thankfully, the lead singer could sing the stupid out of George W Bush, and the band is skilled, which almost saves the album, but not quite.
+    You will certainly not hear anything like this all year, an eclectic mix of Ethiopian jazz and Cambodian rock. Unfortunately, for all its novelty, this album just lacks energy and is hampered by terrible lyrics (“It’s 4 AM, I check my email”). Thankfully, the lead singer could sing the stupid out of George W Bush, and the band is skilled, which almost saves the album, but not quite.
   </p>
   
   <p>
-    Play: 2, 4, 6, 8, 10+++ (GORGEOUS ballad), 11++ (Rock &#8216;n roll!)
+    Play: 2, 4, 6, 8, 10+++ (GORGEOUS ballad), 11++ (Rock ‘n roll!)
   </p>
 </div>

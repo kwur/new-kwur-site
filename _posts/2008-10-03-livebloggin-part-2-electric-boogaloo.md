@@ -1,6 +1,6 @@
 ---
 id: 258
-title: 'Livebloggin&#8217; Part 2, Electric Boogaloo'
+title: 'Livebloggin’ Part 2, Electric Boogaloo'
 date: 2008-10-03T01:16:00+00:00
 author: The Intern
 layout: post
@@ -21,19 +21,19 @@ categories:
   </p>
   
   <p>
-    8:16, Palin, Taxes?/Healthcare: Conservatism is patriotic&#8230;she memorized this, I bet&#8230;Gotta say, tapping into the anti-government stuff in the air, good tactics. I don&#8217;t want Paulson doing my co-pay.
+    8:16, Palin, Taxes?/Healthcare: Conservatism is patriotic…she memorized this, I bet…Gotta say, tapping into the anti-government stuff in the air, good tactics. I don’t want Paulson doing my co-pay.
   </p>
   
   <p>
-    8:19, Biden, Healthcare: The man can freakin speak, the Scranton stuff doesn&#8217;t sound put on like when Kerry did it&#8230;OMG GAFFE! GAFFE! DID EVERYONE SEE THE GAFFE!&#8230;oh damn, that joke was slick, reporters were laughing
+    8:19, Biden, Healthcare: The man can freakin speak, the Scranton stuff doesn’t sound put on like when Kerry did it…OMG GAFFE! GAFFE! DID EVERYONE SEE THE GAFFE!…oh damn, that joke was slick, reporters were laughing
   </p>
   
   <p>
-    8:21, Biden, Cutbacks: Why do we need to cut foreign aide? It&#8217;s piss-trickle little already&#8230;dodge this question, my friend, dodge like the wind! Generalize as much as possible!&#8230;man, I hate wasteful spending. We should only spend usefully.
+    8:21, Biden, Cutbacks: Why do we need to cut foreign aide? It’s piss-trickle little already…dodge this question, my friend, dodge like the wind! Generalize as much as possible!…man, I hate wasteful spending. We should only spend usefully.
   </p>
   
   <p>
-    8:22, Palin, Cutbacks: Yeah, this question is toxic, run away. Americans hate hard choices&#8230;Oh boy, this is full of shit, the CEOs own Alaska. Her mannerisms make watching this downright surreal. Also, the energy plan was a compromise, everyone knows it&#8230;&#8221;How long have I been at this, like five weeks?&#8221; We may have just heard a campaign ender, folks.
+    8:22, Palin, Cutbacks: Yeah, this question is toxic, run away. Americans hate hard choices…Oh boy, this is full of shit, the CEOs own Alaska. Her mannerisms make watching this downright surreal. Also, the energy plan was a compromise, everyone knows it…”How long have I been at this, like five weeks?” We may have just heard a campaign ender, folks.
   </p>
   
   <p>
@@ -41,7 +41,7 @@ categories:
   </p>
   
   <p>
-    8:26, Ifill, Bankruptcy bill: Biden&#8217;s bankruptcy bill? Gwen Ifill, you are on your shit.
+    8:26, Ifill, Bankruptcy bill: Biden’s bankruptcy bill? Gwen Ifill, you are on your shit.
   </p>
   
   <p>
@@ -49,10 +49,10 @@ categories:
   </p>
   
   <p>
-    8:27, Biden, Bankruptcy Bill: Ifill had to bring it up? Lolz&#8230;obfuscate, my friend. The bottom line is you toughened bankruptcy for the credit card companies in your state, and that meant people couldn&#8217;t pay their mortgages.
+    8:27, Biden, Bankruptcy Bill: Ifill had to bring it up? Lolz…obfuscate, my friend. The bottom line is you toughened bankruptcy for the credit card companies in your state, and that meant people couldn’t pay their mortgages.
   </p>
   
   <p>
-    8:29, Palin, Bankruptcy bill: Wow, she just obviously doesn&#8217;t know what this is. I dunno, I&#8217;m biased, but she is not looking good at all. Not epic fail yet, but close. Love the cutaway to Biden&#8217;s smug closed lip smile.
+    8:29, Palin, Bankruptcy bill: Wow, she just obviously doesn’t know what this is. I dunno, I’m biased, but she is not looking good at all. Not epic fail yet, but close. Love the cutaway to Biden’s smug closed lip smile.
   </p>
 </div>

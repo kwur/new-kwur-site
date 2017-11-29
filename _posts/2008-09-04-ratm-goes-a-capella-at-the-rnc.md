@@ -17,18 +17,18 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    &#8220;Rage Against the Machine showed up to perform a show outside of the Minnesota State Capitol for the Ripple Effect music festival on Tuesday, but the concert was shut down. The band was set to perform at 6:30P, however police denied the band access to the stage.&#8221;<a name='more'></a>
+    “Rage Against the Machine showed up to perform a show outside of the Minnesota State Capitol for the Ripple Effect music festival on Tuesday, but the concert was shut down. The band was set to perform at 6:30P, however police denied the band access to the stage.”<a name='more'></a>
   </p>
   
   <p>
-    In response, the group delivered an a capella version of &#8220;Bulls on Parade.&#8221; &#8230;
+    In response, the group delivered an a capella version of “Bulls on Parade.” …
   </p>
   
   <p>
   </p>
   
   <p>
-    Good. Now get back in the studio and record some new material&#8230;
+    Good. Now get back in the studio and record some new material…
   </p>
   
   <p>

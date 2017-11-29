@@ -1,6 +1,6 @@
 ---
 id: 173
-title: 'Arcade Fire, &quot;A Change is Gonna Come&quot;'
+title: 'Arcade Fire, "A Change is Gonna Come"'
 date: 2008-03-04T14:59:00+00:00
 author: Admin
 layout: post

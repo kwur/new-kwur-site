@@ -17,6 +17,6 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    On July 4, 1976, KWUR 90.3 FM began broadcasting&#8230;
+    On July 4, 1976, KWUR 90.3 FM began broadcasting…
   </p>
 </div>

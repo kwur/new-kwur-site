@@ -1,6 +1,6 @@
 ---
 id: 413
-title: 'Album Review: Mayer Hawthorne, &quot;A Strange Arrangement&quot;'
+title: 'Album Review: Mayer Hawthorne, "A Strange Arrangement"'
 date: 2009-09-04T05:15:00+00:00
 author: The Intern
 layout: post

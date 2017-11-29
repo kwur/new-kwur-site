@@ -17,6 +17,6 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    Steve Earle won the Grammy tonight for best folk/Americana album with <span style="font-style: italic;">Washington Square Serenade</span>. I love Steve Earle, but a not-pissed-off Steve Earle singing over Dust Brothers loops? I&#8217;ll pass.
+    Steve Earle won the Grammy tonight for best folk/Americana album with <span style="font-style: italic;">Washington Square Serenade</span>. I love Steve Earle, but a not-pissed-off Steve Earle singing over Dust Brothers loops? I’ll pass.
   </p>
 </div>

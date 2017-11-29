@@ -1,6 +1,6 @@
 ---
 id: 199
-title: 'No Age&#8211; Nouns'
+title: 'No Age– Nouns'
 date: 2008-04-30T04:05:00+00:00
 author: Admin
 layout: post
@@ -17,7 +17,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    An effing AWESOME mix of everything that&#8217;s good. Dino Jr-style vocals, jangly intros, punky sections (think Husker Du or Dinosaur Jr, not Ramones), shimmery fuzzed-out bliss&#8230;
+    An effing AWESOME mix of everything that’s good. Dino Jr-style vocals, jangly intros, punky sections (think Husker Du or Dinosaur Jr, not Ramones), shimmery fuzzed-out bliss…
   </p>
   
   <p>

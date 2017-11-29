@@ -1,6 +1,6 @@
 ---
 id: 434
-title: 'Album Review: The Dutchess and The Duke, &quot;Sunset/Sunrise&quot;'
+title: 'Album Review: The Dutchess and The Duke, "Sunset/Sunrise"'
 date: 2009-09-27T02:20:00+00:00
 author: The Intern
 layout: post
@@ -21,6 +21,6 @@ categories:
   </p>
   
   <p>
-    Play All, But Especially: 1+++, 3++ (folky), 5+++ (dig weird guitar), 7+ (Be My Baby drums!), 8+++(oh my god&#8230;), 9
+    Play All, But Especially: 1+++, 3++ (folky), 5+++ (dig weird guitar), 7+ (Be My Baby drums!), 8+++(oh my god…), 9
   </p>
 </div>

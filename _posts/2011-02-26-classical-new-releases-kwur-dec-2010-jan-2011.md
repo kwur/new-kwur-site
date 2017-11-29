@@ -14,11 +14,11 @@ tags:
 ---
 <div class="pf-content">
   <p>
-    Exceptionally late (not that anyone noticed), but since KWUR is the last bastion of St. Louis-based, locally hosted classical radio which features new releases. I do need to do better on keeping new release blog posts updated.&nbsp; With that said, this past December and January were relatively light months for new classical CD arrivals, namely:
+    Exceptionally late (not that anyone noticed), but since KWUR is the last bastion of St. Louis-based, locally hosted classical radio which features new releases. I do need to do better on keeping new release blog posts updated.  With that said, this past December and January were relatively light months for new classical CD arrivals, namely:
   </p>
   
   <p>
-    1.&nbsp; <em>R</em>&eacute;<em>gards sur l'Espange</em> (<em>Reflections on Spain</em>), music of Ernesto Lecuona, Jos&eacute; Evangelista, Alb&eacute;niz, Mompou, Debussy, Tom&aacute;s Marco, and Turina; Louise Bessette, piano (<a href="https://www.analekta.com/en/album/Regards-Sur-L-Espagne.605.html">Analekta AN 2 9963</a>)
+    1.  <em>R</em>é<em>gards sur l'Espange</em> (<em>Reflections on Spain</em>), music of Ernesto Lecuona, José Evangelista, Albéniz, Mompou, Debussy, Tomás Marco, and Turina; Louise Bessette, piano (<a href="https://www.analekta.com/en/album/Regards-Sur-L-Espagne.605.html">Analekta AN 2 9963</a>)
   </p>
   
   <p>
@@ -26,18 +26,18 @@ tags:
   </p>
   
   <p>
-    3. Matthias Goerne Schubert Edition, Vol. 5, "Nacht und Tr&auml;ume" (selected Lieder): Matthias Goerne, baritone; Alexander Schmalcz, piano (<a href="http://www.harmoniamundi.com/#/albums?view=home&id=1592">harmonia mundi HMC 902063</a>)
+    3. Matthias Goerne Schubert Edition, Vol. 5, "Nacht und Träume" (selected Lieder): Matthias Goerne, baritone; Alexander Schmalcz, piano (<a href="http://www.harmoniamundi.com/#/albums?view=home&id=1592">harmonia mundi HMC 902063</a>)
   </p>
   
   <p>
-    4. Smetana: Piano Trio; Liszt: <em>Tristia</em>,&nbsp;<em>&Eacute;l&eacute;gie No. 1</em>, <em>La lugubre gondole</em>, <em>Romance oubli&eacute;e</em>, <em>Die Zelle in Nonnenwerth</em>; Trio Wanderer (<a href="http://www.harmoniamundi.com/#/albums?id=1593">harmonia mundi HMC 902060</a>)
+    4. Smetana: Piano Trio; Liszt: <em>Tristia</em>, <em>Élégie No. 1</em>, <em>La lugubre gondole</em>, <em>Romance oubliée</em>, <em>Die Zelle in Nonnenwerth</em>; Trio Wanderer (<a href="http://www.harmoniamundi.com/#/albums?id=1593">harmonia mundi HMC 902060</a>)
   </p>
   
   <p>
-    The February list promises to be really out of control, in a good way.&nbsp; Thanks for reading.
+    The February list promises to be really out of control, in a good way.  Thanks for reading.
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
 </div>

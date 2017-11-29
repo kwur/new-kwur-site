@@ -17,7 +17,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    KWUR&#8217;s first renovated birthday! I know the pictures are a little late, but here they are. Somewhere we have pictures of the renovation in progress, including all the crazy spraypaint grafatti that we unfortunately had to cover with the vinyl stacks. Please note the badass lamp that someone stole with badass lampshade. Also note awesome green light and psychedelic Topaz. Fix the topaz! This should be world viewable, enjoy!
+    KWUR’s first renovated birthday! I know the pictures are a little late, but here they are. Somewhere we have pictures of the renovation in progress, including all the crazy spraypaint grafatti that we unfortunately had to cover with the vinyl stacks. Please note the badass lamp that someone stole with badass lampshade. Also note awesome green light and psychedelic Topaz. Fix the topaz! This should be world viewable, enjoy!
   </p>
   
   <p>

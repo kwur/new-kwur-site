@@ -1,6 +1,6 @@
 ---
 id: 522
-title: 'Primavera Sound Review &#8211; Friday'
+title: 'Primavera Sound Review – Friday'
 date: 2010-06-11T08:53:00+00:00
 author: Admin
 layout: post
@@ -25,7 +25,7 @@ categories:
   </p>
   
   <p>
-    On Friday the venue swelled with many more people flocking to the Forum to see <span style="font-weight:bold;">The Pixies</span> headling show. I started the afternoon at <span style="font-weight:bold;">Spoon&#8217;s </span>set on San Miguel. It was the first time I saw Spoon and while their was mixed reaction in the crowd, the funky grooves that Britt Daniel and the gang deployed made Spoon was the perfect catalyst to get me revved up again after a late Thursday night. After catching a bit of raucus provided by Spanish rock outfit Mujeres, I caught most of Coco Rosie&#8217;s set. <span style="font-weight:bold;">Coco Rosie</span> music seems to fall somewhere along the lines of opera and hip hop&#8230;opera-hop maybe a suitable classification. The dramatic droning female vocals from Bianca and Sierra Cassidy, layered with a harp, all backed by a French beat boxer made for one of the most interesting sets of the weekend &#8211; accompanied by their quite avante-garde video show.
+    On Friday the venue swelled with many more people flocking to the Forum to see <span style="font-weight:bold;">The Pixies</span> headling show. I started the afternoon at <span style="font-weight:bold;">Spoon’s </span>set on San Miguel. It was the first time I saw Spoon and while their was mixed reaction in the crowd, the funky grooves that Britt Daniel and the gang deployed made Spoon was the perfect catalyst to get me revved up again after a late Thursday night. After catching a bit of raucus provided by Spanish rock outfit Mujeres, I caught most of Coco Rosie’s set. <span style="font-weight:bold;">Coco Rosie</span> music seems to fall somewhere along the lines of opera and hip hop…opera-hop maybe a suitable classification. The dramatic droning female vocals from Bianca and Sierra Cassidy, layered with a harp, all backed by a French beat boxer made for one of the most interesting sets of the weekend – accompanied by their quite avante-garde video show.
   </p>
   
   <p>
@@ -37,6 +37,6 @@ categories:
   </p>
   
   <p>
-    Closing out Friday I saw the tail end of <span style="font-weight:bold;">Major Lazer&#8217;s</span> late night set &#8211; which is pure joy and hilarity. Finally, I caught <span style="font-weight:bold;">Yeasayer&#8217;s </span>2:30am set filled with their psychadelic-middle eastern-pop gems like &#8220;Ambling Alm&#8221;, &#8220;One&#8221; and &#8220;2080&#8221;. The perfect nightcap for Friday that gave the electric charge for another full day of shows on Saturday.
+    Closing out Friday I saw the tail end of <span style="font-weight:bold;">Major Lazer’s</span> late night set – which is pure joy and hilarity. Finally, I caught <span style="font-weight:bold;">Yeasayer’s </span>2:30am set filled with their psychadelic-middle eastern-pop gems like “Ambling Alm”, “One” and “2080”. The perfect nightcap for Friday that gave the electric charge for another full day of shows on Saturday.
   </p>
 </div>

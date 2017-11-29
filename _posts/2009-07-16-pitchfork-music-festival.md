@@ -17,7 +17,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    As you probably know, KWUR gave away tickets to the Pitchfork Music Festival. Well if you didn&#8217;t win, and you&#8217;re not going, we wanted to let you know that we have you covered. I personally will be doing a daily write up, and I know other DJs will be there and might just let you know how it goes.
+    As you probably know, KWUR gave away tickets to the Pitchfork Music Festival. Well if you didn’t win, and you’re not going, we wanted to let you know that we have you covered. I personally will be doing a daily write up, and I know other DJs will be there and might just let you know how it goes.
   </p>
   
   <div>

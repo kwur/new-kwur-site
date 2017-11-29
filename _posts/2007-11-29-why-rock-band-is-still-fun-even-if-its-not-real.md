@@ -1,6 +1,6 @@
 ---
 id: 101
-title: 'Why Rock Band is still fun (even if it&#8217;s not real)'
+title: 'Why Rock Band is still fun (even if it’s not real)'
 date: 2007-11-29T00:51:00+00:00
 author: Djboogieman
 layout: post
@@ -17,6 +17,6 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    So Sleater-Kinney&#8217;s guitarist did this awesome <a href="http://www.slate.com/id/2177432">review of Rock Band</a>. It&#8217;s a really good read, so I thought I would be nice enough to post it here.
+    So Sleater-Kinney’s guitarist did this awesome <a href="http://www.slate.com/id/2177432">review of Rock Band</a>. It’s a really good read, so I thought I would be nice enough to post it here.
   </p>
 </div>

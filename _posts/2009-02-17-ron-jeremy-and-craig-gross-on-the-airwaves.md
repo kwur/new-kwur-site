@@ -25,7 +25,7 @@ categories:
   </p>
   
   <div align="center">
-    <a href="http://www.kwur.com/blog/uploaded_images/Week-of-Feb-13,-2009-189-776480.jpg"><img style="DISPLAY: block; MARGIN: 0px auto 10px; WIDTH: 400px; CURSOR: hand; HEIGHT: 300px; TEXT-ALIGN: center" alt="" src="http://www.kwur.com/blog/uploaded_images/Week-of-Feb-13,-2009-189-776461.jpg" border="0" /></a><span style="font-size:85%;">On the KWUR Airwaves&#8230;</span>
+    <a href="http://www.kwur.com/blog/uploaded_images/Week-of-Feb-13,-2009-189-776480.jpg"><img style="DISPLAY: block; MARGIN: 0px auto 10px; WIDTH: 400px; CURSOR: hand; HEIGHT: 300px; TEXT-ALIGN: center" alt="" src="http://www.kwur.com/blog/uploaded_images/Week-of-Feb-13,-2009-189-776461.jpg" border="0" /></a><span style="font-size:85%;">On the KWUR Airwaves…</span>
   </div>
   
   <div align="center">
@@ -47,7 +47,7 @@ categories:
           </p>
           
           <div>
-            <a href="http://www.kwur.com/blog/uploaded_images/Week-of-Feb-13,-2009-197-702082.jpg"><img style="DISPLAY: block; MARGIN: 0px auto 10px; WIDTH: 400px; CURSOR: hand; HEIGHT: 300px; TEXT-ALIGN: center" alt="" src="http://www.kwur.com/blog/uploaded_images/Week-of-Feb-13,-2009-197-701685.jpg" border="0" /></a> <span style="font-size:85%;">The Judgment Hour with Kenny and Tara &#8211; with Ron Jeremy and Craig Gross</span></p> 
+            <a href="http://www.kwur.com/blog/uploaded_images/Week-of-Feb-13,-2009-197-702082.jpg"><img style="DISPLAY: block; MARGIN: 0px auto 10px; WIDTH: 400px; CURSOR: hand; HEIGHT: 300px; TEXT-ALIGN: center" alt="" src="http://www.kwur.com/blog/uploaded_images/Week-of-Feb-13,-2009-197-701685.jpg" border="0" /></a> <span style="font-size:85%;">The Judgment Hour with Kenny and Tara – with Ron Jeremy and Craig Gross</span></p> 
             
             <p>
               <em>My impressions from the interview:</em></div> 
@@ -57,17 +57,17 @@ categories:
               </div>
               
               <div>
-                Pornstar <strong>Ron Jeremy</strong> is a smart dude&#8230; but he certainly lives in an alternate reality than most of us, simply by virtue of the fact that he defines &#8220;work&#8221; and &#8220;play&#8221; much differently than the majority of folks. He is very chatty, a real showman. He is down to grope girlies and sign their lady humps without hesitation. He has done the right things with his career &#8211; in that he knows how to make fun of himself and is grateful for the opportunities that porn has offered him, but he&#8217;s more than just &#8220;shmeckle.&#8221; He eagerly pursues non-pornographic projects (movies, tours, education, etc.) and has a strong loyalty to his friends (and fans) in and out of show business.
+                Pornstar <strong>Ron Jeremy</strong> is a smart dude… but he certainly lives in an alternate reality than most of us, simply by virtue of the fact that he defines “work” and “play” much differently than the majority of folks. He is very chatty, a real showman. He is down to grope girlies and sign their lady humps without hesitation. He has done the right things with his career – in that he knows how to make fun of himself and is grateful for the opportunities that porn has offered him, but he’s more than just “shmeckle.” He eagerly pursues non-pornographic projects (movies, tours, education, etc.) and has a strong loyalty to his friends (and fans) in and out of show business.
               </div>
               
               <div>
               </div>
               
               <div>
-                Pastor <strong>Craig Gross</strong> has his act together. He&#8217;s preaching the right things to the right people. He&#8217;s a man of God, sure, but it seems he is more concerned with people&#8217;s general spiritual well-being than their adherence to the word of the book (i.e. the New Testament). With piercings and a hipster &#8216;do, he is to preaching what KWUR is to radio&#8230; a breath of fresh air, among other things. He has a great sense of humor and also kind of plays the role of the &#8220;adult&#8221; on this Great Porn Debate tour with Mr. Jeremy, at times keeping track of where Ron is and maybe making sure he makes his appointments. Craig Gross should be your new celebrity crush &#8211; because he&#8217;s the foxiest pastor I&#8217;ve ever met&#8230;</p> 
+                Pastor <strong>Craig Gross</strong> has his act together. He’s preaching the right things to the right people. He’s a man of God, sure, but it seems he is more concerned with people’s general spiritual well-being than their adherence to the word of the book (i.e. the New Testament). With piercings and a hipster ‘do, he is to preaching what KWUR is to radio… a breath of fresh air, among other things. He has a great sense of humor and also kind of plays the role of the “adult” on this Great Porn Debate tour with Mr. Jeremy, at times keeping track of where Ron is and maybe making sure he makes his appointments. Craig Gross should be your new celebrity crush – because he’s the foxiest pastor I’ve ever met…</p> 
                 
                 <p>
-                  <span style="font-size:85%;">And Ron Jeremy & co. have left the building&#8230;</span></div> 
+                  <span style="font-size:85%;">And Ron Jeremy & co. have left the building…</span></div> 
                   
                   <div>
                     <a href="http://www.kwur.com/blog/uploaded_images/Week-of-Feb-13,-2009-199-739660.jpg"><img style="DISPLAY: block; MARGIN: 0px auto 10px; WIDTH: 300px; CURSOR: hand; HEIGHT: 400px; TEXT-ALIGN: center" alt="" src="http://www.kwur.com/blog/uploaded_images/Week-of-Feb-13,-2009-199-739645.jpg" border="0" /></a> <span style="font-size:78%;">THE END</span>

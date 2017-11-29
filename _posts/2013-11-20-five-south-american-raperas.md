@@ -12,7 +12,7 @@ categories:
 <div class="pf-content">
   <ul class="uiList _2ne _4kg" id="webMessengerRecentMessages" style="margin: 0px;padding-right: 0px;padding-left: 0px;font-family: 'lucida grande', tahoma, verdana, arial, sans-serif;font-size: 11px;line-height: 14px">
     <li class="_2n3">
-      &nbsp;
+       
     </li>
     <li class="webMessengerMessageGroup clearfix" id="wm:mid.1384979841466:b6d7fe0bcf10e0c274" style="padding: 8px 20px 7px;border-width: 1px 0px 0px">
       <div class="clearfix">
@@ -26,51 +26,51 @@ categories:
                   </p>
                   
                   <p style="margin: 0px">
-                    &nbsp;
+                     
                   </p>
                   
                   <p style="margin: 0px">
-                    &nbsp;
+                     
                   </p>
                   
                   <p style="margin: 0px">
-                    5. Miss Bolivia &#8211; Alta yama &#8211; <a class="_553k" href="http://www.youtube.com/watch?feature=player_detailpage&v=_II-AG9gEBA" rel="nofollow" target="_blank">http://www.youtube.com/watch?feature=player_detailpage&v=_II-AG9gEBA</a>
+                    5. Miss Bolivia – Alta yama – <a class="_553k" href="http://www.youtube.com/watch?feature=player_detailpage&v=_II-AG9gEBA" rel="nofollow" target="_blank">http://www.youtube.com/watch?feature=player_detailpage&v=_II-AG9gEBA</a>
                   </p>
                   
                   <p style="margin: 0px">
-                    &nbsp;
+                     
                   </p>
                   
                   <p style="margin: 0px">
-                    Miss Bolivia, Buenos Aires&rsquo; premier underground cumbia-rap superstar (I know that&rsquo;s an oxymoron), goes on what looks like a super-awesome road trip and dances on traintracks (safety first!). I&rsquo;m jealous.
+                    Miss Bolivia, Buenos Aires’ premier underground cumbia-rap superstar (I know that’s an oxymoron), goes on what looks like a super-awesome road trip and dances on traintracks (safety first!). I’m jealous.
                   </p>
                   
                   <p style="margin: 0px">
-                    &nbsp;
+                     
                   </p>
                   
                   <p style="margin: 0px">
-                    4. Leidi Li- Mate a mi novio &#8211; <a class="_553k" href="http://www.youtube.com/watch?v=qG-4ZMyz8YI" rel="nofollow" target="_blank">http://www.youtube.com/watch?v=qG-4ZMyz8YI</a>
+                    4. Leidi Li- Mate a mi novio – <a class="_553k" href="http://www.youtube.com/watch?v=qG-4ZMyz8YI" rel="nofollow" target="_blank">http://www.youtube.com/watch?v=qG-4ZMyz8YI</a>
                   </p>
                   
                   <p style="margin: 0px">
-                    &nbsp;
+                     
                   </p>
                   
                   <p style="margin: 0px">
-                    This may sound like low quality beroom-rap, but Leidi Li is actually Li Saumet, Bomba Est&eacute;reo, one of the biggest bands to come out Colombia in the last few years. &ldquo;Mate a mi novio&rdquo; (I killed my boyfriend) lets Saumet shed her pop veneer and embrace the song&rsquo;s hazy, almost intergalactic beat.
+                    This may sound like low quality beroom-rap, but Leidi Li is actually Li Saumet, Bomba Estéreo, one of the biggest bands to come out Colombia in the last few years. “Mate a mi novio” (I killed my boyfriend) lets Saumet shed her pop veneer and embrace the song’s hazy, almost intergalactic beat.
                   </p>
                   
                   <p style="margin: 0px">
-                    &nbsp;
+                     
                   </p>
                   
                   <p style="margin: 0px">
-                    3. Alika &#8211; Jengibre 0 <a class="_553k" href="http://www.youtube.com/watch?v=9Lh25OQpd1k" rel="nofollow" target="_blank">http://www.youtube.com/watch?v=9Lh25OQpd1k</a>
+                    3. Alika – Jengibre 0 <a class="_553k" href="http://www.youtube.com/watch?v=9Lh25OQpd1k" rel="nofollow" target="_blank">http://www.youtube.com/watch?v=9Lh25OQpd1k</a>
                   </p>
                   
                   <p style="margin: 0px">
-                    &nbsp;
+                     
                   </p>
                   
                   <p style="margin: 0px">
@@ -78,27 +78,27 @@ categories:
                   </p>
                   
                   <p style="margin: 0px">
-                    &nbsp;
+                     
                   </p>
                   
                   <p style="margin: 0px">
-                    2. Ana Tijoux &#8211; Shock &#8211; <a class="_553k" href="http://www.youtube.com/watch?v=177-s44MSVQ" rel="nofollow" target="_blank">http://www.youtube.com/watch?v=177-s44MSVQ</a>
+                    2. Ana Tijoux – Shock – <a class="_553k" href="http://www.youtube.com/watch?v=177-s44MSVQ" rel="nofollow" target="_blank">http://www.youtube.com/watch?v=177-s44MSVQ</a>
                   </p>
                   
                   <p style="margin: 0px">
-                    &nbsp;
+                     
                   </p>
                   
                   <p style="margin: 0px">
-                    Tijoux&rsquo;s had the most crossover success of all the raperas here, but she&rsquo;s also the most overtly political. &ldquo;Shock&rdquo; highlights protesters and activists from around Chile, directly attacks both Pinochet&rsquo;s legacy and the conservatism of the Catholic Church, and weaves in references to Naomi Klein&rsquo;s &ldquo;The Shock Doctrine,&rdquo; which is the song&rsquo;s namesake.
+                    Tijoux’s had the most crossover success of all the raperas here, but she’s also the most overtly political. “Shock” highlights protesters and activists from around Chile, directly attacks both Pinochet’s legacy and the conservatism of the Catholic Church, and weaves in references to Naomi Klein’s “The Shock Doctrine,” which is the song’s namesake.
                   </p>
                   
                   <p style="margin: 10px 0px 0px">
-                    1. Princesa- M&aacute;s fuego &#8211; <a class="_553k" href="http://www.youtube.com/watch?v=Ej8s1wgGMIQ" rel="nofollow" target="_blank">http://www.youtube.com/watch?v=Ej8s1wgGMIQ</a>
+                    1. Princesa- Más fuego – <a class="_553k" href="http://www.youtube.com/watch?v=Ej8s1wgGMIQ" rel="nofollow" target="_blank">http://www.youtube.com/watch?v=Ej8s1wgGMIQ</a>
                   </p>
                   
                   <p style="margin: 10px 0px 0px">
-                    <span style="line-height: 1.38">She is a princess, has a fucking face tattoo and &ldquo;M&aacute;s fuego&rdquo; looks like the best block party ever. What else do I have to say?</span>
+                    <span style="line-height: 1.38">She is a princess, has a fucking face tattoo and “Más fuego” looks like the best block party ever. What else do I have to say?</span>
                   </p></p>
                 </div></p>
               </div></p>

@@ -20,7 +20,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    St. Louis band <a href="http://www.myspace.com/theblindnils">the Blind Nils</a> joined us in the lounge at the station the other day for a short live performance on the air. They played 5 of their original tunes with eclectic instrumentation including banjo, slide guitar, and xylophone. Take a look the videos below for a peek into their set. Their entire set will be rebroadcast this Thursday at 3:30pm, so don&#8217;t forget to tune in at www.kwur.com.
+    St. Louis band <a href="http://www.myspace.com/theblindnils">the Blind Nils</a> joined us in the lounge at the station the other day for a short live performance on the air. They played 5 of their original tunes with eclectic instrumentation including banjo, slide guitar, and xylophone. Take a look the videos below for a peek into their set. Their entire set will be rebroadcast this Thursday at 3:30pm, so don’t forget to tune in at www.kwur.com.
   </p>
   
   <p>

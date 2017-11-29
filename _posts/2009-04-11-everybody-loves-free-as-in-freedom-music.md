@@ -1,6 +1,6 @@
 ---
 id: 343
-title: 'Everybody Loves Free (as in &#8216;freedom&#8217;) Music'
+title: 'Everybody Loves Free (as in ‘freedom’) Music'
 date: 2009-04-11T18:56:00+00:00
 author: Klax
 layout: post
@@ -25,7 +25,7 @@ categories:
   </p>
   
   <p>
-    This is good &#8217;cause WFMU now regularly posts in-studio appearances and sponsored live shows. Additionally, they&#8217;ve partnered up with a bunch of other like-minded media outlets (KEXP, KBOO, dublab) who are curating their own sections. Maybe KWUR should look into getting in on this&#8230;
+    This is good ’cause WFMU now regularly posts in-studio appearances and sponsored live shows. Additionally, they’ve partnered up with a bunch of other like-minded media outlets (KEXP, KBOO, dublab) who are curating their own sections. Maybe KWUR should look into getting in on this…
   </p>
   
   <p>
@@ -33,11 +33,11 @@ categories:
   </p>
   
   <p>
-    Also highly recommended are <a href="http://freemusicarchive.org/curator/WFMU/WFMUs_Free_Music_Archive_sampler">two</a> <a href="http://freemusicarchive.org/curator/WFMU/WFMUs_Free_Music_Archive_Sampler_Vol_2">volumes</a> of &#8220;WFMU&#8217;s Free Music Archive Sampler&#8221; put out last year as a little pre-launch site preview.
+    Also highly recommended are <a href="http://freemusicarchive.org/curator/WFMU/WFMUs_Free_Music_Archive_sampler">two</a> <a href="http://freemusicarchive.org/curator/WFMU/WFMUs_Free_Music_Archive_Sampler_Vol_2">volumes</a> of “WFMU’s Free Music Archive Sampler” put out last year as a little pre-launch site preview.
   </p>
   
   <p>
-    Finally, you can thank former New York governer Eliot Spitzer and the New York State Music Fund for providing grant money to seed this operation&#8230;
+    Finally, you can thank former New York governer Eliot Spitzer and the New York State Music Fund for providing grant money to seed this operation…
   </p>
   
   <p>

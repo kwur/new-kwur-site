@@ -1,6 +1,6 @@
 ---
 id: 532
-title: 'Album Review: Pokey LaFarge&#8217;s &quot;Riverboat Soul&quot;'
+title: 'Album Review: Pokey LaFarge’s "Riverboat Soul"'
 date: 2010-07-15T19:29:00+00:00
 author: speiser
 layout: post

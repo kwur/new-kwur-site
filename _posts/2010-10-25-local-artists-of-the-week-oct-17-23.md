@@ -46,15 +46,15 @@ tags:
   </p>
   
   <p>
-    <strong>Sex Robots &#8211; Night Moves</strong>
+    <strong>Sex Robots – Night Moves</strong>
   </p>
   
   <p>
-    <em>Nightmoves </em>is the 2nd album from the St. Louis punk rock trio, <a href="http://www.myspace.com/sexrobots">Sex Robots</a>. The album shows the group&#8217;s influence from the Jam and Buzzcocks with fast electric guitar and prominent drums combined with clever lyrics that have a pop sensibility.
+    <em>Nightmoves </em>is the 2nd album from the St. Louis punk rock trio, <a href="http://www.myspace.com/sexrobots">Sex Robots</a>. The album shows the group’s influence from the Jam and Buzzcocks with fast electric guitar and prominent drums combined with clever lyrics that have a pop sensibility.
   </p>
   
   <p>
-    Favorite track: &#8220;Not Gonna Take My Heart&#8221;
+    Favorite track: “Not Gonna Take My Heart”
   </p>
   
   <div style="height: 1.4em; visibility: hidden;">
@@ -62,15 +62,15 @@ tags:
   </div>
   
   <p>
-    <strong>Art Majors &#8211; The War of Wealth</strong>
+    <strong>Art Majors – The War of Wealth</strong>
   </p>
   
   <p>
-    <a href="http://www.myspace.com/artmajorsmusic">Art Majors</a> presents a saturated, lusty, Indie-garage rock sound locked together by Michael Roche’s yearning baritone. This band is great at building momentum and tension and sustaining it. Percussion is fairly unconventional, hiding behind and supporting their round instrumental sound rather than overwhelming it. The War of Wealth features some lovely organ work, especially &#8220;Race From The Hotel&#8221; (probably the best one here). &#8220;Guillermo&#8221; gives a great taste of the band’s ability to create balanced interplay and &#8220;Flor De Mariposa&#8221; is a wistful tune bordering on the ethereal.
+    <a href="http://www.myspace.com/artmajorsmusic">Art Majors</a> presents a saturated, lusty, Indie-garage rock sound locked together by Michael Roche’s yearning baritone. This band is great at building momentum and tension and sustaining it. Percussion is fairly unconventional, hiding behind and supporting their round instrumental sound rather than overwhelming it. The War of Wealth features some lovely organ work, especially “Race From The Hotel” (probably the best one here). “Guillermo” gives a great taste of the band’s ability to create balanced interplay and “Flor De Mariposa” is a wistful tune bordering on the ethereal.
   </p>
   
   <p>
-    Favorite track: &#8220;<a href="http://www.youtube.com/watch?v=ujJFFMIt7y4">Race From The Hotel</a>&#8221;
+    Favorite track: “<a href="http://www.youtube.com/watch?v=ujJFFMIt7y4">Race From The Hotel</a>”
   </p>
   
   <div style="height: 1.4em; visibility: hidden;">

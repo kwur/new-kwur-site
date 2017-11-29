@@ -17,13 +17,13 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    as seen on <a href="http://www.grooversparadise.com">groover&#8217;s paradise</a>:
+    as seen on <a href="http://www.grooversparadise.com">groover’s paradise</a>:
   </p>
   
   <p>
   </p>
   
   <p>
-    don&#8217;t forget to come out tonight and bring yr dancin shoes!
+    don’t forget to come out tonight and bring yr dancin shoes!
   </p>
 </div>

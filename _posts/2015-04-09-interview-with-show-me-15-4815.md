@@ -11,7 +11,7 @@ categories:
 ---
 <div class="pf-content">
   <p style="line-height: 20.7999992370605px;">
-    Interview with representatives of Show Me 15 conducted with KWUR DJ Iv&aacute;n Aguirre on Red Sound Waves.
+    Interview with representatives of Show Me 15 conducted with KWUR DJ Iván Aguirre on Red Sound Waves.
   </p>
   
   <p style="line-height: 20.7999992370605px;">
@@ -20,6 +20,6 @@ categories:
   </p>
   
   <p style="line-height: 20.7999992370605px;">
-    On April 15, students, low wage workers, and community supporters in 190 cities and 40 countries are standing together to demand $15 and a union. Many students have to work low wage service jobs after graduating and we all deserve a living wage and a respect on the job. Stand with the Fight for 15 on 4/15. Meet at the Brookings Arch at 4:30 or come to the World's Fair Pavilion in Forest Park for our BBQ from 12-4. Rides to the BBQ will leave from Brookings once an hour from 12:15 to 3:15. Call 314 917 1149 or visit&nbsp;<a href="http://www.april15.org">april15.org</a>&nbsp;for more information.
+    On April 15, students, low wage workers, and community supporters in 190 cities and 40 countries are standing together to demand $15 and a union. Many students have to work low wage service jobs after graduating and we all deserve a living wage and a respect on the job. Stand with the Fight for 15 on 4/15. Meet at the Brookings Arch at 4:30 or come to the World's Fair Pavilion in Forest Park for our BBQ from 12-4. Rides to the BBQ will leave from Brookings once an hour from 12:15 to 3:15. Call 314 917 1149 or visit <a href="http://www.april15.org">april15.org</a> for more information.
   </p>
 </div>

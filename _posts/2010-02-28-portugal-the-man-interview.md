@@ -1,6 +1,6 @@
 ---
 id: 485
-title: 'Portugal. The Man interview&#8230;'
+title: 'Portugal. The Man interview…'
 date: 2010-02-28T01:55:00+00:00
 author: Admin
 layout: post

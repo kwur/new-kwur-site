@@ -28,7 +28,7 @@ categories:
   </p>
   
   <p>
-    <span style="font-weight:bold;">ALSO: <a href="http://www.myspace.com/elmowilliamshezekiahearly">ELMO WILLIAMS AND HEZEKIAH EARLY</a> &#8211; PROBABLY THE BEST BLUES DUO ALIVE &#8211; ARE GONNA BE THERE</span>
+    <span style="font-weight:bold;">ALSO: <a href="http://www.myspace.com/elmowilliamshezekiahearly">ELMO WILLIAMS AND HEZEKIAH EARLY</a> – PROBABLY THE BEST BLUES DUO ALIVE – ARE GONNA BE THERE</span>
   </p>
   
   <p>

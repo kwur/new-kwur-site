@@ -16,19 +16,19 @@ categories:
   
   <blockquote>
     <p>
-      A group of enthusiastic young alumni who are employed in the entertainment space out in Los Angeles are working to further develop the Washington University community in the field via an initiative they are calling&nbsp;<strong><u>HollyWU</u></strong>.&nbsp; Through HollyWU, these alumni are also very interested in mentoring and helping current students pursue entertainment career opportunities (jobs and internships) in LA.&nbsp;
+      A group of enthusiastic young alumni who are employed in the entertainment space out in Los Angeles are working to further develop the Washington University community in the field via an initiative they are calling <strong><u>HollyWU</u></strong>.  Through HollyWU, these alumni are also very interested in mentoring and helping current students pursue entertainment career opportunities (jobs and internships) in LA. 
     </p>
     
     <p>
-      One of the first steps the newly formed group is taking is to host a virtual Google Hangout Information Session for current students.&nbsp; Below you will find details on the session, along with the direct link for students to sign-up to participate.&nbsp;&nbsp;
+      One of the first steps the newly formed group is taking is to host a virtual Google Hangout Information Session for current students.  Below you will find details on the session, along with the direct link for students to sign-up to participate.  
     </p>
     
     <p>
-      <u>HollyWU Panel and Q&A</u><br /> VIRTUAL Google Hang out Session on&nbsp;<span data-term="goog_194258489" tabindex="0">Saturday, February 21 from 12:00 p.m. &ndash; 1:00 p.m.</span>
+      <u>HollyWU Panel and Q&A</u><br /> VIRTUAL Google Hang out Session on <span data-term="goog_194258489" tabindex="0">Saturday, February 21 from 12:00 p.m. – 1:00 p.m.</span>
     </p>
     
     <p>
-      <em>RSVP in CAREERlink</em>&nbsp;:&nbsp;<a href="https://wustl-csm.symplicity.com/students/index.php?mode=form&id=6cec70f684cfc00d853cb1e745659eb7&s=event&ss=ws" target="_blank">https://wustl-csm.symplicity.<wbr />com/students/index.php?mode=<wbr />form&id=<wbr />6cec70f684cfc00d853cb1e745659e<wbr />b7&s=event&ss=ws</a>
+      <em>RSVP in CAREERlink</em> : <a href="https://wustl-csm.symplicity.com/students/index.php?mode=form&id=6cec70f684cfc00d853cb1e745659eb7&s=event&ss=ws" target="_blank">https://wustl-csm.symplicity.<wbr />com/students/index.php?mode=<wbr />form&id=<wbr />6cec70f684cfc00d853cb1e745659e<wbr />b7&s=event&ss=ws</a>
     </p>
     
     <p>

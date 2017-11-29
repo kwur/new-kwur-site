@@ -37,7 +37,7 @@ categories:
   </p>
   
   <p>
-    February 6: Flogging Molly at Pop&#8217;s
+    February 6: Flogging Molly at Pop’s
   </p>
   
   <p>
@@ -81,7 +81,7 @@ categories:
   </p>
   
   <p>
-    March 17: X at Pop&#8217;s
+    March 17: X at Pop’s
   </p>
   
   <p>
@@ -125,6 +125,6 @@ categories:
   </p>
   
   <p>
-    Let me know if I&#8217;ve missed anything, I&#8217;ll try to keep this updated as much as possible
+    Let me know if I’ve missed anything, I’ll try to keep this updated as much as possible
   </p>
 </div>

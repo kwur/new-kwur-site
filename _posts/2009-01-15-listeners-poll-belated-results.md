@@ -1,6 +1,6 @@
 ---
 id: 305
-title: 'Listeners&#8217; Poll (Belated) Results'
+title: 'Listeners’ Poll (Belated) Results'
 date: 2009-01-15T04:29:00+00:00
 author: Moondog
 layout: post
@@ -17,11 +17,11 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    THE RESULTS ARE IN&#8230;
+    THE RESULTS ARE IN…
   </p>
   
   <p>
-    and they proclaim that I am incredibly lazy. Sorry &#8217;bout the delay, but thanks to everyone who participated. Without further ado:
+    and they proclaim that I am incredibly lazy. Sorry ’bout the delay, but thanks to everyone who participated. Without further ado:
   </p>
   
   <p>
@@ -33,7 +33,7 @@ categories:
   </p>
   
   <p>
-    Vampire Weekend &#8211; Vampire Weekend
+    Vampire Weekend – Vampire Weekend
   </p>
   
   <p>
@@ -45,7 +45,7 @@ categories:
   </p>
   
   <p>
-    Of Montreal &#8211; Skeletal Lamping
+    Of Montreal – Skeletal Lamping
   </p>
   
   <p>
@@ -57,7 +57,7 @@ categories:
   </p>
   
   <p>
-    Pattern Is Movement &#8211; All Together
+    Pattern Is Movement – All Together
   </p>
   
   <p>
@@ -85,7 +85,7 @@ categories:
   </p>
   
   <p>
-    Man Man &#8211; Rabbit Habits
+    Man Man – Rabbit Habits
   </p>
   
   <p>
@@ -97,7 +97,7 @@ categories:
   </p>
   
   <p>
-    Bon Iver &#8211; For Emma, Forever Ago
+    Bon Iver – For Emma, Forever Ago
   </p>
   
   <p>
@@ -109,7 +109,7 @@ categories:
   </p>
   
   <p>
-    Okkervil River &#8211; The Stand Ins
+    Okkervil River – The Stand Ins
   </p>
   
   <p>
@@ -121,7 +121,7 @@ categories:
   </p>
   
   <p>
-    TV On The Radio &#8211; Dear Science
+    TV On The Radio – Dear Science
   </p>
   
   <p>
@@ -133,6 +133,6 @@ categories:
   </p>
   
   <p>
-    No Age &#8211; Nouns
+    No Age – Nouns
   </p>
 </div>

@@ -1,6 +1,6 @@
 ---
 id: 410
-title: 'Album Review: Naomi Shelton and The Gospel Queens, &quot;What Have You Done, My Brother?&quot;'
+title: 'Album Review: Naomi Shelton and The Gospel Queens, "What Have You Done, My Brother?"'
 date: 2009-08-29T18:03:00+00:00
 author: The Intern
 layout: post
@@ -21,10 +21,10 @@ categories:
   </p>
   
   <p>
-    &#8220;You got gospel in my R&B! You got R&B in my gospel!&#8221; An actually pretty interesting record from Brooklyn&#8217;s tremendous soul label, Daptone, it combines an R&B tempo and instrumentation with gospel vocal arrangements. Ms. Shelton&#8217;s voice is really distinctive, and the record sounds terrific. Play all, but esp:
+    “You got gospel in my R&B! You got R&B in my gospel!” An actually pretty interesting record from Brooklyn’s tremendous soul label, Daptone, it combines an R&B tempo and instrumentation with gospel vocal arrangements. Ms. Shelton’s voice is really distinctive, and the record sounds terrific. Play all, but esp:
   </p>
   
   <p>
-    1, 4++(groove!), 6+ (now there&#8217;s gospel), 7, 10+(deep soul)
+    1, 4++(groove!), 6+ (now there’s gospel), 7, 10+(deep soul)
   </p>
 </div>

@@ -18,7 +18,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    In case you missed it, last Sunday St. Louis&#8217; very own Gentleman Auction House performed a set on the air in the KWUR stacks. The band braved a torrential downpour, cramped into our tiny studio, and busted out five songs, including a brand new track! Full disclosure: the session was controlled chaos at best, but I had a hell of a lot of fun, GAH were amazing to work with, and the recording is one of our best yet.
+    In case you missed it, last Sunday St. Louis’ very own Gentleman Auction House performed a set on the air in the KWUR stacks. The band braved a torrential downpour, cramped into our tiny studio, and busted out five songs, including a brand new track! Full disclosure: the session was controlled chaos at best, but I had a hell of a lot of fun, GAH were amazing to work with, and the recording is one of our best yet.
   </p>
   
   <p>
@@ -30,6 +30,6 @@ categories:
   </p>
   
   <p>
-    BONUS ::: Check out <a href="http://www.megaupload.com/?d=OJ530V58">this incredibly amazing picture</a> from the in-studio (taken by Stephen Tomko). Sorry for all of the megaupload links (I know it blows) &#8211; we&#8217;ll be switching over to WordPress soon and they&#8217;ll be gone forever! But seriously, snatch that photo, it rules.
+    BONUS ::: Check out <a href="http://www.megaupload.com/?d=OJ530V58">this incredibly amazing picture</a> from the in-studio (taken by Stephen Tomko). Sorry for all of the megaupload links (I know it blows) – we’ll be switching over to WordPress soon and they’ll be gone forever! But seriously, snatch that photo, it rules.
   </p>
 </div>

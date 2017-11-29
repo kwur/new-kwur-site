@@ -1,6 +1,6 @@
 ---
 id: 23
-title: 'Are you ready&#8230;for MAN MAN?'
+title: 'Are you ready…for MAN MAN?'
 date: 2007-02-19T05:11:00+00:00
 author: Admin
 layout: post
@@ -27,11 +27,11 @@ categories:
     </p>
     
     <p>
-      Here are some more facts about Man Man: They&#8217;re from Philly. They dressed all in white, with white war-paint streaked under their eyes. They all sang big full-throated man chants; they all seemed to play several instruments at once, and &#8220;instruments&#8221; should be interpreted loosely&#8211; not only guitars, accordions, saxophones, and keys, but steel buckets, toys, spoons, and bowls of water. They sang about falling out of love in Brooklyn and falling out in general. They swooned mightily together or epileptically jittered in sundry directions at invisible psychic cues, imposing a pantomimed theatricality upon their very real transportation. There were no breaks in their set, so the music deeply respired like something large that was asleep, and that you hoped would not wake up&#8230;
+      Here are some more facts about Man Man: They’re from Philly. They dressed all in white, with white war-paint streaked under their eyes. They all sang big full-throated man chants; they all seemed to play several instruments at once, and “instruments” should be interpreted loosely– not only guitars, accordions, saxophones, and keys, but steel buckets, toys, spoons, and bowls of water. They sang about falling out of love in Brooklyn and falling out in general. They swooned mightily together or epileptically jittered in sundry directions at invisible psychic cues, imposing a pantomimed theatricality upon their very real transportation. There were no breaks in their set, so the music deeply respired like something large that was asleep, and that you hoped would not wake up…
     </p>
     
     <p>
-      Man Man&#8217;s power isn&#8217;t derived from the genres they stumble across, or the maniac light in their eyes, or the sweat pooling in their beards. It&#8217;s the unbearable sadness in their marrow and how they transform it, like the existentially distressed but heroically steadfast men men they are, into a terrible and lionhearted joy.<br />-Pitchfork
+      Man Man’s power isn’t derived from the genres they stumble across, or the maniac light in their eyes, or the sweat pooling in their beards. It’s the unbearable sadness in their marrow and how they transform it, like the existentially distressed but heroically steadfast men men they are, into a terrible and lionhearted joy.<br />-Pitchfork
     </p>
     
     <p>

@@ -17,6 +17,6 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    If you haven&#8217;t already, check out <a href="http://blogs.riverfronttimes.com/atoz/2007/12/an_open_letter_to_wilcos_jeff.php">what the RFT did</a>. It&#8217;s a letter to Jeff Tweedy about how he&#8217;s been forgetting his roots here in St. Louis. Even if you don&#8217;t like Wilco, you have to admit that the RFT is doing a good job of trying to make St. Louis a better place.
+    If you haven’t already, check out <a href="http://blogs.riverfronttimes.com/atoz/2007/12/an_open_letter_to_wilcos_jeff.php">what the RFT did</a>. It’s a letter to Jeff Tweedy about how he’s been forgetting his roots here in St. Louis. Even if you don’t like Wilco, you have to admit that the RFT is doing a good job of trying to make St. Louis a better place.
   </p>
 </div>

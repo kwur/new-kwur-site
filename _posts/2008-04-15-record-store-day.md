@@ -17,6 +17,6 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    This Saturday, 4/19, is record store day. Yesterday, Vintage Vinyl had &#8220;no sales tax&#8221; and &#8220;free beer&#8221; on its marquee, but today it just says a bunch of free stuff. Whether or not yesterday&#8217;s marquee was accurate, you could probably find a use for some new records on the day after record store day&#8230;
+    This Saturday, 4/19, is record store day. Yesterday, Vintage Vinyl had “no sales tax” and “free beer” on its marquee, but today it just says a bunch of free stuff. Whether or not yesterday’s marquee was accurate, you could probably find a use for some new records on the day after record store day…
   </p>
 </div>

@@ -1,6 +1,6 @@
 ---
 id: 245
-title: 'Fall &#8217;08 Schedule'
+title: 'Fall ’08 Schedule'
 date: 2008-09-09T21:23:00+00:00
 author: Admin
 layout: post
@@ -79,7 +79,7 @@ categories:
       </td>
       
       <td>
-        a show that&#8217;ll put the meanness in your swaggger, the swagger in your step, the scowl in your grimace, and the meanness in your step
+        a show that’ll put the meanness in your swaggger, the swagger in your step, the scowl in your grimace, and the meanness in your step
       </td>
     </tr>
     
@@ -111,7 +111,7 @@ categories:
       </td>
       
       <td>
-        Come and tune in on the night ride. We are friends. Unheard of sounds and beats, mindfuck, music, interviews, stories, and more. When we share our problems&#8230;
+        Come and tune in on the night ride. We are friends. Unheard of sounds and beats, mindfuck, music, interviews, stories, and more. When we share our problems…
       </td>
     </tr>
     
@@ -139,7 +139,7 @@ categories:
       </td>
       
       <td>
-        We&#8217;ll pretty much play anything&#8211;as long as it&#8217;s loud enough!
+        We’ll pretty much play anything–as long as it’s loud enough!
       </td>
       
       <td>
@@ -171,7 +171,7 @@ categories:
       </td>
       
       <td>
-        We&#8217;ve got some funk in the trunk.
+        We’ve got some funk in the trunk.
       </td>
       
       <td>
@@ -215,7 +215,7 @@ categories:
       </td>
       
       <td>
-        I&#8217;m invisible &#8211; an eraser of lunch.
+        I’m invisible – an eraser of lunch.
       </td>
       
       <td>
@@ -229,7 +229,7 @@ categories:
       </td>
       
       <td>
-        <a href="http://unicron/ctracker/showadmin.php?fxn=showView&showid=328&scheduleid=43">The People&#8217;s Key</a>
+        <a href="http://unicron/ctracker/showadmin.php?fxn=showView&showid=328&scheduleid=43">The People’s Key</a>
       </td>
       
       <td>
@@ -241,7 +241,7 @@ categories:
       </td>
       
       <td>
-        From American Blues to Zimbabwean Mbira Music; from the acoustic guitar to the kora&#8230;this music has roots!
+        From American Blues to Zimbabwean Mbira Music; from the acoustic guitar to the kora…this music has roots!
       </td>
     </tr>
     
@@ -295,7 +295,7 @@ categories:
       </td>
       
       <td>
-        <a href="http://unicron/ctracker/showadmin.php?fxn=showView&showid=317&scheduleid=43">Hippocleides Doesn&#8217;t Care</a>
+        <a href="http://unicron/ctracker/showadmin.php?fxn=showView&showid=317&scheduleid=43">Hippocleides Doesn’t Care</a>
       </td>
       
       <td>
@@ -303,7 +303,7 @@ categories:
       </td>
       
       <td>
-        &#8220;I got testicles given to me by the US Government&#8221;
+        “I got testicles given to me by the US Government”
       </td>
       
       <td>
@@ -351,7 +351,7 @@ categories:
       </td>
       
       <td>
-        Servin&#8217; up a plethora of the cool, funky, and old time. We are fat heroes of soul.
+        Servin’ up a plethora of the cool, funky, and old time. We are fat heroes of soul.
       </td>
     </tr>
     
@@ -395,7 +395,7 @@ categories:
       </td>
       
       <td>
-        Golden age hip-hop to fuck y&#8217;all up. The classics and forgotten gems from circa &#8217;87-96.
+        Golden age hip-hop to fuck y’all up. The classics and forgotten gems from circa ’87-96.
       </td>
     </tr>
     
@@ -446,7 +446,7 @@ categories:
       </td>
       
       <td>
-        He&#8217;s a suave Amish astronaut on a mission from God. She&#8217;s a wealthy mute socialite descended from a line of powerful witches. They fight crime!
+        He’s a suave Amish astronaut on a mission from God. She’s a wealthy mute socialite descended from a line of powerful witches. They fight crime!
       </td>
     </tr>
     
@@ -466,7 +466,7 @@ categories:
       </td>
       
       <td>
-        <a href="http://unicron/ctracker/showadmin.php?fxn=showView&showid=201&scheduleid=43">Grendel&#8217;s Basement</a>
+        <a href="http://unicron/ctracker/showadmin.php?fxn=showView&showid=201&scheduleid=43">Grendel’s Basement</a>
       </td>
       
       <td>
@@ -478,7 +478,7 @@ categories:
       </td>
       
       <td>
-        What else would a legendary monster listen to? Emo? Grendel with a fringe? C&#8217;mon! He listens to Slayer, Queens of the Stone Age, The Melvins, Bad Religion, and Baroness. Be like Grendel, feel the burn.
+        What else would a legendary monster listen to? Emo? Grendel with a fringe? C’mon! He listens to Slayer, Queens of the Stone Age, The Melvins, Bad Religion, and Baroness. Be like Grendel, feel the burn.
       </td>
     </tr>
     
@@ -496,7 +496,7 @@ categories:
       </td>
       
       <td>
-        Letting your neurons rest&#8230;for a moment
+        Letting your neurons rest…for a moment
       </td>
       
       <td>
@@ -631,7 +631,7 @@ categories:
       </td>
       
       <td>
-        Raise &#8217;em up high, Toothless Kinch the ?bermensch!
+        Raise ’em up high, Toothless Kinch the ?bermensch!
       </td>
       
       <td>
@@ -707,7 +707,7 @@ categories:
       </td>
       
       <td>
-        <a href="http://unicron/ctracker/showadmin.php?fxn=showView&showid=335&scheduleid=43">Breakin&#8217; Out the Katana</a>
+        <a href="http://unicron/ctracker/showadmin.php?fxn=showView&showid=335&scheduleid=43">Breakin’ Out the Katana</a>
       </td>
       
       <td>
@@ -715,11 +715,11 @@ categories:
       </td>
       
       <td>
-        &#8230;because ninjas definitely listen to better music than you do.
+        …because ninjas definitely listen to better music than you do.
       </td>
       
       <td>
-        Wave-y, indie-rock with occasional forays into the pop area for irony and into the local area for the awesomeness. Featuring the weekly segment of things that make the Captain want to break out the katana. She may be wearing a yurobi the whole time. Or not. We&#8217;ll see&#8230;
+        Wave-y, indie-rock with occasional forays into the pop area for irony and into the local area for the awesomeness. Featuring the weekly segment of things that make the Captain want to break out the katana. She may be wearing a yurobi the whole time. Or not. We’ll see…
       </td>
     </tr>
     
@@ -763,7 +763,7 @@ categories:
       </td>
       
       <td>
-        You&#8217;ll hear Jazz (and a bit of Blues) from past,present, and who knows?-maybe the future too.
+        You’ll hear Jazz (and a bit of Blues) from past,present, and who knows?-maybe the future too.
       </td>
     </tr>
     
@@ -785,7 +785,7 @@ categories:
       </td>
       
       <td>
-        Triple Word Score brings you the smooth sounds of the 70s, 80s, and 90s, hosted by a recovering Scrabble addict. Look out for brand new features, such as &#8220;Guess the processed food.&#8221;
+        Triple Word Score brings you the smooth sounds of the 70s, 80s, and 90s, hosted by a recovering Scrabble addict. Look out for brand new features, such as “Guess the processed food.”
       </td>
     </tr>
     
@@ -908,11 +908,11 @@ categories:
       </td>
       
       <td>
-        It&#8217;s hot in there
+        It’s hot in there
       </td>
       
       <td>
-        Think you&#8217;re hot shit? Email diveintovenus@gmail.com to get on the show.
+        Think you’re hot shit? Email diveintovenus@gmail.com to get on the show.
       </td>
     </tr>
     
@@ -1015,11 +1015,11 @@ categories:
       </td>
       
       <td>
-        Live Every Week Like It&#8217;s Shark Week
+        Live Every Week Like It’s Shark Week
       </td>
       
       <td>
-        They keep talking about study breaks&#8230;
+        They keep talking about study breaks…
       </td>
     </tr>
     
@@ -1072,7 +1072,7 @@ categories:
       </td>
       
       <td>
-        And what is good, Phaedrus, And what is not good &#8212; Need we ask anyone to tell us these things?
+        And what is good, Phaedrus, And what is not good — Need we ask anyone to tell us these things?
       </td>
     </tr>
     
@@ -1124,7 +1124,7 @@ categories:
       </td>
       
       <td>
-        Three of the sports world&#8217;s brightest and opinionated minds go at it and discuss a wide arrange of contemporary sports topics. We&#8217;ll talk about issues like steroids to cheating in the NFL. Each show will feature the week&#8217;s headlines and our expert&#8217;s &#8220;games of the week.&#8221;
+        Three of the sports world’s brightest and opinionated minds go at it and discuss a wide arrange of contemporary sports topics. We’ll talk about issues like steroids to cheating in the NFL. Each show will feature the week’s headlines and our expert’s “games of the week.”
       </td>
     </tr>
     
@@ -1190,7 +1190,7 @@ categories:
       </td>
       
       <td>
-        You risked your life for us&#8230;&#8230;..thanks.
+        You risked your life for us……..thanks.
       </td>
     </tr>
     
@@ -1218,7 +1218,7 @@ categories:
       </td>
       
       <td>
-        The floor really is lava, don&#8217;t touch it
+        The floor really is lava, don’t touch it
       </td>
       
       <td>
@@ -1332,7 +1332,7 @@ categories:
       </td>
       
       <td>
-        cuz you can&#8217;t be late savin&#8217; the world.
+        cuz you can’t be late savin’ the world.
       </td>
       
       <td>
@@ -1354,11 +1354,11 @@ categories:
       </td>
       
       <td>
-        It&#8217;s called Deep for a reason&#8230;
+        It’s called Deep for a reason…
       </td>
       
       <td>
-        Deep funk, deep soul, beats, samples, hip-hop, library, jazz, instrumentals. Budding producers could probably stream this show and just start chopping with their 303&#8217;s&#8230;
+        Deep funk, deep soul, beats, samples, hip-hop, library, jazz, instrumentals. Budding producers could probably stream this show and just start chopping with their 303’s…
       </td>
     </tr>
     
@@ -1376,7 +1376,7 @@ categories:
       </td>
       
       <td>
-        I&#8217;m going to put my foot in your ass and make it this big
+        I’m going to put my foot in your ass and make it this big
       </td>
       
       <td>
@@ -1420,7 +1420,7 @@ categories:
       </td>
       
       <td>
-        what&#8217;s not to like?
+        what’s not to like?
       </td>
       
       <td>
@@ -1486,7 +1486,7 @@ categories:
       </td>
       
       <td>
-        A mix of the Trance and Chillout genres. Turn up the base &#8212; screw the treble!
+        A mix of the Trance and Chillout genres. Turn up the base — screw the treble!
       </td>
     </tr>
     
@@ -1576,7 +1576,7 @@ categories:
       </td>
       
       <td>
-        Jazz, Funk, Blues, etc&#8230;
+        Jazz, Funk, Blues, etc…
       </td>
       
       <td>
@@ -1644,7 +1644,7 @@ categories:
       </td>
       
       <td>
-        Half hour talk show about movies, music and art, hosted by Student Life&#8217;s arts and entertainment editors
+        Half hour talk show about movies, music and art, hosted by Student Life’s arts and entertainment editors
       </td>
     </tr>
     
@@ -1694,11 +1694,11 @@ categories:
       </td>
       
       <td>
-        Cthulhu&#8217;s alarm clock
+        Cthulhu’s alarm clock
       </td>
       
       <td>
-        Heavy Metal, Death Metal, Thrash, Grindcore, etc. None o&#8217; that Def Leppard crap. + More Lovecraft references.
+        Heavy Metal, Death Metal, Thrash, Grindcore, etc. None o’ that Def Leppard crap. + More Lovecraft references.
       </td>
     </tr>
     
@@ -1774,7 +1774,7 @@ categories:
       </td>
       
       <td>
-        Exploring the world of jazz. Everything from the earliest improvisations of Louis Armstrong and Coleman Hawkins up until the modern sounds of Bill Frisell, John Zorn, Dave Douglas, Paul Motian, Keith Jarrett&#8230;etc
+        Exploring the world of jazz. Everything from the earliest improvisations of Louis Armstrong and Coleman Hawkins up until the modern sounds of Bill Frisell, John Zorn, Dave Douglas, Paul Motian, Keith Jarrett…etc
       </td>
     </tr>
     
@@ -1834,11 +1834,11 @@ categories:
       </td>
       
       <td>
-        Let&#8217;s share an experience.
+        Let’s share an experience.
       </td>
       
       <td>
-        I&#8217;m going to do whatever, and you&#8217;re going to listen. Hooray. There will be guests. Lots of guests. And the show will be awesome.
+        I’m going to do whatever, and you’re going to listen. Hooray. There will be guests. Lots of guests. And the show will be awesome.
       </td>
     </tr>
     
@@ -1856,7 +1856,7 @@ categories:
       </td>
       
       <td>
-        Music You&#8217;ve Never Heard
+        Music You’ve Never Heard
       </td>
       
       <td>

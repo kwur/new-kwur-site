@@ -1,6 +1,6 @@
 ---
 id: 177
-title: 'Subversive Cinema: Tadanori Yokoo&#8217;s Animations'
+title: 'Subversive Cinema: Tadanori Yokoo’s Animations'
 date: 2008-03-11T02:43:00+00:00
 author: Klax
 layout: post
@@ -17,11 +17,11 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/tadanoriyokoo-01-754702.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://www.kwur.com/blog/uploaded_images/tadanoriyokoo-01-754650.jpg" alt="" border="0" /></a>Tadanori Yokoo is an internationally known graphic designer and poster artist. His work heavily draws upon pop-culture and he is sometimes unjustly labeled the &#8220;Japanese Andy Warhol.&#8221;
+    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/tadanoriyokoo-01-754702.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://www.kwur.com/blog/uploaded_images/tadanoriyokoo-01-754650.jpg" alt="" border="0" /></a>Tadanori Yokoo is an internationally known graphic designer and poster artist. His work heavily draws upon pop-culture and he is sometimes unjustly labeled the “Japanese Andy Warhol.”
   </p>
   
   <p>
-    In the 1960&#8217;s he became interested in mysticism and psychedelia, deepened by travels in India. His work shows it.
+    In the 1960’s he became interested in mysticism and psychedelia, deepened by travels in India. His work shows it.
   </p>
   
   <p>
@@ -36,11 +36,11 @@ categories:
   </p>
   
   <p>
-    Besides that, I can&#8217;t offer much more information. Very little background in English is available on Yokoo&#8217;s films. Either way, enjoy the films &#8211; they are completely visually stimulating.
+    Besides that, I can’t offer much more information. Very little background in English is available on Yokoo’s films. Either way, enjoy the films – they are completely visually stimulating.
   </p>
   
   <p>
-    [Note: Experimental composer (and Yoko Ono&#8217;s first husband) Toshi Ichiyanagi&#8217;s work, &#8220;Opera from the Works of Tadanori Yokoo&#8221; was directly inspired by Yokoo&#8217;s artwork, who in a sense &#8220;Turned On&#8221; the composer. <a href="http://mutant-sounds.blogspot.com/2007/02/toshi-ichiyanagi-opera-from-works-of.html">This multimedia box</a>, a blend of musique concrete and psychedelic rock, is also definitely worth checking out]
+    [Note: Experimental composer (and Yoko Ono’s first husband) Toshi Ichiyanagi’s work, “Opera from the Works of Tadanori Yokoo” was directly inspired by Yokoo’s artwork, who in a sense “Turned On” the composer. <a href="http://mutant-sounds.blogspot.com/2007/02/toshi-ichiyanagi-opera-from-works-of.html">This multimedia box</a>, a blend of musique concrete and psychedelic rock, is also definitely worth checking out]
   </p>
   
   <p>

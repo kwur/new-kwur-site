@@ -1,6 +1,6 @@
 ---
 id: 493
-title: 'Album Review: Eddy Current Suppression Ring, &quot;Rush To Relax&quot;'
+title: 'Album Review: Eddy Current Suppression Ring, "Rush To Relax"'
 date: 2010-03-30T18:11:00+00:00
 author: The Intern
 layout: post

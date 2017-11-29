@@ -18,6 +18,6 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    Following the departure of drummer Nick DeWitt, Pretty Girls Make Graves have decided to break up. They will be doing a final, farewell tour this spring (dates will be posted when I get them), but make sure to listen to KWUR and request anything from either The New Romance or Elan Vital &#8211; both great albums from this underrated band.
+    Following the departure of drummer Nick DeWitt, Pretty Girls Make Graves have decided to break up. They will be doing a final, farewell tour this spring (dates will be posted when I get them), but make sure to listen to KWUR and request anything from either The New Romance or Elan Vital – both great albums from this underrated band.
   </p>
 </div>

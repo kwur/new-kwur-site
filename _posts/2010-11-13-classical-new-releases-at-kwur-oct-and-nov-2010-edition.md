@@ -23,7 +23,7 @@ categories:
   </p>
   
   <p>
-    (3) Pergolesi: <em>Stabat Mater</em>, with instrumental works of Vivaldi, Pergolesi and Locatell; Anna Prohaska, soprano; Bernarda Fink, alto; Akademie f&uuml;r Alte Musik Berlin (Bernhard Forck, concertmaster) (<a href="http://www.harmoniamundi.com/#/albums?id=1572">harmonia mundi HMC 902072</a>)
+    (3) Pergolesi: <em>Stabat Mater</em>, with instrumental works of Vivaldi, Pergolesi and Locatell; Anna Prohaska, soprano; Bernarda Fink, alto; Akademie für Alte Musik Berlin (Bernhard Forck, concertmaster) (<a href="http://www.harmoniamundi.com/#/albums?id=1572">harmonia mundi HMC 902072</a>)
   </p>
   
   <p>
@@ -43,7 +43,7 @@ categories:
   </p>
   
   <p>
-    (8) "The Romantic Vioiin Concerto &#8211; 9", Ferdinand David: Violin Concerto No. 4, Violin Concerto No. 5, <em>Andante and Scherzo capriccioso</em>: Hagai Shaham, violin; BBC Scottish Symphony Orchestra; Martyn Brabbins, conductor (<a href="http://www.hyperion-records.co.uk/al.asp?al=CDA67804">Hyperion CDA67804</a>)
+    (8) "The Romantic Vioiin Concerto – 9", Ferdinand David: Violin Concerto No. 4, Violin Concerto No. 5, <em>Andante and Scherzo capriccioso</em>: Hagai Shaham, violin; BBC Scottish Symphony Orchestra; Martyn Brabbins, conductor (<a href="http://www.hyperion-records.co.uk/al.asp?al=CDA67804">Hyperion CDA67804</a>)
   </p>
   
   <p>
@@ -51,7 +51,7 @@ categories:
   </p>
   
   <p>
-    As always, comments and feedback are welcome, either by e-mail (classical@kwur.com), an IM, or a call to the station during my show (Saturdays 11 AM to 2 PM, 314-935-5987).&nbsp; Thanks for reading,
+    As always, comments and feedback are welcome, either by e-mail (classical@kwur.com), an IM, or a call to the station during my show (Saturdays 11 AM to 2 PM, 314-935-5987).  Thanks for reading,
   </p>
   
   <p>

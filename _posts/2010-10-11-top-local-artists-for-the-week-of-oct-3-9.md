@@ -24,7 +24,7 @@ tags:
   </div>
   
   <div style="height: 1.4em; visibility: hidden;">
-    &#8211;
+    –
   </div>
   
   <ol>

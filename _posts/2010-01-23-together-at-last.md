@@ -22,7 +22,7 @@ categories:
   </div>
   
   <p>
-    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/Wu-Beatles-1-725945.jpg" style="text-decoration: none;"><img style="text-decoration: underline;display: block; margin-top: 0px; margin-right: auto; margin-bottom: 10px; margin-left: auto; text-align: center; cursor: pointer; width: 320px; height: 320px; " src="http://www.kwur.com/blog/uploaded_images/Wu-Beatles-1-725870.jpg" border="0" alt="" /><span class="Apple-style-span" style="color: rgb(0, 0, 0); ">I don&#8217;t know who this Tom Caruana character, is but he puts Danger Mouse&#8217;s &#8220;Grey Album&#8221; to shame.</span></a>
+    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/Wu-Beatles-1-725945.jpg" style="text-decoration: none;"><img style="text-decoration: underline;display: block; margin-top: 0px; margin-right: auto; margin-bottom: 10px; margin-left: auto; text-align: center; cursor: pointer; width: 320px; height: 320px; " src="http://www.kwur.com/blog/uploaded_images/Wu-Beatles-1-725870.jpg" border="0" alt="" /><span class="Apple-style-span" style="color: rgb(0, 0, 0); ">I don’t know who this Tom Caruana character, is but he puts Danger Mouse’s “Grey Album” to shame.</span></a>
   </p>
   
   <div>

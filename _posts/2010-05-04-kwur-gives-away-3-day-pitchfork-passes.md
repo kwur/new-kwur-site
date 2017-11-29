@@ -28,7 +28,7 @@ categories:
     </div>
     
     <div>
-      <span class="Apple-style-span"  style="font-family:'times new roman';"><span class="Apple-style-span"  style="font-size:large;">That&#8217;s right folks. KWUR is going to be giving away a total of 12 3-day passes to the 2010 Pitchfork Music Festival. We&#8217;ll be giving away 3 3-day passes on each of the following shows:</span></span>
+      <span class="Apple-style-span"  style="font-family:'times new roman';"><span class="Apple-style-span"  style="font-size:large;">That’s right folks. KWUR is going to be giving away a total of 12 3-day passes to the 2010 Pitchfork Music Festival. We’ll be giving away 3 3-day passes on each of the following shows:</span></span>
     </div>
     
     <p>
@@ -64,7 +64,7 @@ categories:
     </div>
     
     <div>
-      <span class="Apple-style-span" style="border-collapse: collapse; "><span class="Apple-style-span"  style="font-family:'times new roman';"><span class="Apple-style-span"  style="font-size:large;">All you have to do is listen in and when you hear the song &#8220;North American Scum&#8221; by LCD Soundsystem be the 7th caller (314 935-5987 or 314 935-kwur) and you&#8217;ll win! So remember to tune in.</span></span></span>
+      <span class="Apple-style-span" style="border-collapse: collapse; "><span class="Apple-style-span"  style="font-family:'times new roman';"><span class="Apple-style-span"  style="font-size:large;">All you have to do is listen in and when you hear the song “North American Scum” by LCD Soundsystem be the 7th caller (314 935-5987 or 314 935-kwur) and you’ll win! So remember to tune in.</span></span></span>
     </div>
     
     <div>

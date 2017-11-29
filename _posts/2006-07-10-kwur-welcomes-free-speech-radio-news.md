@@ -21,7 +21,7 @@ categories:
   </p>
   
   <p>
-    &#8220;Free Speech Radio News (FSRN) is an independent media organization that produces a 30-minute Monday-Friday radio newscast. With a network of over 200 freelance reporters around the world, FSRN serves over 100 radio stations and a growing cadre of Internet outlets. FSRN brings the world to the U.S. in first-hand reportage of every continent by independent reporters: coverage that CNN can only dream of. Our diversity of voices, in ethnicity, age and class, outstrips every other news organization and we’re proud to be a progressive daily news outlet for those without Internet access. &#8220;
+    “Free Speech Radio News (FSRN) is an independent media organization that produces a 30-minute Monday-Friday radio newscast. With a network of over 200 freelance reporters around the world, FSRN serves over 100 radio stations and a growing cadre of Internet outlets. FSRN brings the world to the U.S. in first-hand reportage of every continent by independent reporters: coverage that CNN can only dream of. Our diversity of voices, in ethnicity, age and class, outstrips every other news organization and we’re proud to be a progressive daily news outlet for those without Internet access. “
   </p>
   
   <p>

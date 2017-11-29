@@ -25,11 +25,11 @@ categories:
   </p>
   
   <p>
-    &#8220;Lux Interior, lead singer of The Cramps, passed away this morning due to an existing heart condition at Glendale Memorial Hospital in Glendale, California at 4:30 AM PST today. Lux has been an inspiration and influence to millions of artists and fans around the world. He and wife Poison Ivy’s contributions with The Cramps have had an immeasurable impact on modern music.
+    “Lux Interior, lead singer of The Cramps, passed away this morning due to an existing heart condition at Glendale Memorial Hospital in Glendale, California at 4:30 AM PST today. Lux has been an inspiration and influence to millions of artists and fans around the world. He and wife Poison Ivy’s contributions with The Cramps have had an immeasurable impact on modern music.
   </p>
   
   <p>
-    The Cramps emerged from the original New York punk scene of CBGB and Max’s Kansas City, with a singular sound and iconography. Their distinct take on rockabilly and surf along with their midnight movie imagery reminded us all just how exciting, dangerous, vital and sexy rock and roll should be and has spawned entire subcultures. Lux was a fearless frontman who transformed every stage he stepped on into a place of passion, abandon, and true freedom. He is a rare icon who will be missed dearly.&#8221;
+    The Cramps emerged from the original New York punk scene of CBGB and Max’s Kansas City, with a singular sound and iconography. Their distinct take on rockabilly and surf along with their midnight movie imagery reminded us all just how exciting, dangerous, vital and sexy rock and roll should be and has spawned entire subcultures. Lux was a fearless frontman who transformed every stage he stepped on into a place of passion, abandon, and true freedom. He is a rare icon who will be missed dearly.”
   </p>
   
   <p>

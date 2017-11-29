@@ -1,6 +1,6 @@
 ---
 id: 1272
-title: 'Mastodon&#8217;s &#8220;The Hunter&#8221; is almost upon us!'
+title: 'Mastodon’s “The Hunter” is almost upon us!'
 date: 2011-09-19T04:03:49+00:00
 author: redluke22
 layout: post
@@ -20,7 +20,7 @@ tags:
   </p>
   
   <p>
-    <a href="http://www.youtube.com/watch?v=hwgqenxNUfs">Mastodon &#8211; \"Black Tongue\"</a>
+    <a href="http://www.youtube.com/watch?v=hwgqenxNUfs">Mastodon – \"Black Tongue\"</a>
   </p>
   
   <p>

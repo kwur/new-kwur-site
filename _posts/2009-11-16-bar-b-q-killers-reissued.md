@@ -17,7 +17,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    I&#8217;ve spoken highly of Athens, GA based Bar-B-Q Killers <a href="http://www.kwur.com/blog/2009/05/atlanta-ga-insideout-full-length.html">before</a>. Well, it seems that someone (Mike Turner and Gordon Lamb) has finally stepped up to get their one and only album, <span style="font-style: italic;">Comely</span>, properly remastered and reissued (with bonus tracks too).
+    I’ve spoken highly of Athens, GA based Bar-B-Q Killers <a href="http://www.kwur.com/blog/2009/05/atlanta-ga-insideout-full-length.html">before</a>. Well, it seems that someone (Mike Turner and Gordon Lamb) has finally stepped up to get their one and only album, <span style="font-style: italic;">Comely</span>, properly remastered and reissued (with bonus tracks too).
   </p>
   
   <p>
@@ -25,7 +25,7 @@ categories:
   </p>
   
   <p>
-    Thankfully, I tracked down two original LPs both for extremely reasonable prices. I found one from a seller in Washington state on ebay and one at a used record store in Los Angeles. Both quite far from the Athens/Atlanta homebase. For a while, I even considered reissuing the LP on bootleg cassette. Glad I don&#8217;t have to because someone&#8217;s doing it legitimately.
+    Thankfully, I tracked down two original LPs both for extremely reasonable prices. I found one from a seller in Washington state on ebay and one at a used record store in Los Angeles. Both quite far from the Athens/Atlanta homebase. For a while, I even considered reissuing the LP on bootleg cassette. Glad I don’t have to because someone’s doing it legitimately.
   </p>
   
   <p>
@@ -33,6 +33,6 @@ categories:
   </p>
   
   <p>
-    And just to get you excited, here&#8217;s a clip of the Bar-B-Q Killers from that very film (directed by KWUR alum, <a href="http://www.studlife.com/cadenza/2009/10/30/interview-with-bill-cody/">Bill Cody</a>)&#8230;<br />
+    And just to get you excited, here’s a clip of the Bar-B-Q Killers from that very film (directed by KWUR alum, <a href="http://www.studlife.com/cadenza/2009/10/30/interview-with-bill-cody/">Bill Cody</a>)…<br />
   </p>
 </div>

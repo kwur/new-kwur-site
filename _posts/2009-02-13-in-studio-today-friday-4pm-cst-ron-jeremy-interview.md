@@ -23,11 +23,11 @@ categories:
   </p>
   
   <p>
-    Upon hearing the debate news, my brother exclaimed, &#8220;they&#8217;re letting Ron Jeremy speak in a church??!&#8221;
+    Upon hearing the debate news, my brother exclaimed, “they’re letting Ron Jeremy speak in a church??!”
   </p>
   
   <p>
-    From what I&#8217;ve heard, the chancellor is pretty dodgy about sex-related talk on campus. I&#8217;m sure he will not be gracing us with his presence, despite Ron Jeremy&#8217;s eloquent nature of public speech (must&#8217;ve learned it in porn or something&#8230;)
+    From what I’ve heard, the chancellor is pretty dodgy about sex-related talk on campus. I’m sure he will not be gracing us with his presence, despite Ron Jeremy’s eloquent nature of public speech (must’ve learned it in porn or something…)
   </p>
   
   <p>

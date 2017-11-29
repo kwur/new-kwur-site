@@ -1,6 +1,6 @@
 ---
 id: 451
-title: 'Album Review: Orchestre Poly-Rhythmo de Contonou, &quot;Echoes Hypnotiques&quot;'
+title: 'Album Review: Orchestre Poly-Rhythmo de Contonou, "Echoes Hypnotiques"'
 date: 2009-11-13T20:19:00+00:00
 author: The Intern
 layout: post

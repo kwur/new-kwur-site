@@ -20,6 +20,6 @@ categories:
   </p>
   
   <p>
-    &#8220;We Fun&#8221; Coming Soon&#8230;
+    “We Fun” Coming Soon…
   </p>
 </div>

@@ -17,11 +17,11 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    I think we&#8217;ve all seen the horrific images and heard the awful stories coming out of Haiti. It is an especially bitter tragedy that once again, a country that by all rights should be a symbol of human freedom has become a symbol of human suffering. With that in mind, we&#8217;ve decided to give all the proceeds from this concert to the Doctors Without Borders emergency relief fund. Doctors Without Borders has done good work in Haiti for almost two decades, and is already on the ground and mobilized for relief efforts there. We were never really planning to make much money off this concert; the whole point was just to get people out to see some great local bands. But so long as we are charging, we think it&#8217;s best to channel the money to folks who really need it right now.
+    I think we’ve all seen the horrific images and heard the awful stories coming out of Haiti. It is an especially bitter tragedy that once again, a country that by all rights should be a symbol of human freedom has become a symbol of human suffering. With that in mind, we’ve decided to give all the proceeds from this concert to the Doctors Without Borders emergency relief fund. Doctors Without Borders has done good work in Haiti for almost two decades, and is already on the ground and mobilized for relief efforts there. We were never really planning to make much money off this concert; the whole point was just to get people out to see some great local bands. But so long as we are charging, we think it’s best to channel the money to folks who really need it right now.
   </p>
   
   <p>
-    Hope to see you guys there, and if you can&#8217;t make it, please try and help those suffering in any way you can.
+    Hope to see you guys there, and if you can’t make it, please try and help those suffering in any way you can.
   </p>
   
   <p>

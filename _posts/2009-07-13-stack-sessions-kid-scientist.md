@@ -22,14 +22,14 @@ categories:
   </p>
   
   <p>
-    The (relatively) new local act <a href="http://www.myspace.com/thekidscientist">Kid Scientist</a> dropped by the station to lay down some tracks for Stack Sessions, as well as to help us work out the finer details of in-studio recording (with a lot of help from sound engineer and all around good guy Dan Ruder). They played roughly a billion songs, but we don&#8217;t want to give away <span style="font-style: italic;">everything</span>, so here are three instead:
+    The (relatively) new local act <a href="http://www.myspace.com/thekidscientist">Kid Scientist</a> dropped by the station to lay down some tracks for Stack Sessions, as well as to help us work out the finer details of in-studio recording (with a lot of help from sound engineer and all around good guy Dan Ruder). They played roughly a billion songs, but we don’t want to give away <span style="font-style: italic;">everything</span>, so here are three instead:
   </p>
   
   <p>
-    <a href="http://www.megaupload.com/?d=TQD6LM0V">Kid Scientist &#8211; Micro Boy (live at KWUR)</a><br /><a href="http://www.megaupload.com/?d=RWHM7Y6H">Kid Scientist &#8211; Sea Orphan (live at KWUR)</a><br /><a href="http://www.megaupload.com/?d=REIK04GV">Kid Scientist &#8211; Twenty Two (new!)</a>
+    <a href="http://www.megaupload.com/?d=TQD6LM0V">Kid Scientist – Micro Boy (live at KWUR)</a><br /><a href="http://www.megaupload.com/?d=RWHM7Y6H">Kid Scientist – Sea Orphan (live at KWUR)</a><br /><a href="http://www.megaupload.com/?d=REIK04GV">Kid Scientist – Twenty Two (new!)</a>
   </p>
   
   <p>
-    These are probably the finest live recordings we&#8217;ve cut yet, so enjoy &#8217;em! And many, many thanks to Kid Scientist and Dan for hanging around all day (on Andrea&#8217;s birthday, no less!) to help us out.
+    These are probably the finest live recordings we’ve cut yet, so enjoy ’em! And many, many thanks to Kid Scientist and Dan for hanging around all day (on Andrea’s birthday, no less!) to help us out.
   </p>
 </div>

@@ -1,6 +1,6 @@
 ---
 id: 1598
-title: 'The KWUR Blog &#8211; A Rennaisance'
+title: 'The KWUR Blog – A Rennaisance'
 date: 2013-01-27T20:26:59+00:00
 author: TheGreatFoist
 layout: post
@@ -22,31 +22,31 @@ tags:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
-    We're making an effort to ressurect the blog &#8211; start checking back here for KWUR news (there will be plenty of it this semester) and random musings. This is something of a random musing, but first some quick KWUR newses:
+    We're making an effort to ressurect the blog – start checking back here for KWUR news (there will be plenty of it this semester) and random musings. This is something of a random musing, but first some quick KWUR newses:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
-    &#8211; Spring programming is officially ON! Check <a href="http://kwur.com/schedule/" id="our schedule" target="_blank">http://kwur.com/schedule/</a> to see what's happening for the next few months, and of course, tune in on our stream or 90.3 FM.
+    – Spring programming is officially ON! Check <a href="http://kwur.com/schedule/" id="our schedule" target="_blank">http://kwur.com/schedule/</a> to see what's happening for the next few months, and of course, tune in on our stream or 90.3 FM.
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
-    &#8211; Stack sessions are coming back! Stay tuned for more info.
+    – Stack sessions are coming back! Stay tuned for more info.
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
@@ -54,7 +54,7 @@ tags:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
@@ -62,7 +62,7 @@ tags:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
@@ -70,7 +70,7 @@ tags:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
@@ -78,7 +78,7 @@ tags:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
@@ -86,18 +86,18 @@ tags:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
@@ -105,7 +105,7 @@ tags:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
@@ -113,18 +113,18 @@ tags:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
@@ -132,7 +132,7 @@ tags:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
@@ -140,18 +140,18 @@ tags:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
@@ -159,7 +159,7 @@ tags:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
@@ -167,18 +167,18 @@ tags:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
@@ -186,7 +186,7 @@ tags:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
@@ -194,17 +194,17 @@ tags:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
 </div>

@@ -1,6 +1,6 @@
 ---
 id: 419
-title: 'KWUR DJ Showcase! &#8211; Sept 12th in the Gargoyle'
+title: 'KWUR DJ Showcase! – Sept 12th in the Gargoyle'
 date: 2009-09-10T18:05:00+00:00
 author: Tara
 layout: post
@@ -21,7 +21,7 @@ categories:
   </p>
   
   <p>
-    READY TO SHAKE YO&#8217; BUTT OFF?!?! Do it at the Gargoyle on Sept. 12th at the 1st <strong>KWUR DJ Showcase</strong>!
+    READY TO SHAKE YO’ BUTT OFF?!?! Do it at the Gargoyle on Sept. 12th at the 1st <strong>KWUR DJ Showcase</strong>!
   </p>
   
   <p>
@@ -33,7 +33,7 @@ categories:
   </p>
   
   <p>
-    Come ready to party and work what yo&#8217; mama gave you.
+    Come ready to party and work what yo’ mama gave you.
   </p>
   
   <p>
@@ -41,7 +41,7 @@ categories:
   </p>
   
   <p>
-    &#8211; &#8211; &#8211; &#8211; &#8211;<br />Also, KWUR is collaborating with WU Cypher on an event the night before, on September 11th. Come break in your dancing shoes at WU Cypher&#8217;s Bboy Exhibition Battles on Friday night. Then wear out your dancing shoes at the Showcase on Saturday!
+    – – – – –<br />Also, KWUR is collaborating with WU Cypher on an event the night before, on September 11th. Come break in your dancing shoes at WU Cypher’s Bboy Exhibition Battles on Friday night. Then wear out your dancing shoes at the Showcase on Saturday!
   </p>
   
   <p>

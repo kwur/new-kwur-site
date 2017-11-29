@@ -21,19 +21,19 @@ categories:
   </p>
   
   <p>
-    The film is undoubtedly a classic of American cinema. It was one of the 50 first films to enter the Library of Congress&#8217; National Film Registry (along side such films as <span style="font-style: italic;">Wizard of Oz</span>, <span style="font-style: italic;">Star Wars</span>, <span style="font-style: italic;">Vertigo</span>, and <span style="font-style: italic;">Citizen Kane</span>) where it will be preserved for future generations.
+    The film is undoubtedly a classic of American cinema. It was one of the 50 first films to enter the Library of Congress’ National Film Registry (along side such films as <span style="font-style: italic;">Wizard of Oz</span>, <span style="font-style: italic;">Star Wars</span>, <span style="font-style: italic;">Vertigo</span>, and <span style="font-style: italic;">Citizen Kane</span>) where it will be preserved for future generations.
   </p>
   
   <p>
-    Burnett was able to make this masterpiece completely outside any big budget corporate Hollywood studio for a price of only $10,000 (which is an amazingly small budget for any movie &#8211; let alone an outstanding one).
+    Burnett was able to make this masterpiece completely outside any big budget corporate Hollywood studio for a price of only $10,000 (which is an amazingly small budget for any movie – let alone an outstanding one).
   </p>
   
   <p>
-    The film captures urban African-American culture in 1970&#8217;s Los Angeles. It tells the story of Stan, a slaughter house worker, and his family in loosely connected episodes. Often times the camera just observes the actions of everyday life in this community. Burnett used non-professional actors and filmed completely on location. These low budget, but arguably better and more realistic techniques, recollect the radical style of post-war Italian cinema (Italian Neo-Realism). To celebrate the history of African-American music Burnett created a soundtrack that songs from all eras.
+    The film captures urban African-American culture in 1970’s Los Angeles. It tells the story of Stan, a slaughter house worker, and his family in loosely connected episodes. Often times the camera just observes the actions of everyday life in this community. Burnett used non-professional actors and filmed completely on location. These low budget, but arguably better and more realistic techniques, recollect the radical style of post-war Italian cinema (Italian Neo-Realism). To celebrate the history of African-American music Burnett created a soundtrack that songs from all eras.
   </p>
   
   <p>
-    But it was this soundtrack that made the film literally &#8220;the best film you&#8217;ve never seen&#8221;. Burnett was unable to secure proper licensing for the soundtrack, so the film, while critically acclaimed, had no official theatrical release until 30 years after it was completed.
+    But it was this soundtrack that made the film literally “the best film you’ve never seen”. Burnett was unable to secure proper licensing for the soundtrack, so the film, while critically acclaimed, had no official theatrical release until 30 years after it was completed.
   </p>
   
   <p>
@@ -41,15 +41,15 @@ categories:
   </p>
   
   <p>
-    So where does this leave us? Well, this month a nice <a href="http://www.amazon.com/Killer-Sheep-Charles-Burnett-Collection/dp/B000VEA3MU/ref=pd_bbs_sr_1/104-2489089-5812752?ie=UTF8&s=dvd&qid=1194476204&sr=1-1">DVD boxset</a> of some of Charles Burnett&#8217;s early films is being released. This is the first official home video release of the film (and it isn&#8217;t bootleg quality&#8230;).<br /><span class="on" style="display: block;" id="formatbar_CreateLink" title="Link" onmouseover="ButtonHoverOn(this);" onmouseout="ButtonHoverOff(this);" onmouseup="" onmousedown="CheckFormatting(event);FormatbarButton('richeditorframe', this, 8);ButtonMouseDown(this);"></span><br />OK, great. What else? Well, if you missed the short run of the film this summer at Tivoli, <a href="http://www.webster.edu/filmseries/current.html">Webster Film Series</a> (really the only place worth seeing films in St. Louis) will be showing the film this January on the 17 through the 19. And don&#8217;t make me remind you that seeing the actual film is always better than DVD&#8230;
+    So where does this leave us? Well, this month a nice <a href="http://www.amazon.com/Killer-Sheep-Charles-Burnett-Collection/dp/B000VEA3MU/ref=pd_bbs_sr_1/104-2489089-5812752?ie=UTF8&s=dvd&qid=1194476204&sr=1-1">DVD boxset</a> of some of Charles Burnett’s early films is being released. This is the first official home video release of the film (and it isn’t bootleg quality…).<br /><span class="on" style="display: block;" id="formatbar_CreateLink" title="Link" onmouseover="ButtonHoverOn(this);" onmouseout="ButtonHoverOff(this);" onmouseup="" onmousedown="CheckFormatting(event);FormatbarButton('richeditorframe', this, 8);ButtonMouseDown(this);"></span><br />OK, great. What else? Well, if you missed the short run of the film this summer at Tivoli, <a href="http://www.webster.edu/filmseries/current.html">Webster Film Series</a> (really the only place worth seeing films in St. Louis) will be showing the film this January on the 17 through the 19. And don’t make me remind you that seeing the actual film is always better than DVD…
   </p>
   
   <p>
-    AND&#8230; to top that, Charles Burnett himself will be doing a free workshop on Saturday January 19th. You must RSVP to that event so visit the <a href="http://www.webster.edu/filmseries/index.htm">Webster Film Series</a> site for information. I&#8217;ll even be in town (from NY) attending that event, so see you there.
+    AND… to top that, Charles Burnett himself will be doing a free workshop on Saturday January 19th. You must RSVP to that event so visit the <a href="http://www.webster.edu/filmseries/index.htm">Webster Film Series</a> site for information. I’ll even be in town (from NY) attending that event, so see you there.
   </p>
   
   <p>
-    It should also be noted that Burnett is only one of a few filmmakers who has received the highly prestigious <a href="http://en.wikipedia.org/wiki/MacArthur_Award">MacArthur Fellowship</a> (&#8220;genius grant&#8221;).
+    It should also be noted that Burnett is only one of a few filmmakers who has received the highly prestigious <a href="http://en.wikipedia.org/wiki/MacArthur_Award">MacArthur Fellowship</a> (“genius grant”).
   </p>
   
   <p>

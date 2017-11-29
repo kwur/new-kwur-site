@@ -15,7 +15,7 @@ categories:
   </p>
   
   <p>
-    Back in October, the KWUR Kickball All-stars played the KSLUzers in the annual kickball showdown. &nbsp;While our athletic skills may not have led us to victory, we surely had the most fun and a valiant effort was made by all!
+    Back in October, the KWUR Kickball All-stars played the KSLUzers in the annual kickball showdown.  While our athletic skills may not have led us to victory, we surely had the most fun and a valiant effort was made by all!
   </p>
   
   <p>

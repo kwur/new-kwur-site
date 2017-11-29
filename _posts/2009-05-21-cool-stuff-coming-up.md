@@ -17,11 +17,11 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    stl summers are the fucking best<br />here are some things to do for those of you in town<br />(and also for me so uh I don&#8217;t forget)<br />I will update this I think<br />[<a href="http://stlouislivemusic.wordpress.com/">this</a> is a valuable resource]
+    stl summers are the fucking best<br />here are some things to do for those of you in town<br />(and also for me so uh I don’t forget)<br />I will update this I think<br />[<a href="http://stlouislivemusic.wordpress.com/">this</a> is a valuable resource]
   </p>
   
   <p>
-    <span style="font-weight:bold;"><br />PAUL BURCH @ OFF BROADWAY &#8211; THURSDAY (TOMORROW NIGHT)</span>
+    <span style="font-weight:bold;"><br />PAUL BURCH @ OFF BROADWAY – THURSDAY (TOMORROW NIGHT)</span>
   </p>
   
   <p>
@@ -33,19 +33,19 @@ categories:
   </p>
   
   <p>
-    <span style="font-weight:bold;">MAMADOU DIABIATE @ ST. LOUIS ART MUSEUM &#8211; FRIDAY (FREE!)</span>
+    <span style="font-weight:bold;">MAMADOU DIABIATE @ ST. LOUIS ART MUSEUM – FRIDAY (FREE!)</span>
   </p>
   
   <p>
-    <br />from SLAM&#8217;s website:
+    <br />from SLAM’s website:
   </p>
   
   <p>
-    &#8220;Celebrate African Arts Festival weekend with Malian kora musician Mamadou Diabate. The kora, a 21-string harp-lute used primarily by the peoples of West Africa, is played to masterful effect by this Grammy-nominated musician. Currently based in the United States, Mamadou has performed at the African World Festival in Detroit, the Boston Museum of Fine Arts, and The Old Town School of Folk Music in Chicago. Interested in bringing the kora to new audiences, he plays with noted jazz and contemporary music ensembles but remains rooted in the traditions of the Manding kora and his family&#8217;s griot heritage.&#8221;
+    “Celebrate African Arts Festival weekend with Malian kora musician Mamadou Diabate. The kora, a 21-string harp-lute used primarily by the peoples of West Africa, is played to masterful effect by this Grammy-nominated musician. Currently based in the United States, Mamadou has performed at the African World Festival in Detroit, the Boston Museum of Fine Arts, and The Old Town School of Folk Music in Chicago. Interested in bringing the kora to new audiences, he plays with noted jazz and contemporary music ensembles but remains rooted in the traditions of the Manding kora and his family’s griot heritage.”
   </p>
   
   <p>
-    <span style="font-weight:bold;">SCHLAFLY BREW & Q @ BOTTLEWORKS &#8211; FRIDAY & SATURDAY</span>
+    <span style="font-weight:bold;">SCHLAFLY BREW & Q @ BOTTLEWORKS – FRIDAY & SATURDAY</span>
   </p>
   
   <p>
@@ -56,18 +56,18 @@ categories:
   </p>
   
   <p>
-    <span style="font-weight:bold;">JUNIOR BROWN @ BEALE ON BROADWAY &#8211; SUNDAY</span>
+    <span style="font-weight:bold;">JUNIOR BROWN @ BEALE ON BROADWAY – SUNDAY</span>
   </p>
   
   <p>
   </p>
   
   <p>
-    I sometimes got mixed feelings about this dude&#8211; (his six string/slide combo is a little gimmicky, for instance) but I hear he puts on quite a show. and this song w/his pseudo-tubb croak/croon is pretty great.
+    I sometimes got mixed feelings about this dude– (his six string/slide combo is a little gimmicky, for instance) but I hear he puts on quite a show. and this song w/his pseudo-tubb croak/croon is pretty great.
   </p>
   
   <p>
-    that&#8217;s just 4 days!<br />more more more to come
+    that’s just 4 days!<br />more more more to come
   </p>
   
   <p>

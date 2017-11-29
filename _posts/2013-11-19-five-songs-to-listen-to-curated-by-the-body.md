@@ -19,7 +19,7 @@ categories:
   </p>
   
   <p>
-    1. The Cure &#8211; 100 Years
+    1. The Cure – 100 Years
   </p>
   
   <p>
@@ -27,7 +27,7 @@ categories:
   </p>
   
   <p>
-    2. Electric Light Orchestra &#8211; Mr. Blue Sky
+    2. Electric Light Orchestra – Mr. Blue Sky
   </p>
   
   <p>
@@ -35,7 +35,7 @@ categories:
   </p>
   
   <p>
-    3. Kate Bush &#8211; Hounds of Love
+    3. Kate Bush – Hounds of Love
   </p>
   
   <p>
@@ -43,7 +43,7 @@ categories:
   </p>
   
   <p>
-    4. Big Star &#8211; Daisy Glaze
+    4. Big Star – Daisy Glaze
   </p>
   
   <p>
@@ -51,7 +51,7 @@ categories:
   </p>
   
   <p>
-    5. Fleetwood Mac &#8211; Planets of the Universe (demo version)
+    5. Fleetwood Mac – Planets of the Universe (demo version)
   </p>
   
   <p>
@@ -59,7 +59,7 @@ categories:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>

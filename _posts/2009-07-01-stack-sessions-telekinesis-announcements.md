@@ -23,7 +23,7 @@ categories:
   </p>
   
   <p>
-    July 12 &#8211; <a href="http://www.myspace.com/gentlemanauctionhouse">Gentleman Auction House</a><br />July 13 &#8211; <a href="http://www.myspace.com/exerciseaudio">Exercise</a><br />July 28 &#8211; <a href="http://www.myspace.com/langhorneslim">Langhorne Slim</a>
+    July 12 – <a href="http://www.myspace.com/gentlemanauctionhouse">Gentleman Auction House</a><br />July 13 – <a href="http://www.myspace.com/exerciseaudio">Exercise</a><br />July 28 – <a href="http://www.myspace.com/langhorneslim">Langhorne Slim</a>
   </p>
   
   <p>
@@ -31,7 +31,7 @@ categories:
   </p>
   
   <p>
-    &#8212;&#8211;
+    —–
   </p>
   
   <p>
@@ -39,6 +39,6 @@ categories:
   </p>
   
   <p>
-    I sat down with Michael Lerner, the creative force and drummer behind <a href="http://www.myspace.com/telekinesismusic">Telekinesis</a>, for a chat about the process of making the new record and St. Louis summers, among other things. I believe you can hear the Smashing Pumpkins in the background throughout &#8211; Billy Corgan, please don&#8217;t sue us.<br /><span style="font-weight:bold;"><a href="http://www.megaupload.com/?d=4HWJSJLH"><br />Interview</a></span>
+    I sat down with Michael Lerner, the creative force and drummer behind <a href="http://www.myspace.com/telekinesismusic">Telekinesis</a>, for a chat about the process of making the new record and St. Louis summers, among other things. I believe you can hear the Smashing Pumpkins in the background throughout – Billy Corgan, please don’t sue us.<br /><span style="font-weight:bold;"><a href="http://www.megaupload.com/?d=4HWJSJLH"><br />Interview</a></span>
   </p>
 </div>

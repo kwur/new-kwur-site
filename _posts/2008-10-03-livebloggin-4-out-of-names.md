@@ -1,6 +1,6 @@
 ---
 id: 260
-title: 'Livebloggin&#8217; 4: Out of names'
+title: 'Livebloggin’ 4: Out of names'
 date: 2008-10-03T01:45:00+00:00
 author: The Intern
 layout: post
@@ -21,27 +21,27 @@ categories:
   </p>
   
   <p>
-    8:47, Palin, Pakistan/Iran: God, this pandering to Israel. The worst thing is I think it works&#8230;&#8221;The Castro Brothers&#8221; David Rheinstrom couldn&#8217;t help but crack a joke at that. Made the media laugh. She&#8217;s doing better than people thought she would in this section.
+    8:47, Palin, Pakistan/Iran: God, this pandering to Israel. The worst thing is I think it works…”The Castro Brothers” David Rheinstrom couldn’t help but crack a joke at that. Made the media laugh. She’s doing better than people thought she would in this section.
   </p>
   
   <p>
-    8:48, Palin, engagement: She had a &#8220;good talk&#8221; with Kissinger, this is boilerplate, let&#8217;s see if Biden can nail it.
+    8:48, Palin, engagement: She had a “good talk” with Kissinger, this is boilerplate, let’s see if Biden can nail it.
   </p>
   
   <p>
-    8:50, Biden, engagement: OHMIGOD, NOBODY CARES WHO REALLY RUNS IRAN, NOBODY KNOWS ENOUGH, STFU&#8230;He could really do better on this one, nice with the allies &#8220;talk talk talk&#8221;, Spain crack made the international press laugh, he really needs to point out how insane McCain&#8217;s stance is.
+    8:50, Biden, engagement: OHMIGOD, NOBODY CARES WHO REALLY RUNS IRAN, NOBODY KNOWS ENOUGH, STFU…He could really do better on this one, nice with the allies “talk talk talk”, Spain crack made the international press laugh, he really needs to point out how insane McCain’s stance is.
   </p>
   
   <p>
-    8:51, Palin, Israel: Let the sloppy blowjob commence! She&#8217;s all over the place with this answer. Does she even know what the two-state solution is? Couric, quo vadis?
+    8:51, Palin, Israel: Let the sloppy blowjob commence! She’s all over the place with this answer. Does she even know what the two-state solution is? Couric, quo vadis?
   </p>
   
   <p>
-    8:53, Biden, Israel: Nice to actually answer the question, Joe. Sigh&#8230;one day we will have a sane conversation about Israel. Not today. At no point is America&#8217;s right to meddle in the affairs of other countries ever questioned in these debates. It&#8217;s our sandbox. Always. Ooh, that was some nuance with insisting on letting Israel run its own shit.
+    8:53, Biden, Israel: Nice to actually answer the question, Joe. Sigh…one day we will have a sane conversation about Israel. Not today. At no point is America’s right to meddle in the affairs of other countries ever questioned in these debates. It’s our sandbox. Always. Ooh, that was some nuance with insisting on letting Israel run its own shit.
   </p>
   
   <p>
-    8:54, Palin, Israel: &#8220;We both love Israel!&#8221; Threesome time&#8230;this administration screws up, everyone screws up! Not gonna fly, sister, no way, no how.
+    8:54, Palin, Israel: “We both love Israel!” Threesome time…this administration screws up, everyone screws up! Not gonna fly, sister, no way, no how.
   </p>
   
   <p>
@@ -49,10 +49,10 @@ categories:
   </p>
   
   <p>
-    8:56, Palin, nukes: She sounds to me like she doesn&#8217;t know what she&#8217;s talking about, but does she sound that way to America?&#8230;&#8221;Surge principles?&#8221; Sorry, but wtf are those?&#8230;&#8221;A true comment hurts our cause&#8221;, freudian slip, huh.
+    8:56, Palin, nukes: She sounds to me like she doesn’t know what she’s talking about, but does she sound that way to America?…”Surge principles?” Sorry, but wtf are those?…”A true comment hurts our cause”, freudian slip, huh.
   </p>
   
   <p>
-    8:58, Biden, Afghanistan/nukes: Don&#8217;t play this &#8220;listen to the generals&#8221; game, Dems won&#8217;t win those&#8230;the nuclear system is broken, so I think Biden is wrong on this in principle. Also, you can&#8217;t stick McCain for being anti-proliferation.
+    8:58, Biden, Afghanistan/nukes: Don’t play this “listen to the generals” game, Dems won’t win those…the nuclear system is broken, so I think Biden is wrong on this in principle. Also, you can’t stick McCain for being anti-proliferation.
   </p>
 </div>

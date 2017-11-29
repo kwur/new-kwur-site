@@ -17,7 +17,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    Reporting from Augusta, Georgia (home of James Brown)&#8230;<br />The &#8220;Hardest Working Man in Show Business&#8221; is now dead at 73. So we unexpectedly loose another legend. He was apparently even giving out Christmas gifts and turkeys here in Augusta the night before he died.
+    Reporting from Augusta, Georgia (home of James Brown)…<br />The “Hardest Working Man in Show Business” is now dead at 73. So we unexpectedly loose another legend. He was apparently even giving out Christmas gifts and turkeys here in Augusta the night before he died.
   </p>
   
   <p>

@@ -17,7 +17,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    An Estonian commercial from the soviet period. This looks like a Flying Lizards video from Berlin. But it isn&#8217;t.:
+    An Estonian commercial from the soviet period. This looks like a Flying Lizards video from Berlin. But it isn’t.:
   </p>
   
   <p>
@@ -32,13 +32,13 @@ categories:
   </p>
   
   <p>
-    And here&#8217;s another one, guaranteed to give you nightmares:
+    And here’s another one, guaranteed to give you nightmares:
   </p>
   
   <p>
   </p>
   
   <p>
-    Enjoy the rest of your break, guys, I&#8217;ll see you soon&#8230;as meat&#8230;
+    Enjoy the rest of your break, guys, I’ll see you soon…as meat…
   </p>
 </div>

@@ -24,15 +24,15 @@ categories:
   </p>
   
   <p>
-    Here&#8217;s a pretty interesting episode:
+    Here’s a pretty interesting episode:
   </p>
   
   <p>
-    It&#8217;s called Rasho Jackson and its based on the 1950 Akira Kurosawa mystery <span style="font-style: italic;">Rashomon</span>. It tells the story of the breakup of the Jacksons from the different perspective of each member.
+    It’s called Rasho Jackson and its based on the 1950 Akira Kurosawa mystery <span style="font-style: italic;">Rashomon</span>. It tells the story of the breakup of the Jacksons from the different perspective of each member.
   </p>
   
   <p>
-    Youtube won&#8217;t let me embed so here are the links
+    Youtube won’t let me embed so here are the links
   </p>
   
   <p>

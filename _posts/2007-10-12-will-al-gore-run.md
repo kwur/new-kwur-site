@@ -17,6 +17,6 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    Now that Al &#8220;God&#8221; Gore has won the Nobel Peace Prize, everyone has asked the question: will Gore run for KWUR general manager? A source close to Gore told KWUR 90.3 FM Blog that the winner of the 2000 presidential election is currently focusing on raising awareness about global warming, but is also concerned about who will run KWUR following the departure of current GM, Michael Sandler. Gore found solace in pretentious indie music following his crushing defeat in 2000, and has been especially fond of the new album from Devendra Banhart, as well as Talib Kweli.
+    Now that Al “God” Gore has won the Nobel Peace Prize, everyone has asked the question: will Gore run for KWUR general manager? A source close to Gore told KWUR 90.3 FM Blog that the winner of the 2000 presidential election is currently focusing on raising awareness about global warming, but is also concerned about who will run KWUR following the departure of current GM, Michael Sandler. Gore found solace in pretentious indie music following his crushing defeat in 2000, and has been especially fond of the new album from Devendra Banhart, as well as Talib Kweli.
   </p>
 </div>

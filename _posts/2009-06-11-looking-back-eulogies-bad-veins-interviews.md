@@ -28,7 +28,7 @@ categories:
   </p>
   
   <p>
-    We and guitarist/vocalist Peter Walker discuss their new record &#8220;Here Anonymous,&#8221; the Twitter phenomenon, and Scrabble. Also he tells us we are great, and we return the compliment.
+    We and guitarist/vocalist Peter Walker discuss their new record “Here Anonymous,” the Twitter phenomenon, and Scrabble. Also he tells us we are great, and we return the compliment.
   </p>
   
   <p>
@@ -36,14 +36,14 @@ categories:
   </p>
   
   <p>
-    Ben, Sebastien, Amanda and I discuss just about everything. Highlights include: how they&#8217;re going to name the new record, crazy shows, and their invention company.
+    Ben, Sebastien, Amanda and I discuss just about everything. Highlights include: how they’re going to name the new record, crazy shows, and their invention company.
   </p>
   
   <p>
-    (both interviews took place at an Imo&#8217;s, hence the background noise).
+    (both interviews took place at an Imo’s, hence the background noise).
   </p>
   
   <p>
-    ((oh yeah, I&#8217;m sitting on a bunch of other interviews &#8211; Vivian Girls, Cut Off Your Hands, Meat Puppets &#8211; which I want to get out soon. I won&#8217;t promise anything because if I do it&#8217;ll probably never get done. But keep your eyes peeled))
+    ((oh yeah, I’m sitting on a bunch of other interviews – Vivian Girls, Cut Off Your Hands, Meat Puppets – which I want to get out soon. I won’t promise anything because if I do it’ll probably never get done. But keep your eyes peeled))
   </p>
 </div>

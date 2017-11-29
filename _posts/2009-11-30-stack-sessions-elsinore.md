@@ -18,7 +18,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    It&#8217;s been awhile, I guess, and we&#8217;ve got a huge backlog of interviews/in-studios, which will hopefully see the light of day soon. No better place to start, I think, than a session we did with Elsinore a few weeks ago. These guys have been touring around the Midwest for awhile now, bringing tidings of pretty, thoughtful pop. Also, <span style="font-style: italic;">dig</span> the vocals &#8211; phenomenal. This is one of my favorite recordings, so grab a few mp3s from the session below:
+    It’s been awhile, I guess, and we’ve got a huge backlog of interviews/in-studios, which will hopefully see the light of day soon. No better place to start, I think, than a session we did with Elsinore a few weeks ago. These guys have been touring around the Midwest for awhile now, bringing tidings of pretty, thoughtful pop. Also, <span style="font-style: italic;">dig</span> the vocals – phenomenal. This is one of my favorite recordings, so grab a few mp3s from the session below:
   </p>
   
   <p>

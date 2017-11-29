@@ -17,7 +17,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    Don&#8217;t forget the reason for the season&#8230;<br />
+    Don’t forget the reason for the season…<br />
   </p>
   
   <p>

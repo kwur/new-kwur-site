@@ -15,7 +15,7 @@ tags:
 ---
 <div class="pf-content">
   <p>
-    The pianist <a href="http://www.pollyferman.net/">Polly Ferman</a>, a specialist in tango and South American music,&nbsp;is performing a <a href="http://www.touhill.org/default.asp?touhill=51&objId=958">solo recital</a> at UMSL's Touhill Performing Arts Center this Saturday night, 10/6/12,&nbsp;at 8 PM.&nbsp; I will be interviewing her this coming Saturday on my show, around 12 noon.&nbsp; She'll be bringing her recordings.&nbsp; This is her only radio interview in St. Louis before her concert.&nbsp;&nbsp;Some videos of her performances are <a href="http://www.youtube.com/embed/XR7lrnoRNaQ">here</a>, <a href="http://www.youtube.com/embed/NlIOvExtWE8">here</a>, and <a href="http://www.youtube.com/embed/GCw1rHNtMzs">here</a>.&nbsp;
+    The pianist <a href="http://www.pollyferman.net/">Polly Ferman</a>, a specialist in tango and South American music, is performing a <a href="http://www.touhill.org/default.asp?touhill=51&objId=958">solo recital</a> at UMSL's Touhill Performing Arts Center this Saturday night, 10/6/12, at 8 PM.  I will be interviewing her this coming Saturday on my show, around 12 noon.  She'll be bringing her recordings.  This is her only radio interview in St. Louis before her concert.  Some videos of her performances are <a href="http://www.youtube.com/embed/XR7lrnoRNaQ">here</a>, <a href="http://www.youtube.com/embed/NlIOvExtWE8">here</a>, and <a href="http://www.youtube.com/embed/GCw1rHNtMzs">here</a>. 
   </p>
   
   <p>

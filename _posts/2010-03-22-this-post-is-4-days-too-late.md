@@ -17,7 +17,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    <span class="Apple-style-span" style="font-size: small;">Last Wednesday (March 17) marked the death of one of pop music&#8217;s less-heralded legends. Alex Chilton, you shall forever be missed.</span>
+    <span class="Apple-style-span" style="font-size: small;">Last Wednesday (March 17) marked the death of one of pop music’s less-heralded legends. Alex Chilton, you shall forever be missed.</span>
   </p>
   
   <div>

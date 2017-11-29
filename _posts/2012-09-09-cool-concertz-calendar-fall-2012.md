@@ -15,67 +15,67 @@ categories:
   </p>
   
   <p>
-    Recommended shows in the coming months, mostly of the rock and roll variety. &nbsp;GET YOUR MOSH ON
+    Recommended shows in the coming months, mostly of the rock and roll variety.  GET YOUR MOSH ON
   </p>
   
   <p>
-    Sat 9/15 &#8211; Two Gallants @ Plush &#8211; Sometimes rockin' folk music
+    Sat 9/15 – Two Gallants @ Plush – Sometimes rockin' folk music
   </p>
   
   <p>
-    Wed 9/26 &#8211; White Mystery, Sleepy and the Bedtimes, The Brainstems @ CBGB &#8211; AWESOME loud, fast garage rock brother/sister duo from Chicago with KWUR DJs present and past's band The Brainstems, presented by Acid Kat Zine. GO!
+    Wed 9/26 – White Mystery, Sleepy and the Bedtimes, The Brainstems @ CBGB – AWESOME loud, fast garage rock brother/sister duo from Chicago with KWUR DJs present and past's band The Brainstems, presented by Acid Kat Zine. GO!
   </p>
   
   <p>
-    Thurs 9/27 &#8211; Moon Duo @ The Firebird &#8211; Drone-y, noisy psych rock&nbsp;
+    Thurs 9/27 – Moon Duo @ The Firebird – Drone-y, noisy psych rock 
   </p>
   
   <p>
-    Fri 9/28 &#8211; Pokey LaFarge an the South City Three @ Off Broadway &#8211; Local, old-timey folk that is loved by all. &nbsp;If you haven't seen Pokey's live show it is not to be missed!
+    Fri 9/28 – Pokey LaFarge an the South City Three @ Off Broadway – Local, old-timey folk that is loved by all.  If you haven't seen Pokey's live show it is not to be missed!
   </p>
   
   <p>
-    Sat 9/29 &#8211; Guided By Voices @ Plush &#8211; Late 80s &#8211; 90s lo-fi rock and a KWUR favorite.&nbsp;Robert Pollard's still got it!&nbsp;
+    Sat 9/29 – Guided By Voices @ Plush – Late 80s – 90s lo-fi rock and a KWUR favorite. Robert Pollard's still got it! 
   </p>
   
   <p>
-    Sun 9/30 &#8211; R. Stevie Moore (with KWUR local faves Little Big Bangs) @ Off Broadway
+    Sun 9/30 – R. Stevie Moore (with KWUR local faves Little Big Bangs) @ Off Broadway
   </p>
   
   <p>
-    Sat 10/6 &#8211; Bunnygrunt @ Schlafly Tap Room &#8211; '90s twee, good and local
+    Sat 10/6 – Bunnygrunt @ Schlafly Tap Room – '90s twee, good and local
   </p>
   
   <p>
-    Tue 10/23 &#8211; Swans @ The Firebird &#8211; Abrasive, noisy, industrial post-punkers from the '80s/'90s just released a new album that rocks.
+    Tue 10/23 – Swans @ The Firebird – Abrasive, noisy, industrial post-punkers from the '80s/'90s just released a new album that rocks.
   </p>
   
   <p>
-    Sun 10/28 &#8211; Primus @ Peabody Opera House &#8211; IS THIS REAL?! Weirdo 80s rockers at the Opera House?&nbsp;
+    Sun 10/28 – Primus @ Peabody Opera House – IS THIS REAL?! Weirdo 80s rockers at the Opera House? 
   </p>
   
   <p>
-    Mon 10/29 &#8211; AC Newman @ The Duck Room at Blueberry Hill &#8211; Solo project of The New Pornographers frontman which is way more rockin and piano-heavy.
+    Mon 10/29 – AC Newman @ The Duck Room at Blueberry Hill – Solo project of The New Pornographers frontman which is way more rockin and piano-heavy.
   </p>
   
   <p>
-    Thu 11/1 &#8211; OFF! and The Spits @ Fubar &#8211; New band of Keith Morris (Black Flag, Circle Jerks) with Lo-fi garage punk vets the Spits. Mosh your brains out!
+    Thu 11/1 – OFF! and The Spits @ Fubar – New band of Keith Morris (Black Flag, Circle Jerks) with Lo-fi garage punk vets the Spits. Mosh your brains out!
   </p>
   
   <p>
-    Fri 11/2 &#8211; The Fresh and Onlys @ The Firebird &#8211; More garage rock if you can't get enough
+    Fri 11/2 – The Fresh and Onlys @ The Firebird – More garage rock if you can't get enough
   </p>
   
   <p>
-    Mon 11/5 &#8211; Why? @ The Luminary
+    Mon 11/5 – Why? @ The Luminary
   </p>
   
   <p>
-    Fri 11/16 &#8211; Future Islands @ Off Broadway &#8211; I LOVE THIS BAND! Electronic, new wavey band from Dan Deacon's Wham City cast of characters known for awesome, intense live shows.&nbsp;
+    Fri 11/16 – Future Islands @ Off Broadway – I LOVE THIS BAND! Electronic, new wavey band from Dan Deacon's Wham City cast of characters known for awesome, intense live shows. 
   </p>
   
   <p>
-    Tue 11/20 &#8211; Japandroids @ Firebird &#8211; Rock duo with a great live show
+    Tue 11/20 – Japandroids @ Firebird – Rock duo with a great live show
   </p>
   
   <p>
@@ -83,10 +83,10 @@ categories:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
 </div>

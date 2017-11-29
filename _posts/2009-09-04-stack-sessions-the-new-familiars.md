@@ -18,7 +18,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    Charlotte, NC folk rockers The New Familiars stopped into the station on Tuesday for a brief chat and some sweet jams before their show at Pop&#8217;s Blue Moon.
+    Charlotte, NC folk rockers The New Familiars stopped into the station on Tuesday for a brief chat and some sweet jams before their show at Pop’s Blue Moon.
   </p>
   
   <p>

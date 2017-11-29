@@ -24,11 +24,11 @@ categories:
     <span style="font-weight:bold;">Stupid DJ Tricks Part 5<br />Naked DJs on the highway, DJs parachuting, Djs leveling death threats.. where does it all end? It never does end, DJs are continually crying out for more attention. Installment five is not the topper; it just has the best nicknames.</p> 
     
     <p>
-      It was in Jacksonville, North Carolina on the Northern edge of the Wilmington market. On August 1, 2003 this Dj went door to door&#8230; naked. (I dont know about you, but I&#8217;d call the cops)
+      It was in Jacksonville, North Carolina on the Northern edge of the Wilmington market. On August 1, 2003 this Dj went door to door… naked. (I dont know about you, but I’d call the cops)
     </p>
     
     <p>
-      Shock Jock &#8220;Fat Boy&#8221; from WXQR 105.5 sent his sidekick, a show member known as &#8220;Waffleman&#8221; covered in mud to ring doorsbells at the homes of rich folks, requesting permission to use their shower. as you might expect, the cops were called numerous times and residents complained a lot.
+      Shock Jock “Fat Boy” from WXQR 105.5 sent his sidekick, a show member known as “Waffleman” covered in mud to ring doorsbells at the homes of rich folks, requesting permission to use their shower. as you might expect, the cops were called numerous times and residents complained a lot.
     </p>
     
     <p>

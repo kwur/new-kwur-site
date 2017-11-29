@@ -1,6 +1,6 @@
 ---
 id: 771
-title: 'Local Artists of the Week Nov 7 &#8211; 13'
+title: 'Local Artists of the Week Nov 7 – 13'
 date: 2010-11-16T23:39:19+00:00
 author: speiser
 layout: post
@@ -29,7 +29,7 @@ tags:
     </li>
     <li>
       <div>
-        2.&nbsp;<a href="http://www.youtube.com/watch?v=HIPmiBYVXFc">Bottoms Up Blues Gang</a>
+        2. <a href="http://www.youtube.com/watch?v=HIPmiBYVXFc">Bottoms Up Blues Gang</a>
       </div>
     </li>
     
@@ -52,18 +52,18 @@ tags:
         </div>
         
         <p>
-          &nbsp;
+           
         </p>
         
         <p>
-          &nbsp;
+           
         </p></p>
       </div>
     </li>
   </ol>
   
   <p>
-    <strong>Local New Releases<br /> The Red Letter &#8211; Let There Be Here</strong><br /> <a href="http://www.myspace.com/theredletter21"> The Red Letter</a> feels like it was made by a kid in a candy store, and that's not too far from the truth. After graduating from Washington University the gentleman known as the Red Letter bought a bunch of recording equipment and locked himself in his garage to create his first album. He operates somewhere in the middle of the fun of the Flaming Lips, the DIY aesthetic of Neutral Milk Hotel, and the raw emotion of Bright Eyes. It combines really creative and dynamic drumming with weird song structures and a seriously wacked out energy.
+    <strong>Local New Releases<br /> The Red Letter – Let There Be Here</strong><br /> <a href="http://www.myspace.com/theredletter21"> The Red Letter</a> feels like it was made by a kid in a candy store, and that's not too far from the truth. After graduating from Washington University the gentleman known as the Red Letter bought a bunch of recording equipment and locked himself in his garage to create his first album. He operates somewhere in the middle of the fun of the Flaming Lips, the DIY aesthetic of Neutral Milk Hotel, and the raw emotion of Bright Eyes. It combines really creative and dynamic drumming with weird song structures and a seriously wacked out energy.
   </p>
   
   <p>
@@ -71,7 +71,7 @@ tags:
   </p>
   
   <p>
-    <strong>Grace Basement &#8211; Gunmetal Gray</strong>
+    <strong>Grace Basement – Gunmetal Gray</strong>
   </p>
   
   <p>

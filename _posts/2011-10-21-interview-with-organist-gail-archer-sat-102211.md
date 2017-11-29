@@ -16,6 +16,6 @@ tags:
 ---
 <div class="pf-content">
   <p>
-    <a href="http://www.gailarcher.com/">Gail Archer</a>, a concert organist based in New York City, is traveling to the St. Louis area to give an organ recital at St. Peter's Episcopal Church in Ladue this Sunday, 10/22/11, at 5 PM.&nbsp; I will be interviewing Ms. Archer live on my Saturday classical show starting around 1 PM.&nbsp; She has a new album out called <a href="http://www.meyer-media.com/catalog/product_info.php?products_id=44">Franz Liszt: A Hungarian Rhapsody</a> on the Meyer Media label.&nbsp; Admission to the concert at St. Peter's is free, and it should end in time for everyone to get home for baseball.&nbsp; As always, feel free to drop me a line (classical@kwur.com) with any questions.
+    <a href="http://www.gailarcher.com/">Gail Archer</a>, a concert organist based in New York City, is traveling to the St. Louis area to give an organ recital at St. Peter's Episcopal Church in Ladue this Sunday, 10/22/11, at 5 PM.  I will be interviewing Ms. Archer live on my Saturday classical show starting around 1 PM.  She has a new album out called <a href="http://www.meyer-media.com/catalog/product_info.php?products_id=44">Franz Liszt: A Hungarian Rhapsody</a> on the Meyer Media label.  Admission to the concert at St. Peter's is free, and it should end in time for everyone to get home for baseball.  As always, feel free to drop me a line (classical@kwur.com) with any questions.
   </p>
 </div>

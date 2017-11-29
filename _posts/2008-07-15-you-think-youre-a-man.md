@@ -1,6 +1,6 @@
 ---
 id: 228
-title: 'You Think You&#8217;re A Man'
+title: 'You Think You’re A Man'
 date: 2008-07-15T02:16:00+00:00
 author: Klax
 layout: post

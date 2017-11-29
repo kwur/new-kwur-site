@@ -20,7 +20,7 @@ tags:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
@@ -28,11 +28,11 @@ tags:
   </p>
   
   <p>
-    Their 2007 album "Colors" is widely considered a progressive metal masterpiece.&nbsp; They recenlty released the EP "The Parallax: Hypersleep Dialogues" on Victory Records.
+    Their 2007 album "Colors" is widely considered a progressive metal masterpiece.  They recenlty released the EP "The Parallax: Hypersleep Dialogues" on Victory Records.
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
@@ -40,11 +40,11 @@ tags:
   </p>
   
   <p>
-    Thier second album, "Weightless" was just released on Prosthetic Records, and is one of the&nbsp; best records of 2011, in my opinion.
+    Thier second album, "Weightless" was just released on Prosthetic Records, and is one of the  best records of 2011, in my opinion.
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>

@@ -17,7 +17,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    Hey listen to KWUR especially carefully between February 4th and 6th, and if you hear the soul-fresh stylin&#8217; sound of &#8220;Business Time&#8221; by Flight of the Conchords, call in at 314-935-KWUR. If you are caller number nine, you win tickets to the FotC show on April 30th at the Fox Theater! It&#8217;s that easy! AWESOME
+    Hey listen to KWUR especially carefully between February 4th and 6th, and if you hear the soul-fresh stylin’ sound of “Business Time” by Flight of the Conchords, call in at 314-935-KWUR. If you are caller number nine, you win tickets to the FotC show on April 30th at the Fox Theater! It’s that easy! AWESOME
   </p>
   
   <p>

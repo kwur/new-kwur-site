@@ -22,7 +22,7 @@ tags:
   </p>
   
   <p>
-    Yesterday evening, Congress finally passed the <a href="http://www.opencongress.org/bill/111-s592/text">Local Community Radio Act</a>, as <a href="http://www.freepress.net/press-release/2010/12/18/free-press-cheers-passage-local-community-radio-act">Freepress</a> reports.&nbsp; Essentially, the bill opens up the broadcast spectrum to community-oriented low power FM stations, as a public resource and an opportunity for millions of people to have their voices heard.&nbsp; This is huge step forward in seizing the airwaves from corporate interests and giving them to the average citizen, and for that alone, I am grateful.&nbsp; However, it also offers our humble station the opportunity to upgrade our wattage to a respectable output.&nbsp; We started out with a 10-watt signal in 1976, and that's where we've been since then.&nbsp; That's not to say we haven't tried to increase our wattage (<a href="http://www.riverfronttimes.com/2002-08-07/music/the-old-college-try/">this</a> is a nice crash-course on past attempts) &#8211; but, for the first time in 34 years, because of this bill's passage, we have a legitimate chance at upgrading to 100 (or God forbid, 250) watts. &nbsp;
+    Yesterday evening, Congress finally passed the <a href="http://www.opencongress.org/bill/111-s592/text">Local Community Radio Act</a>, as <a href="http://www.freepress.net/press-release/2010/12/18/free-press-cheers-passage-local-community-radio-act">Freepress</a> reports.  Essentially, the bill opens up the broadcast spectrum to community-oriented low power FM stations, as a public resource and an opportunity for millions of people to have their voices heard.  This is huge step forward in seizing the airwaves from corporate interests and giving them to the average citizen, and for that alone, I am grateful.  However, it also offers our humble station the opportunity to upgrade our wattage to a respectable output.  We started out with a 10-watt signal in 1976, and that's where we've been since then.  That's not to say we haven't tried to increase our wattage (<a href="http://www.riverfronttimes.com/2002-08-07/music/the-old-college-try/">this</a> is a nice crash-course on past attempts) – but, for the first time in 34 years, because of this bill's passage, we have a legitimate chance at upgrading to 100 (or God forbid, 250) watts.  
   </p>
   
   <p>
@@ -30,7 +30,7 @@ tags:
   </p>
   
   <p>
-    I don't want to overstate our chances here; I really have no idea if and how it will affect our wattage situation (but believe me, we're going to find out).&nbsp; I do know, though, that this was our only reasonable chance at getting an upgrade, and now that we have it, we're going to do everything we can to pursue it.&nbsp; The next few months (or possibly years) will be tumultuous and we've got our work cut out for us, but I can honestly say that I have never been more excited to be involved with a college/community radio station.&nbsp; Stay tuned to the blog (and of course, over the air) for more information as it comes to us.&nbsp; Viva radio free St. Louis!
+    I don't want to overstate our chances here; I really have no idea if and how it will affect our wattage situation (but believe me, we're going to find out).  I do know, though, that this was our only reasonable chance at getting an upgrade, and now that we have it, we're going to do everything we can to pursue it.  The next few months (or possibly years) will be tumultuous and we've got our work cut out for us, but I can honestly say that I have never been more excited to be involved with a college/community radio station.  Stay tuned to the blog (and of course, over the air) for more information as it comes to us.  Viva radio free St. Louis!
   </p>
   
   <p>
@@ -42,6 +42,6 @@ tags:
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
 </div>

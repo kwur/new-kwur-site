@@ -11,7 +11,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    We have resurrected the KWUR zine, Sample. Peruse at your disposal, it's pretty fuckin sweet. Many thanks to our promotions director Alex Berger for taking lots of time to put this thing together.&nbsp;
+    We have resurrected the KWUR zine, Sample. Peruse at your disposal, it's pretty fuckin sweet. Many thanks to our promotions director Alex Berger for taking lots of time to put this thing together. 
   </p>
   
   <p>
@@ -26,5 +26,5 @@ categories:
     </p>
     
     <p>
-      &nbsp;
+       
     </p></div>

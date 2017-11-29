@@ -1,6 +1,6 @@
 ---
 id: 188
-title: 'Fela Kuti&#8217;s son to release album&#8230;'
+title: 'Fela Kuti’s son to release album…'
 date: 2008-04-12T22:52:00+00:00
 author: djtanner
 layout: post
@@ -17,6 +17,6 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    &#8230;no word if he is as massive as his father.
+    …no word if he is as massive as his father.
   </p>
 </div>

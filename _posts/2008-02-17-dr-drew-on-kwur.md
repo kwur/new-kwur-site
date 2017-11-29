@@ -17,7 +17,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    So I&#8217;m excited to announce that Shanks and I got to interview Dr. Drew on my show this Friday. We discussed Celebrity Rehab, college radio, and bestiality (oh Loveline). Thankfully, someone nabbed a recording of it (which I&#8217;m not entirely sure is legal) and I&#8217;ve made it available right here. Enjoy!
+    So I’m excited to announce that Shanks and I got to interview Dr. Drew on my show this Friday. We discussed Celebrity Rehab, college radio, and bestiality (oh Loveline). Thankfully, someone nabbed a recording of it (which I’m not entirely sure is legal) and I’ve made it available right here. Enjoy!
   </p>
   
   <p>
@@ -25,6 +25,6 @@ categories:
   </p>
   
   <p>
-    It&#8217;s a big&#8217;un, but it&#8217;s worth it.
+    It’s a big’un, but it’s worth it.
   </p>
 </div>

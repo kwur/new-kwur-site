@@ -21,22 +21,22 @@ tags:
   </p>
   
   <p style="margin-bottom: 0in;font-style: normal">
-    &nbsp;
+     
   </p>
   
   <p style="margin-bottom: 0in;font-style: normal">
-    The Coens teamed up with frequent collaborator Carter Burwell, who provided the score, which was inspired heavily by 19<sup>th</sup> century hymns. In particular, Burwell draws largely upon the 1887 hymn, &ldquo;Leaning on the Everlasting Arms,&rdquo; written by Elisha Hoffman with music by Anthony Showalter, which was <a href="http://www.cyberhymnal.org/htm/l/o/lotearms.htm">inspired by the deaths of two of</a>&nbsp;<a href="http://www.cyberhymnal.org/htm/l/o/lotearms.htm">Showalter's friends' wives</a>. Many <a href="http://www.youtube.com/watch?v=NO8uyHtOAHo">20<sup>th</sup> century versions</a> of "Leaning" tend to be <a href="http://www.youtube.com/watch?v=1LNJeSuvzv8&feature=related">joyous and fairly upbeat</a> and deliver&nbsp;the final verse about being free&nbsp;from dread and fear with a sense of levity shared by many Americans who faithfully flock to their megachurches every Sunday for entertainment and little more.&nbsp; Burwell, on the other hand, remains faithful to the original spirit of Hoffman and Showalter's hymn in the score, acknowledging the darkness without drifting into its depths.&nbsp; This score complements well the quest of the film's fourteen year-old protagonist, Mattie Ross, to avenge her father's murder, a grisly task which she pursues with due righteousness.&nbsp;
+    The Coens teamed up with frequent collaborator Carter Burwell, who provided the score, which was inspired heavily by 19<sup>th</sup> century hymns. In particular, Burwell draws largely upon the 1887 hymn, “Leaning on the Everlasting Arms,” written by Elisha Hoffman with music by Anthony Showalter, which was <a href="http://www.cyberhymnal.org/htm/l/o/lotearms.htm">inspired by the deaths of two of</a> <a href="http://www.cyberhymnal.org/htm/l/o/lotearms.htm">Showalter's friends' wives</a>. Many <a href="http://www.youtube.com/watch?v=NO8uyHtOAHo">20<sup>th</sup> century versions</a> of "Leaning" tend to be <a href="http://www.youtube.com/watch?v=1LNJeSuvzv8&feature=related">joyous and fairly upbeat</a> and deliver the final verse about being free from dread and fear with a sense of levity shared by many Americans who faithfully flock to their megachurches every Sunday for entertainment and little more.  Burwell, on the other hand, remains faithful to the original spirit of Hoffman and Showalter's hymn in the score, acknowledging the darkness without drifting into its depths.  This score complements well the quest of the film's fourteen year-old protagonist, Mattie Ross, to avenge her father's murder, a grisly task which she pursues with due righteousness. 
   </p>
   
   <p style="margin-bottom: 0in;font-style: normal">
-    &nbsp;
+     
   </p>
   
   <p style="margin-bottom: 0in;font-style: normal">
-    At the end of the film, as the final shot lingers on the screen before the credits roll, the Coen brothers play <a href="http://www.youtube.com/watch?v=t2BAqUuIQqo">Iris DeMent's version</a> of "Leaning," off her 2004 album, <em>Lifeline</em>.&nbsp; Though the actual ending disappointed me to a certain degree, I think their use of DeMent's version was nonetheless incredibly poignant and avoids the pitfall of many contemporary versions.
+    At the end of the film, as the final shot lingers on the screen before the credits roll, the Coen brothers play <a href="http://www.youtube.com/watch?v=t2BAqUuIQqo">Iris DeMent's version</a> of "Leaning," off her 2004 album, <em>Lifeline</em>.  Though the actual ending disappointed me to a certain degree, I think their use of DeMent's version was nonetheless incredibly poignant and avoids the pitfall of many contemporary versions.
   </p>
   
   <p style="margin-bottom: 0in;font-style: normal">
-    &nbsp;
+     
   </p>
 </div>

@@ -21,18 +21,18 @@ categories:
   </p>
   
   <p>
-    <a href="http://hypem.com/search/let%27s%20wrestle%20i%20wish%20i%20was%20in%20husker%20du/1/">Let&#8217;s Wrestle &#8211; I Wish I Was in Husker Du</a> (or go to their <a href="http://www.myspace.com/letsfuckingwrestle">myspace</a> and listen to &#8216;Tanks&#8217; also.)
+    <a href="http://hypem.com/search/let%27s%20wrestle%20i%20wish%20i%20was%20in%20husker%20du/1/">Let’s Wrestle – I Wish I Was in Husker Du</a> (or go to their <a href="http://www.myspace.com/letsfuckingwrestle">myspace</a> and listen to ‘Tanks’ also.)
   </p>
   
   <p>
-    <a href="http://www.pitchforkmedia.com/node/148320">Japandroids &#8211; Young Hearts Spark Fire</a> (or go to their <a href="http://www.last.fm/music/Japandroids">last.fm</a> and preview their new album, &#8220;Post-Nothing.&#8221; I personally like &#8216;Sovereignty.&#8221;)
+    <a href="http://www.pitchforkmedia.com/node/148320">Japandroids – Young Hearts Spark Fire</a> (or go to their <a href="http://www.last.fm/music/Japandroids">last.fm</a> and preview their new album, “Post-Nothing.” I personally like ‘Sovereignty.”)
   </p>
   
   <p>
-    <a href="http://jangle-pop.blogspot.com/2008/10/knight-schoolthe-muslims.html">Knight School &#8211; Pregnant Again</a> (<a href="http://www.myspace.com/knightschoolmusic">myspace</a>)
+    <a href="http://jangle-pop.blogspot.com/2008/10/knight-schoolthe-muslims.html">Knight School – Pregnant Again</a> (<a href="http://www.myspace.com/knightschoolmusic">myspace</a>)
   </p>
   
   <p>
-    <a href="http://www.myspace.com/guildeangang">Guildean Gang &#8211; Everybody Says That You&#8217;re A Mess</a> (I can&#8217;t find a download link, sorry)
+    <a href="http://www.myspace.com/guildeangang">Guildean Gang – Everybody Says That You’re A Mess</a> (I can’t find a download link, sorry)
   </p>
 </div>

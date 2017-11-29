@@ -21,7 +21,7 @@ categories:
   </p>
   
   <p>
-    I guess the title doesn&#8217;t say it all. Back in the day, we used to sell our overflow CDs at a table in Malinkrodt anywhere from two to four times a year. We&#8217;d put up the banner, set up one of the smaller audioservice sound systems, and rock out from around 10:30am -> 3:00pm. Not only was this a great way to keep the station CD situation under control and earn a respectable amount of cash assets, but we&#8217;d also have bumper stickers, matches, magnets, t-shirts, and all sorts of other stuff available. It was a very fun and functional outreach program.
+    I guess the title doesn’t say it all. Back in the day, we used to sell our overflow CDs at a table in Malinkrodt anywhere from two to four times a year. We’d put up the banner, set up one of the smaller audioservice sound systems, and rock out from around 10:30am -> 3:00pm. Not only was this a great way to keep the station CD situation under control and earn a respectable amount of cash assets, but we’d also have bumper stickers, matches, magnets, t-shirts, and all sorts of other stuff available. It was a very fun and functional outreach program.
   </p>
   
   <p>

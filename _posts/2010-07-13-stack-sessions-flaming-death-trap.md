@@ -20,7 +20,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    Local boys <a href="http://www.myspace.com/flamingdeathtraprages">Flaming Death Trap</a> stopped in at KWUR to perform a few songs for the Stack Session series. We were lucky enough to capture some video. Don&#8217;t miss a gig by these guys!
+    Local boys <a href="http://www.myspace.com/flamingdeathtraprages">Flaming Death Trap</a> stopped in at KWUR to perform a few songs for the Stack Session series. We were lucky enough to capture some video. Don’t miss a gig by these guys!
   </p>
   
   <p>

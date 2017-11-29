@@ -1,6 +1,6 @@
 ---
 id: 292
-title: 'NYTimes: &quot;College Radio Maintains Its Mojo&quot;'
+title: 'NYTimes: "College Radio Maintains Its Mojo"'
 date: 2008-12-07T18:00:00+00:00
 author: Klax
 layout: post

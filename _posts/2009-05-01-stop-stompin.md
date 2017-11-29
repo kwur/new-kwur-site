@@ -1,6 +1,6 @@
 ---
 id: 351
-title: 'Stop Stompin&#8217;'
+title: 'Stop Stompin’'
 date: 2009-05-01T19:43:00+00:00
 author: Klax
 layout: post
@@ -20,6 +20,6 @@ categories:
   </p>
   
   <p>
-    I pretty much think this music video is great&#8230;
+    I pretty much think this music video is great…
   </p>
 </div>

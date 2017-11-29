@@ -1,6 +1,6 @@
 ---
 id: 405
-title: 'STACK SESSIONS &#8211; THOSE DARLINS'
+title: 'STACK SESSIONS – THOSE DARLINS'
 date: 2009-08-11T21:29:00+00:00
 author: Admin
 layout: post

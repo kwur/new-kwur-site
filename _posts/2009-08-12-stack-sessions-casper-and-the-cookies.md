@@ -18,7 +18,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    Athens pop veterans <a href="http://www.myspace.com/casperthecookies">Casper and the Cookies</a> played a couple of tunes and chatted for a bit last week before their show at the Firebird. They sounded great in the studio and put on a hell of a show on stage &#8211; next time they roll into town I&#8217;d recommend catching them live. Anyway, we discussed their new album, <a href="http://www.casperfandango.com/store.html">Modern Silence</a>, the convoluted story behind the 15-minute-long song on said album, and the value of Schnuck brand whiskey, among other things. Check the interview <a href="http://www.megaupload.com/?d=AMD7EUVX">HERE</a>, and snag a song from the performance, in crystal clear stereo, below.
+    Athens pop veterans <a href="http://www.myspace.com/casperthecookies">Casper and the Cookies</a> played a couple of tunes and chatted for a bit last week before their show at the Firebird. They sounded great in the studio and put on a hell of a show on stage – next time they roll into town I’d recommend catching them live. Anyway, we discussed their new album, <a href="http://www.casperfandango.com/store.html">Modern Silence</a>, the convoluted story behind the 15-minute-long song on said album, and the value of Schnuck brand whiskey, among other things. Check the interview <a href="http://www.megaupload.com/?d=AMD7EUVX">HERE</a>, and snag a song from the performance, in crystal clear stereo, below.
   </p>
   
   <p>
@@ -26,6 +26,6 @@ categories:
   </p>
   
   <p>
-    (Oh yeah, if you are or know someone who is interested in being our in-house in-studio photographer, drop me a line at music one at kwur dot com. My shitty Canon PowerShot and even shittier photography skills aren&#8217;t doing these performances any justice.)
+    (Oh yeah, if you are or know someone who is interested in being our in-house in-studio photographer, drop me a line at music one at kwur dot com. My shitty Canon PowerShot and even shittier photography skills aren’t doing these performances any justice.)
   </p>
 </div>

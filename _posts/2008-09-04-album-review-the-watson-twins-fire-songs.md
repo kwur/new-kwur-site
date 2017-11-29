@@ -1,6 +1,6 @@
 ---
 id: 241
-title: 'Album Review: The Watson Twins, &quot;Fire Songs&quot;'
+title: 'Album Review: The Watson Twins, "Fire Songs"'
 date: 2008-09-04T05:29:00+00:00
 author: The Intern
 layout: post
@@ -17,7 +17,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/08promo3-709053.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://www.kwur.com/blog/uploaded_images/08promo3-709048.jpg" alt="" border="0" /></a>You probably know &#8217;em from Jenny Lewis and ___, pop-py alt-country that sounds like, well, Rilo Kiley. This album is hit-or-miss. It misses due to limp, meandering songwriting. But when it hits&#8230;damn. These girls have incredible voices, they wring songs like sponges. Great production values, too.
+    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/08promo3-709053.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://www.kwur.com/blog/uploaded_images/08promo3-709048.jpg" alt="" border="0" /></a>You probably know ’em from Jenny Lewis and ___, pop-py alt-country that sounds like, well, Rilo Kiley. This album is hit-or-miss. It misses due to limp, meandering songwriting. But when it hits…damn. These girls have incredible voices, they wring songs like sponges. Great production values, too.
   </p>
   
   <p>

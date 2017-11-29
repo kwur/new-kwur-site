@@ -11,27 +11,27 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    March 24-30th will be KWUR Week 2013!&nbsp;
+    March 24-30th will be KWUR Week 2013! 
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
-    We're putting on four shows this year, including a Local Hip-Hop Showcase, a Classical show in conjunction with the Music department, an electronic show featuring Doc Daneeka and our Rock show in conjunction with Social Programming Board&nbsp;featuring METZ and ROOMRUNNER.
+    We're putting on four shows this year, including a Local Hip-Hop Showcase, a Classical show in conjunction with the Music department, an electronic show featuring Doc Daneeka and our Rock show in conjunction with Social Programming Board featuring METZ and ROOMRUNNER.
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>
-    Get all of the info on our KWUR Week page, here &#8211;&nbsp;<a href="http://kwur.com/kwurweek/">http://kwur.com/kwurweek/</a>
+    Get all of the info on our KWUR Week page, here – <a href="http://kwur.com/kwurweek/">http://kwur.com/kwurweek/</a>
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>

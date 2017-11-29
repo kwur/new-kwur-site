@@ -23,6 +23,6 @@ categories:
   </p>
   
   <p>
-    &#8220;It&#8217;s too bad you don&#8217;t have a choice what kind of car &#8211; if there was an electric car out there or whatever &#8211; alternate fuel car. i&#8217;d buy one. no problem. they don&#8217;t even give you that option. it sucks&#8221; &#8211; Kurt Cobain Interview, &#8220;Sample Magazine&#8221;, November 1991
+    “It’s too bad you don’t have a choice what kind of car – if there was an electric car out there or whatever – alternate fuel car. i’d buy one. no problem. they don’t even give you that option. it sucks” – Kurt Cobain Interview, “Sample Magazine”, November 1991
   </p>
 </div>

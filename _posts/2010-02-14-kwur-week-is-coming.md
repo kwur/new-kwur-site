@@ -29,7 +29,7 @@ categories:
   </p>
   
   <p>
-    -It&#8217;s at the Gargoyle<br />-It&#8217;s 18+ only. Sorry, guys.<br />-Robert Byrd is the longest sitting Congressman in the history of the US<br />-FREE with Wash U ID, 5 bucks without it<br />-Doors at 8, Show at 8:30ish<br />-It&#8217;s going to be unforgivably awesome.
+    -It’s at the Gargoyle<br />-It’s 18+ only. Sorry, guys.<br />-Robert Byrd is the longest sitting Congressman in the history of the US<br />-FREE with Wash U ID, 5 bucks without it<br />-Doors at 8, Show at 8:30ish<br />-It’s going to be unforgivably awesome.
   </p>
   
   <p>
@@ -37,7 +37,7 @@ categories:
   </p>
   
   <p>
-    Thursday, KWUR Dance Party/DJ Showcase Part Deux with Phaseone, DJ Invisible Cola, and DJs Neil O&#8217;Kelly and Greg Sergay<br />
+    Thursday, KWUR Dance Party/DJ Showcase Part Deux with Phaseone, DJ Invisible Cola, and DJs Neil O’Kelly and Greg Sergay<br />
   </p>
   
   <p>

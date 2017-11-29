@@ -1,6 +1,6 @@
 ---
 id: 114
-title: 'Happy Holidays (Representin&#8217;)'
+title: 'Happy Holidays (Representin’)'
 date: 2007-12-26T06:39:00+00:00
 author: The Intern
 layout: post

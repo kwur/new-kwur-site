@@ -26,7 +26,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    Every summer the <a href="http://www.riverfronttimes.com/">River Front Times</a> hosts a local music showcase. It&#8217;s a big one day festival featuring 2 big outdoor stages during the day and 12 smaller indoor venues in the evening. There were 50 bands for $5. I consider that a challenge to see as many new bands as possible. At first I was disappointed that the showcase was not on the Delmar Loop this year, but it turned out that the Washington Avenue location was perfect for jumping between different bars. I don&#8217;t normally frequent the night club scene, but this event served as an nice introduction to the surreal experience that is Wash Ave on a Saturday night. It seems that the booze flows freely on city streets there; girls are always dressed to go to prom; strangers give sushi and vodka-sprites to strangers; driving with all your car doors open is acceptable; the purpose is to drive as slowly as possible as many times as possible down the street; Clubbers hardly even notice that there is a rock n roll festival going on all around them&#8230;
+    Every summer the <a href="http://www.riverfronttimes.com/">River Front Times</a> hosts a local music showcase. It’s a big one day festival featuring 2 big outdoor stages during the day and 12 smaller indoor venues in the evening. There were 50 bands for $5. I consider that a challenge to see as many new bands as possible. At first I was disappointed that the showcase was not on the Delmar Loop this year, but it turned out that the Washington Avenue location was perfect for jumping between different bars. I don’t normally frequent the night club scene, but this event served as an nice introduction to the surreal experience that is Wash Ave on a Saturday night. It seems that the booze flows freely on city streets there; girls are always dressed to go to prom; strangers give sushi and vodka-sprites to strangers; driving with all your car doors open is acceptable; the purpose is to drive as slowly as possible as many times as possible down the street; Clubbers hardly even notice that there is a rock n roll festival going on all around them…
   </p>
   
   <p>
@@ -38,7 +38,7 @@ categories:
   </p>
   
   <p>
-    Next I headed to the Dubliner for the <a href="http://www.myspace.com/thedockellisband">Dock Ellis Band</a> which was one of the very high points of the night. <span style="font-weight:bold;">The Dock Ellis Band is fucking hilarious.</span> Singer Jesse Irwin has the perfect country rock persona. He&#8217;s a beer drinkin&#8217;, whisky shootin&#8217;, howlin&#8217;, cheatin&#8217;, dirty man. He is backed by a really solid band that started the set by ordering 10 beers. Don&#8217;t miss out on a chance to see this band!
+    Next I headed to the Dubliner for the <a href="http://www.myspace.com/thedockellisband">Dock Ellis Band</a> which was one of the very high points of the night. <span style="font-weight:bold;">The Dock Ellis Band is fucking hilarious.</span> Singer Jesse Irwin has the perfect country rock persona. He’s a beer drinkin’, whisky shootin’, howlin’, cheatin’, dirty man. He is backed by a really solid band that started the set by ordering 10 beers. Don’t miss out on a chance to see this band!
   </p>
   
   <p>
@@ -50,7 +50,7 @@ categories:
   </p>
   
   <p>
-    I headed down to see <a href="http://www.myspace.com/theodoreacoustic">Theodore</a> perform to a capacity crowd. If you vaguely like americana or country music I implore you to go see this band. They do it all from raucous stompin&#8217; ragers to quiet lullabies. The instrumentation is always changing to include horns, accordion, and even a weird Casio electronic guitar. Don&#8217;t miss these guys.
+    I headed down to see <a href="http://www.myspace.com/theodoreacoustic">Theodore</a> perform to a capacity crowd. If you vaguely like americana or country music I implore you to go see this band. They do it all from raucous stompin’ ragers to quiet lullabies. The instrumentation is always changing to include horns, accordion, and even a weird Casio electronic guitar. Don’t miss these guys.
   </p>
   
   <p>
@@ -62,6 +62,6 @@ categories:
   </p>
   
   <p>
-    At 2am I was exhausted, but Washington Avenue showed no sign of slowing down. Cars filled with beer drinkers and bass blasters cruised the street as I headed home. The showcase had been a great success and shown some highlights from a vibrant music scene happening right beneath our noses. If I may co-opt the Fattback singer&#8217;s words: You&#8217;d be a stupid idiot if you missed it.
+    At 2am I was exhausted, but Washington Avenue showed no sign of slowing down. Cars filled with beer drinkers and bass blasters cruised the street as I headed home. The showcase had been a great success and shown some highlights from a vibrant music scene happening right beneath our noses. If I may co-opt the Fattback singer’s words: You’d be a stupid idiot if you missed it.
   </p>
 </div>

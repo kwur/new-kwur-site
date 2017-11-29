@@ -1,6 +1,6 @@
 ---
 id: 264
-title: 'Album Review: Various Artists, &quot;Eccentric Soul: The Young Disciples&quot;'
+title: 'Album Review: Various Artists, "Eccentric Soul: The Young Disciples"'
 date: 2008-10-04T19:58:00+00:00
 author: The Intern
 layout: post

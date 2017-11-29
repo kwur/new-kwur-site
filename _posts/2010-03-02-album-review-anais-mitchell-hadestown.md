@@ -1,6 +1,6 @@
 ---
 id: 487
-title: 'Album Review: Anaïs Mitchell, &quot;Hadestown&quot;'
+title: 'Album Review: Anaïs Mitchell, "Hadestown"'
 date: 2010-03-02T09:15:00+00:00
 author: Chase
 layout: post
@@ -21,7 +21,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://image.allmusic.com/00/amg/cov200/drn500/n564/n56442sjv58.jpg"><img style="float:left; margin:0 10px 10px 0;cursor:pointer; cursor:hand;width: 200px; height: 181px;" src="http://image.allmusic.com/00/amg/cov200/drn500/n564/n56442sjv58.jpg" border="0" alt="" /></a><span class="Apple-style-span"  style="font-size:small;">So this is the music from a &#8220;folk opera&#8221; Mitchell wrote around 2006, performed by Mitchell and several relatively big voices (Bon Iver&#8217;s Justin Vernon, Ani DiFranco, Petra Haden & the other two Haden Triplets). Putting the Orpheus/Eurydice myth into a post-apocalyptic yet Depression-like setting, this brings together a ton of great sounds: tin-pan-alley, ghostly folk, Waits-ian narrative, Appalachian bluegrass, and some terrific songwriting.</span>
+    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://image.allmusic.com/00/amg/cov200/drn500/n564/n56442sjv58.jpg"><img style="float:left; margin:0 10px 10px 0;cursor:pointer; cursor:hand;width: 200px; height: 181px;" src="http://image.allmusic.com/00/amg/cov200/drn500/n564/n56442sjv58.jpg" border="0" alt="" /></a><span class="Apple-style-span"  style="font-size:small;">So this is the music from a “folk opera” Mitchell wrote around 2006, performed by Mitchell and several relatively big voices (Bon Iver’s Justin Vernon, Ani DiFranco, Petra Haden & the other two Haden Triplets). Putting the Orpheus/Eurydice myth into a post-apocalyptic yet Depression-like setting, this brings together a ton of great sounds: tin-pan-alley, ghostly folk, Waits-ian narrative, Appalachian bluegrass, and some terrific songwriting.</span>
   </p>
   
   <div>
@@ -37,7 +37,7 @@ categories:
   </div>
   
   <div>
-    <span class="Apple-style-span"  style="font-size:small;">A very nice touch is that Vernon, as Orpheus, is usually the only singer with multi-tracked vocals, emphasizing the beauty of Orpheus&#8217;s song &#8211; it works wonders to utilize both his soulful baritone and his haunting falsetto. Mitchell, as well, has a fascinatingly strange voice, which is beautifully used here.</span>
+    <span class="Apple-style-span"  style="font-size:small;">A very nice touch is that Vernon, as Orpheus, is usually the only singer with multi-tracked vocals, emphasizing the beauty of Orpheus’s song – it works wonders to utilize both his soulful baritone and his haunting falsetto. Mitchell, as well, has a fascinatingly strange voice, which is beautifully used here.</span>
   </div>
   
   <div>

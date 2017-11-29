@@ -17,11 +17,11 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    KWUR&#8217;s fall 2006 schedule is now in full effect.
+    KWUR’s fall 2006 schedule is now in full effect.
   </p>
   
   <p>
-    We&#8217;re proud to announce syndicated broadcasts of <a href="http://www.fsrn.org">Free Speech Radio News</a> (Mon.-Thurs. 6pm, Fri. 5pm) and <a href="http://www.2600.com/oth">Off The Hook</a> (Time TBD). Also, we&#8217;ve completly upgraded our computer systems so look forward to a better auto-rotation during strange hours as well as more stable live internet streaming .
+    We’re proud to announce syndicated broadcasts of <a href="http://www.fsrn.org">Free Speech Radio News</a> (Mon.-Thurs. 6pm, Fri. 5pm) and <a href="http://www.2600.com/oth">Off The Hook</a> (Time TBD). Also, we’ve completly upgraded our computer systems so look forward to a better auto-rotation during strange hours as well as more stable live internet streaming .
   </p>
   
   <p>
@@ -29,6 +29,6 @@ categories:
   </p>
   
   <p>
-    <a href="http://www.kwur.com/sch.php">Check out the full lineup</a> and as always, stay tuned to KWUR for the very finest in underground radio&#8230;
+    <a href="http://www.kwur.com/sch.php">Check out the full lineup</a> and as always, stay tuned to KWUR for the very finest in underground radio…
   </p>
 </div>

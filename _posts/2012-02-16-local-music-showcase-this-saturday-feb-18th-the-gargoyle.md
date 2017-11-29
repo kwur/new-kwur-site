@@ -11,7 +11,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    &nbsp;
+     
   </p>
   
   <div>
@@ -19,16 +19,16 @@ categories:
   </div>
   
   <div>
-    &nbsp;
+     
   </div>
   
   <div>
     <div>
-      KWUR is proud to be hosting The 2012 Local Music Showcase in the Gargoyle this Saturday&nbsp;at 8pm. Rum Drum Ramblers will be headlining, bringing their brand of old-time St. Louis&nbsp;washboard punk to the Wash U campus for the first time ever. We can also look forward to&nbsp;stunning sets by Bo and the Locomotive, Britches, and Until Extinction in a genre bending&nbsp;medley of homegrown St. Louis sounds. You&rsquo;ll get in free if you&rsquo;re a Wash U student, for $10&nbsp;otherwise. Doors at 7:30, show at 8. Come on out!
+      KWUR is proud to be hosting The 2012 Local Music Showcase in the Gargoyle this Saturday at 8pm. Rum Drum Ramblers will be headlining, bringing their brand of old-time St. Louis washboard punk to the Wash U campus for the first time ever. We can also look forward to stunning sets by Bo and the Locomotive, Britches, and Until Extinction in a genre bending medley of homegrown St. Louis sounds. You’ll get in free if you’re a Wash U student, for $10 otherwise. Doors at 7:30, show at 8. Come on out!
     </div>
   </div>
   
   <p>
-    &nbsp;
+     
   </p>
 </div>

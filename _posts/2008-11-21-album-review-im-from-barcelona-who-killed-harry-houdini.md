@@ -1,6 +1,6 @@
 ---
 id: 287
-title: 'Album Review: I&#8217;m From Barcelona, &quot;Who Killed Harry Houdini?&quot;'
+title: 'Album Review: I’m From Barcelona, "Who Killed Harry Houdini?"'
 date: 2008-11-21T08:29:00+00:00
 author: The Intern
 layout: post

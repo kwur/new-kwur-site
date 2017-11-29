@@ -20,7 +20,7 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    Hey yaaaaaa&#8217;ll
+    Hey yaaaaaa’ll
   </p>
   
   <p>
@@ -28,7 +28,7 @@ categories:
   </p>
   
   <p>
-    <a href="http://www.recordstoreday.com/Home">Record Store Day official site</a><br /><a href="http://pitchfork.com/news/35076-the-pitchfork-guide-to-record-store-day/">Pitchfork Guide to special releases on RSD</a><br /><a href="http://www.vintagevinyl.com/recordstoreday.asp">Vintage Vinyl</a><br /><a href="http://music.myspace.com/index.cfm?fuseaction=music.showDetails&#038;friendid=60312580&#038;Band_Show_ID=38543302">APOP</a><br /><a href="http://www.euclidrecords.com/">Euclid</a>
+    <a href="http://www.recordstoreday.com/Home">Record Store Day official site</a><br /><a href="http://pitchfork.com/news/35076-the-pitchfork-guide-to-record-store-day/">Pitchfork Guide to special releases on RSD</a><br /><a href="http://www.vintagevinyl.com/recordstoreday.asp">Vintage Vinyl</a><br /><a href="http://music.myspace.com/index.cfm?fuseaction=music.showDetails&friendid=60312580&Band_Show_ID=38543302">APOP</a><br /><a href="http://www.euclidrecords.com/">Euclid</a>
   </p>
   
   <p>

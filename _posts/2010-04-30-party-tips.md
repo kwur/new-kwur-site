@@ -26,6 +26,6 @@ categories:
   </p>
   
   <p>
-    PARTY TIP: Do something you haven&#8217;t done before.<br />PARTY TIP: Think about what you love. Forget about what you hate.<br />PARTY TIP: Do what feels good.<br />PARTY TIP: Rinse and gargle with Mountain Dew. Then spit it into a magazine and throw the whole mess in the bathtub.<br />PARTY TIP: Your life is a movie. You&#8217;re the writer, director, & star. So you better write yourself an amazing script.<br />PARTY TIP: Whenever you eat a banana, tell Andrew W.K. about it.<br />PARTY TIP: Go to an all-girls college and talk to them about partying. <br />PARTY TIP: Don&#8217;t be mean today.<br />PARTY TIP: Write down 2 things you want to do in your lifetime. Then pursue them with a vengeance!
+    PARTY TIP: Do something you haven’t done before.<br />PARTY TIP: Think about what you love. Forget about what you hate.<br />PARTY TIP: Do what feels good.<br />PARTY TIP: Rinse and gargle with Mountain Dew. Then spit it into a magazine and throw the whole mess in the bathtub.<br />PARTY TIP: Your life is a movie. You’re the writer, director, & star. So you better write yourself an amazing script.<br />PARTY TIP: Whenever you eat a banana, tell Andrew W.K. about it.<br />PARTY TIP: Go to an all-girls college and talk to them about partying. <br />PARTY TIP: Don’t be mean today.<br />PARTY TIP: Write down 2 things you want to do in your lifetime. Then pursue them with a vengeance!
   </p>
 </div>

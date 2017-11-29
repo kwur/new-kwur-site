@@ -17,18 +17,18 @@ categories:
 ---
 <div class="pf-content">
   <p>
-    Greetings, welcome, etc. to the inaugural edition of the Saturday Evening Post-up. A couple of things might be running through your mind right now, such as &#8220;What the hell is this?&#8221; or &#8220;It&#8217;s Tuesday, not Saturday.&#8221; I&#8217;ll get to the first question shortly, though as for the second, well&#8230; I don&#8217;t know. I didn&#8217;t feel like waiting until Saturday.
+    Greetings, welcome, etc. to the inaugural edition of the Saturday Evening Post-up. A couple of things might be running through your mind right now, such as “What the hell is this?” or “It’s Tuesday, not Saturday.” I’ll get to the first question shortly, though as for the second, well… I don’t know. I didn’t feel like waiting until Saturday.
   </p>
   
   <p>
-    The Saturday Evening Post-up is a review of what we&#8217;re playing right now on KWUR, and will include new music reviews and charts (if I ever get around to posting them). Reviews are written by our very own, very talented DJs, and will be reprinted here as they are on the CDs laying around the station. There&#8217;s not much more to it than that &#8211; check back for every week (probably on or around Saturday) for a new edition. Now, without further ado, this week&#8217;s reviews:
+    The Saturday Evening Post-up is a review of what we’re playing right now on KWUR, and will include new music reviews and charts (if I ever get around to posting them). Reviews are written by our very own, very talented DJs, and will be reprinted here as they are on the CDs laying around the station. There’s not much more to it than that – check back for every week (probably on or around Saturday) for a new edition. Now, without further ado, this week’s reviews:
   </p>
   
   <p>
-    <span style="font-weight: bold;">Ra Ra Riot &#8211; &#8220;The Rhumb Line&#8221;</p> 
+    <span style="font-weight: bold;">Ra Ra Riot – “The Rhumb Line”</p> 
     
     <p>
-      </span><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/rarariot-719795.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://www.kwur.com/blog/uploaded_images/rarariot-719758.jpg" alt="" border="0" /></a><br />Great use of string instruments (violin and cello), works well with the guitar. Cool driving rhythms, but a bit derivative of their EP (for anyone who&#8217;s familiar with it). Not much change from EP to LP. Gets a bit pop sometimes, but the dark undertones in the lyrics make up for it.
+      </span><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.kwur.com/blog/uploaded_images/rarariot-719795.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://www.kwur.com/blog/uploaded_images/rarariot-719758.jpg" alt="" border="0" /></a><br />Great use of string instruments (violin and cello), works well with the guitar. Cool driving rhythms, but a bit derivative of their EP (for anyone who’s familiar with it). Not much change from EP to LP. Gets a bit pop sometimes, but the dark undertones in the lyrics make up for it.
     </p>
     
     <p>
@@ -36,7 +36,7 @@ categories:
     </p>
     
     <p>
-      <span style="font-weight: bold;">Dynamite Club &#8211; &#8220;Fusion Era&#8221;</span>
+      <span style="font-weight: bold;">Dynamite Club – “Fusion Era”</span>
     </p>
     
     <p>
@@ -44,14 +44,14 @@ categories:
     </p>
     
     <p>
-      Interesting: 3 (treatment of the reading of the digits of pi), 6 (a satirical prod at jazz fusion), 9 (longest &#8211; Mike Patton style disturbing spaz composition)
+      Interesting: 3 (treatment of the reading of the digits of pi), 6 (a satirical prod at jazz fusion), 9 (longest – Mike Patton style disturbing spaz composition)
     </p>
     
     <p>
-      <span style="font-weight: bold;">Marnie Stern &#8211; &#8220;This Is It And I Am It And You Are It And So Is That And He Is It And She Is It And It Is It And That Is That&#8221;<span style="font-weight: bold;"></p> 
+      <span style="font-weight: bold;">Marnie Stern – “This Is It And I Am It And You Are It And So Is That And He Is It And She Is It And It Is It And That Is That”<span style="font-weight: bold;"></p> 
       
       <p>
-        <span style="font-weight: bold;"><span style="font-weight: bold;"></span></span></span></span>You wouldn&#8217;t guess it from the cover, but this album is full of crazy guitar riffs and pulsing beats and Marni Stern&#8217;s exciting voice. It&#8217;s a decent album &#8211; Sleater Kinney and PJ Harvey being a 10 and Michelle Branch and The Donnas a 1, Marnie Stern is something like a 5 or 6. The songs tend to sound the same, though. Very dance-y. Also, I thought the music would redeem the lame album title, but it did not.
+        <span style="font-weight: bold;"><span style="font-weight: bold;"></span></span></span></span>You wouldn’t guess it from the cover, but this album is full of crazy guitar riffs and pulsing beats and Marni Stern’s exciting voice. It’s a decent album – Sleater Kinney and PJ Harvey being a 10 and Michelle Branch and The Donnas a 1, Marnie Stern is something like a 5 or 6. The songs tend to sound the same, though. Very dance-y. Also, I thought the music would redeem the lame album title, but it did not.
       </p>
       
       <p>
@@ -59,19 +59,19 @@ categories:
       </p>
       
       <p>
-        <span style="font-weight: bold;">XXTeens &#8211; &#8220;Welcome To Goon Island&#8221;</span>
+        <span style="font-weight: bold;">XXTeens – “Welcome To Goon Island”</span>
       </p>
       
       <p>
-        Band name: not great. Album title: not great. Album itself: excellent. Somewhere between spazzy art punk and just about every other genre out there. Lots of primal drumming, the catchiest damn guitar hooks I&#8217;ve heard in a long time, and sexy yelping vox. Maybe some room to improve (first time through is breathtaking, but doesn&#8217;t hold up well with repeated listens), but this is a solid first album.
+        Band name: not great. Album title: not great. Album itself: excellent. Somewhere between spazzy art punk and just about every other genre out there. Lots of primal drumming, the catchiest damn guitar hooks I’ve heard in a long time, and sexy yelping vox. Maybe some room to improve (first time through is breathtaking, but doesn’t hold up well with repeated listens), but this is a solid first album.
       </p>
       
       <p>
-        Play: 1 (string intro, but don&#8217;t be fooled &#8211; this song rocks out), 3 (primal fucking shit), 5 (catchy, check the horns), 8 (weird electro, then art punk), 9 (best song, rockin)
+        Play: 1 (string intro, but don’t be fooled – this song rocks out), 3 (primal fucking shit), 5 (catchy, check the horns), 8 (weird electro, then art punk), 9 (best song, rockin)
       </p>
       
       <p>
-        <span style="font-weight: bold;">of Montreal &#8211; &#8220;Skeletal Lamping&#8221;<span style="font-weight: bold;"></p> 
+        <span style="font-weight: bold;">of Montreal – “Skeletal Lamping”<span style="font-weight: bold;"></p> 
         
         <p>
           </span></span>Collection of instrumental sounds similar to past of Montreal work. Tons of mini songs within songs with abrupt shifts and transitions. Semi-distorted vocals. Less accessible than past CDs and more experimental. More noise focused than lyrical. Electric sounding hooks.
@@ -82,19 +82,19 @@ categories:
         </p>
         
         <p>
-          <span style="font-weight: bold;">Fucked Up &#8211; &#8220;The Chemistry of Common Life&#8221;</span>
+          <span style="font-weight: bold;">Fucked Up – “The Chemistry of Common Life”</span>
         </p>
         
         <p>
-          Noisy &#8211; and I don&#8217;t just mean loud (though these guys <span style="font-style: italic;">do</span> kick up one hell of a racket) &#8211; hardcore. Each song is layered with at least&#8230; 30 guitar tracks, vocals honed on years of chewing glass, and pummeling drum beats. The effect is dense, LOUD &#8211; and melodic and beautiful too, in a way. Definitely merits comparisons to Refused&#8217;s <span style="font-style: italic;">Shape of Punk to Come</span>, and hey, 10 years later, maybe this is it. That&#8217;d be just fine with me. (features cameos from Vivian Girls, Sebastian formerly of DFA1979)
+          Noisy – and I don’t just mean loud (though these guys <span style="font-style: italic;">do</span> kick up one hell of a racket) – hardcore. Each song is layered with at least… 30 guitar tracks, vocals honed on years of chewing glass, and pummeling drum beats. The effect is dense, LOUD – and melodic and beautiful too, in a way. Definitely merits comparisons to Refused’s <span style="font-style: italic;">Shape of Punk to Come</span>, and hey, 10 years later, maybe this is it. That’d be just fine with me. (features cameos from Vivian Girls, Sebastian formerly of DFA1979)
         </p>
         
         <p>
-          Play: 1 (dense, kick-you-in-the-face hardcore, a lot of fun), 2 (check the bongo line), 7 (most accessible on record), 11 (kinda like a reprisal of track 1 &#8211; is that an acoustic guitar I hear?)
+          Play: 1 (dense, kick-you-in-the-face hardcore, a lot of fun), 2 (check the bongo line), 7 (most accessible on record), 11 (kinda like a reprisal of track 1 – is that an acoustic guitar I hear?)
         </p>
         
         <p>
-          And the charts&#8230;
+          And the charts…
         </p>
         
         <table>
@@ -487,7 +487,7 @@ categories:
             </td>
             
             <td>
-              Noise Won&#8217;t Stop
+              Noise Won’t Stop
             </td>
             
             <td>
