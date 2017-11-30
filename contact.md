@@ -8,8 +8,7 @@ permalink: /contact/
 guid: http://kwur.com/
 ---
 
-<br>
-<h1>Mailing Address</h1>
+<h3>Mailing Address</h3>
 <p>
   KWUR 90.3 FM<br>
   Campus Box 1205<br>
@@ -17,16 +16,14 @@ guid: http://kwur.com/
   St. Louis, MO 63130
 </p>
 
-<h1>Phone Numbers</h1>
+<h3>Phone Numbers</h3>
 <p>
   Office: (314) 935-5952<br>
   Request: (314) 935-KWUR<br>
   Fax: (314) 935-8833
 </p>
-<br>
 
-<h1>Music/Programming Departments:</h1>
-  
+<h3>Music/Programming Departments:</h3>
 <table class="table">
   <thead>
     <tr>
@@ -100,7 +97,7 @@ guid: http://kwur.com/
   </tbody>
 </table>
 
-<h1>Administrative Staff:</h1>
+<h3>Administrative Staff:</h3>
 <table class="table">
   <thead>
     <tr>
@@ -130,7 +127,7 @@ guid: http://kwur.com/
       <td>Wednesday 1pm-2pm</td>
     </tr>
     <tr>
-      <td>Training</span></td> 
+      <td>Training</td> 
       <td>Thom Ellison &amp; Zo&euml; Finkelstein</td>
       <td>training[at]kwur.com</td>
       <td>Monday 10am-11am (Thom), Wednesday 10am-11am (Zo&euml;)</td>

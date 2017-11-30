@@ -7,27 +7,30 @@ layout: page
 permalink: /about/
 guid: http://kwur.com/?page_id=2
 ---
-<div class="pf-content">
-  <p>
-    <span style="font-family: Arial,Helvetica,sans-serif; font-size: small;"><strong>KWUR 90.3 FM</strong> is Washington University's student run radio station, broadcasting 24 hours a day upon the surrounding community. KWUR DJs spin a wide variety of musical programming and broadcast news, public information, and Washington University sporting events. Since its foundation in 1976, KWUR's goal has been to supply listeners with otherwise unavailable programming in St. Louis radio. </span>
-  </p>
+
+<p>
+  <strong>KWUR 90.3 FM</strong> is Washington University's student run radio station, broadcasting 24 hours a day upon the surrounding community. KWUR DJs spin a wide variety of musical programming and broadcast news, public information, and Washington University sporting events. Since its foundation in 1976, KWUR's goal has been to supply listeners with otherwise unavailable programming in St. Louis radio.
+</p>
   
-  <p>
-    <img alt="" height="73" src="/assets/img/station.jpg" width="550" />
-  </p>
+<p>
+  <img alt="" height="73" src="/assets/img/station.jpg" width="550" />
+</p>
   
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-            <tr> 
-              <td width="23%"><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://www.studlife.com/archives/News/2003/09/29/KWURbestincity/" target="_blank">KWUR 
-                Best In City</a><br>
-                <em>Student Life</em>, 2003</font></td>
-              <td width="35%"><font size="2" face="Arial, Helvetica, sans-serif"><a href="https://www.riverfronttimes.com/bestof/2003/award/best-radio-station-31233/" target="_blank">RFT 
-                Best Radio Station of 2003</a><br>
-                <em>Riverfront Times</em>, 2003<br>
-                </font></td>
-              <td width="42%"><font size="2" face="Arial, Helvetica, sans-serif"><a href="/assets/img/rsreview.jpg">KWUR 
-                Review </a><br>
-                <em>The Rolling Stone College Guide</em>, 2005</font></td>
-            </tr>
-          </table>
-     </div>
+<table class="table">
+  <tbody>
+    <tr> 
+      <td>
+        <a href="http://www.studlife.com/archives/News/2003/09/29/KWURbestincity/" target="_blank">KWUR Best In City</a><br>
+        <em>Student Life</em>, 2003
+      </td>
+      <td>
+        <a href="https://www.riverfronttimes.com/bestof/2003/award/best-radio-station-31233/" target="_blank">RFT Best Radio Station of 2003</a><br>
+        <em>Riverfront Times</em>, 2003
+      </td>
+      <td>
+        <a href="/assets/img/rsreview.jpg">KWUR Review</a><br>
+        <em>The Rolling Stone College Guide</em>, 2005
+      </td>
+    </tr>
+  </tbody>
+</table>
