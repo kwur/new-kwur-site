@@ -15,10 +15,12 @@ exports.now_playing = functions.https.onRequest((req, res) => {
 		let papiuser = config.spinitron.key;
 		let papiversion = '2';
 		let station = 'kwur';
+
+		// MUST be in format 2017-11-29T19:26:00Z
 		let timestamp = moment.tz("Etc/GMT").format('YYYY-MM-DD[T]HH:mm:ss[Z]');
-		console.log("first " + timestamp)
 		let When = 'now';
 
+		// These have to be in alphabetical order
 		let query = "method=" + encodeURIComponent(method) +
 					"&papiuser=" + encodeURIComponent(papiuser) +
 					"&papiversion=" + encodeURIComponent(papiversion) +

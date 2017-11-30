@@ -213,12 +213,11 @@
   width: auto;
   overflow: hidden;
   position: relative;
-}
 
-.header-img > img {
-  min-width: $on-laptop;
-  filter: brightness(50%);
-  min-height: 50vh;
+  > img {
+    min-width: $on-laptop;
+    filter: brightness(50%);
+  }
 }
 
 .listen-in {
@@ -230,14 +229,14 @@
   position: absolute;
   right: 50%;
   transform: translateX(50%) translateY(-50%);
-}
 
-.listen-in > a {
-  @include relative-font-size(4.8);
-    color: #fff;
+  > a {
+    @include relative-font-size(4.8);
+      color: #fff;
 
-  @include media-query($on-palm) {
-    @include relative-font-size(2.25);
+    @include media-query($on-palm) {
+      @include relative-font-size(2.25);
+    }
   }
 }
 
