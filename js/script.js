@@ -27,9 +27,9 @@ $(document).ready( function() {
 		$.get( "https://us-central1-kwur-backend.cloudfunctions.net/now_playing").done(function( data ) {
 			console.log(data.results);
 		  	if (data.results) {
-		   		$('.listen-in-show').text(data.results[0].ShowName + " with\xa0" + data.results[0].ShowUsers[0].DJName);
+		   		$('.listen-in-show').text("Listen in: " + data.results[0].ShowName + " with\xa0" + data.results[0].ShowUsers[0].DJName);
 		   		if (data.results[0].ShowUsers.length > 1){
-		   			$('.listen-in-show').text( $('.listen-in-show').text() + " and " + data.results[0].ShowUsers[1].DJName);
+		   			$('.listen-in-show').text( $('.listen-in-show').text() + " & " + data.results[0].ShowUsers[1].DJName);
 		   		}
 		  	}
 		});
