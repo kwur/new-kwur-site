@@ -1,10 +1,10 @@
 ---
 id: 609
-title: Stream
+title: Listen
 date: 2015-10-08 13:34:14 +0000
 author: Hatmaster
 layout: page
-permalink: /stream/
+permalink: "/listen/"
 guid: http://kwur.com/
 ---
 <iframe src="https://mixlr.com/users/4072220/embed" width="100%" height="180px" scrolling="no" frameborder="no" marginheight="0" marginwidth="0"></iframe>
