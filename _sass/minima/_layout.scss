@@ -9,10 +9,16 @@
   // Positioning context for the mobile navigation icon
   position: fixed;
   z-index: 100;
+  transition: background-color .5s;
 
   img {
     height: $spacing-unit;
   }
+}
+.transparent {
+  transition: background-color .5s;
+  background-color: transparent;
+  border-color: transparent;
 }
 
 .buffer {
@@ -53,8 +59,8 @@
     position: absolute;
     top: 11px;
     right: $spacing-unit / 2;
-    background-color: #000;
-    border: 1px solid #000;
+    background-color: transparent;
+    border: 1px solid transparent;
     border-radius: 5px;
     text-align: right;
 

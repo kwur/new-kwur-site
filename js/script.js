@@ -1,4 +1,19 @@
 
+function headerColoring() {
+	//Header color behavior
+	if(location.pathname == '/') {
+		$('.buffer').hide();
+		if ($('.page-content').offset().top - $(window).scrollTop() > 60) {
+			$('.site-header').addClass('transparent');
+		} else {
+			$('.site-header').removeClass('transparent');
+		}
+	} else {
+		$('.buffer').show();
+		$('.site-header').removeClass('transparent');
+	}
+}
+
 $(window).resize( function() {
 
 	$('.header-img').css('max-height', $('.header-img').children('img').height() );
@@ -7,7 +22,7 @@ $(window).resize( function() {
 
 $(document).ready( function() {
 	// Ask for current show
-	if (window.location == "http://kwur2.s3-website-us-east-1.amazonaws.com/" || window.location == "http://localhost:4000/") {
+	if (location.pathname == '/') {
 		console.log('GET now_playing');
 		$.get( "https://us-central1-kwur-backend.cloudfunctions.net/now_playing").done(function( data ) {
 			console.log(data.results);
@@ -37,4 +52,9 @@ $(document).ready( function() {
 		}
 	}, 6000);
 
+	headerColoring();
+
 });
+
+$(window).scroll(headerColoring);
+$(window).load(headerColoring);

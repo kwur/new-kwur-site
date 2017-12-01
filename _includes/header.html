@@ -1,4 +1,4 @@
-<header class="site-header" role="banner">
+<header class="site-header transparent" role="banner">
 
   <div class="wrapper header">
     {% assign default_paths = site.pages | map: "path" %}
@@ -21,6 +21,7 @@
         </label>
 
         <div class="trigger">
+              <a class="header-link" href="/">Home</a>
           {% for path in page_paths %}
             {% assign my_page = site.pages | where: "path", path | first %}
             {% if my_page.title and my_page.show != false %}
