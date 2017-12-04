@@ -175,6 +175,14 @@ footer td {
   @include relative-font-size(1.5);
 }
 
+.pagination {
+  display: block;
+  text-align: center;
+}
+.rss-subscribe {
+  text-align: center;
+}
+
 
 .header-img-container {
   height: 60vh;
@@ -202,7 +210,7 @@ footer td {
   text-align: center;
   color: #fff;
   width: 80%;
-  max-width: 820px;
+  max-width: 900px;
 
   top: 50%;
   position: absolute;
@@ -210,7 +218,7 @@ footer td {
   transform: translateX(50%) translateY(-50%);
 
   .hero {
-    @include relative-font-size(4.5);
+    @include relative-font-size(4.3);
     line-height: 1.1;
 
     @include media-query($on-laptop) {

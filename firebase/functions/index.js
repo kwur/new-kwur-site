@@ -1,5 +1,5 @@
 const functions = require('firebase-functions');
-const cors = require('cors')({origin: "http://kwur2.s3-website-us-east-1.amazonaws.com"});
+const cors = require('cors')({origin: "http://kwur.org"});
 const request = require('request');
 const crypto = require('crypto');
 const moment = require('moment-timezone');
@@ -36,7 +36,7 @@ exports.now_playing = functions.https.onRequest((req, res) => {
 
 		request(url, function(err, response, body) { 
 
-			res.setHeader("Access-Control-Allow-Origin", "http://kwur2.s3-website-us-east-1.amazonaws.com");
+			res.setHeader("Access-Control-Allow-Origin", "http://kwur.org");
 			res.setHeader('Content-Type', 'application/json');
 			res.statusCode = 200;
 			res.send(body);

@@ -16,21 +16,19 @@ guid: http://kwur.com/?page_id=2
   <img alt="" height="73" src="/assets/img/station.jpg" width="550" />
 </p>
   
-<table class="table">
-  <tbody>
-    <tr> 
-      <td>
-        <a href="http://www.studlife.com/archives/News/2003/09/29/KWURbestincity/" target="_blank">KWUR Best In City</a><br>
-        <em>Student Life</em>, 2003
-      </td>
-      <td>
-        <a href="https://www.riverfronttimes.com/bestof/2003/award/best-radio-station-31233/" target="_blank">RFT Best Radio Station of 2003</a><br>
-        <em>Riverfront Times</em>, 2003
-      </td>
-      <td>
-        <a href="/assets/img/rsreview.jpg">KWUR Review</a><br>
-        <em>The Rolling Stone College Guide</em>, 2005
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div class="container">
+  <div class="row"> 
+    <div class="col">
+      <a href="http://www.studlife.com/archives/News/2003/09/29/KWURbestincity/" target="_blank">KWUR Best In City</a><br>
+      <em>Student Life</em>, 2003
+    </div>
+    <div class="col-5">
+      <a href="https://www.riverfronttimes.com/bestof/2003/award/best-radio-station-31233/" target="_blank">RFT Best Radio Station of 2003</a><br>
+      <em>Riverfront Times</em>, 2003
+    </div>
+    <div class="col">
+      <a href="/assets/img/rsreview.jpg">KWUR Review</a><br>
+      <em>The Rolling Stone College Guide</em>, 2005
+    </td>
+  </div>
+</div>
