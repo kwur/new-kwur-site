@@ -1,5 +1,5 @@
 const functions = require('firebase-functions');
-const cors = require('cors')({origin: "http://kwur.org"});
+const cors = require('cors')({origin: "http://kwur.org/*"});
 const request = require('request');
 const crypto = require('crypto');
 const moment = require('moment-timezone');

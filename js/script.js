@@ -22,7 +22,7 @@ $(window).resize( function() {
 
 $(document).ready( function() {
 	// Ask for current show
-	if (location.pathname == '/') {
+	if (/\/[0-9]*/.test(location.pathname)) {
 		console.log('GET now_playing');
 		$.get( "https://us-central1-kwur-backend.cloudfunctions.net/now_playing").done(function( data ) {
 			console.log(data.results);
