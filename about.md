@@ -13,7 +13,7 @@ guid: http://kwur.com/?page_id=2
 </p>
   
 <p>
-  <img alt="" height="73" src="/assets/img/station.jpg" width="550" />
+  <img alt="kwur-station-about" src="/assets/img/station.jpg" class="full-width" />
 </p>
   
 <div class="container">
@@ -29,6 +29,6 @@ guid: http://kwur.com/?page_id=2
     <div class="col">
       <a href="/assets/img/rsreview.jpg">KWUR Review</a><br>
       <em>The Rolling Stone College Guide</em>, 2005
-    </td>
+    </div>
   </div>
 </div>
