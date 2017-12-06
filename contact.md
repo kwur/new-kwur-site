@@ -176,7 +176,7 @@ guid: http://kwur.com/
     </tr>
     <tr>
       <td>Webmaster</td>
-      <td>Ethan Jaynes</td>
+      <td><a href="http://ethanjayn.es" target="_blank">Ethan Jaynes</a></td>
       <td>webmaster[at]kwur.com</td>
       <td>Tuesday 1pm-2pm</td>
     </tr>

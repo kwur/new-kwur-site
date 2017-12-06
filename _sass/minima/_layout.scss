@@ -45,22 +45,51 @@
     display: none;
   }
 
+  .dropdown {
+    display: inline-block;
+    transition: background-color .2s;
+    &:hover {
+      background-color: rgba(255, 255, 255, .3);
+      > .dropdown-menu {
+        display: block;
+      }
+    }
+
+
+    .dropdown-menu {
+      background-color: #000;
+      border-radius: 0 0 5px 5px;
+      border: none;
+      margin: 0;
+
+      .dropdown-item {
+        line-height: initial;
+
+        &:active, &:link, &:visited {
+          color: #fff;
+        }
+
+        &:hover {
+          background-color: rgba(255, 255, 255, .3);
+        }
+      }
+    }
+  }
+
   .header-link {
     color: #fff;
     line-height: $base-line-height;
     min-height: 100%;
     padding: 20px 10px;
     transition: background-color .2s;
-
-    // // Gaps between nav items, but not on the last one
-    // &:last-child {
-    //   margin-right: -10px;
-    // }
+    text-decoration: none;
 
     &:hover {
-      cursor: pointer;
-      text-decoration: none;
       background-color: rgba(255, 255, 255, .3);
+    }
+
+    &.drop:hover {
+      background-color: transparent;
     }
   }
 
@@ -125,6 +154,11 @@
       }
       margin-left: 20px;
     }
+
+    .dropdown-menu {
+      border-radius: 5px;
+      display: block;
+    }
   }
 }
 
@@ -158,6 +192,17 @@ footer td {
  */
 .page-content {
   padding: $header-unit * .5;
+
+  .schedule {
+    width: 100%;
+    height: 100%;
+    border: none;
+    display: block;
+
+    #bigscheddiv {
+      height: 1500px;
+    }
+  }
 }
 
 .page-heading {

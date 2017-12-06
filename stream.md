@@ -4,7 +4,7 @@ title: Listen
 date: 2015-10-08 13:34:14 +0000
 author: Hatmaster
 layout: page
-permalink: "/listen-in/"
+permalink: /stream/
 guid: http://kwur.com/
 ---
 <h3>Music</h3>

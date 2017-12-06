@@ -57,4 +57,3 @@ $(document).ready( function() {
 });
 
 $(window).scroll(headerColoring);
-$(window).load(headerColoring);
