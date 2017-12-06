@@ -1,6 +1,6 @@
 ---
 id: 551
-title: Join Us
+title: Join
 date: 2010-09-02 22:18:25 +0000
 author: Admin
 layout: page
