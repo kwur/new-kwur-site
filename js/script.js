@@ -14,13 +14,7 @@ function headerColoring() {
 	}
 }
 
-$(window).resize( function() {
-
-	$('.header-img').css('max-height', $('.header-img').children('img').height() );
-
-});
-
-$(document).ready( function() {
+function askForShow() {
 	// Ask for current show
 	if (/\/[0-9]*/.test(location.pathname)) {
 		console.log('GET now_playing');
@@ -34,6 +28,17 @@ $(document).ready( function() {
 		  	}
 		});
 	}
+}
+
+$(window).resize( function() {
+
+	$('.header-img').css('max-height', $('.header-img').children('img').height() );
+
+});
+
+$(document).ready( function() {
+
+	askForShow();
 
 	// Start carousel
 	setInterval( function() {
@@ -53,6 +58,13 @@ $(document).ready( function() {
 	}, 6000);
 
 	headerColoring();
+
+	setInterval(function() {
+		var now = new Date();
+	    if (now.getMinutes() === 0) {
+	        askForShow();
+	    }
+	}, 60000);
 
 });
 
