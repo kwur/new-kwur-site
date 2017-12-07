@@ -1,0 +1,8 @@
+---
+hide_body: false
+fields:
+- type: text
+  name: redirect_to
+  label: Redirect URL
+  config:
+    required: true
