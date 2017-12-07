@@ -3,23 +3,23 @@
   <div class="wrapper">
 
 
-    <table class="table table-sm">
-      <tbody>
-      <tr>
-        <td class="contact-list">
-          <li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% else %}
-              {{ site.title | escape }}
-            {% endif %}
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col">
+          <ul class="contact-list">
+            <li>
+              {% if site.author %}
+                {{ site.author | escape }}
+              {% else %}
+                {{ site.title | escape }}
+              {% endif %}
             </li>
-            {% if site.email %}
+              {% if site.email %}
             <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
-        </td>
-
-        <td>
+              {% endif %}
+          </ul>
+        </div>
+        <div class="col-3">
           <ul class="social-media-list">
             {% if site.github_username %}
             <li>
@@ -39,14 +39,12 @@
             </li>
             {% endif %}
           </ul>
-        </td>
-
-        <td>
+        </div>
+        <div class="col-5 no-wrap">
           <p>{{ site.description | escape }}</p>
-        </td>
-      </tr>
-      </tbody>
-    </table>
+        </div>
+      </div>
+    </div>
 
   </div>
 

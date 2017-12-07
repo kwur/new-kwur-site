@@ -186,7 +186,8 @@
   list-style: none;
   margin-left: 0;
 }
-footer td {
+
+footer [class^="col"] {
   color: $grey-color;
   border: none !important;
 }
