@@ -1,3 +1,5 @@
 ---
+pages:
+- _posts/test-post.md
 hide_body: false
 fields: []
