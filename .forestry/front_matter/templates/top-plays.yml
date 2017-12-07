@@ -1,0 +1,10 @@
+---
+hide_body: false
+fields:
+- type: text
+  label: Category
+  name: category
+  config:
+    required: true
+  hidden: true
+  default: top
