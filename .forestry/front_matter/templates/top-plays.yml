@@ -8,3 +8,10 @@ fields:
     required: true
   hidden: true
   default: top
+- type: text
+  name: author
+  label: Author
+  default: Admin
+  hidden: true
+  config:
+    required: true
