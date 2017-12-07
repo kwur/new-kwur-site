@@ -1,4 +1,6 @@
 ---
+pages:
+- _posts/top-plays-november-2017.md
 hide_body: false
 fields:
 - type: text
