@@ -1,0 +1,19 @@
+---
+hide_body: false
+fields:
+- type: text
+  label: Author
+  name: author
+  config:
+    required: true
+  default: Admin
+- type: text
+  name: category
+  label: Category
+- type: text
+  name: layout
+  label: Layout
+  default: post
+  config:
+    required: true
+  hidden: true
