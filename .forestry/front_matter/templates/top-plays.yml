@@ -1,0 +1,15 @@
+---
+hide_body: false
+fields:
+- type: text
+  name: category
+  label: Category
+  default: top
+  config:
+    required: true
+- type: text
+  name: author
+  label: Author
+  config:
+    required: true
+  default: admin
