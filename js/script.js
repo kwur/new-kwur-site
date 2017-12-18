@@ -39,6 +39,14 @@ $(window).resize( function() {
 $(document).ready( function() {
 
 	askForShow();
+	headerColoring();
+
+	$('.dropdown').on('click', function() {
+		if ($(window).width() <= 600) {
+			
+			$(this).toggleClass('hover');
+		}
+	});
 
 	// Start carousel
 	setInterval( function() {
@@ -56,8 +64,6 @@ $(document).ready( function() {
 			}
 		}
 	}, 6000);
-
-	headerColoring();
 
 	setInterval(function() {
 		var now = new Date();
