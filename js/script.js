@@ -38,12 +38,11 @@ $(window).resize( function() {
 
 $(document).ready( function() {
 
-	askForShow();
+	//askForShow();
 	headerColoring();
 
 	$('.dropdown').on('click', function() {
 		if ($(window).width() <= 600) {
-			
 			$(this).toggleClass('hover');
 		}
 	});
