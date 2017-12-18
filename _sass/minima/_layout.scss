@@ -134,13 +134,13 @@
       display: block;
       padding-bottom: 5px;
       background-color: #000;
-          border-radius: 5px;
+          border-radius: 5px 0 5px 5px;
       border: 1px solid #000;
     }
 
     input:checked ~ label[for="nav-trigger"] {
       background-color: #000;
-          border-radius: 5px;
+          border-radius: 5px 5px 0 0;
       border: 1px solid #000;
     }
 
