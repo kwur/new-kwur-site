@@ -5,6 +5,7 @@
   min-height: $header-unit;
   min-width: 100%;
   background-color: #000;
+  font-size: $base-font-size;
 
   // Positioning context for the mobile navigation icon
   position: fixed;
@@ -345,11 +346,125 @@ footer [class^="col"] {
   }
 }
 
-.listen-in-show:hover { color: #fff; }
-.listen-in-show:link { color: #fff; }
-.listen-in-show:visited { color: #fff; }
+.archive-link:hover,
+.archive-link:link,
+.archive-link:visited,
+.archive-link:active,
+.listen-in-show:hover,
+.listen-in-show:link,
+.listen-in-show:visited,
 .listen-in-show:active { color: #fff; }
 
+
+.archive-note {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 4px 9px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.archive {
+  top: 0;
+  background-color: black;
+  padding: 0 1%;
+
+  // God dammit I hate whitespace elements
+  font-size: 0;
+
+  .carousel-container {
+    z-index: 300;
+    font-size: $base-font-size;
+    position: fixed;
+    display: none;
+    width: 100%;
+    top: 0;
+    background-color: rgba(0,0,0,.8);
+  }
+
+  .archive-thumb {
+    display: inline-block;
+    width: 23%;
+    height: auto;
+    max-height: 10%;
+    margin: 1%;
+    transition: opacity .5s;
+
+    &:hover {
+      cursor: pointer;
+      opacity: .6;
+    }
+
+    > img {
+      max-height: 30vh;
+      display: block;
+      margin: 0 auto;
+    }
+
+    @include media-query($on-laptop) {
+      width: 31.33333%;
+    }
+
+    @include media-query($on-palm) {
+      width: 48%;
+    }
+  }
+
+  .carousel {
+    height: 100vh;
+  }
+  .carousel-inner{
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  .caption {
+    opacity: 0;
+    transition: opacity .5s;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: rgba(255, 255, 255, 0.8);
+    font-weight: $base-font-light;
+    font-style: italic;
+    width: 100%;
+    padding: 20px;
+    position: absolute;
+    bottom: 0;
+
+    @include media-query($on-palm) {
+      opacity: 1;
+    }
+  }
+
+  .carousel-control-next, .carousel-control-prev {
+    top: 50%;
+    transform: translateY(-50%);
+    height: 40%;
+  }
+
+  .carousel-control-close {
+    top: 10%;
+
+    .carousel-control-close-icon {
+      background-image: url('/assets/img/1024px-Grey_close_x.svg');
+    }
+  }
+
+  .archive-img-container {
+    position: relative;
+    margin: 0 auto;
+
+    &:hover {
+      .caption {
+        opacity: 1;
+      }
+    }
+
+    > img {
+      height: auto;
+      max-height: 90vh;
+    }
+  }
+}
 
 /**
  * Posts

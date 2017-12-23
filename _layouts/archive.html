@@ -1,0 +1,74 @@
+
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body class="archive">
+
+    {% include header.html %}
+
+    {% for image in site.static_files %}
+      {% if image.path contains 'archive' and image.extname == '.jpg' %}
+
+      <div class="archive-thumb">
+        <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.basename }}-thumb">
+      </div>
+
+      {% endif %}
+    {% endfor %}
+
+    <div class="carousel-container">
+      <div id="archiveCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
+        <div class="carousel-inner" role="listbox">
+          {% for image in site.static_files %}
+            {% if image.path contains 'archive' and image.extname == '.jpg' %}
+
+            <div class="carousel-item">
+              <div class="archive-img-container">
+                <img class="d-block img-fluid" src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.basename }}">
+        
+                {% for file in site.static_files %}
+                  {% capture base %}{{ image.basename }}{% endcapture %}
+                  {% capture caption %}{{ base | append: '.html' }}{% endcapture %}
+                  {% if file.name == caption %}
+                    <div class="caption">
+                      {% include_relative assets/archive/{{ image.basename }}.html %}
+                    </div>
+                  {% endif %}
+                {% endfor %}
+
+              </div>
+            </div>
+
+            {% endif %}
+          {% endfor %}
+        </div>
+        <a class="carousel-control-prev" href="#archiveCarousel" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#archiveCarousel" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+        <a class="carousel-control-next carousel-control-close" role="button">
+          <span class="carousel-control-next-icon carousel-control-close-icon" aria-hidden="true"></span>
+          <span class="sr-only">Close</span>
+        </a>
+      </div>
+    </div>
+
+  </body>
+
+</html>
+
+  
+
+  
+
+
+
+    
+
+
