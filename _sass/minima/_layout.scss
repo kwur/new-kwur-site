@@ -382,12 +382,18 @@ footer [class^="col"] {
     background-color: rgba(0,0,0,.8);
   }
 
+  .archive-thumb-container {
+    display: inline-flex;
+    flex-flow: row wrap;
+    justify-content: center;
+  }
+
   .archive-thumb {
-    display: inline-block;
-    width: 23%;
-    height: auto;
-    max-height: 10%;
-    margin: 1%;
+    // display: inline-block;
+    // width: 24%;
+    // height: auto;
+    // max-height: 10%;
+    margin: 5px;
     transition: opacity .5s;
 
     &:hover {
@@ -396,17 +402,17 @@ footer [class^="col"] {
     }
 
     > img {
-      max-height: 30vh;
+      max-height: 350px;
       display: block;
       margin: 0 auto;
-    }
 
-    @include media-query($on-laptop) {
-      width: 31.33333%;
-    }
+      @include media-query($on-laptop) {
+        max-height: 250px;
+      }
 
-    @include media-query($on-palm) {
-      width: 48%;
+      @include media-query($on-palm) {
+        width: 150px;
+      }
     }
   }
 
