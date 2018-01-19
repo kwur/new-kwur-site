@@ -402,7 +402,7 @@ footer [class^="col"] {
     }
 
     > img {
-      max-height: 350px;
+      max-height: 300px;
       display: block;
       margin: 0 auto;
 
@@ -432,12 +432,14 @@ footer [class^="col"] {
     font-weight: $base-font-light;
     font-style: italic;
     width: 100%;
-    padding: 20px;
+    padding: 10px 20px;
     position: absolute;
     bottom: 0;
 
     @include media-query($on-palm) {
       opacity: 1;
+      position: static;
+      padding: 10px;
     }
   }
 

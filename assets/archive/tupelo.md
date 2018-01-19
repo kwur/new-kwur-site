@@ -1,0 +1,1 @@
+Alt-country legends Uncle Tupelo play a KWUR local show in 1993. Uncle Tupleo would then break up to form Wilco and Son Volt.

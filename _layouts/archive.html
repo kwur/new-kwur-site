@@ -32,10 +32,10 @@
         
                 {% for file in site.static_files %}
                   {% capture base %}{{ image.basename }}{% endcapture %}
-                  {% capture caption %}{{ base | append: '.html' }}{% endcapture %}
+                  {% capture caption %}{{ base | append: '.md' }}{% endcapture %}
                   {% if file.name == caption %}
                     <div class="caption">
-                      {% include_relative assets/archive/{{ image.basename }}.html %}
+                      {% include_relative assets/archive/{{ image.basename }}.md %}
                     </div>
                   {% endif %}
                 {% endfor %}

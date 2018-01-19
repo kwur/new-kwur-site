@@ -1,0 +1,1 @@
+Two Live Crew in the studio circa 1992

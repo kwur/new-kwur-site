@@ -8,6 +8,7 @@ $(document).ready( function() {
 
 		// Arrow key advancement won't work off the bat unless controls are in focus onload
 		$('.carousel-control-next').focus();
+
 	})
 
 	$('.carousel-control-close').click('click', function(){
