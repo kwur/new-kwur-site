@@ -1,0 +1,1 @@
+Sick of It All play a KWUR rock show in 2002

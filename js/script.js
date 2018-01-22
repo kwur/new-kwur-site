@@ -1,7 +1,7 @@
 
 function headerColoring() {
 	//Header color behavior
-	if(location.pathname == '/') {
+	if(location.pathname == '/' || /^\/[0-9]+/.test(location.pathname)) {
 		$('.buffer').hide();
 		if ($('.page-content').offset().top - $(window).scrollTop() > 60) {
 			$('.site-header').addClass('transparent');
@@ -16,7 +16,7 @@ function headerColoring() {
 
 function askForShow() {
 	// Ask for current show
-	if (/\/[0-9]*/.test(location.pathname)) {
+	if (location.pathname == '/' || /^\/[0-9]+/.test(location.pathname)) {
 		console.log('GET now_playing');
 		$.get( "https://us-central1-kwur-backend.cloudfunctions.net/now_playing").done(function( data ) {
 			console.log(data.results);
