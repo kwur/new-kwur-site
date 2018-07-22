@@ -1,8 +1,7 @@
 ---
-pages:
-- _posts/2018-03-16-top-plays-february-2018.md
-- _posts/2017-12-07-top-plays-november-2017.md
+label: Top Plays
 hide_body: false
+is_partial: false
 fields:
 - type: text
   name: category
@@ -23,3 +22,7 @@ fields:
     required: true
   hidden: true
   default: post
+pages:
+- _posts/top-plays-march-2018.md
+- _posts/2017-12-07-top-plays-november-2017.md
+- _posts/2018-03-16-top-plays-february-2018.md
