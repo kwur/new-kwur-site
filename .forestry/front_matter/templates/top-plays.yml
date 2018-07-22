@@ -23,6 +23,7 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/top-plays-april-2018.md
 - _posts/2018-07-21-top-plays-march-2018.md
 - _posts/2017-12-07-top-plays-november-2017.md
 - _posts/2018-03-16-top-plays-february-2018.md
