@@ -17,21 +17,19 @@ function headerColoring() {
 function askForShow() {
 	// Ask for current show
 
-	if(false) {
 
-		if (location.pathname == '/' || /^\/[0-9]+/.test(location.pathname)) {
-			console.log('GET now_playing');
-			$.get( "https://us-central1-kwur-backend.cloudfunctions.net/now_playing").done(function( data ) {
-				console.log(data.results);
-			  	if (data.results) {
-			   		$('.listen-in-show').text("Listen in: " + data.results[0].ShowName + " with\xa0" + data.results[0].ShowUsers[0].DJName);
-			   		if (data.results[0].ShowUsers.length > 1){
-			   			$('.listen-in-show').text( $('.listen-in-show').text() + " & " + data.results[0].ShowUsers[1].DJName);
-			   		}
-			  	}
-			});
-		}
-		
+	if (location.pathname == '/' || /^\/[0-9]+/.test(location.pathname)) {
+		console.log('GET now_playing');
+		$.get( "https://us-central1-kwur-backend.cloudfunctions.net/now_playing").done(function( data ) {
+			console.log(data);
+			console.log(data.results);
+		  	if (data.results) {
+		   		$('.listen-in-show').text("Listen in: " + data.results[0].ShowName + " with\xa0" + data.results[0].ShowUsers[0].DJName);
+		   		if (data.results[0].ShowUsers.length > 1){
+		   			$('.listen-in-show').text( $('.listen-in-show').text() + " & " + data.results[0].ShowUsers[1].DJName);
+		   		}
+		  	}
+		});
 	}
 }
 

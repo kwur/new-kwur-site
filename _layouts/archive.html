@@ -26,22 +26,22 @@
           {% for image in site.static_files %}
             {% if image.path contains 'archive' and image.extname == '.jpg' %}
 
-            <div class="carousel-item">
-              <div class="archive-img-container">
-                <img class="d-block img-fluid" src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.basename }}">
-        
-                {% for file in site.static_files %}
-                  {% capture base %}{{ image.basename }}{% endcapture %}
-                  {% capture caption %}{{ base | append: '.md' }}{% endcapture %}
-                  {% if file.name == caption %}
-                    <div class="caption">
-                      {% include_relative assets/archive/{{ image.basename }}.md %}
-                    </div>
-                  {% endif %}
-                {% endfor %}
+              <div class="carousel-item">
+                <div class="archive-img-container">
+                  <img class="d-block img-fluid" src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.basename }}">
+          
+                  {% for file in site.static_files %}
+                    {% capture base %}{{ image.basename }}{% endcapture %}
+                    {% capture caption %}{{ base | append: '.md' }}{% endcapture %}
+                    {% if file.name == caption %}
+                      <div class="caption">
+                        {% include_relative assets/archive/{{ image.basename }}.md %}
+                      </div>
+                    {% endif %}
+                  {% endfor %}
 
+                </div>
               </div>
-            </div>
 
             {% endif %}
           {% endfor %}

@@ -1,0 +1,1 @@
+Tabitha Soren (MTV News) signing the KWUR wall in 1992
