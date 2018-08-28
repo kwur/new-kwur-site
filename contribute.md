@@ -1,10 +1,10 @@
 ---
 id: 551
-title: Support
+title: Contribute
 date: 2010-09-02 22:18:25 +0000
 author: Admin
 layout: page
-permalink: /support/
+permalink: /contribute/
 guid: http://kwur.com/
 ---
 
