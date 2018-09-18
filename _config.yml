@@ -32,7 +32,7 @@ plugins:
 paginate: 10
 paginate_path: "/:num/"
 
-gems: ['kramdown']
+plugins: ['kramdown']
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile', 'firebase', 'posts_backup']
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

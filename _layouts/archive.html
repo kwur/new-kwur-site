@@ -10,7 +10,7 @@
 
     <div class="archive-thumb-container">
       {% for image in site.static_files %}
-        {% if image.path contains 'archive' and image.extname == '.jpg' %}
+        {% if image.path contains 'archive' and image.path contains 'thumbs' and image.extname == '.jpg' %}
 
         <div class="archive-thumb">
           <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.basename }}-thumb">
@@ -25,6 +25,7 @@
         <div class="carousel-inner" role="listbox">
           {% for image in site.static_files %}
             {% if image.path contains 'archive' and image.extname == '.jpg' %}
+            {% unless image.path contains 'thumbs' %}
 
               <div class="carousel-item">
                 <div class="archive-img-container">
@@ -43,6 +44,7 @@
                 </div>
               </div>
 
+            {% endunless %}
             {% endif %}
           {% endfor %}
         </div>
