@@ -28,7 +28,7 @@ guid: http://kwur.com/?page_id=2
     </div>
     <div class="col">
       <a href="/assets/img/rsreview.jpg">KWUR Review</a><br>
-      <em>The Rolling Stone College Guide</em>, 2005
+      <em>The Rolling Stone College Guide</em>, 2005 
     </div>
   </div>
 </div>

@@ -523,3 +523,17 @@ footer [class^="col"] {
     }
   }
 }
+
+.banner {
+  background: #dbe3ff;
+  font-size: 36px;
+  text-align: center;
+  font-weight: 900;
+  padding: 10px;
+
+}
+
+.banner > a {
+  text-decoration: none;
+}
+
