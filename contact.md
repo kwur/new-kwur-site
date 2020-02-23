@@ -24,7 +24,7 @@ guid: http://kwur.com/
 </p>
 
 <h3>Music/Programming Departments:</h3>
-<p><i>Updated Spring 2019</i></p>
+<p><i>Updated Fall 2019</i></p>
 <table class="table">
   <thead>
     <tr>
@@ -37,33 +37,33 @@ guid: http://kwur.com/
   <tbody>
     <tr>
       <td>Music Director</td>
-      <td>Zo&euml; Finkelstein</td>
+      <td>Justin Ziegelmueller & Amanda Weinstein</td>
       <td>music1[at]kwur.com</td>
-      <td>Tuesday 12pm-2pm, Thursday 12pm-1pm</td>
+      <td>Tuesday 1pm-2pm (Justin), Wednesday 12pm-1pm (Amanda)</td>
     </tr>
     <tr>
       <td>Sports</td>
-      <td>Tyler Brandt</td>
+      <td>Adam Teich</td>
       <td>sports[at]kwur.com</td>
-      <td>Wednesday 2pm-3pm</td>
+      <td>Monday 3pm-4pm</td>
     </tr>
     <tr>
       <td>Wave</td>
-      <td>AJ Villeneuve, Alexandria Moore</td>
+      <td>Amanda Weinstein, Alexandria Moore</td>
       <td>wave[at]kwur.com</td>
-      <td>Thursday 11am-12pm (AJ)</td>
+      <td>Wednesday 12pm-1pm (Amanda), Wednesday 4pm-5pm (Alexandria)</td>
     </tr>
     <tr>
       <td>Hip-Hop</td>
-      <td>Yak Fishman</td>
+      <td>Virginia Pittman</td>
       <td>hip-hop[at]kwur.com</td>
-      <td>Thursday 2pm-3pm</td>
+      <td>Thursday 10am-11am</td>
     </tr>
     <tr>
       <td>Jazz, Blues, Folk, Funk</td>
       <td>Andy Lewis</td>
       <td>blues[at]kwur.com</td>
-      <td>Monday 2pm-3pm</td>
+      <td>Monday 3pm-4pm</td>
     </tr>
     <tr>
       <td>Classical</td>
@@ -73,27 +73,27 @@ guid: http://kwur.com/
     </tr>
     <tr>
       <td>Electronic</td>
-      <td>Izzy Gillman</td>
+      <td>Claire Irawan</td>
       <td>electronic[at]kwur.com</td>
-      <td>Tuesday 3pm-4pm</td>
+      <td>Thursday 1pm-2pm</td>
     </tr>
     <tr>
       <td>Metal</td>
-      <td>Ethan Jaynes</td>
+      <td>Will Dempsey</td>
       <td>metal[at]kwur.com</td>
-      <td>Monday 10am-11am</td>
+      <td>Friday 12pm-1pm</td>
     </tr>
     <tr>
       <td>World</td>
       <td>L Cohen</td>
       <td>world[at]kwur.com</td>
-      <td>Wednesday 4pm-5pm</td>
+      <td>Wednesday 3pm-4pm</td>
     </tr>
     <tr>
       <td>Local</td>
       <td>Dylan Kiefer</td>
       <td>local[at]kwur.com</td>
-      <td>Friday 2pm-3pm</td>
+      <td>Wednesday 11am-12pm</td>
     </tr>
   </tbody>
 </table>
@@ -111,57 +111,63 @@ guid: http://kwur.com/
   <tbody>
     <tr>
       <td>General Manager</td>
-      <td>Jack Elliott-Higgins</td>
+      <td>Zo&euml; Finkelstein</td>
       <td>gmkwur[at]gmail.com</td>
-      <td>Monday 12pm-1pm</td>
+      <td>Tuesday 12pm-1pm</td>
     </tr>
     <tr>
       <td>Personnel</td>
-      <td>Thom Ellison</td>
+      <td>AJ Villeneuve</td>
       <td>personnel[at]kwur.com</td>
       <td>Wednesday 10am-11am</td>
     </tr>
     <tr>
       <td>Treasurer</td>
-      <td>Morgan Anker</td>
+      <td>Natalie Fikes</td>
       <td>treasurer[at]kwur.com</td>
-      <td>Thursday 1pm-2pm</td>
+      <td>Monday 4pm-5pm</td>
     </tr>
     <tr>
-      <td>Training</td> 
-      <td>Dana Citrin &amp; Amanda Weinstein</td>
+      <td>Training</td>
+      <td>Carson Borbely &amp; 	Izzy Gillman</td>
       <td>training[at]kwur.com</td>
-      <td>Monday 11am-12pm (Dana)</td>
+      <td>Monday 10am-11pm (Carson), Wednesday 3pm-4pm (Izzy)</td>
     </tr>
     <tr>
       <td>Promotions</td>
       <td>Zo&euml; Morris</td>
       <td>promotions[at]kwur.com</td>
-      <td>Thursday 10am-11am</td>
+      <td>Thursday 12am-12pm</td>
     </tr>
     <tr>
       <td>Community Relations</td>
-      <td>Maddie Albertus</td> 
+      <td>Noah Ginsberg</td>
       <td>communityrelations[at]kwur.com</td>
-      <td>Friday 11am-12pm</td>
+      <td>Friday 1pm-2pm</td>
     </tr>
     <tr>
       <td>Audio Services</td>
-      <td>Jacob Zelikovsky, Justin Ziegelmueller</td>
+      <td>Cam Lind</td>
       <td>audioservices[at]kwur.com</td>
-      <td>Monday 5pm-6pm (Jacob), Friday 12pm-1pm (Justin)</td>
+      <td>Tuesday 10am-11am</td>
     </tr>
     <tr>
       <td>Programming Council</td>
-      <td>Carmen Levine</td>
+      <td>Andrew Jacobs</td>
       <td>progcouncil[at]kwur.com</td>
-      <td>Monday 4pm-5pm</td>
+      <td>Friday 3pm-4pm</td>
     </tr>
     <tr>
-      <td>Events</td>
-      <td>Avery Johnson &amp; Carson Borbely</td>
+      <td>Events (External)</td>
+      <td>Avery Johnson &amp; Michelle Pollowitz</td>
       <td>events[at]kwur.com</td>
-      <td>Tuesday 11am-12pm (Avery)</td>
+      <td>Tuesday 6pm-7pm (Avery), Thursday 10am-11pm (Michelle)</td>
+    </tr>
+    <tr>
+      <td>Events (Internal)</td>
+      <td>Alexa Beeson</td>
+      <td></td>
+      <td>Tuesday 12pm-1pm</td>
     </tr>
 <!--     <tr>
       <td>Special Projects</td>
@@ -171,27 +177,27 @@ guid: http://kwur.com/
     </tr> -->
     <tr>
       <td>Production Coordinator</td>
-      <td>Jordan Weinstock, Diane Huxley</td>
+      <td>Kay Ingulli &amp; Jake Zelikovsky</td>
       <td>prodcoord[at]kwur.com</td>
-      <td>Friday 3pm-4pm (Jordan), Monday 3pm-4pm (Diane)</td>
+      <td>Wednesday 9am-10am (Kay), Monday 1pm-2pm (Jake)</td>
     </tr>
     <tr>
       <td>Station Manager</td>
-      <td>Virginia Pittman</td>
+      <td>Sam Lance</td>
       <td>station@kwur.com</td>
-      <td>Friday 1pm-2pm</td>
+      <td>Tuesday 2pm-3pm</td>
     </tr>
     <tr>
       <td>Archivist</td>
       <td>William Rapp</td>
       <td></td>
-      <td></td>
+      <td>Wednesday 5pm-6pm</td>
     </tr>
     <tr>
       <td>Webmaster</td>
-      <td><a href="https://ejaynes.com" target="_blank">Ethan Jaynes</a></td>
+      <td>Nathan Springman</td>
       <td>webmaster[at]kwur.com</td>
-      <td>Monday 10am-11am</td>
+      <td>Thursday 2pm-3pm</td>
     </tr>
   </tbody>
 </table>
