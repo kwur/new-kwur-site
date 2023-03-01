@@ -105,7 +105,7 @@ guid: http://kwur.com/
       <th>Position</th>
       <th>Name</th>
       <th>Email</th>
-      <th>Office Hours</th>
+      <!-- <th>Office Hours</th> -->
     </tr>
   </thead>
   <tbody>
@@ -123,6 +123,7 @@ guid: http://kwur.com/
     </tr>
     <tr>
       <td>Treasurer</td>
+      <!-- booooo booooooo tomato tomato -->
       <td>Chloe Hughlett</td>
       <td>treasurer[at]kwur.com</td>
       <!-- <td>Tuesday 5pm-6pm</td> -->
