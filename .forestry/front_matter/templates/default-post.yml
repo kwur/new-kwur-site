@@ -19,6 +19,3 @@ fields:
   config:
     required: true
   hidden: true
-pages:
-- _posts/2017-12-07-test-post-2.md
-- _posts/kwur-s-best-of-2017.md
