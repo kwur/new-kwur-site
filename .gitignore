@@ -6,3 +6,4 @@ firebase/functions/config.json
 firebase/functions/node_modules
 posts_backup
 .DS_Store
+node_modules

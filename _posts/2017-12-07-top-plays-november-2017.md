@@ -2,9 +2,14 @@
 title: Top Plays (November 2017)
 category: top
 author: admin
-date: 2017-12-07 15:55:08 +0000
+date: '2017-12-07 15:55:08 +0000'
 layout: post
+_template: top_plays
 ---
+
+
+
+
  1. Vulfpeck - Mr Finish Line
  2. Julien Baker - Turn out the Lights
  3. Angel Olsen - Phases
