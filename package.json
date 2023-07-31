@@ -4,7 +4,8 @@
   "description": "The site was built to replace kwur.com. It currently resides at [kwur.org](http://kwur.org/).",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm run tinacms build && sh deploy.sh"
   },
   "repository": {
     "type": "git",
