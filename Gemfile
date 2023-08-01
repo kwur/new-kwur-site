@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-ruby '2.6.10'
+ruby '2.7.2'
 gem "jekyll", "~> 3.6.2"
 gem "s3_website"
 
