@@ -26,7 +26,7 @@ var config_default = defineConfig({
         fields: [
           {
             type: "string",
-            name: ":year:/:month:/:day:/:filename:",
+            name: "_year___month___day___filename_",
             label: "Title",
             isTitle: true,
             required: true

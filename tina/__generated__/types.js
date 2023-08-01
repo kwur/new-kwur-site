@@ -7,7 +7,7 @@ export function gql(strings, ...args) {
 }
 export const PostPartsFragmentDoc = gql`
     fragment PostParts on Post {
-  title
+  _year___month___day___filename_
   body
 }
     `;
