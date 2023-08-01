@@ -5,3 +5,4 @@ s3_website.yml
 firebase/functions/config.json
 firebase/functions/node_modules
 posts_backup
+node_modules
