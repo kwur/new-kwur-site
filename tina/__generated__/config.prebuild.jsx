@@ -22,11 +22,11 @@ var config_default = defineConfig({
       {
         name: "post",
         label: "Posts",
-        path: "content/posts",
+        path: "_posts",
         fields: [
           {
             type: "string",
-            name: "title",
+            name: ":year:/:month:/:day:/:filename:",
             label: "Title",
             isTitle: true,
             required: true
