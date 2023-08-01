@@ -9,7 +9,7 @@ var config_default = defineConfig({
   // Get this from tina.io
   build: {
     outputFolder: "admin",
-    publicFolder: "_posts"
+    publicFolder: "./"
   },
   media: {
     tina: {
