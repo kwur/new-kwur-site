@@ -9,7 +9,7 @@ var config_default = defineConfig({
   // Get this from tina.io
   build: {
     outputFolder: "admin",
-    publicFolder: "./"
+    publicFolder: "_posts"
   },
   media: {
     tina: {
@@ -22,11 +22,11 @@ var config_default = defineConfig({
       {
         name: "post",
         label: "Posts",
-        path: "content/posts",
+        path: "_posts",
         fields: [
           {
             type: "string",
-            name: "_year___month___day___filename_",
+            name: "title",
             label: "Title",
             isTitle: true,
             required: true

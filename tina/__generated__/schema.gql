@@ -87,7 +87,7 @@ type Collection {
 union DocumentNode = Post | Folder
 
 type Post implements Node & Document {
-  _year___month___day___filename_: String!
+  title: String!
   body: JSON
   id: ID!
   _sys: SystemInfo!
@@ -108,7 +108,7 @@ input RichTextFilter {
 }
 
 input PostFilter {
-  _year___month___day___filename_: StringFilter
+  title: StringFilter
   body: RichTextFilter
 }
 
@@ -142,7 +142,7 @@ input DocumentMutation {
 }
 
 input PostMutation {
-  _year___month___day___filename_: String
+  title: String
   body: JSON
 }
 

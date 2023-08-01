@@ -1,4 +1,4 @@
 fragment PostParts on Post {
-  _year___month___day___filename_
+  title
   body
 }
