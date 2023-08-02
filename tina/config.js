@@ -28,9 +28,15 @@ export default defineConfig({
           {
             type: "string",
             name: "title",
+            nameOverride: new Date().toISOString().substring(0,9) + "-" + "title",
             label: "Title",
             isTitle: true,
             required: true,
+          },
+          {
+            type: "string",
+            name: "layout",
+            default: "post"
           },
           {
             type: "rich-text",
