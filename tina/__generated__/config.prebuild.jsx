@@ -27,7 +27,7 @@ var config_default = defineConfig({
           {
             type: "string",
             name: "title",
-            nameOverride: (/* @__PURE__ */ new Date()).toISOString().substring(0, 9) + "-title",
+            nameOverride: (/* @__PURE__ */ new Date()).toISOString().substring(0, 10) + "-title",
             label: "Title",
             isTitle: true,
             required: true
