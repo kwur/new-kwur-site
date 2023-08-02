@@ -166,7 +166,7 @@ export type DocumentNode = Post | Folder;
 
 export type Post = Node & Document & {
   __typename?: 'Post';
-  __year: Scalars['String']['output'];
+  title: Scalars['String']['output'];
   layout?: Maybe<Scalars['String']['output']>;
   body?: Maybe<Scalars['JSON']['output']>;
   id: Scalars['ID']['output'];
@@ -188,7 +188,7 @@ export type RichTextFilter = {
 };
 
 export type PostFilter = {
-  __year?: InputMaybe<StringFilter>;
+  title?: InputMaybe<StringFilter>;
   layout?: InputMaybe<StringFilter>;
   body?: InputMaybe<RichTextFilter>;
 };
@@ -265,19 +265,19 @@ export type DocumentMutation = {
 };
 
 export type PostMutation = {
-  __year?: InputMaybe<Scalars['String']['input']>;
+  title?: InputMaybe<Scalars['String']['input']>;
   layout?: InputMaybe<Scalars['String']['input']>;
   body?: InputMaybe<Scalars['JSON']['input']>;
 };
 
-export type PostPartsFragment = { __typename?: 'Post', __year: string, layout?: string | null, body?: any | null };
+export type PostPartsFragment = { __typename?: 'Post', title: string, layout?: string | null, body?: any | null };
 
 export type PostQueryVariables = Exact<{
   relativePath: Scalars['String']['input'];
 }>;
 
 
-export type PostQuery = { __typename?: 'Query', post: { __typename?: 'Post', id: string, __year: string, layout?: string | null, body?: any | null, _sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string } } };
+export type PostQuery = { __typename?: 'Query', post: { __typename?: 'Post', id: string, title: string, layout?: string | null, body?: any | null, _sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string } } };
 
 export type PostConnectionQueryVariables = Exact<{
   before?: InputMaybe<Scalars['String']['input']>;
@@ -289,11 +289,11 @@ export type PostConnectionQueryVariables = Exact<{
 }>;
 
 
-export type PostConnectionQuery = { __typename?: 'Query', postConnection: { __typename?: 'PostConnection', totalCount: number, pageInfo: { __typename?: 'PageInfo', hasPreviousPage: boolean, hasNextPage: boolean, startCursor: string, endCursor: string }, edges?: Array<{ __typename?: 'PostConnectionEdges', cursor: string, node?: { __typename?: 'Post', id: string, __year: string, layout?: string | null, body?: any | null, _sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string } } | null } | null> | null } };
+export type PostConnectionQuery = { __typename?: 'Query', postConnection: { __typename?: 'PostConnection', totalCount: number, pageInfo: { __typename?: 'PageInfo', hasPreviousPage: boolean, hasNextPage: boolean, startCursor: string, endCursor: string }, edges?: Array<{ __typename?: 'PostConnectionEdges', cursor: string, node?: { __typename?: 'Post', id: string, title: string, layout?: string | null, body?: any | null, _sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string } } | null } | null> | null } };
 
 export const PostPartsFragmentDoc = gql`
     fragment PostParts on Post {
-  __year
+  title
   layout
   body
 }
@@ -392,7 +392,7 @@ const generateRequester = (client: TinaClient) => {
  **/
 export const ExperimentalGetTinaClient = () =>
   getSdk(
-    generateRequester(createClient({ url: "https://content.tinajs.io/1.4/content/9b365103-638a-43d2-aff5-a20f64830810/github/main", queries }))
+    generateRequester(createClient({ url: "http://localhost:4001/graphql", queries }))
   );
 
 export const queries = (client: TinaClient) => {

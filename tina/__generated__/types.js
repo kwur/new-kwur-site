@@ -7,7 +7,7 @@ export function gql(strings, ...args) {
 }
 export const PostPartsFragmentDoc = gql`
     fragment PostParts on Post {
-  __year
+  title
   layout
   body
 }
@@ -89,7 +89,7 @@ const generateRequester = (client) => {
   return requester;
 };
 export const ExperimentalGetTinaClient = () => getSdk(
-  generateRequester(createClient({ url: "https://content.tinajs.io/1.4/content/9b365103-638a-43d2-aff5-a20f64830810/github/main", queries }))
+  generateRequester(createClient({ url: "http://localhost:4001/graphql", queries }))
 );
 export const queries = (client) => {
   const requester = generateRequester(client);

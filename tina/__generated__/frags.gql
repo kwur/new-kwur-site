@@ -1,5 +1,5 @@
 fragment PostParts on Post {
-  __year
+  title
   layout
   body
 }
