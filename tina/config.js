@@ -28,7 +28,7 @@ export default defineConfig({
           {
             type: "string",
             name: "title",
-            nameOverride: new Date().toISOString().substring(0,9) + "-" + "title",
+            nameOverride: new Date().toISOString().substring(0,10) + "-" + "title",
             label: "Title",
             isTitle: true,
             required: true,
