@@ -35,6 +35,7 @@ var config_default = defineConfig({
           {
             type: "string",
             name: "layout",
+            label: "Layout",
             default: "post"
           },
           {
