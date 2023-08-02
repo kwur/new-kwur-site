@@ -10,7 +10,7 @@ export default defineConfig({
 
   build: {
     outputFolder: "admin",
-    publicFolder: "_posts",
+    publicFolder: "",
   },
   media: {
     tina: {
@@ -27,8 +27,8 @@ export default defineConfig({
         fields: [
           {
             type: "string",
-            name: "title",
-            nameOverride: new Date().toISOString().substring(0,10) + "-" + "title",
+            name: "__year",
+            nameOverride: new Date().toISOString().replace('-', "_").substring(0,10) + "-" + "title",
             label: "Title",
             isTitle: true,
             required: true,

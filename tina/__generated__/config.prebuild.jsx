@@ -9,7 +9,7 @@ var config_default = defineConfig({
   // Get this from tina.io
   build: {
     outputFolder: "admin",
-    publicFolder: "_posts"
+    publicFolder: ""
   },
   media: {
     tina: {
@@ -26,8 +26,8 @@ var config_default = defineConfig({
         fields: [
           {
             type: "string",
-            name: "title",
-            nameOverride: (/* @__PURE__ */ new Date()).toISOString().substring(0, 10) + "-title",
+            name: "__year",
+            nameOverride: (/* @__PURE__ */ new Date()).toISOString().replace("-", "_").substring(0, 10) + "-title",
             label: "Title",
             isTitle: true,
             required: true
