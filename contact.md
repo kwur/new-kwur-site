@@ -61,7 +61,7 @@ guid: http://kwur.com/
     </tr>
     <tr>
       <td>Jazz, Blues, Folk, Funk</td>
-      <td>Caleb Aguirre</td>
+      <td>Noel Hixson</td>
       <td>blues[at]kwur.com</td>
       <!-- <td>Monday 4pm-5pm</td> -->
     </tr>
@@ -73,7 +73,7 @@ guid: http://kwur.com/
     </tr>
     <tr>
       <td>Electronic</td>
-      <td>Lucas Veloria</td>
+      <td>Olivia Dres</td>
       <td>electronic[at]kwur.com</td>
       <!-- <td>Friday 11am-12pm</td> -->
     </tr>
