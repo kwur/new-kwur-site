@@ -30,7 +30,7 @@
 
 .site-title {
   float: left;
-  padding-top: calc($header-unit - $spacing-unit / 2);
+  padding-top: calc(($header-unit - $spacing-unit) / 2);
 }
 
 .site-nav {
@@ -487,6 +487,8 @@ footer [class^="col"] {
   @include relative-font-size(2);
   letter-spacing: -1px;
   line-height: 1;
+
+  padding-top: calc($spacing-unit * 2);
 
   @include media-query($on-laptop) {
     @include relative-font-size(2.25);
