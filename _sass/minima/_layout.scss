@@ -30,7 +30,7 @@
 
 .site-title {
   float: left;
-  padding-top: ($header-unit - $spacing-unit) / 2;
+  padding-top: calc($header-unit - $spacing-unit / 2);
 }
 
 .site-nav {
@@ -97,7 +97,7 @@
   @include media-query($on-palm) {
     position: absolute;
     top: 11px;
-    right: $spacing-unit / 2;
+    right: calc($spacing-unit / 2);
     background-color: transparent;
     border: 1px solid transparent;
     border-radius: 5px;
@@ -204,7 +204,7 @@
 
 .footer-heading {
   @include relative-font-size(1.125);
-  margin-bottom: $spacing-unit / 2;
+  margin-bottom: calc($spacing-unit /  2);
 }
 
 .contact-list,

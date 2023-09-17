@@ -24,7 +24,7 @@ guid: http://kwur.com/
 </p>
 
 <h3>Music/Programming Departments:</h3>
-<p><i>Updated Summer 2023</i></p>
+<p><i>Updated Fall 2023</i></p>
 <table class="table">
   <thead>
     <tr>
