@@ -98,7 +98,7 @@ guid: http://kwur.com/
     <tr>
       <td>R&B and Pop</td>
       <td>Lia Greenfeld-Gordon</td>
-      <td></td>
+      <td>rnbpop[at]kwur.com</td>
       <!-- <td>Wednesday 3pm-4pm</td> -->
     </tr>
   </tbody>
@@ -155,7 +155,7 @@ guid: http://kwur.com/
     <tr>
       <td>Art Director</td>
       <td>Haley Levin</td>
-      <td></td>
+      <td>promotions[at]kwur.com</td>
       <!-- <td>Wednesday 2pm-3pm</td> -->
     </tr>
     <!-- <tr>
