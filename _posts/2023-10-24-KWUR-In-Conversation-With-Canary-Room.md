@@ -3,7 +3,7 @@ title: KWUR In Conversation With Canary Room
 layout: post
 ---
 
-The power of the internet was in full effect when our DJ Matteo Hain brought my attention to the
+The power of the internet was in full effect when our DJ Mateo Hain brought my attention to the
 upcoming debut album of Canary Room: the musical project of Portland-based singer-songwriter
 Maddy Heide.
 
