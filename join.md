@@ -13,5 +13,5 @@ guid: http://kwur.com/
 </p>
   
 <p>
-  Training begins around the start of the fall and spring semesters. It takes one full semester to train. Prospective DJs are required to fill out this application (in <a href="/wp-content/uploads/2023/kwur-application-2023.pdf">PDF</a> format!) before going to any sessions. There are 3 meetings, 1 test, practical training, and sit-ins. They are short, infrequent sessions spread throughout the semester. The dates of the trainings are determined by the training directors. Get emailing!
+  Training begins around the start of the fall and spring semesters. It takes one full semester to train. Prospective DJs are required to fill out this application (in <a href="/wp-content/uploads/2024/kwur-application-2024.pdf">PDF</a> format!) before going to any sessions. There are 3 meetings, 1 test, practical training, and sit-ins. They are short, infrequent sessions spread throughout the semester. The dates of the trainings are determined by the training directors. Get emailing!
 </p>
