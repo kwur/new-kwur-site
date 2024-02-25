@@ -13,8 +13,8 @@ var config_default = defineConfig({
   },
   media: {
     tina: {
-      publicFolder: "wp-content",
-      mediaRoot: "blogMedia"
+      publicFolder: "blogMedia",
+      mediaRoot: "wp-content"
     }
   },
   schema: {
